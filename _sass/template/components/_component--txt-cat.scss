@@ -1,0 +1,29 @@
+/**
+  * Component: Text, Categories
+  *  
+  * @description
+  * -
+  */
+
+.cat {
+	padding: 0;
+	grid-column: span 12;
+  @include respond-to(m){
+  	padding: bl(2) 0 0 0;
+    grid-column: 4 / 12;
+  }
+	
+	p{
+		@include typestyle($sans-xs-bld);
+		color: color(neutral, XXXXX);
+	}
+
+	.cat--sdl {
+		@include typestyle($icon-xs);
+	}
+
+	.inactive {
+		color: color(neutral, XXX);
+	}
+		
+}

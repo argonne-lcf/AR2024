@@ -1,0 +1,122 @@
+/**
+  * Component: Footer
+  *  
+  * @description
+  * -
+  */
+
+footer {
+	width: 100vw;
+	background-color: color(neutral, XXXXX);
+	z-index: 100;
+	
+
+	.content-wrapper {
+		padding: bl(5) 0; //20px 
+		@include grid-parent();
+	}
+
+
+	.alcf-logo {
+		grid-column: span 12;
+		@include respond-to(s) {
+			grid-column: 1 / 6;
+		}
+	}
+
+	.alcf-logo img {
+		width: 348px;
+		@include stack(md);
+	}
+
+	.alcf-info {
+		grid-column: 1 / 6;
+		@include respond-to(s) {
+		grid-column: 7 / 10;
+		}
+		@include respond-to(m) {
+			grid-column: 8 / 10;
+		}
+	}
+
+	.smallprint {
+		grid-column: 7 / -1;
+		@include stack(sm);
+		@include respond-to(s) {
+			grid-column: 10 / -1;
+			@include stack(md);
+		}
+		@include respond-to(m) {
+			grid-column: 10 / -1;
+		}
+	}
+
+	.alcf-info h2, 
+	.alcf-info p {
+		@include typestyle($sans-xs-bld);
+		color: color(neutral, X);
+		margin-bottom: -4px;
+	}
+
+	.smallprint ul {
+		list-style: none;
+		@include typestyle($sans-xs-bld);
+		color: color(neutral, X);
+		padding-left: 0;
+	}
+
+	.alcf-info a,
+	.smallprint a {
+		text-decoration: none;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+
+	.bottom {
+		@include grid-child($cols: 12, $row-start: 1);
+	}
+
+	hr {
+		grid-column: 1 / -1;
+    width: 100%;
+    height: 2px;
+    background-color: color(neutral, XXXX);
+    border: none;
+	}
+
+
+	.doe-info {
+		grid-column: 1 / -1;
+		grid-row: 2;
+	}
+
+	.doe-info img.doe {
+		width: 168px;
+		opacity: .5;
+		margin-right: bl(4); //16px
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.doe-info img.llc {
+		width: 140px;
+		opacity: .5;
+		margin-right: bl(8); //32px
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.doe-info p {
+		display: inline-block;
+		// width: calc(80% - 20px);
+		@include typestyle($sans-xs-bld);
+		// float: right;
+		hyphens: none;
+		color: color(neutral, XXXX);
+		vertical-align: middle;
+	}
+
+}
+

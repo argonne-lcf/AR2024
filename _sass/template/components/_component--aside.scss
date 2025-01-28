@@ -1,0 +1,114 @@
+/**
+  * Component: Aside
+  *  
+  * @description
+  * -
+  */
+
+.aside {
+	padding: bl(10) 0; //40px
+	width: 100vw;
+	background-color: color(warm, X);
+	color: color(blue, XXXXX);
+
+	.content-wrapper {
+		@include grid-parent();
+	}
+		
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ul,
+	ol,
+	table,
+	.language-plaintext {
+		grid-column: span 12;
+		@include respond-to(m){
+			grid-column: 4 / 12;
+		}
+	}
+
+	.media-img .img-wrapper {
+		border:none;
+	}
+
+}
+
+.home .aside {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ul,
+	ol,
+	table,
+	.language-plaintext {
+		grid-column: span 12;
+		@include respond-to(m){
+			grid-column: 1 / 12;
+		}
+	}
+
+	.fig {
+		grid-column-start: 1;
+	}
+
+	h1 {
+		@include stack(sm);
+		color: color(blue, XXXXX);
+		@include typestyle($sans-md-bld);
+		@include respond-to(s){
+			@include typestyle($sans-lg-bld);
+		}
+
+		&::before {
+			content: "";
+    	width: 24px;
+    	height: 8px;
+    	margin-bottom: .5rem;
+    	display: block;
+    	background-color: color(blue, XXXX);
+    	@include respond-to(s){
+    		width: 36px;
+				margin-bottom: 1rem;
+			}
+		}
+	}
+
+	.media-img {
+		grid-column: 1 / -1;
+		@include respond-to(m){
+			grid-column: 3 / 11;
+		}
+	}
+
+	
+
+	table {
+		grid-column: 1 / -1;
+	}
+
+	.fig--no {
+		color: color(blue, XXXX);
+		@include respond-to(m){
+			@include typestyle($sans-xl-reg);
+			margin-top: -12px;
+			display: inline-block;
+		}
+	}
+
+	.fig--note {
+		@include respond-to(m){
+			margin-top: 12px;
+			width: 100%;
+			display: inline-block;
+		}
+	}
+}

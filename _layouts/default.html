@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+  {% if page.theme %}
+    <body class="theme--{{ page.theme }}">
+  {% else %}
+    <body>
+  {% endif %}
+
+    {%- include header.html -%}
+    {%- include sidenav.html -%}
+
+
+
+    <div class="page-intro-text">
+    	{% include txt-breadcrumbs.html %}
+    	<h1 class="page-title">{{ page.title }}</h1>
+
+    	{% if page.intro %}
+	    	{% include txt-intro.html
+	  			 blurb= page.intro
+				%}
+			{% endif %}
+    </div>
+
+    <div class="page-intro-media">
+      {% if page.hero-mp4-source or page.hero-webm-source %}
+				<div class="media-hero-img">
+					<div class="img-wrapper">
+						<div>
+							<video autoplay loop muted>
+								{% if page.hero-webm-source %}
+									<source src="{{ site.url }}/assets/video/{{ page.hero-webm-source }}" type="video/webm">	
+								{% endif %}
+								{% if page.hero-mp4-source %}
+									<source src="{{ site.url }}/assets/video/{{ page.hero-mp4-source }}" type="video/mp4">
+								{% endif %}
+				  				Your browser does not support the video tag.
+							</video>
+						</div>
+					</div>
+
+					{% if page.hero-img-caption %}
+						<small class="caption">
+							{{ page.hero-img-caption }}
+							{% if page.hero-img-credit %}
+								<span class="credit">Image: {{ page.hero-img-credit }}</span>
+							{% endif %}
+						</small>
+					{% endif %}
+				</div>
+			{% elsif page.hero-img-source %}
+				{% include media-hero-img.html
+				   source= page.hero-img-source
+				   caption= page.hero-img-caption
+				   credit= page.hero-img-credit
+				%}
+			{% elsif page.hero-vid-embed-code %}
+				{% include media-hero-video.html
+					 embed-code= page.hero-vid-embed-code
+      		 caption= page.hero-vid-caption
+      		 credit= page.hero-vid-credit
+      	%}
+			{% endif %}
+    </div>
+    
+    
+
+    <div class="height-wrapper">
+    	{{ content }}
+    </div>
+    
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

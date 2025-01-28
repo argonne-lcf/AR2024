@@ -1,0 +1,39 @@
+/**
+  * Component: Media, Image
+  *  
+  * @description
+  * -
+  */
+
+.bg-img {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 54px;
+	height: calc(100vh - 64px);
+	z-index: -1;
+	overflow: hidden;
+	@include respond-to(m){
+    left: calc(25vw - 26px);
+    top: 64px;
+  }
+
+	.bg-img--scrim {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		background-color: color(blue, XXXX);
+		opacity: .65;
+	}
+
+	img {
+		min-height: 100%;
+		min-width: 100%;
+		width: auto;
+		height: auto;
+		max-width: none;
+		max-height: 100%;
+	}
+}

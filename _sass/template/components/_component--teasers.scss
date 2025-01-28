@@ -1,0 +1,159 @@
+/**
+  * Component: Teasers
+  *  
+  * @description
+  * -
+  */
+
+
+
+.teasers  {
+	@include grid-child($cols: 12);
+	@include respond-to(m){
+		@include grid-child($cols: 8);
+		grid-column-start: 4;
+	}
+
+	.content-wrapper {
+		@include grid-parent($config: $grid-full);
+	}
+
+	h2, h3, p, small {
+		grid-column: 1 / -1;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	h2 {
+		@include stack(sm);
+		@include typestyle($sans-lg-bld);
+		color: color(blue, XXXXX);
+
+		&::before {
+			content: "";
+    	width: 36px;
+    	height: 8px;
+    	margin-bottom: 1rem;
+    	display: block;
+    	background: color(warm, XXXX);
+		}
+	}
+
+	h3 {
+		@include typestyle($sans-sm-bld);
+		margin-bottom: 0;
+		text-transform: none;
+		line-height: bl(5);
+		@include stack(xs);
+	}
+
+	p, small {
+		@include typestyle($sans-xs-bld);
+	}
+
+	small.eyebrow {
+		@include stack(xs);
+	}
+
+	small.meta {
+		border-top: 2px solid color(blue, XX);
+		color: color(neutral, X);
+	}
+
+	.teaser {
+		background: color(warm, XXXX);
+		color: color(neutral, X);
+		transition: all .15s;
+		@include stack(lg);
+		grid-column: span 12;
+		@include respond-to(s){
+			grid-column: span 6;
+		}
+		@include respond-to(m){
+			grid-column: span 4;
+		}
+
+		.image-wrapper {
+			@include aspect-ratio(16, 9);
+			background-color: color(neutral, X);
+			border: 1px solid color(neutral, XXX);
+		}
+
+		img {
+			object-fit: cover;
+		}
+
+		.hover-scrim {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: color(warm, XXXXX);
+			opacity: 0;
+			transition: all .15s;
+			mix-blend-mode: multiply;
+		}
+
+		&:hover {
+			background: color(warm, XXXXX);
+			h3 { text-decoration: underline; }
+			.hover-scrim { opacity: .2; }
+		}
+	}
+
+	.teaser .content-wrapper {
+		padding: bl(4) 0 bl(6); //16px 24px
+	}
+
+	
+}
+
+
+// Color Themes
+// ----------------------------------------------------------------------------
+
+
+.theme--cyan {
+  .teasers {
+
+  	h3 {
+  		color: color(blue, XXXXX);
+  	}
+  	
+  	.teaser {
+  		background-color: color(green, XX);
+  		color: color(blue, XXXXX);
+  	}
+
+  }
+}
+
+.theme--white {
+  .teasers {
+
+  	h3 {
+  		color: color(neutral, X);
+  	}
+
+  }
+}
+
+.theme--dark {
+  .teasers {
+
+  	h3 {
+  		color: color(blue, XX);
+  	}
+  	
+  	.teaser {
+  		background-color: color(green, XXXXX);
+  		color: color(blue, XX);
+  	}
+
+  }
+}
+
+

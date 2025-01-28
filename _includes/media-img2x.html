@@ -1,0 +1,53 @@
+<!-- 
+
+MEDIA, IMAGE 2X
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source1
+- caption1
+- credit1
+
+* source2
+- caption2
+- credit2
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-img2x">
+	<div class='img-1'>
+		<div class="img-wrapper">
+			<div><img src="{{ site.url }}/assets/images/{{ include.source1 }}"></div>
+		</div>
+
+		{% if include.caption1 %}
+			<small class="caption">
+				{{ include.caption1 }}
+				{% if include.credit1 %}
+					<span class="credit">Image: {{ include.credit1 }}</span>
+				{% endif %}
+			</small>
+		{% endif %}
+	</div>
+	<div class='img-2'>
+		<div class="img-wrapper">
+			<div><img src="{{ site.url }}/assets/images/{{ include.source2 }}"></div>
+		</div>
+
+		{% if include.caption2 %}
+			<small class="caption">
+				{{ include.caption2 }}
+				{% if include.credit2 %}
+					<span class="credit">Image: {{ include.credit2 }}</span>
+				{% endif %}
+			</small>
+		{% endif %}
+	</div>
+</div>

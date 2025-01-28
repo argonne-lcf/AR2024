@@ -1,0 +1,27 @@
+<!-- 
+
+TEXT, BREADCRUMBS
+
+-------------------------------------------------------------------------------
+
+available parameters:
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div id="breadcrumbs">
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %} 
+<a href="{{ site.url }}/index">Home</a>
+{% for crumb in crumbs offset: 1 %}
+  {% if forloop.last %}
+    / {{ page.title }}
+  {% elsif crumb == "year-in-review" %}
+    / YEAR IN REVIEW
+  {% else %}
+    / <a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{% if forloop.last == true %}{{ crumb | replace:'without-plugin/','without-plugins/' }}{% else %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endif %}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+  {% endif %}
+{% endfor %}
+</div>

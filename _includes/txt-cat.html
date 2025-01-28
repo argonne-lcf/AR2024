@@ -1,0 +1,43 @@
+<!-- 
+
+TEXT, CATEGORIZATION
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* field
+* sdl
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+{% assign sdl = include.sdl | split:"," %}
+
+
+<div class="cat">
+
+	<p>
+		<span class="cat--field">{{ include.field }}</span> | 
+
+		{% if sdl contains 's' and sdl contains 'd' and sdl contains 'l' %}
+			<span class="cat--sdl">&#xe905;&#xe903;&#xe904;</span> Simulation, Data, Learning
+		{% elsif sdl contains 's' and sdl contains 'd' %}
+			<span class="cat--sdl">&#xe905;&#xe903;<span class="inactive">&#xe904;</span></span> Simulation, Data
+		{% elsif sdl contains 's' and sdl contains 'l' %}
+			<span class="cat--sdl">&#xe905;<span class="inactive">;&#xe903;</span>&#xe904;</span> Simulation, Learning
+		{% elsif sdl contains 'd' and sdl contains 'l' %}
+			<span class="cat--sdl"><span class="inactive">&#xe905;</span>&#xe903;&#xe904;</span> Data, Learning
+		{% elsif sdl contains 's' %}
+			<span class="cat--sdl">&#xe905;<span class="inactive">&#xe903;</span><span class="inactive">&#xe904;</span></span> Simulation
+		{% elsif sdl contains 'd' %}
+			<span class="cat--sdl"><span class="inactive">&#xe905;</span>&#xe903;<span class="inactive">&#xe904;</span></span> Data
+		{% elsif sdl contains 'l' %}
+			<span class="cat--sdl"><span class="inactive">&#xe905;</span><span class="inactive">&#xe903;</span>&#xe904;</span> Learning
+		{% endif %}
+	</p>
+
+</div>

@@ -1,0 +1,42 @@
+/**
+  * Component: Media, Hero Image
+  *  
+  * @description
+  * -
+  */
+
+.media-hero-img {
+	@include stack(xs);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
+
+
+	.img-wrapper {
+		@include aspect-ratio(16, 9);
+		@include stack(xs);
+		width: calc(75vw + 26px);
+		margin-left: -40px;
+		width: calc(100vw + 26px);
+		@include respond-to(m){
+			width: calc(75vw + 26px);
+		}
+	}
+
+	img, video {
+		object-fit: cover;
+		min-width: 100%;
+		min-height: 100%;
+	}
+
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
+		
+}

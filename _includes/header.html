@@ -1,0 +1,77 @@
+<header class="header" role="banner">
+
+  <div class="nav-wrapper">
+    <div class="nav-desktop">
+
+      <div class="masthead">
+        <h1><a href="{{ site.url }}/index.html">ALCF Annual Report</a></h1>
+      </div>
+
+
+      <div class="nav">
+        {% for item in site.data.nav-config.toc %}
+          <h2>
+            {% if page.permalink contains item.url %}
+              <a class="current" href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a>
+            {% else %}
+              <a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+            <!-- <a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a> -->
+          </h2>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="nav-wrapper">
+    <div class="nav-mobile">
+
+      <div class="masthead">
+        <h1><a href="{{ site.url }}/index.html">ALCF Annual Report</a></h1>
+      </div>
+
+
+      <div class="nav">
+        <div class="js-drop menuitem-wrapper" id="toggle-menu" data-menu="menu">
+          <h1>Menu &blacktriangledown;</h1>
+          <div id="menu" class="dropdown js-dropdown-hidden">
+
+            <div class="nav-wrapper">
+              {% for item in site.data.nav-config.toc %} 
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/{{ item.url }}" class="menuitem">
+                      {{ item.title }}
+                    </a>
+                  </h2>
+
+                  {% if item.subfolderitems %}
+                    <ul>
+                      {% for entry in item.subfolderitems %}
+                        <li>
+                          <a href="/{{ entry.url }}">
+                            {{ entry.page }}
+                          </a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %} 
+                </div>
+              {% endfor %}  
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</header>
+
+
+
+

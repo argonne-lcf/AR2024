@@ -1,0 +1,53 @@
+/**
+  * Component: Media, Image
+  *  
+  * @description
+  * -
+  */
+
+.media-img {
+	margin: 24px 0;
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
+
+	.img-wrapper {
+		@include aspect-ratio(16, 9);
+		@include stack(xs);
+		border: 1px solid color(neutral, XXX);
+	}
+
+	img {
+		object-fit: cover;
+	}
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
+	
+}
+
+
+.highlight .media-img {
+
+	.img-wrapper {
+		padding: bl(5); //20px
+		background-color: color(neutral, XX);
+	}
+
+	img {
+		max-height: calc(100% - 40px);
+		max-width: calc(100% - 40px);
+		position: relative;
+		top: 50%;
+  	left: 50%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+	}
+	
+}

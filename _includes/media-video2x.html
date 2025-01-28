@@ -1,0 +1,46 @@
+<!-- 
+
+MEDIA, EMBED
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* embed-code1
+- caption1
+- credit1
+
+* embed-code2
+- caption2
+- credit2
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-embed2x">
+	<div class='embed-1'>
+		<div class="embed-wrapper">
+			{{ include.embed-code1 }}
+		</div>
+		<small class="caption">
+			{{ include.caption1 }}
+			{% if include.credit1 %}
+				<span class="credit">Credit: {{ include.credit1 }}</span>
+			{% endif %}
+		</small>
+	</div>
+	<div class='embed-2'>
+		<div class="embed-wrapper">
+			{{ include.embed-code2 }}
+		</div>
+		<small class="caption">
+			{{ include.caption2 }}
+			{% if include.credit2 %}
+				<span class="credit">Credit: {{ include.credit2 }}</span>
+			{% endif %}
+		</small>
+	</div>
+</div>

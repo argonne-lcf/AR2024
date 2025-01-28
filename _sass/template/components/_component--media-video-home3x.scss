@@ -1,0 +1,58 @@
+/**
+  * Component: Media, Embed
+  *  
+  * @description
+  * -
+  */
+
+.home--video-wrapper {
+	@include stack(xl);
+	@include grid-parent($config: $grid-full);
+
+
+	h2 {
+		@include stack(sm);
+		color: color(blue, XXXXX);
+		grid-column: span 12;
+		@include typestyle($sans-md-bld);
+		@include respond-to(s){
+			@include typestyle($sans-lg-bld);
+		}
+
+		&::before {
+			content: "";
+    	width: 24px;
+    	height: 8px;
+    	margin-bottom: .5rem;
+    	display: block;
+    	background-color: color(blue, XXXX);
+    	@include respond-to(s){
+    		width: 36px;
+				margin-bottom: 1rem;
+			}
+		}
+	}
+
+
+	.embed-1, .embed-2, .embed-3 {
+		grid-column: span 12;
+		@include respond-to(s){
+			grid-column: span 4;
+		}
+	}
+
+	iframe {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		@include stack(xs);
+	}
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
+		
+}

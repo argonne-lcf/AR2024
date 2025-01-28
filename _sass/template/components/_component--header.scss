@@ -1,0 +1,165 @@
+/**
+  * Component: Header
+  *  
+  * @description
+  * -
+  */
+
+header {
+	background: color(warm, XXXX);
+  color: color(blue, X);
+	padding-top: 16px; 
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 5000;
+	box-sizing: border-box;
+	height: 54px;
+	@include respond-to(m){
+		height: 64px;
+	}
+
+	.nav-desktop {
+		display: none;
+		@include respond-to(m){
+			@include grid-child($cols: 12);
+		}
+	}
+
+	.nav-mobile {
+		@include grid-child($cols: 12);
+		@include respond-to(m){
+			display: none;
+		}
+	}
+
+	.nav-wrapper {
+		@include grid-parent($config: $grid-full);
+	}
+
+	.masthead {
+		grid-column: 1 / 10;
+		@include respond-to(m){
+			grid-column: 1 / 4;
+		}
+	}
+
+	.nav {
+		grid-column: 10 / -1;
+		justify-self: end;
+		@include respond-to(m){
+			grid-column: 4 / -1;;
+		}
+	}
+
+	h1 {
+		@include typestyle($sans-xs-bld);
+		color: color(green, X) !important;
+		@include respond-to(m){
+			@include typestyle($sans-sm-bld);
+		}
+	}
+
+
+	h2 {
+		@include typestyle($sans-xs-bld);
+		display: inline-block;
+		margin-left: bl(2); //8px;
+		margin-right: bl(2); //8px;
+		margin-top: bl(1); //4px;
+		color: color(blue, X);
+	}
+
+	a {
+		text-decoration: none;
+		color: color(blue, X);
+		&:hover {
+			text-decoration: underline;
+			text-decoration-color: color(neutral, X);
+		}
+	}
+
+	a.current {
+	text-decoration: underline;
+	text-decoration-color: color(neutral, X);
+	}
+
+
+	.menuitem-wrapper {
+		height: bl(12); //48px
+		display: inline-block;
+	}
+
+
+
+	.dropdown {
+		@include inset(xs);
+		background-color: color(neutral, XXXXX); 
+		transition: all 0.2s ease-out;
+		position: fixed;
+		top: 54px;
+		left: 0;
+		width: 100vw;
+		height: calc(100vh - 64px);
+		padding: bl(2) 0; //8px
+		box-sizing: border-box;
+		overflow-y: scroll;
+	}
+
+	.chunk {
+		grid-column: span 12;
+		@include stack(md);
+		@include respond-to(s){
+			grid-column: span 6;
+		}
+	}
+
+	.dropdown ul,
+	.dropdown li {
+		margin-left: 0;
+		padding-left: 0;
+	}
+
+	.dropdown ul {
+		list-style: none;
+		margin-bottom: bl(1) !important; //4px
+	}
+
+	.dropdown a {
+		color: color(blue, XX);
+		text-decoration: none;
+		display: inline-block;
+		&:hover {
+			text-decoration: underline;
+			text-decoration-color: color(blue, XX);
+		}
+	}
+
+	
+
+	.dropdown hr {
+		background-color: #DDE6E7;
+		border: none;
+		height: 1px;
+	}
+
+	.dropdown h2 {
+		text-transform: none;
+		@include typestyle($sans-sm-bld);
+		border-bottom: 2px solid color(blue, XX);
+		margin-bottom: 0;
+		margin-left: 0;
+		width: 100%;
+	}
+
+
+	.js-dropdown-hidden {
+		display: none;
+	}
+
+	.js-dropdown-visible {
+		display: block;
+	}
+
+}
+

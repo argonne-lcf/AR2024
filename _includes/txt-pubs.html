@@ -1,0 +1,45 @@
+<!-- 
+
+TEXT, PUBLICATION LIST
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* pubs
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="pubs">
+	<h3>PUBLICATIONS</h3>
+
+	<ul>
+
+		{% for pub in include.pubs %}
+			<li>
+				{% if pub.url %}
+					<a href="{{ pub.url }}">
+						<span class="authors">{{ pub.authors }}. </span>
+						<span class="title">&ldquo;{{ pub.title }},&rdquo; </span>
+						<span class="source"><i>{{ pub.source }}</i> </span>
+						<span class="date">({{ pub.date }}), </span>
+						<span class="publisher">{{ pub.publisher }}.</span>
+					</a>
+				{% else %}
+					<span class="authors">{{ pub.authors }}. </span>
+					<span class="title">&ldquo;{{ pub.title }},&rdquo; </span>
+					<span class="source"><i>{{ pub.source }}</i> </span>
+					<span class="date">({{ pub.date }}), </span>
+					<span class="publisher">{{ pub.publisher }}.</span>
+				{% endif %}
+			</li>
+		{% endfor %}
+
+		
+
+	</ul>
+
+</div>

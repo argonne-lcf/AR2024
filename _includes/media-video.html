@@ -1,0 +1,29 @@
+<!-- 
+
+MEDIA, EMBED
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* embed-code
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-embed">
+	<div class="embed-wrapper">
+		{{ include.embed-code }}
+	</div>
+	<small class="caption">
+		{{ include.caption }}
+		{% if include.credit %}
+			<span class="credit">Credit: {{ include.credit }}</span>
+		{% endif %}
+	</small>
+</div>

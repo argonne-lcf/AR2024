@@ -1,0 +1,60 @@
+/**
+  * Component: Header
+  *  
+  * @description
+  * -
+  */
+
+#breadcrumbs {
+	grid-column: span 12;
+	@include stack(xs);
+	margin-top: 9px !important;
+	@include typestyle($sans-xs-reg);
+	color: color(neutral, XXXX);
+	text-transform: uppercase;
+  @include respond-to(m){
+    grid-column: 4 / 12;
+  }
+}
+
+.theme--sky #breadcrumbs,
+.theme--sky #breadcrumbs a {
+	color: color(blue, XXXX);
+	text-decoration-color: color(blue, XXX);
+}
+
+
+.theme--cyan #breadcrumbs,
+.theme--cyan #breadcrumbs a {
+	color: color(neutral, X);
+	text-decoration-color: color(blue, XX);
+}
+
+
+.theme--dark #breadcrumbs,
+.theme--dark #breadcrumbs a {
+	color: color(green, XX);
+	text-decoration-color: color(green, XXX);
+}
+
+
+.theme--warm #breadcrumbs,
+.theme--warm #breadcrumbs a {
+	color: color(warm, XXX);
+	text-decoration-color: color(warm, XXXX);
+}
+
+
+.theme--green #breadcrumbs,
+.theme--green #breadcrumbs a {
+	color: color(green, X);
+	text-decoration-color: color(blue, XX);
+ }
+
+
+.theme--grey #breadcrumbs,
+.theme--grey #breadcrumbs a {
+	color: color(blue, XXXX);
+	text-decoration-color: color(blue, XXX);
+}
+

@@ -1,0 +1,30 @@
+/**
+  * Component: Text, Meta
+  *  
+  * @description
+  * -
+  */
+
+.meta {
+	color: color(neutral, XXXX);
+	border-top: 2px solid color(neutral, XXX);
+	padding-top: bl(1);
+	@include stack(xs);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
+
+	p, span {
+		@include typestyle($sans-xs-reg);
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+		
+}
+
+h2 + .meta,
+h3 + .meta,
+h4 + .meta {
+	margin-top: bl(3); //12px
+}

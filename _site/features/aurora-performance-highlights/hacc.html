@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC | 2023 ALCF Annual Report</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="HACC (Hardware/Hybrid Accelerated Cosmology Code) is a cosmological N-body and hydrodynamics simulation code designed to run at extreme scales on all HPC systems, especially those operated by DOE national laboratories. HACC computes the complicated emergence of structure in the universe across cosmological history, the core of the code’s functionality consisting of gravitational calculations along with the more recent addition of gas dynamics and astrophysical subgrid models. The solvers are integrated with a large set of sophisticated analysis methods encapsulated within HACC’s CosmoTools library." />
+<meta property="og:description" content="HACC (Hardware/Hybrid Accelerated Cosmology Code) is a cosmological N-body and hydrodynamics simulation code designed to run at extreme scales on all HPC systems, especially those operated by DOE national laboratories. HACC computes the complicated emergence of structure in the universe across cosmological history, the core of the code’s functionality consisting of gravitational calculations along with the more recent addition of gas dynamics and astrophysical subgrid models. The solvers are integrated with a large set of sophisticated analysis methods encapsulated within HACC’s CosmoTools library." />
+<link rel="canonical" href="http://localhost:4000/features/aurora-performance-highlights/hacc" />
+<meta property="og:url" content="http://localhost:4000/features/aurora-performance-highlights/hacc" />
+<meta property="og:site_name" content="2023 ALCF Annual Report" />
+<meta property="og:image" content="http://localhost:4000/Habib-HACC.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/Habib-HACC.png" />
+<meta property="twitter:title" content="Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"HACC (Hardware/Hybrid Accelerated Cosmology Code) is a cosmological N-body and hydrodynamics simulation code designed to run at extreme scales on all HPC systems, especially those operated by DOE national laboratories. HACC computes the complicated emergence of structure in the universe across cosmological history, the core of the code’s functionality consisting of gravitational calculations along with the more recent addition of gas dynamics and astrophysical subgrid models. The solvers are integrated with a large set of sophisticated analysis methods encapsulated within HACC’s CosmoTools library.","headline":"Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC","image":"http://localhost:4000/Habib-HACC.png","url":"http://localhost:4000/features/aurora-performance-highlights/hacc"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="2023 ALCF Annual Report" /></head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V7JP2R5JPH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V7JP2R5JPH');
+</script>
+    <body class="theme--dark">
+  <header class="header" role="banner">
+
+  <div class="nav-wrapper">
+    <div class="nav-desktop">
+
+      <div class="masthead">
+        <h1><a href="http://localhost:4000/index.html">ALCF Annual Report</a></h1>
+      </div>
+
+
+      <div class="nav">
+        
+          <h2>
+            
+              <a href="http://localhost:4000/year-in-review/directors-letter">Year in Review</a>
+            
+            <!-- <a href="http://localhost:4000/year-in-review/directors-letter">Year in Review</a> -->
+          </h2>
+        
+          <h2>
+            
+              <a class="current" href="http://localhost:4000/features">Features</a>
+            
+            <!-- <a href="http://localhost:4000/features">Features</a> -->
+          </h2>
+        
+          <h2>
+            
+              <a href="http://localhost:4000/community-and-outreach">Growing the HPC Community</a>
+            
+            <!-- <a href="http://localhost:4000/community-and-outreach">Growing the HPC Community</a> -->
+          </h2>
+        
+          <h2>
+            
+              <a href="http://localhost:4000/expertise-and-resources">Expertise and Resources</a>
+            
+            <!-- <a href="http://localhost:4000/expertise-and-resources">Expertise and Resources</a> -->
+          </h2>
+        
+          <h2>
+            
+              <a href="http://localhost:4000/science">Science</a>
+            
+            <!-- <a href="http://localhost:4000/science">Science</a> -->
+          </h2>
+        
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="nav-wrapper">
+    <div class="nav-mobile">
+
+      <div class="masthead">
+        <h1><a href="http://localhost:4000/index.html">ALCF Annual Report</a></h1>
+      </div>
+
+
+      <div class="nav">
+        <div class="js-drop menuitem-wrapper" id="toggle-menu" data-menu="menu">
+          <h1>Menu &blacktriangledown;</h1>
+          <div id="menu" class="dropdown js-dropdown-hidden">
+
+            <div class="nav-wrapper">
+               
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/year-in-review/directors-letter" class="menuitem">
+                      Year in Review
+                    </a>
+                  </h2>
+
+                  
+                    <ul>
+                      
+                        <li>
+                          <a href="/year-in-review/directors-letter">
+                            Director&rsquo;s Letter
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/year-in-review/year-in-review">
+                            ALCF Leadership
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/year-in-review/about-alcf">
+                            About ALCF
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/year-in-review/about-alcf#2023-by-the-numbers">
+                            2023 by the Numbers
+                          </a>
+                        </li>
+                      
+                    </ul>
+                   
+                </div>
+               
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/features" class="menuitem">
+                      Features
+                    </a>
+                  </h2>
+
+                  
+                    <ul>
+                      
+                        <li>
+                          <a href="/features/aurora">
+                            Bringing Aurora Online
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/aurora-performance-highlights">
+                            Aurora Performance Highlights
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/nexus-iri">
+                            Bringing Supercomputers and Experiments Together
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/alcf-ai-testbed">
+                            ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/theta">
+                            ALCF Retires Theta Supercomputer
+                          </a>
+                        </li>
+                      
+                    </ul>
+                   
+                </div>
+               
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/community-and-outreach" class="menuitem">
+                      Growing the HPC Community
+                    </a>
+                  </h2>
+
+                  
+                    <ul>
+                      
+                        <li>
+                          <a href="/community-and-outreach/industry">
+                            Partnering with Industry
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/community-and-outreach/dei">
+                            Building a Diverse HPC Workforce
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/community-and-outreach/hpc-community-activities">
+                            Shaping the Future of Supercomputing
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/community-and-outreach/user-training-activities">
+                            Training ALCF Users
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/community-and-outreach/educational-outreach-activities">
+                            Inspiring Students
+                          </a>
+                        </li>
+                      
+                    </ul>
+                   
+                </div>
+               
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/expertise-and-resources" class="menuitem">
+                      Expertise and Resources
+                    </a>
+                  </h2>
+
+                  
+                    <ul>
+                      
+                        <li>
+                          <a href="/expertise-and-resources/systems">
+                            ALCF Systems
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/expertise-and-resources/team">
+                            ALCF Team
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/expertise-and-resources/staff-spotlights">
+                            Staff Spotlights
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/expertise-and-resources/staff-news">
+                            Staff News
+                          </a>
+                        </li>
+                      
+                    </ul>
+                   
+                </div>
+               
+
+                <div class="chunk">
+                  <h2>
+                    <a href="/science" class="menuitem">
+                      Science
+                    </a>
+                  </h2>
+
+                  
+                    <ul>
+                      
+                        <li>
+                          <a href="/science/allocation-programs">
+                            Allocation Programs
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/science/highlights">
+                            2023 Science Highlights
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/science/projects">
+                            2023 Award List
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/science/publications">
+                            Publications
+                          </a>
+                        </li>
+                      
+                    </ul>
+                   
+                </div>
+                
+            </div>
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</header>
+
+
+
+
+<nav class="sidenav">
+
+  
+
+    
+    
+    
+    
+  
+
+    
+      <h2>
+        <a href="http://localhost:4000/features" class="menuitem">
+          Features
+        </a>
+      </h2>
+
+      
+        <ul>
+          
+            <li>
+              
+                <a href="http://localhost:4000/features/aurora">Bringing Aurora Online</a>
+              
+            </li>
+          
+            <li>
+              
+                <a href="http://localhost:4000/features/aurora-performance-highlights">Aurora Performance Highlights</a>
+              
+            </li>
+          
+            <li>
+              
+                <a href="http://localhost:4000/features/nexus-iri">Bringing Supercomputers and Experiments Together</a>
+              
+            </li>
+          
+            <li>
+              
+                <a href="http://localhost:4000/features/alcf-ai-testbed">ALCF Continues to Expand AI Testbed Systems Deployed for Open Science</a>
+              
+            </li>
+          
+            <li>
+              
+                <a href="http://localhost:4000/features/theta">ALCF Retires Theta Supercomputer</a>
+              
+            </li>
+          
+        </ul>
+      
+    
+    
+    
+    
+  
+
+    
+    
+    
+    
+  
+
+    
+    
+    
+    
+  
+
+    
+    
+    
+    
+  
+
+
+</nav>
+
+<main class="page-content layout-wrapper sci-highlight" aria-label="Content">
+
+	<!-- 
+
+TEXT, BREADCRUMBS
+
+-------------------------------------------------------------------------------
+
+available parameters:
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div id="breadcrumbs">
+ 
+<a href="http://localhost:4000/index">Home</a>
+
+  
+    / <a href="http://localhost:4000/features">Features</a>
+  
+
+  
+    / <a href="http://localhost:4000/features/aurora-performance-highlights">Aurora performance highlights</a>
+  
+
+  
+    / Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC
+  
+
+</div>
+	
+	<!-- 
+
+TEXT, CATEGORIZATION
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* field
+* sdl
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+
+
+
+<div class="cat">
+
+	<p>
+		<span class="cat--field"></span> | 
+
+		
+	</p>
+
+</div>
+
+	<h1 class="page-title">Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC</h1>
+
+	
+	<!-- 
+
+TEXT, META
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* name-1
+* value-1
+- name-2
+- value-2
+- name-3
+- value-3
+- name-4
+- value-4
+- name-5
+- value-5
+- name-6
+- value-6
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="meta">
+
+	<p class="meta--pair">
+		<span class="meta--name">PI</span>: 
+		<span class="meta--val">Katrin Heitmann, Salman Habib, Argonne National Laboratory</span>
+	</p>
+	
+	
+		<p class="meta--pair">
+			<span class="meta--name">AWARD</span>: 
+			<span class="meta--val">Aurora Early Science Program and Exascale Computing Project</span>
+		</p>
+	
+
+	
+
+	
+
+	
+
+	
+
+</div>
+
+	
+
+	<!-- 
+
+MEDIA, IMAGE
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-img">
+	<div class="img-wrapper">
+		<div><img src="http://localhost:4000/assets/images/Habib-HACC.png"></div>
+	</div>
+
+	
+</div>
+
+
+	<div class="primary-txt">
+		<!-- 
+
+TEXT, INTRO
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* blurb
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<p class="intro">HACC (Hardware/Hybrid Accelerated Cosmology Code) is a cosmological N-body and hydrodynamics simulation code designed to run at extreme scales on all HPC systems,
+especially those operated by DOE national laboratories. HACC computes the complicated emergence of structure in the universe across cosmological history, the core of the code’s
+functionality consisting of gravitational calculations along with the more recent addition of gas dynamics and astrophysical subgrid models. The solvers are integrated with a large set of sophisticated analysis methods encapsulated within HACC’s CosmoTools library.</p>
+
+<h1 id="challenge">Challenge</h1>
+
+<p>HACC is structured to remain mostly consistent across different architectures such that it requires only limited changes when ported to new hardware; the inter-nodal level of code—the level of code that communicates between nodes—is nearly invariant from machine to machine. Consequently, the approach taken to porting HACC effectively reduces the problem to the node level, thereby permitting concentration of effort on optimizing critical code components with a full awareness of the actual hardware.</p>
+
+<p>In bringing HACC to exascale, the developers have aimed to evaluate Aurora’s early hardware and software development kit on a set of more than 60 complex kernels primarily written in CUDA or otherwise under active development, minimize divergence between CUDA and SYCL versions of the codebase, identify configurations and implementation optimizations specific to Intel GPUs, and identify more generally applicable implementation optimizations.</p>
+
+<p>Versions of HACC being developed for exascale systems incorporate basic gas physics (hydrodynamics) to enable more detailed studies of structure formation on the scales of galaxy clusters and individual galaxies. These versions also include sub-grid models that integrate phenomena like star formation and supernova and AGN feedback, which means the addition of more performance-critical code sections that also run on GPUs. A GPU implementation of HACC with hydrodynamics was previously developed for the Titan and Summit systems using OpenCL and CUDA. All the GPU versions of the code have been rewritten to target Aurora.</p>
+
+<h1 id="performance-results">Performance Results</h1>
+<p>HACC simulations have been performed on Aurora in runs using as many as 1920 nodes. Visualizations of results generated on Aurora illustrate the large-scale structure of the universe. Single-GPU performance on Aurora exceeds that of compared systems: Figure-of-Merit assessments measuring particle-steps per second used 33 million particles per GPU and saw performance increases ranging from 15 to 50 percent.</p>
+
+<!-- 
+
+MEDIA, IMAGE
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="media-img">
+	<div class="img-wrapper">
+		<div><img src="http://localhost:4000/assets/images/Chart_CRK_HACC_.png" /></div>
+	</div>
+
+	
+</div>
+
+<h1 id="impact">Impact</h1>
+<p>Modern cosmology provides a unique window to fundamental physics, and has led to remarkable discoveries culminating in a highly successful model for the dynamics of the Universe. Simulations and predictions enabled by the HACC code deployed at exascale will help deepen our understanding of the structure of the universe and its underlying physics.
+Furthermore, new generations of cosmological instruments, such as the Vera C. Rubin Observatory, will depend on exascale systems in order to interpret the measurements; exascale cosmological simulations developed through HACC will enable researchers to simultaneously analyze observational data from state-of-the-art telescopes to test different theories of cosmological evolution.</p>
+
+	</div>
+
+
+
+	
+
+	<button class="to-top js-to-top">
+		Back to Top &uarr;
+	</button>
+
+</main><footer>
+
+	<div class="content-wrapper">
+
+
+		<div class="alcf-logo">
+			<img src="http://localhost:4000/assets/images/logo-h.png" />
+		</div>
+
+		<div class="alcf-info">
+			<h2>CONTACT</h2>
+			<p>
+				<a href="mailto:media@alcf.anl.gov">media@alcf.anl.gov</a><br>
+				<a href="https://alcf.anl.gov/">alcf.anl.gov</a>
+			</p>
+		</div>
+
+		<div class="smallprint">
+			<ul>
+				<li><a href="http://localhost:4000/about">About</a></li>
+				<li><a href="http://localhost:4000/disclaimer">Disclaimer</a></li>
+				<li><a href="http://localhost:4000/credits">Credits</a></li>
+			</ul>
+		</div>
+
+
+
+
+		<div class="bottom">
+			<hr>
+
+			<!-- <div class="llc">
+				<img src="http://localhost:4000/assets/images/llc-logo.png" />
+			</div> -->
+
+			<div class="doe-info">
+				<img class='llc' src="http://localhost:4000/assets/images/llc-logo.png" />
+				<img class='doe' src="http://localhost:4000/assets/images/doe.png" />
+				<p>Argonne National Laboratory is a U.S. Department of Energy laboratory<br>managed by UChicago Argonne, LLC.</p>
+			</div>
+
+		</div>
+	
+  </div>
+
+  <script src="http://localhost:4000/assets/js/plugin--totop.js"></script>
+  <script src="http://localhost:4000/assets/js/plugin--dropdown.js"></script>
+  <script src="http://localhost:4000/assets/js/app.js"></script>
+
+</footer>
+</body>
+
+</html>

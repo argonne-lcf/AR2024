@@ -1,0 +1,32 @@
+/**
+  * Component: Text, Publications
+  *  
+  * @description
+  * -
+  */
+
+.pubs {
+	color: color(neutral, XXXX);
+	border-top: 2px solid color(neutral, XXX);
+	padding-top: bl(1);
+	grid-column: span 12;
+	@include respond-to(m){
+		grid-column: 4 / 12;
+	}
+
+	h3, li {
+		@include typestyle($sans-xs-reg);
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding-left: 0;
+	}
+
+	li {
+		@include stack(xxs);
+	}
+		
+}
+

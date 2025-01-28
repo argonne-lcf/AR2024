@@ -1,0 +1,78 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+  {% if page.theme %}
+    <body class="theme--{{ page.theme }}">
+  {% else %}
+    <body>
+  {% endif %}
+
+    {%- include header.html -%}
+    {%- include sidenav.html -%}
+
+
+
+<main class="page-content layout-wrapper sci-highlight" aria-label="Content">
+
+	{% include txt-breadcrumbs.html %}
+	
+	{% 	include txt-cat.html 
+		  field = page.field
+			sdl = page.sdl
+	%}
+
+	<h1 class="page-title">{{ page.title }}</h1>
+
+	{% if page.award%}
+	{% 	include txt-meta.html 
+		  name-1 = "PI"
+			value-1 = page.pi
+			name-2 = "AWARD"
+			value-2 = page.award
+	%}
+	{% else %}
+	{% 	include txt-meta.html 
+		  name-1 = "PI"
+			value-1 = page.pi
+	%}
+	{% endif %}
+
+	{% 	include media-img.html 
+		  source = page.image
+			caption = page.image-caption
+			credit = page.image-credit
+	%}
+
+
+	<div class="primary-txt">
+		{{ content }}
+	</div>
+
+
+
+	{% if page.publications.size > 0 %}
+
+	{% 	include txt-pubs.html 
+		  pubs = page.publications
+	%}
+
+	{% endif %}
+
+	<button class="to-top js-to-top">
+		Back to Top &uarr;
+	</button>
+
+</main>
+
+
+
+
+{%- include footer.html -%}
+
+  </body>
+
+</html>

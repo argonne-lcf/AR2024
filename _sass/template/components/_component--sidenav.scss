@@ -1,0 +1,72 @@
+/**
+  * Component: Sidenav
+  *  
+  * @description
+  * -
+  */
+
+.sidenav {
+	background-color: color(neutral, XX);
+	padding: 37px 20px 0;
+	width: calc(25vw - 26px);
+	box-sizing: border-box;
+	height: 100vw;
+	position: fixed;
+	top: 64px;
+	left: 0;
+	display: none;
+	@include respond-to(m){
+		display: block;
+	}
+
+	h1 {
+		@include typestyle($sans-sm-bld);
+		color: color(neutral, XXXXX);
+	}
+
+	h2 {
+		@include typestyle($sans-xs-bld);
+		text-transform: uppercase;
+		@include stack(xxs);
+		color: color(neutral, XXXXX);
+
+		&::before {
+			content: "";
+    	width: 28px;
+    	height: 8px;
+    	margin-bottom: .75rem;
+    	display: block;
+    	background-color: color(neutral, XXXXX);
+		}
+	}
+
+	ul {
+		list-style: none;
+	}
+
+	li {
+		@include typestyle($sans-sm-reg);
+		@include stack(xxs);
+		line-height: bl(5);
+	}
+
+	a {
+		text-decoration: none;
+		color: color(neutral, XXXXX);
+		&:hover {
+			text-decoration: underline;
+			text-decoration-color: color(neutral, XXXXX);
+		}
+	}
+
+	a.current {
+	text-decoration: underline;
+	text-decoration-color: color(neutral, XXXXX);
+	}
+
+	.menuitem-wrapper {
+		padding-top: 4px;
+	}
+
+}
+

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+
+  {% if page.theme %}
+    <body class="theme--{{ page.theme }}">
+  {% else %}
+    <body>
+  {% endif %}
+
+    {%- include header.html -%}
+    {%- include sidenav.html -%}
+
+
+
+    <div class="page-intro-text">
+    	<h1 class="page-title">{{ page.title }}</h1>
+
+    	{% if page.intro %}
+	    	{% include txt-intro.html
+	  			 blurb= page.intro
+				%}
+			{% endif %}
+    </div>
+
+    <div class="page-intro-media">
+			{% if page.hero-img-source %}
+				{% include media-hero-img.html
+				   source= page.hero-img-source
+				   caption= page.hero-img-caption
+				   credit= page.hero-img-credit
+				%}
+			{% elsif page.hero-vid-embed-code %}
+				{% include media-hero-video.html
+					 embed-code= page.hero-vid-embed-code
+      		 caption= page.hero-vid-caption
+      		 credit= page.hero-vid-credit
+      	%}
+			{% endif %}
+    </div>
+
+
+
+
+{% if page.bg-img %}
+	<div class="bg-img">
+		<div class="bg-img--scrim"></div>
+		<img src="{{ site.url }}/assets/images/{{ page.bg-img }}">
+	</div>
+{% endif %}
+
+<main class="page-content layout-wrapper section-head" aria-label="Content">
+	{{ content }}
+</main>
+
+
+
+<div class="height-wrapper">
+    	{{ content }}
+    </div>
+    
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
+
+

@@ -1,0 +1,66 @@
+toc:
+  - title: Year in Review
+    slug: year-in-review
+    url: year-in-review/directors-letter
+    subfolderitems:
+      - page: Director&rsquo;s Letter
+        url: year-in-review/directors-letter
+      - page: ALCF Leadership
+        url: year-in-review/year-in-review
+      - page: About ALCF
+        url: year-in-review/about-alcf
+      - page: 2023 by the Numbers
+        url: year-in-review/about-alcf#2023-by-the-numbers
+  - title: Features
+    slug: features
+    url: features
+    subfolderitems:
+      - page: Bringing Aurora Online
+        url: features/aurora
+      - page: Aurora Performance Highlights
+        url: features/aurora-performance-highlights
+      - page: Bringing Supercomputers and Experiments Together
+        url: features/nexus-iri
+      - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
+        url: features/alcf-ai-testbed
+      - page: ALCF Retires Theta Supercomputer
+        url: features/theta
+  - title: Growing the HPC Community
+    slug: community-and-outreach
+    url: community-and-outreach
+    subfolderitems:
+      - page: Partnering with Industry
+        url: community-and-outreach/industry
+      - page: Building an HPC Workforce
+        url: community-and-outreach/building-an-hpc-workforce
+      - page: Shaping the Future of Supercomputing
+        url: community-and-outreach/hpc-community-activities
+      - page: Training ALCF Users
+        url: community-and-outreach/user-training-activities
+      - page: Inspiring Students
+        url: community-and-outreach/educational-outreach-activities
+  - title: Expertise and Resources
+    slug: expertise-and-resources
+    url: expertise-and-resources
+    subfolderitems:
+      - page: ALCF Systems
+        url: expertise-and-resources/systems
+      - page: ALCF Team
+        url: expertise-and-resources/team
+      - page: Staff Spotlights
+        url: expertise-and-resources/staff-spotlights
+      - page: Staff News
+        url: expertise-and-resources/staff-news
+  - title: Science
+    slug: science
+    url: science
+    subfolderitems:
+      - page: Allocation Programs
+        url: science/allocation-programs
+      - page: 2023 Science Highlights
+        url: science/highlights
+      - page: 2023 Award List
+        url: science/projects
+      - page: Publications
+        url: science/publications
+

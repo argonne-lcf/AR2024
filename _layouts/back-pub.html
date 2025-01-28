@@ -1,0 +1,25 @@
+---
+
+layout: default
+
+---
+
+<main class="page-content layout-wrapper back-pub" aria-label="Content">
+	{{ content }}
+	<button class="to-top js-to-top">
+		Back to Top &uarr;
+	</button>
+</main>
+
+
+{% if page.aside %}
+	<div class="aside">
+		<div class="content-wrapper">
+			{% assign aside-file = page.aside | prepend: "/asides/"  %}
+			{%	capture aside-content %}{% include {{ aside-file }} %}{% endcapture %}
+			{{ aside-content | markdownify }}
+		</div>
+	</div>
+{% endif %}
+
+

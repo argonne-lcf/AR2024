@@ -1,0 +1,37 @@
+/**
+  * Component: Media, Embed
+  *  
+  * @description
+  * -
+  */
+
+.media-embed2x {
+	@include stack(sm);
+	@include grid-child($cols: 12);
+	@include respond-to(m){
+		@include grid-child($cols: 8);
+		grid-column-start: 4;
+	}
+
+	.embed-1, .embed-2 {
+		grid-column: span 6;
+		@include respond-to(m){
+			grid-column: span 4;
+		}
+	}
+
+	iframe {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		@include stack(xs);
+	}
+
+	.caption {
+		color: color(neutral, XXXX);
+	}
+
+	.credit {
+		font-style: italic;
+	}
+		
+}

@@ -1,0 +1,48 @@
+<!-- 
+
+MEDIA, DOWNLOAD
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* filesource
+* title
+- thumbsource
+- credit
+- filetype
+- filesize
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-download">
+	<h2>Download</h2>
+	<a href='{{ include.filesource }}'>
+	<div class='download--content'>
+		<div class="img-wrapper download--thumb">
+			{% if include.thumbsource %}
+			<div><img src="{{ site.url }}/assets/images/{{ include.thumbsource }}"></div>
+			{% else %}
+			<div><img src="{{ site.url }}/assets/images/docthumb"></div>
+			{% endif %}
+		</div>
+		<div class='download--text'>
+			<h3 class='download--title'>{{ include.title }}</h3>
+			{% if include.credit %}
+			<small class='download--credit'>{{ include.credit }}</small>
+			{% endif %}
+			{% if include.filetype %}
+			<small class='download--filetype'>{{ include.filetype }}</small>
+			{% endif %}
+			{% if include.filesize %}
+			<small class='download--filesize'>{{ include.filesize }}</small>
+			{% endif %}
+		</div>
+	</div>
+	</a>
+</div>

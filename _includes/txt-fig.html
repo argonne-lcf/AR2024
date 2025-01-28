@@ -1,0 +1,49 @@
+<!-- 
+
+TEXT, FIGURE
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* figure-1
+* label-1
+- note-1
+- figure-2
+- label-2
+- note-2
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="fig">
+	<div class="fig-1">
+		<h3  class="fig--label">{{ include.label-1 }}</h3>
+		<span class="fig--no">{{ include.figure-1 }}</span>
+		{% if include.note-1 %}
+			<small class="fig--note">{{ include.note-1 }}</small>
+		{% endif %}	
+	</div>
+	{% if include.figure-2 %}
+		<div class="fig-2">
+			<h3  class="fig--label">{{ include.label-2 }}</h3>
+			<span class="fig--no">{{ include.figure-2 }}</span>
+			{% if include.note-2 %}
+				<small class="fig--note">{{ include.note-2 }}</small>
+			{% endif %}	
+		</div>
+	{% endif %}
+	{% if include.figure-3 %}
+		<div class="fig-3">
+			<h3  class="fig--label">{{ include.label-3 }}</h3>
+			<span class="fig--no">{{ include.figure-3 }}</span>
+			{% if include.note-3 %}
+				<small class="fig--note">{{ include.note-3 }}</small>
+			{% endif %}	
+		</div>
+	{% endif %}
+</div>
+
+

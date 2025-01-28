@@ -1,0 +1,488 @@
+/**
+  * Base Styles
+  *  
+  * @description
+  * site-wide styles unique to this project, 
+  * only file where element selectors should be used
+  */
+
+
+
+
+
+// Top Level
+// ----------------------------------------------------------------------------
+
+html, body {
+  min-height: 100vh;
+  height: 100%;
+}
+
+html {
+  overflow: hidden;
+}
+
+body {
+	background: color(neutral, X);
+	color: color(neutral, XXXXX);
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  scroll-padding-top: 7rem;
+}
+
+.to-top {
+  color: color(neutral, XXXX);
+  margin-top: bl(5) !important; //20px
+  grid-column: span 12;
+  @include respond-to(m){
+    grid-column: 4 / 12;
+  }
+  &:hover {
+   color: color(neutral, XXXXX);
+   text-decoration: underline;
+  }
+}
+
+.theme--sky .to-top,
+.theme--sky .to-top a {
+  color: color(blue, XXXX);
+  text-decoration-color: color(blue, XXX);
+}
+
+.theme--cyan .to-top,
+.theme--cyan .to-top a {
+  color: color(neutral, X);
+  text-decoration-color: color(blue, XX);
+}
+
+.theme--dark .to-top,
+.theme--dark .to-top a {
+  color: color(green, XX);
+  text-decoration-color: color(green, XXX);
+}
+
+.theme--warm .to-top,
+.theme--warm .to-top a {
+  color: color(warm, XXX);
+  text-decoration-color: color(warm, XXXX);
+}
+
+.theme--green .to-top,
+.theme--green .to-top a {
+  color: color(green, X);
+  text-decoration-color: color(blue, XX);
+ }
+
+
+
+
+
+// Layout
+// ----------------------------------------------------------------------------
+ 
+.layout-wrapper {
+	@include grid-parent();
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+table,
+.language-plaintext {
+	grid-column: span 12;
+  @include respond-to(m){
+    grid-column: 4 / 12;
+  }
+}
+
+.page-content {
+  @include stack(md);
+}
+
+.height-wrapper {
+  flex: 1 0 auto;
+}
+
+.page-intro-text {
+  @include grid-parent(); 
+}
+
+.page-intro-media{
+  @include grid-parent($config: $grid-full); 
+}
+
+.sci-highlight,
+.page-intro-text {
+  padding: 4rem 0 0 0; //64px
+  @include respond-to(m){
+    padding: 7rem 0 0 0; //112px
+  } 
+}
+
+.primary-txt {
+  @include grid-child($cols: 12);
+  @include stack(md);
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+
+
+
+// Typography
+// ----------------------------------------------------------------------------
+
+h1 {
+  @include typestyle($sans-md-bld);
+  @include stack(xxs);
+}
+
+h2 {
+  @include typestyle($sans-sm-bld);
+}
+
+h3 {
+  @include typestyle($sans-xs-bld);
+  text-transform: uppercase;
+}
+
+h4 {
+  @include typestyle($sans-xs-bld);
+}
+
+p, ol, ul {
+  @include typestyle($sans-sm-reg);
+  @include stack(xs);
+}
+
+ul, ol {
+  padding-left: 20px;
+  @include respond-to(m){
+    padding-left: 0;
+  }
+}
+
+small {
+  @include typestyle($sans-xs-reg);
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-color: color(neutral, XXXX);
+  &:hover {
+    text-decoration-color: color(neutral, XXX);
+  }
+}
+
+mark {
+  background-color: color(warm, XX);
+}
+
+::selection {
+  background: color(warm, XX);
+}
+
+::-moz-selection {
+  background: color(warm, XX);
+}
+
+// code blocks
+.language-plaintext {
+  padding: 0 bl(3); //12px
+  font-size: 1.0625rem;
+  background-color: color(neutral, XX);
+  @include stack(sm);
+}
+
+table {
+  @include stack(sm);
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid color(neutral, XXX);
+}
+
+td { 
+  @include typestyle($sans-xs-reg);
+  vertical-align: top;
+}
+
+th { 
+  @include typestyle($sans-xs-bld);
+}
+
+td, th { 
+  padding: bl(3) bl(2); //12px 8px
+}
+
+// td:first-child, th:first-child {
+//   padding-left: 0;
+// }
+
+ul {
+  list-style-type: '\2014\00a0';
+}
+
+h1.page-title {
+  @include typestyle($sans-lg-bld);
+  @include stack(sm);
+}
+
+p.intro {
+  @include stack(md);
+}
+
+
+
+// Color Themes
+// ----------------------------------------------------------------------------
+
+.theme--white {
+  background: color(neutral, X);
+  color: color(neutral, XXXXX);
+  h1, h2, h3, h4, h5, h6 {
+    color: color(neutral, XXXXX);
+  }
+}
+
+.theme--cyan {
+  background: color(blue, XXXX);
+  color: color(neutral, X);
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
+    color: color(green, XX);
+  }
+  // .sidenav {
+  //   background-color: color(blue, XX);
+  // }
+}
+
+.theme--dark {
+  background: color(neutral, XXXXX);
+  color: color(neutral, X);
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
+    color: color(green, XX);
+  }
+  // .sidenav {
+  //   background-color: color(green, XX);
+  // }
+  .aside {
+    background-color: color(neutral, XXXX);
+    color: color(neutral, X);
+  }
+  .meta {
+    color: color(neutral, XX); 
+  }
+}
+
+.theme--warm {
+  background: color(warm, XXXXX);
+  color: color(neutral, X);
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
+    color: color(warm, XX);
+  }
+  // .sidenav {
+  //   background-color: color(warm, XX);
+  // }
+}
+
+.theme--green {
+  background: color(green, XXX);
+  color: color(neutral, X);
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
+    color: color(blue, XX);
+  }
+  // .sidenav {
+  //   background-color: color(green, XX);
+  // }
+}
+
+.theme--sky {
+  background: color(blue, XX);
+  color: color(blue, XXXXX);
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
+    color: color(blue, XXXXX);
+  }
+  // .sidenav {
+  //   background-color: color(blue, X);
+  // }
+}
+
+.theme--grey {
+  background: color(neutral, XX);
+  color: color(neutral, XXXXX);
+  h1, h2, h3, h4, h5, h6, .intro {
+    color: color(neutral, XXXXX);
+  }
+  // .sidenav {
+  //   background-color: color(blue, XXX);
+  // }
+}
+
+
+
+// Scroll Table
+// ----------------------------------------------------------------------- //
+
+table.scroll-table {
+  table-layout: fixed;
+
+  tr {
+    margin-bottom: space(XXXX);
+    display: block;
+  }
+
+  tr:first-child {
+    border-top: none;
+  }
+
+  td, th {
+    display: block;
+  }
+
+  .table__stack-label {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  span {
+    display: block;
+    @include typestyle($sans-xs-bld);
+  }
+
+  tr td:first-child {
+    @include typestyle($sans-sm-bld);
+    padding-top: bl(4); //16px
+  }
+
+  tr td:last-child {
+    @include stack(xxs);
+  }
+
+
+
+  
+  @include respond-to(m) {
+    .table__stack-label { display: none; }
+    // IE needs inline-block to position scrolling shadows otherwise use:
+    display: inline-block;
+    vertical-align: top;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    // workaround to make sure the scrollbar doesn't misalign the table
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      overflow-x: overlay;
+    }
+    text-align: left;
+
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+    background: none;
+
+     span {
+        display: none;
+      }
+
+    tbody {
+      display: flex;
+      position: relative;
+      overflow-x: auto;
+      overflow-y: hidden;
+      border-right: 1px solid color(neutral, XXX);
+      // workaround to make sure the scrollbar doesn't misalign the table
+      @media screen and (-webkit-min-device-pixel-ratio:0) {
+        overflow-x: overlay;
+      }
+
+      // optional - enable iOS momentum scrolling
+      -webkit-overflow-scrolling: touch;
+
+      // scrolling shadows
+      background: radial-gradient(ellipse at left, rgba(110, 110, 120, .15) 0%, rgba(110, 110, 120, 0) 75%, rgba(110, 110, 120, 0) 75%) 0 center, radial-gradient(ellipse at right, rgba(110, 110, 120, .15) 0%, rgba(110, 110, 120, 0) 75%, rgba(110, 110, 120, 0) 75%) 100% center;
+      background-size: 24px 100%, 24px 100%;
+      background-attachment: scroll, scroll;
+      background-repeat: no-repeat;
+    }
+
+    // change these gradients from white to your background colour if it differs
+    // gradient on the first cells to hide the left shadow
+    // td:first-child,
+    tbody tr:first-child {
+      background-image: linear-gradient(to right, rgba(250,250,255, .45) 50%, rgba(250,250,255, 0) 100%);
+      background-repeat: no-repeat;
+      background-size: 48px 100%;
+    }
+
+    // gradient on the last cells to hide the right shadow
+    // td:last-child,
+    tbody tr:last-child {
+      background-image: linear-gradient(to left, rgba(250,250,255, .45) 50%, rgba(250,250,255, 0) 100%);
+      background-repeat: no-repeat;
+      background-position: 100% 0;
+      background-size: 48px 100%;
+      width: 100%;
+    }
+
+    thead {
+      width: 180px;
+      min-width: min-content;
+      display: flex;
+      border-right: 1px solid color(neutral, XXX);
+    }
+
+
+    tbody tr {
+      width: 30%;
+    }
+
+    tr {
+      display: grid;
+      grid-auto-flow: row;
+      grid-auto-rows: 1fr;
+      height: 100%;
+      margin-bottom: 0;
+      border-top: none;
+    }
+
+
+    td, th {
+      min-width: 180px;
+      height: 100%;
+      box-sizing: border-box;
+      grid-row:auto / span 1;
+    }
+
+    td {
+      background-image: none !important;
+      // border-collapse is no longer active
+      border-left: 0;
+    }
+
+    tr td:first-child {
+    @include typestyle($sans-xs-bld);
+    padding-top: bl(3); //12px
+  }
+
+  }
+}
+
+

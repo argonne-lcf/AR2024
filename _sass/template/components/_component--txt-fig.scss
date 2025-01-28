@@ -1,0 +1,44 @@
+/**
+  * Component: Text, Figure
+  *  
+  * @description
+  * -
+  */
+
+.fig {	
+	@include stack(sm);
+	margin-top: bl(6); //24px
+	@include grid-child($cols: 12);
+	@include respond-to(m){
+		@include grid-child($cols: 12);
+		grid-column-start: 4;
+	}
+
+	.fig-1,
+	.fig-2,
+	.fig-3 {
+		grid-column: span 6;
+		margin-top: 12px;
+		@include respond-to(m){
+			grid-column: span 4;
+		}
+	}
+
+	.fig--label {
+		border-bottom: 2px solid color(neutral, XXX);
+		@include stack(xxs);
+		@include respond-to(m){
+			margin-bottom: 0;
+		}
+	}
+
+	.fig--no {
+		@include typestyle($sans-lg-reg);
+	}
+
+	.fig--note {
+		color: color(neutral, XXXX);
+		display: block;
+	}
+		
+}
