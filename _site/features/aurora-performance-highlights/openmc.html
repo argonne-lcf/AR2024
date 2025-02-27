@@ -4,11 +4,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Monte Carlo Neutron and Photon Transport Simulations: OpenMC | 2023 ALCF Annual Report</title>
-<meta name="generator" content="Jekyll v3.9.3" />
+<meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Monte Carlo Neutron and Photon Transport Simulations: OpenMC" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for CPU-based high-performance computers (HPC) and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems." />
-<meta property="og:description" content="OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for CPU-based high-performance computers (HPC) and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems." />
+<meta name="description" content="OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for central processing unit- (CPU-) based high-performance computers (HPC) that is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems." />
+<meta property="og:description" content="OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for central processing unit- (CPU-) based high-performance computers (HPC) that is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems." />
 <link rel="canonical" href="http://localhost:4000/features/aurora-performance-highlights/openmc" />
 <meta property="og:url" content="http://localhost:4000/features/aurora-performance-highlights/openmc" />
 <meta property="og:site_name" content="2023 ALCF Annual Report" />
@@ -18,11 +18,13 @@
 <meta property="twitter:image" content="http://localhost:4000/openmc.PNG" />
 <meta property="twitter:title" content="Monte Carlo Neutron and Photon Transport Simulations: OpenMC" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for CPU-based high-performance computers (HPC) and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems.","headline":"Monte Carlo Neutron and Photon Transport Simulations: OpenMC","image":"http://localhost:4000/openmc.PNG","url":"http://localhost:4000/features/aurora-performance-highlights/openmc"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for central processing unit- (CPU-) based high-performance computers (HPC) that is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems.","headline":"Monte Carlo Neutron and Photon Transport Simulations: OpenMC","image":"http://localhost:4000/openmc.PNG","url":"http://localhost:4000/features/aurora-performance-highlights/openmc"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
-  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="2023 ALCF Annual Report" /></head>
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="2023 ALCF Annual Report" /><meta property="og:title" content="ALCF 2023 Annual Report" />
+  <meta property="og:image" content="http://localhost:4000/assets/images/og-ar2023.jpg" />
+</head>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V7JP2R5JPH"></script>
@@ -33,6 +35,7 @@
 
   gtag('config', 'G-V7JP2R5JPH');
 </script>
+
     <body class="theme--dark">
   <header class="header" role="banner">
 
@@ -81,6 +84,40 @@
             <!-- <a href="http://localhost:4000/science">Science</a> -->
           </h2>
         
+        <div class='search-trig' id='js-search-trig'>
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+
+        <form class='searchbar' id='js-searchbar' action="http://localhost:4000/search.html" method="get">
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+          <input 
+            aria-label="Search the annual report"
+            autocomplete="off"
+            inputmode="search"
+            placeholder="Search"
+            type="search"
+            id="search-box" 
+            name="query"
+          >
+          <div class='x-box' id='js-searchbar-close'>
+            <svg class='x' fill="currentColor" viewBox="0 0 512 512">
+              <g>
+                <polygon points="512,59.076 452.922,0 256,196.922 59.076,0 0,59.076 196.922,256 0,452.922 59.076,512 256,315.076 452.922,512 512,452.922 315.076,256"/>
+              </g>
+            </svg>
+          </div>
+        </form>
+
       </div>
 
     </div>
@@ -97,7 +134,7 @@
 
       <div class="nav">
         <div class="js-drop menuitem-wrapper" id="toggle-menu" data-menu="menu">
-          <h1>Menu &blacktriangledown;</h1>
+          <h1>Menu <!--&nbsp;&blacktriangledown;--></h1> 
           <div id="menu" class="dropdown js-dropdown-hidden">
 
             <div class="nav-wrapper">
@@ -204,8 +241,8 @@
                         </li>
                       
                         <li>
-                          <a href="/community-and-outreach/dei">
-                            Building a Diverse HPC Workforce
+                          <a href="/community-and-outreach/building-an-hpc-workforce">
+                            Building an HPC Workforce
                           </a>
                         </li>
                       
@@ -309,10 +346,41 @@
                    
                 </div>
                 
-            </div>
-            
+            </div>   
           </div>
         </div>
+        <div class='search-trig' id='js-search-trig-mobile'>
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+        <form class='searchbar' id='js-searchbar-mobile' action="http://localhost:4000/search.html" method="get">
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+          <input 
+            aria-label="Search the annual report"
+            autocomplete="off"
+            inputmode="search"
+            placeholder="Search"
+            type="search"
+            id="search-box" 
+            name="query"
+          >
+          <div class='x-box' id='js-searchbar-close-mobile'>
+            <svg class='x' fill="currentColor" viewBox="0 0 512 512">
+              <g>
+                <polygon points="512,59.076 452.922,0 256,196.922 59.076,0 0,59.076 196.922,256 0,452.922 59.076,512 256,315.076 452.922,512 512,452.922 315.076,256"/>
+              </g>
+            </svg>
+          </div>
+        </form>
       </div>
 
     </div>
@@ -565,12 +633,12 @@ available parameters:
 
 -->
 
-<p class="intro">OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for CPU-based high-performance computers (HPC) and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems.</p>
+<p class="intro">OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for central processing unit- (CPU-) based high-performance computers (HPC) that is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working to port the application to graphics processor unit- (GPU-) based HPC systems.</p>
 
 <h1 id="challenge">Challenge</h1>
 <p>The GPU-oriented version of OpenMC has been completed and is already running on a number of GPU-based supercomputers, including Sunspot—the ALCF’s Aurora testbed and development system—and the ALCF’s NVIDIA-based Polaris. While the team’s goal is focused on honing performance on Aurora, the OpenMP offloading model has resulted in strong performance on every machine on which it was deployed, irrespective of vendor.</p>
 
-<p>Current full-machine projections for OpenMC running on Aurora, based on preliminary simulation runs performed on Sunspot, are in the ballpark of 20 billion particle histories per second—indicating a speedup by some 2500x over what could be achieved at full-machine scale at the time of the ECP’s inception (the goal for which had been a fiftyfold speedup).</p>
+<p>Current full-machine projections for OpenMC running on Aurora, based on preliminary simulation runs performed on Sunspot, are in the ballpark of 20 billion particle histories per second—indicating a speedup by some 2500x over what could be achieved at full-machine scale at the time of the Exascale Computing Project’s inception (the goal for which had been a fiftyfold speedup).</p>
 
 <h1 id="performance-results">Performance Results</h1>
 <p>The code has been run across multiple types of GPUs, with large performance gains—all over 2x—demonstrated on the Aurora testbed, Sunspot, over other systems. The increases have been consistent across single-GPU, full-node, and multi-node comparisons performed in 2023 on as many as 96 GPUs.</p>
@@ -603,7 +671,7 @@ available parameters:
 
 <h1 id="impact">Impact</h1>
 
-<p>The ECP-supported ExaSMR project aims to use OpenMC to model the entire core of a nuclear reactor, generating virtual reactor simulation datasets with high-fidelity, coupled physics models for reactor phenomena that are truly predictive, filling in crucial gaps in experimental and operational reactor data. The extreme performance gains OpenMC has achieved on GPUs is finally bringing within reach a much larger class of problems that historically were deemed too expensive to simulate using Monte Carlo methods.</p>
+<p>The ECP-supported ExaSMR project aims to use OpenMC to model the entire core of a nuclear reactor, generating virtual reactor simulation datasets with high-fidelity, coupled physics models for reactor phenomena that are truly predictive, filling in crucial gaps in experimental and operational reactor data. The extreme performance gains OpenMC has achieved on GPUs are finally bringing within reach a much larger class of problems that historically were deemed too expensive to simulate using Monte Carlo methods.</p>
 
 
 	</div>

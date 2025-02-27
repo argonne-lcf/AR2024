@@ -1,0 +1,71 @@
+---
+
+layout: default
+title: Search Results
+
+---
+
+<main class="page-content layout-wrapper page" aria-label="Content">
+
+<!-- Based on tutorial: https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/ -->
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+
+<h2 id='search-title'></h2>
+<ul id="search-results"></ul>
+
+
+
+<script>
+  const highlights_json = {
+    {% for highlight in site.highlights %}
+      "{{ highlight.url | slugify }}": {
+        "title": "{{ highlight.title | xml_escape }}",
+        "content": {{ highlight.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ highlight.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+  const performance_json = {
+    {% for ph in site.performancehighlights %}
+      "{{ ph.url | slugify }}": {
+        "title": "{{ ph.title | xml_escape }}",
+        "content": {{ ph.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ ph.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  }
+  const pages_json = {
+  {%- assign pages = site.pages -%}
+  {%- for p in pages %}
+    "{{ p.url | slugify }}": {
+        "title": "{{ p.title | xml_escape }}",
+        "content": {{ p.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ p.url | xml_escape }}"
+      }
+      {%- unless forloop.last %},{% endunless -%}
+    {% endfor %}
+  }
+
+  window.store = {...highlights_json, ...pages_json, ...performance_json}
+</script>
+<script>
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const searchTerm = urlParams.get('query');
+  document.getElementById('search-title').innerHTML = 'Results for: ' + searchTerm;
+</script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="{{ site.url }}/assets/js/search.js"></script>
+
+
+
+  <button class="to-top js-to-top">
+    Back to Top &uarr;
+  </button>
+</main>
+
+

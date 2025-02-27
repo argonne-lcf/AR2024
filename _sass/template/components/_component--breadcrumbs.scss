@@ -7,7 +7,7 @@
 
 #breadcrumbs {
 	grid-column: span 12;
-	@include stack(xs);
+	@include stack(md);
 	margin-top: 9px !important;
 	@include typestyle($sans-xs-reg);
 	color: color(neutral, XXXX);

@@ -92,25 +92,25 @@ title: Argonne Leadership Computing Facility
 			<div class="embed-wrapper">
 				<iframe src="https://www.youtube.com/embed/-UBFVYZqoHQ?si=VaOCTlz0re_k0VCn&amp;clip=UgkxMyXhlXf6cejE6yfL-z6T4-cvDN9wRY-9&amp;clipt=EO_TAxjn8gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
-			<small class="caption">
+			<p>
 				Argonne physicist Walter Hopkins discusses the importance of Aurora for extracting more information from particle physics experiments. <span class="credit">Credit: Argonne National Laboratory</span>
-			</small>
+			</p>
 		</div>
 		<div class='embed-2'>
 			<div class="embed-wrapper">
 				<iframe src="https://www.youtube.com/embed/3mm-V7qehRk?si=tTBXBicmlLl6GTEr&amp;clip=UgkxwFyoghxZ34Tos70zgWr8VLa6ZXH5Z-DW&amp;clipt=EOW2BBjv5wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
-			<small class="caption">
+			<p>
 				Argonne cosmologist Katrin Heitmann discusses how Aurora will help scientists search for dark energy and improve our understanding of the cosmos. <span class="credit">Credit: Argonne National Laboratory</span>
-			</small>
+			</p>
 		</div>
 		<div class='embed-3'>
 			<div class="embed-wrapper">
 				<iframe src="https://www.youtube.com/embed/stoy8fkJC7s?si=w-2HEzK_PJZSFflN&amp;clip=Ugkx4ffoVvaU1z6zjhOy5cSgU4i5ZsU7aHQ5&amp;clipt=EMDOAxiiggc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
-			<small class="caption">
+			<p>
 				Argonne neuroscientist Bobby Kasthuri and computational scientist Nicola Ferrier discuss how Aurora and the upgraded APS will improve our understanding of the structure and function of the human brain. <span class="credit">Credit: Argonne National Laboratory</span>
-			</small>
+			</p>
 		</div>
 	<!-- </div> -->
 </div>

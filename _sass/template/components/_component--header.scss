@@ -47,22 +47,24 @@ header {
 	.nav {
 		grid-column: 10 / -1;
 		justify-self: end;
+		padding-right: 64px;
 		@include respond-to(m){
-			grid-column: 4 / -1;;
+			grid-column: 4 / -1;
 		}
 	}
 
 	h1 {
-		@include typestyle($sans-xs-bld);
+		@include typestyle($sans-sm-bld);
 		color: color(green, X) !important;
 		@include respond-to(m){
 			@include typestyle($sans-sm-bld);
+			margin-top: bl(1);
 		}
 	}
 
 
 	h2 {
-		@include typestyle($sans-xs-bld);
+		@include typestyle($sans-sm-bld);
 		display: inline-block;
 		margin-left: bl(2); //8px;
 		margin-right: bl(2); //8px;
@@ -83,6 +85,41 @@ header {
 	text-decoration: underline;
 	text-decoration-color: color(neutral, X);
 	}
+
+	.search-trig {
+		margin-left: bl(6); //24px;
+		height: 36px;
+		width: 36px;
+		margin-top: -18px;
+		position: absolute;
+		right: 24px;
+		top: 50%;
+		background-color: color(warm, XXXX);
+		border-radius: 4px;
+		display: inline-block;
+		transition: .2s all;
+		&:hover {
+			cursor: pointer;
+			background-color: color(warm, XXXXX);
+		}
+	}
+
+	svg.mag {
+		position: relative;
+  	top: 50%; 
+  	height: 26px;
+  	width: 26px;
+  	left: 50%;
+  	margin: -13px 0 0 -13px;
+  	color: color(blue, X);
+  	@include respond-to(m){
+			height: 32px;
+			width: 32px;
+			margin: -16px 0 0 -16px;
+		}
+	}
+
+
 
 
 	.menuitem-wrapper {

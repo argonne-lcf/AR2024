@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Accelerating Drug Design and Discovery | 2023 ALCF Annual Report</title>
-<meta name="generator" content="Jekyll v3.9.3" />
+<meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Accelerating Drug Design and Discovery" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="High-throughput screening of extensive compound datasets so as to identify advantageous properties—such as the ability to interact with relevant biomolecules (including proteins)—represents a promising direction in drug discovery for the treatment of diseases like cancer as well as for response to epidemics like SARS-CoV-2. However, traditional structural approaches for assessing binding affinity, such as free energy methods or molecular docking, pose significant computational bottlenecks when dealing with quantities of data of this magnitude. To address this, researchers have developed a docking surrogate called the SMILES transformer (ST), which learns molecular features from the SMILES (Simplified Molecular Input Line Entry System) representation of compounds and approximates their binding affinity." />
@@ -22,7 +22,9 @@
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
-  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="2023 ALCF Annual Report" /></head>
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="2023 ALCF Annual Report" /><meta property="og:title" content="ALCF 2023 Annual Report" />
+  <meta property="og:image" content="http://localhost:4000/assets/images/og-ar2023.jpg" />
+</head>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V7JP2R5JPH"></script>
@@ -33,6 +35,7 @@
 
   gtag('config', 'G-V7JP2R5JPH');
 </script>
+
     <body class="theme--dark">
   <header class="header" role="banner">
 
@@ -81,6 +84,40 @@
             <!-- <a href="http://localhost:4000/science">Science</a> -->
           </h2>
         
+        <div class='search-trig' id='js-search-trig'>
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+
+        <form class='searchbar' id='js-searchbar' action="http://localhost:4000/search.html" method="get">
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+          <input 
+            aria-label="Search the annual report"
+            autocomplete="off"
+            inputmode="search"
+            placeholder="Search"
+            type="search"
+            id="search-box" 
+            name="query"
+          >
+          <div class='x-box' id='js-searchbar-close'>
+            <svg class='x' fill="currentColor" viewBox="0 0 512 512">
+              <g>
+                <polygon points="512,59.076 452.922,0 256,196.922 59.076,0 0,59.076 196.922,256 0,452.922 59.076,512 256,315.076 452.922,512 512,452.922 315.076,256"/>
+              </g>
+            </svg>
+          </div>
+        </form>
+
       </div>
 
     </div>
@@ -97,7 +134,7 @@
 
       <div class="nav">
         <div class="js-drop menuitem-wrapper" id="toggle-menu" data-menu="menu">
-          <h1>Menu &blacktriangledown;</h1>
+          <h1>Menu <!--&nbsp;&blacktriangledown;--></h1> 
           <div id="menu" class="dropdown js-dropdown-hidden">
 
             <div class="nav-wrapper">
@@ -204,8 +241,8 @@
                         </li>
                       
                         <li>
-                          <a href="/community-and-outreach/dei">
-                            Building a Diverse HPC Workforce
+                          <a href="/community-and-outreach/building-an-hpc-workforce">
+                            Building an HPC Workforce
                           </a>
                         </li>
                       
@@ -309,10 +346,41 @@
                    
                 </div>
                 
-            </div>
-            
+            </div>   
           </div>
         </div>
+        <div class='search-trig' id='js-search-trig-mobile'>
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+        <form class='searchbar' id='js-searchbar-mobile' action="http://localhost:4000/search.html" method="get">
+          <svg class='mag' aria-hidden="true" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+          <input 
+            aria-label="Search the annual report"
+            autocomplete="off"
+            inputmode="search"
+            placeholder="Search"
+            type="search"
+            id="search-box" 
+            name="query"
+          >
+          <div class='x-box' id='js-searchbar-close-mobile'>
+            <svg class='x' fill="currentColor" viewBox="0 0 512 512">
+              <g>
+                <polygon points="512,59.076 452.922,0 256,196.922 59.076,0 0,59.076 196.922,256 0,452.922 59.076,512 256,315.076 452.922,512 512,452.922 315.076,256"/>
+              </g>
+            </svg>
+          </div>
+        </form>
       </div>
 
     </div>
@@ -576,7 +644,7 @@ available parameters:
 <h1 id="performance-results">Performance Results</h1>
 <p>Drug screening inference scaled to 128 nodes on Aurora, screening approximately 11 billion drug molecules per hour. Screening inference was then scaled to 256 nodes on Aurora, screening approximately 22 billion drug molecules per hour. These results indicate that Aurora enabled strong performance improvements over other systems: the workflow facilitated screening some 3 billion compounds per hour when scaled to 48 nodes on Polaris. Assuming linear scaling, researchers could expect about a trillion compounds screened per hour if using all compute resources in Aurora.</p>
 
-<p>SST showed comparable accuracy to state-of-the-art surrogate models, with r-squared values between 70 and 90 percent on multiple test protein receptors, affirming the capability of SST to learn molecular information directly from language-based data. One significant advantage of the SST approach is its notably faster tokenization preprocessing compared to alternative preprocessing methods such as generating molecular descriptors. Furthermore, SST predictions emphasize several molecular motifs that have previously been confirmed to interact with residues in their target binding pockets.</p>
+<p>ST showed comparable accuracy to state-of-the-art surrogate models, with r-squared values between 70 and 90 percent on multiple test protein receptors, affirming the capability of ST to learn molecular information directly from language-based data. One significant advantage of the ST approach is its notably faster tokenization preprocessing compared to alternative preprocessing methods such as generating molecular descriptors. Furthermore, ST predictions emphasize several molecular motifs that have previously been confirmed to interact with residues in their target binding pockets.</p>
 
 <!-- 
 

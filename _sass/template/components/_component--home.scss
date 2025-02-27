@@ -24,14 +24,14 @@
 	margin-top: 54px;
 	width: 100vw;
 	box-sizing: border-box;
-	@include stack(xs);
+	@include stack(xxs);
 	@include respond-to(m){
 		margin-top: 64px;
 	}
 
 	.img-wrapper {
 		width: 100vw;
-		@include aspect-ratio(2, .85);
+		@include aspect-ratio(2, 1); // formerly .85
 	}
 
 	img {
@@ -51,7 +51,7 @@
 		left: 20px;
 		box-sizing: border-box;
 		@include respond-to(s){
-			top: bl(10); //40px
+			top: bl(4); //16px
 		}
 	}
 
@@ -85,7 +85,7 @@
 }
 
 .home--hero-caption {
-	@include grid-parent();
+	@include grid-parent($config: $grid-full);
 	@include stack(xs);
 
 	small {
@@ -152,14 +152,14 @@
 	}
 
 	p {
-		@include typestyle($sans-xs-bld);
+		@include typestyle($sans-sm-reg);
 	}
 
 	.teaser {
 		background: color(warm, XXXX);
   	color: color(blue, X);
 		transition: all .15s;
-		@include stack(lg);
+		@include stack(md);
 		grid-column: span 12;
 		@include respond-to(s){
 			grid-column: span 6;
@@ -215,7 +215,7 @@
 	background-color: color(warm, XXXXX);
 	color: color(neutral, X);
 	width: 100vw;
-	padding: bl(10) 0;
+	padding: bl(7) 0 bl(14);
 
 	.content-wrapper {
 		@include grid-parent($config: $grid-full);

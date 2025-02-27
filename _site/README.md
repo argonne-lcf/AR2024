@@ -1,2 +1,2 @@
-# AR2023
-ALCF 2023 Annual Report
+# AR2024
+ALCF Annual Report for 2024
