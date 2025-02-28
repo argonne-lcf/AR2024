@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Partnering with Industry
+title: Powering breakthroughs for U.S. industry 
 hero-mp4-source: "industry.mp4"
 hero-webm-source: "industry.webm"
 hero-img-caption: "Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This is a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the Army Research Laboratory's midsize combustor (ARC-M1) at the University of Illinois Urbana-Champaign. The simulation was performed on ALCF computing resources using the Nek5000 code."
@@ -11,19 +11,23 @@ theme: white
 permalink: community-and-outreach/industry
 ---
 
-The ALCF's Industry Partnerships Program is designed to expand the facility’s community of industry users by engaging with companies of all sizes, from startups to Fortune 500 corporations, that could benefit from ALCF computing systems and expertise. 
 
-With state-of-the-art simulation, data analysis, and machine learning capabilities, ALCF supercomputing and AI resources enable companies to tackle R&D challenges that are too computationally demanding for traditional computing clusters. Access to ALCF systems allows industry researchers to create higher-fidelity models, achieve more accurate predictions, and quickly analyze massive amounts of data. The results enable companies to accelerate critical breakthroughs, verify uncertainties, and reduce the need to build costly prototypes.
+Through collaborations with industry partners, the ALCF provides companies with access to powerful computing resources that drive technological advancements, accelerate product development, and strengthen the nation’s innovation infrastructure.
 
-The ALCF has strengthened its industry outreach efforts through collaborations with other Argonne user facilities and divisions, including the Science and Technology Partnership Outreach (STPO) division. This approach has offered a more comprehensive understanding of the laboratory's resources, resulting in increased engagement with a number of companies.
+The ALCF’s Industry Partnerships Program enables companies of all sizes—from startups to Fortune 500 corporations—to leverage leadership computing resources and expertise. These collaborations help industry partners to tackle R&D challenges that exceed the capabilities of traditional computing systems.
 
-Furthermore, the ALCF continued to play an active role in guiding the DOE Exascale Computing Project’s Industry and Agency Council, an advisory group comprising senior executives from leading U.S. companies and government agencies. This collaboration focused on deploying exascale computing to enhance products and services, fostering innovation and advancement in various industries.
+With state-of-the-art capabilities for simulation, AI, and data analysis, ALCF computing resources help researchers create higher-fidelity models, achieve more accurate predictions, and quickly process massive datasets. As a result, companies can accelerate breakthroughs, reduce uncertainties, and minimize the need for costly prototypes.
 
-Ultimately, ALCF-industry collaborations help to stimulate technological and engineering advances while bolstering the nation’s innovation infrastructure.
+The ALCF continues to expand its industry outreach efforts by partnering with other Argonne divisions and user facilities, including the Science and Technology Partnership Outreach (STPO) division. This integrated approach provides a more comprehensive understanding of the laboratory’s capabilities and promotes broader, more impactful partnerships.
 
-# Driving Innovation for Industry
+The ALCF offers several avenues for industry partners to access its computing resources. These include the INCITE, ALCC, and Director’s Discretionary allocation programs, which provide researchers with opportunities to apply for computing time and collaborate on high-impact projects.
+
+For companies focused on addressing energy-related challenges in manufacturing or materials development, DOE’s High Performance Computing for Energy Innovation (HPC4EI) program is another available option. HPC4EI provides access to DOE’s world-class supercomputing resources through two subprograms: HPC4Mfg, which focuses on optimizing manufacturing processes, and HPC4Mtls, which supports the development of advanced materials that perform well in harsh or complex environments.
+
+Through these programs, the ALCF helps U.S. industries stay competitive in an evolving global market. By providing access to HPC and AI computing resources and expertise, these partnerships enable companies to tackle complex challenges, accelerate the R&D process, and drive technological innovation.
 
 Here are some examples of how ALCF resources are helping companies to advance their R&D efforts.
+
 
 ## 3M Reduces Improves Energy Efficiency of Manufacturing Process 
 As part of DOE’s HPC for Energy Innovation (HPC4EI) program, researchers from 3M are working with Argonne to leverage ALCF supercomputers and AI to improve the energy efficiency of a manufacturing process used to produce melt-blown nonwoven materials. This extremely energy-intensive process is widely used by 3M to produce filters, fabrics, and insulation materials, as well as the N95 mask used for protection during the COVID-19 pandemic. By using ALCF computing resources to pair computational fluid dynamics simulations and machine learning techniques, the Argonne-3M collaboration is working to reduce energy consumption by 20%, which would save the industry nearly 50 gigawatt hours per year, without compromising material quality. To learn more about this collaboration, read this [article from HPE](https://www.hpe.com/psnow/doc/a50007725enw.pdf).
