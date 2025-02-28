@@ -18,9 +18,9 @@ image-credit: 'J. Chiang, SLAC; C. Hirata, Ohio State University; and NASA’s G
 publications:
   - authors: 'OpenUniverse Team'
     title: 'OpenUniverse 2024 Simulated Roman & Rubin Images: Preview'
-    source: ''
+    source: null
     date: '2024'
-    publisher: ''
+    publisher: null
     url: 'https://doi.org/10.26131/IRSA569'
     
     
