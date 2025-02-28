@@ -4,7 +4,7 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/kent'
 
-title: 'Towards DMC Accuracy Across Chemical Space with Scalable Δ-QML'
+title: 'Simulating the Cosmos for the Roman and Rubin Telescopes'
 pi: 'Katrin Heitmann, Argonne National Laboratory'
 award: 'Director's Discretionary'
 systems: 'Theta'
