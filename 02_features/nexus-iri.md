@@ -22,39 +22,18 @@ Numerous ALCF activities and achievements have helped realize the DOE effort to 
 -	Participating in leadership groups and technical subcommittees dedicated to the design and implementation of computing facility functionality useful for experimentalists.
 
 
-{% include media-img.html
-   source= "Nexus-Infographic.jpg"
-   caption= "Argonne's Nexus effort is working to advance data-intensive science via an Integrated Research Infrastructure that connects experimental facilities, supercomputing resources and data technologies."
-   credit= "Argonne National Laboratory"
-%}
-
-For over three decades, Argonne has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS](https://www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility](https://www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)](https://www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
-
-These collaborations have led to the creation of new capabilities for on-demand computing and managing complex workflows, giving the lab valuable experience to support the DOE IRI initiative. Argonne also operates several resources and services that are key to realizing the IRI vision.
-
--	The ALCF's [Polaris](https://www.alcf.anl.gov/polaris) and [Aurora](https://www.alcf.anl.gov/aurora) systems are powerful supercomputers with advanced capabilities for simulation, AI, and data analysis.
--	The [ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed) provides researchers with access to novel AI accelerators for data-intensive tasks and AI workloads, including training, inference, large language models, and computer vision models. 
--	The [ALCF Community Data Co-Op (ACDC)](https://www.acdc.alcf.anl.gov) provides large-scale data storage capabilities, offering a portal that makes it easy to share data with external collaborators across the globe. 
--	[Globus](https://www.globus.org), a research automation platform created by researchers at Argonne and the University of Chicago, is a not-for-profit service used to manage high-speed data transfers, computing workflows, data collection, and other tasks for experiments.
-
 # Nexus
+Under Nexus, Argonne researchers are working to advance the DOE’s vision by integrating experimental facilities with ALCF computing resources. 
+
+As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF has continued its commitment to linking experimental facilities with ALCF computing. Work with APS over recent years has been a primary driver for defining new functionality and services ALCF has deployed to satisfy experiment-time computing needs at APS beamlines. Service accounts enable APS users to leverage automated analysis of their data at ALCF in a shared environment in a streamlined fashion throughout their multi-day beamline campaigns, with jobs running immediately at experiment time in the on-demand queue on Polaris. Analysis results are available to scientists at the beamline via Globus Sharing enabled on the Eagle filesystem, at the time of experiment and post-hoc. Building on these ALCF-deployed features, Globus Compute and Globus Flows manage application execution and data transfer in a frictionless manner, for projects across the DOE-SC program offices.
 
 
-# Streamlining Science
+# Facility Integration
 
-The IRI will not only enable experiments to analyze vast amounts of data, but it will also allow them to process large datasets quickly for rapid results. This is crucial as experiment-time analysis often plays a key role in shaping subsequent experiments.
+For over a decade, the ALCF and the APS have been collaborating to build the infrastructure for integrated ALCF-APS research, including work to develop workflow management tools and enable secure access to on-demand computing.
+With the upgraded APS providing x-rays up to 500 times brighter than before, the APS-ALCF collaboration is paying off with increased computational power at experiment time, a requirement given the corresponding growth in data rates and resulting computing needs. The APS powers more than 60 beamlines, each representing a unique experimental apparatus and research community. Of these, more than 20 identified significant computing needs and have engaged the full power of ALCF's Nexus services and functionality, using service accounts for transparent access to ALCF, and the demand queue for time-sensitive analysis of beamline data through integration with the APS Data Management system. With more beamlines coming online following the upgrade, with greater data analysis needs, the APS demand for computing at ALCF will continue to grow, and also leverage the newly upgraded network connectivity between the facilities.
 
-{% include media-img.html
-   source= "SC23-Nexus-talk.jpg"
-   caption= "Rachana Ananthakrishnan, Globus executive director (left), and Tom Uram, ALCF IRI lead (right), give a talk on Nexus at the DOE booth at the SC23 Conference."
-   credit= "Argonne National Laboratory"
-%}
-
-For the Argonne-DIII-D collaboration, researchers demonstrated how the close integration of ALCF supercomputers could benefit a fast-paced experimental setup. Their work centered on a fusion experiment that used a series of plasma pulses, or shots, to study the behavior of plasmas under controlled conditions. The shots were occurring every 20 minutes, but the data analysis required more than 20 minutes using their local computing resources, so the results were not available in time to inform the ensuing shot. DIII-D teamed up with the ALCF to explore how they could leverage supercomputers to speed up the analysis process. 
-
-To help DIII-D researchers obtain results on a between-pulse timescale, the ALCF team automated and shifted the analysis step to ALCF systems, which computed the analysis of every single pulse and returned the results to the research team in a fraction of the time required by the computing resources locally available at DIII-D. Not only did the DIII-D team get the results in time to calibrate the next shot, they also got 16x higher resolution analyses that helped improve the accuracy of their experimental configuration.
-
-Many APS experiments, including battery research, the exploration of materials failure, and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
+Working with a team at the Lawrence Berkeley National Laboratory Advanced Light Source, ALCF staff have helped to automate analysis of data from a tomography beamline on Polaris. Using a service account to submit jobs to Polaris through Globus Compute and the demand queue to analyze data at experiment time, the team has moved beyond an initial prototype and is now able to run analysis in a dedicated discretionary allocation. This production-ready capability is planned to be used in upcoming beamline experiments.
 
 <br>
 
@@ -64,9 +43,8 @@ Many APS experiments, including battery research, the exploration of materials f
    credit= "Argonne National Laboratory"
 %}
 
-A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating, and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
 
-# Supercomputing on Demand 
+# Expanding and Demonstrating Capabilities
 
 Getting instant access to DOE supercomputers for data analysis requires a shift in how the computing facilities operate. Each facility has established policies and processes for gaining access to machines, setting up user accounts, managing data and other tasks. If a researcher is set up at one computing facility but needs to use supercomputers at the other facilities, they would have to go through a similar set of steps again for each site.
 
