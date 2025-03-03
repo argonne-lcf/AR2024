@@ -10,18 +10,14 @@ hero-img-caption: "ALCF's Riccardo Balin (left) received a Postdoctoral Performa
 ---
 
 
-# ALCF Team Awarded Most Outstanding Paper at 2023 IWOCL & SYCLcon
+# ALCF Team Receives Best Paper Award at ISAV 2024
 
-ALCF researchers authored a study that was recognized as the [Most Outstanding Paper at the 2023 IWOCL & SYCLcon conference](https://www.alcf.anl.gov/news/simplifying-use-complex-numbers-sycl). Led by ALCF’s Thomas Applencourt, the team included ALCF colleagues Kevin Harms, Brice Videau, and Nevin Liber, as well as Bryce Allen of Argonne/University of Chicago, Amanda Dufek of NERSC, and Jefferson le Quellec and Aiden Belton-Schure of Codeplay. The team’s paper, “[Standardizing complex numbers in SYCL](https://dl.acm.org/doi/abs/10.1145/3585341.3585343),” provides an open-source library of complex numbers and associated math functions that can be used in computations carried out with SYCL, a key programming framework for next-generation supercomputers, including the ALCF’s Aurora exascale system. 
+A team including ALCF researchers received the [Best Paper Award](https://www.alcf.anl.gov/news/alcf-teams-receive-best-paper-awards-sc24-workshops) at the SC24 conference’s In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization (ISAV 2024) Workshop. The paper, “[Bridging Gaps in Simulation Analysis through a General Purpose, Bidirectional Steering Interface with Ascent](https://doi.org/10.1109/SCW63240.2024.00119),” was authored by Argonne’s Victor Mateevitsi, Silvio Rizzi, Joseph Insley, Michael Papka, Thomas Marrinan, and Dimitrios Fytanidis, along with Utah State University’s Andres Sewell and Steve Petruzza, and Cyrus Harrison and Nicole Marsaglia of Lawrence Livermore National Laboratory. Sewell, the lead author, has been a summer student at the ALCF for the past two years. The paper introduces a framework for adding interactive, human-in-the-loop steering controls to existing simulation codes. This capability allows scientists to pause, adjust, and resume large-scale simulations without starting over.
 
-{% include media-img.html
-   source= "Papka-BOG.jpg"
-   caption= "ALCF Director Michael Papka receives the Distinguished Performance Award at the Argonne Board of Governors Awards ceremony in September."
-%}
+# ALCF-Led Team Receives Best Paper Award at PMBS24
 
-# Papka Receives Distinguished Performance Award
+A team of researchers led by ALCF staff received the [Best Paper Award](https://www.alcf.anl.gov/news/alcf-teams-receive-best-paper-awards-sc24-workshops) at SC24’s Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS24) Workshop. The paper, “[Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems](https://doi.org/10.1109/SCW63240.2024.00184),” provides micro-benchmarking data from applications running on the ALCF’s Aurora supercomputer and another Intel GPU-powered system, housed at the University of Cambridge. Argonne’s Thomas Applencourt, Servesh Muralidharan, Colleen Bertoni, JaeHyuk Kwack, Ye Luo, Esteban Rangel, John Tramm, and Yasaman Ghadar authored the paper in collaboration with University of Bristol’s Aditya Sadawarte and Tom Deakin, and University of Cambridge’s Christopher Edsall.
 
-ALCF Director Michael Papka received the [Distinguished Performance Award](https://www.alcf.anl.gov/news/alcfs-michael-e-papka-honored-distinguished-performance-award) at the Argonne Board of Governors’ awards ceremony in September. Papka was recognized for his numerous exemplary contributions to Argonne, including his efforts to help build world-class scientific computing capabilities for open science.
 
 # ALCF-SWIFT Collaboration Recognized with Argonne Delivering Impact Award
 
