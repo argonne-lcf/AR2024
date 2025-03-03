@@ -3,50 +3,38 @@ layout: page
 theme: dark
 permalink: features/ai-training
 
-title: Intro to AI Training
+title: Preparing a new generation of AI-ready researchers
 hero-mp4-source: "theta.mp4"
 hero-webm-source: "theta.webm"
 hero-img-source: Theta.jpg
-hero-img-caption: "The ALCF's Theta supercomputer supported more than 600 research projects before being retired at the end of 2023."
-intro: "Theta&rsquo;s retirement marks the end of a productive run of enabling groundbreaking research across diverse fields, including materials discovery, supernova simulations, and AI for science."
+hero-img-caption: "Held twice in 2024, the “Intro to AI-driven Science on Supercomputers” series has hosted over 700 participants since its launch in 2021."
 ---
 
 
-After more than six years of enabling breakthroughs in scientific computing, the ALCF’s Theta supercomputer was retired at the end of 2023. [Launched in July 2017](https://www.alcf.anl.gov/news/argonnes-theta-supercomputer-goes-online), the machine delivered 202 million compute hours to more than 600 projects, propelling advances in areas ranging from battery research to fusion energy science.
+Run in spring and fall of 2024, the “Intro to AI-driven Science on Supercomputers” is an ALCF organized virtual training series aimed at undergraduate and graduate students. Drawing on Argonne’s extensive AI expertise and computing capabilities, the series is designed around AI training and works to equip a new generation of researchers with the knowledge and skills needed to harness the power of AI and high-performance computing (HPC) for scientific discoveries and innovations.
 
-Theta was a pivotal system for science at Argonne and beyond. Not only did Theta deliver on the ALCF’s mission to enable large-scale computational science campaigns, but it was also the supercomputer that continued the ALCF’s transformation into a user facility that supports machine learning and data science methods alongside more traditional modeling and simulation projects.
+This year’s series focused on understanding the fundamentals of large-language models (LLMs) and their scientific applications.
 
-Theta’s run as an Argonne supercomputer coincided with the emergence of AI as a critical tool for science. The system provided researchers with a platform that could handle a mix of simulation, AI, and data analysis tasks, catalyzing groundbreaking studies across diverse scientific domains.  
+The series is comprised of a variety of virtual sessions that give attendees hands-on experience running AI models on ALCF supercomputers and AI accelerators. This included hands on time on Polaris as well as the AI Testbeds machines. Led by Argonne experts, the sessions covered topics such as large language models and LLM prompt engineering, neural networks, parallel training methods for AI, and an overview of novel AI accelerators which featured the systems housed at the ALCF AI Testbed.   
 
-Around the same time that Theta made its debut in 2017, the facility launched the ALCF Data Science Program (ADSP) to support HPC projects that were employing machine learning and other AI methods to tackle big data challenges. This initiative gave the facility’s data science and learning capabilities a boost while also building up a new community of users.
+Each session is followed by a science-focused talk that highlights how different Argonne teams are using AI for research in fields such as biosciences, climate and cosmology. To extend the program’s reach, videos of each session are available on  YouTube and session materials are available on GitHub. 
 
-Theta is succeeded by Polaris and the Aurora exascale system as the lab’s primary supercomputers for open scientific research. Theta’s Intel architecture and its expansion to include NVIDIA GPUs have played a key role in helping the facility and its user community transition to Polaris’s hybrid architecture and Aurora’s cutting-edge Intel exascale hardware. Theta’s MCDRAM mode, for example, helped pave the way to Aurora’s high-bandwidth memory capabilities. 
+https://www.youtube.com/watch?v=RUi63L-6-8g
 
-{% include media-img.html
-   source= "ThetaGPU.jpg"
-   caption= "In 2020, the ALCF augmented Theta with the installation of NVIDIA GPUs to support COVID-19 research."
-   credit= "Argonne National Laboratory"
-%}
+In this session, ALCF’s Archit Vasan shows attendees how computer models generate and comprehend natural language. The session covers the architecture of large language models, input tokenization, and practical applications. Following Vasan’s presentation, Argonne’s Nicola Ferrier discusses AI @ Edge, sharing several ways in which AI is being pushed out to remote locations where data can be collected, analyzed, and used in real-time.  
 
-Funded by the Coronavirus Aid, Relief and Economic Security (CARES) Act in 2020, [the system’s GPU hardware expansion](https://www.alcf.anl.gov/news/argonne-augments-theta-supercomputer-gpus-accelerate-coronavirus-research), known as ThetaGPU, was initially dedicated to COVID-19 research. The GPU-powered component was later made available to all research projects. After Theta’s retirement, the ThetaGPU hardware was repurposed to create a new machine called Sophia for specialized tasks, including a major focus on supporting AI for science. 
+https://www.youtube.com/watch?v=ujPQf9zioLs
 
-# Supercomputer, Super Science
-
-Beyond its powerful hardware, the system’s legacy will be the research breakthroughs it enabled over the years. From detailed molecular simulations to massive cosmological models, Theta supported hundreds of computationally intensive research projects that are only possible at a supercomputing facility like the ALCF. 
-
-Theta allowed researchers to perform some of the world’s largest simulations of [engines](https://www.alcf.anl.gov/news/argonne-conducts-largest-ever-simulation-flow-inside-internal-combustion-engine) and [supernovae](https://www.alcf.anl.gov/news/largest-collection-3d-supernova-simulations-leads-new-insights-explosion-dynamics). The system powered efforts to [model the spread of COVID-19](https://www.alcf.anl.gov/news/argonne-epidemiological-supercomputing-model-showcases-innovation) and [assess the energy use of the nation’s buildings](https://www.alcf.anl.gov/news/argonne-supercomputing-resources-power-energy-savings-analysis). It enabled AI-driven research to accelerate the search for [new catalysts](https://www.alcf.anl.gov/news/machine-learning-model-speeds-assessing-catalysts-decarbonization-technology-months) and [promising drug candidates](https://www.alcf.anl.gov/news/researchers-leverage-argonne-s-theta-supercomputer-identify-covid-19-targets-and-therapeutics). Theta also gave industry R&D a boost, [helping TAE Technologies](https://www.alcf.anl.gov/news/argonne-and-tae-technologies-heating-plasma-energy-research) inform the design of its fusion energy devices, [advancing 3M’s efforts](https://www.alcf.anl.gov/news/new-machine-learning-simulations-reduce-energy-need-mask-fabrics-other-materials) to improve the energy efficiency of a manufacturing process, and [generating data to aid ComEd](https://www.alcf.anl.gov/news/comed-report-shows-how-science-and-supercomputers-help-utilities-adapt-climate-change) in preparing for the potential impacts of climate change. The list of impactful science projects goes on and on.
-
-One of the pioneering machine learning projects was led by Jacqueline Cole of the University of Cambridge. With support from the ADSP, her team used Theta to speed up the process of [identifying new materials for improved solar cells](https://www.alcf.anl.gov/news/scientists-use-machine-learning-identify-high-performing-solar-materials). It began with an effort to sort through hundreds of thousands of scientific journals to collect data on a wide variety of chemical compounds. The team created an automated workflow that combined simulation, data mining, and machine learning techniques to zero in on the most promising candidates from a pool of nearly 10,000 compounds. This allowed the researchers to pinpoint five high-performing materials for laboratory testing.
-
-<br>
-
-{% include media-video.html
-   embed-code= '<iframe src="https://www.youtube.com/embed/vpg9C0w4TVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Researchers from Princeton University are using Polaris for large-scale 3D simulations aimed at advancing our understanding of supernova explosions."
-   credit= "ALCF Visualization and Data Analytics Team; Princeton University"
-%}
+In this session, ALCF’s Marieme Ngom teaches attendees the basics of neural networks, opening the black box of machine learning by building out by-hand networks for linear regression to increase the understanding of the math that goes into machine learning methods. Following her talk, Argonne’s Nina Andrejevic gives a talk covering how to advance materials characterization through physics-guided machine learning.
 
 
-Simulating supernova explosions is another area of research that benefitted from Theta’s computational muscle. As part of a multi-year project, Adam Burrows of Princeton University used the supercomputer to advance the state of the art in performing [supernova simulations in 3D](https://www.alcf.anl.gov/news/simulating-supernova-explosions-3d). The team’s work on Theta has included carrying out one of the largest collections of 3D supernova simulations and the longest duration full-physics 3D supernova calculation ever performed. With Theta now retired, the Princeton team continues their work to carry out longer and more detailed 3D supernova simulations on Polaris and Aurora. 
+https://www.youtube.com/watch?v=4ltulBj4oVk&list=PLcbxjEfgjpO8Dy4bFRtnIknfXkTNNzAuL&index=7
 
-While Theta will retire from its full-time role at the end of the year, the system will support one last research campaign in 2024 before it’s officially powered down. As part of a collaboration between the DOE-supported LSST Dark Energy Science Collaboration and NASA-supported researchers, a multi-institutional team will use Theta to produce 3 million simulated images for the surveys to be conducted by the Nancy Grace Roman Space Telescope and the Vera C. Rubin Observatory. The team will generate a set of overlapping Roman-Rubin time domain surveys at the individual pixel level. These detailed images will enable the exploration of highly impactful joint science opportunities between the two surveys, especially for dark energy studies.
+ALCF’s Sam Foreman presents modern parallelism techniques and discusses how they can be used to train and distribute large models across many GPUs. Following that, Argonne’s Arvind Ramanathan presents an AI for Science talk over autonomous discovery for biological systems design.
+
+https://www.youtube.com/watch?v=nl6LqNe_qrY&list=PLcbxjEfgjpO8Dy4bFRtnIknfXkTNNzAuL&index=7
+
+In this session, ALCF’s Siddhisanket Raskar presents current advances in AI hardware and the ALCF AI Testbed that is being integrated with existing and upcoming supercomputers at the facility to accelerate science insights. Raskar also provides a brief overview of getting started on each AI Testbed including Cerebras, 
+Graphcore, SambaNova, and Groq. 
+
+Attendees who complete all in-class and post-class exercises by the end of the series receive a certificate of completion and a digital badge.
