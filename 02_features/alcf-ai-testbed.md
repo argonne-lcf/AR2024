@@ -7,50 +7,49 @@ permalink: features/alcf-ai-testbed
 title: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
 hero-img-source: ALCFAITestbed-2023.jpg
 hero-img-caption: "The ALCF AI Testbed's Cerebras, Graphcore, Groq, and SambaNova systems are available to researchers across the world."
-intro: "The ALCF’s testbed of AI accelerators is enabling the research community to advance the use of AI for data-intensive science."
+intro: "By updating and expanding its testbed for AI accelerators, the ALCF enables users to harness leading-edge AI technologies for efficient and impactful scientific discovery."
 ---
 
-In 2023, the <b>ALCF AI Testbed</b> expanded its offerings to the research community, with the addition of new Graphcore and Groq systems as well as upgraded Cerebras and SambaNova machines. 
+In 2024, the <b>[ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed)</b> was upgraded with the deployment of <b>SambaNova Suite</b> and established benchmarks for its optimized <b>Cerebras Wafer-Scale Cluster WSE-2</b> that promise to make extreme-scale AI computing substantially more manageable and effective.
 
-The testbed is a growing collection of some of the world’s most advanced AI accelerators available for open science. Designed to enable researchers to explore next-generation machine learning applications and workloads to advance AI for science, the systems are also helping the facility to gain a better understanding of how novel AI technologies can be integrated with traditional supercomputing systems powered by CPUs and GPUs.
+The testbed is a growing collection of some of the world’s most advanced AI accelerators available for open science. Designed to enable researchers to explore next-generation machine learning applications and workloads to advance AI for science, the systems are also helping the facility to gain a better understanding of how novel AI technologies can be integrated with traditional supercomputing systems powered by CPUs and GPUs. With the AI Testbed, the ALCF user community can leverage novel AI technologies for innovative research projects involving large language models (LLMs), large-scale data analysis, and the development of trustworthy AI.
 
-The testbed’s newest additions give the ALCF user community access to new leading-edge platforms for data-intensive research projects.
+The testbed’s AI accelerators are equipped with unique hardware and software features to efficiently handle a variety of AI tasks, including:
 
-- The new <b>Graphcore Bow Pod64</b> is well-suited for both common and specialized machine learning applications, which will help to facilitate the use of new AI techniques and model types. The Graphcore Bow Pod64 relies on Intelligence Processing Units (IPUs). IPUs are designed to handle the computational demands of AI-driven tasks. These specialized accelerators are equipped with highly efficient memory architectures that include high-bandwidth memory and on-chip memory, and can more easily support specialized software frameworks and libraries necessary for AI workloads.
-- The new <b>GroqRack</b> system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data. Based on the Tensor Streaming Processor (TSP) architecture, the GroqChip processor includes advanced vector and matrix mathematical acceleration units, and provides for predictable and repeatable performance.
-- The upgrade to a <b>Cerebras Wafer-Scale Cluster WSE-2</b> optimizes the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
-- The upgrade to a second-generation <b>SambaNova DataScale SN30 system</b> enables a wider range of AI-for-science applications, making massive AI models and datasets more tractable to users. In this system, each accelerator is allocated a terabyte of memory, which is ideal for applications involving LLMs as well as high-resolution imaging data from experimental facilities.
+- <b>AI Model Training:</b> Using large datasets to “teach” an AI model to detect patterns and make accurate, trustworthy predictions.
+- <b>Inference:</b> Employing a trained AI model to make predictions on new data.
+- <b>Large Language Models (LLMs):</b> AI models that are trained on large amounts of text data to understand, generate, and predict text-based content.
+- <b>Computer Vision Models:</b> AI models that are trained to understand and analyze visual data for tasks such as image classification and object recognition.
+- <b>Foundation Models:</b> Similar to LLMs, these AI models are trained on diverse datasets to perform a broad set of processing tasks. Foundation models, however, can serve as a starting point for developing more specialized AI models for specific domains or applications.
 
-Together, the ALCF AI Testbed systems provide advanced data analysis capabilities that also support DOE's efforts to develop an Integrated Research Infrastructure that seamlessly connects advanced computing resources with data-intensive experiments, such as light sources and fusion experiments, to accelerate the pace of discovery.
+These methods are powerful tools for speeding up scientific progress. Computer vision models can help scientists automate the analysis of images generated by microscopes, x-ray light sources, and other imaging techniques. LLMs, on the other hand, are helping researchers to sift through massive amounts of published scientific data quickly to identify promising materials for medicines, batteries, and other uses.
 
-{% include media-video2x.html
-   embed-code1= '<iframe src="https://www.youtube.com/embed/XZ4pNVmQTb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption1= "Venkat Vishwanath Explains that Different Use Cases for AI Inference Workloads"
-   embed-code2= '<iframe src="https://www.youtube.com/embed/1Y6E3aCHhU8?si=buiWFDvjp8qWoFny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption2= "Arvind Ramanathan Talks About the Use of AI in Science"
-%}
-
-Scientists are leveraging the ALCF AI Testbed systems for a wide range of data-driven research campaigns. The following summaries provide a glimpse of some of the efforts that are benefitting from the AI accelerators’ advanced capabilities.
-
-# Experimental Data Analysis
-Argonne researchers are leveraging multiple ALCF AI Testbed systems to accelerate and scale deep learning models to aid the analysis of X-ray data obtained at Argonne’s Advanced Photon Source (APS). The team is using the ALCF AI Testbed to train models — too large to run on a single GPU — to generate improved 3D images from x-ray data.
-
-They are also exploring the use of the ALCF’s AI platforms for fast-inference applications. Their work has yielded some promising initial results, with various models (PtychoNN, BraggNN, and AutoPhaseNN) showing speedups over traditional supercomputers. ALCF and vendor software teams are collaborating with the APS team to achieve further advances.
-
-# Neural Networks
-Graph neural networks (GNNs) are powerful machine learning tools that can process and learn from data represented as graphs. GNNs are being used for research in several areas, including molecular design, financial data, and social networks. ALCF researchers are working to compare the performance of GNN models across multiple ALCF AI Testbed accelerators. With a focus on inference, the team is examining which GNN-specific operators or kernels, as a result of increasing numbers of parameters or batch sizes, can create computational bottlenecks that affect overall runtime.
-
-# COVID-19 Research
-An Argonne-led team relied on the ALCF AI Testbed when using LLMs to discover SARS-CoV-2 variants. Their workflow leveraged AI accelerators alongside GPU-accelerated systems including the ALCF’s Polaris supercomputer. One of the critical problems the team had to overcome was how to manage extensive genomic sequences, the size of which can overwhelm many computing systems when establishing foundation models. The learning-optimized architecture of the ALCF AI Testbed systems was key for accelerating the training process. The team’s research resulted in the 2022 Gordon Bell Award Special Prize for COVID-19 Research.
+Experimental data analysis also benefits from the lab’s AI Testbed. Researchers from Argonne’s Advanced Photon Source (APS) are exploring how different accelerators can enable fast, scalable AI model training and inference to accelerate the analysis of x-ray imaging data. Rapid data analysis methods are becoming increasingly important for the APS and other experimental facilities as data generation rates continue to grow. 
 
 
-# Battery Materials
-Argonne scientists are leveraging the ALCF AI Testbed to aid in the development of an application that combines two types of computations for research into potential battery materials: (1) running physics simulations of molecules under redox and (2) training a machine learning model that predicts that energy quantity. The application uses the machine learning model to predict the outcomes of the redox simulations, helping to identify molecules with the desired capacity for energy storage. The ALCF AI Testbed has enabled shortened latency when cycling between the execution of a new calculation that yields additional training data and when that model is used to select the next calculation.
+# SambaNova
+The ALCF AI Testbed expanded its SambaNova platform with the addition of SambaNova Suite. SambaNova Suite, powered by SambaNova DataScale SN40L systems, is a fully integrated hardware-software platform that enables users to train, fine tune, and deploy AI workloads. 
+Optimized for low-latency, high-throughput inference, the platform provides scientists with a new AI resource to accelerate scientific research. 
 
-<br>
+The deployment of the DataScale SN40L system extends advanced AI inference capabilities beyond the ALCF’s traditional ALCF user base. By making trained AI models more accessible, the platform enables a wider community of researchers to explore new directions in generative and agentic AI workloads for science and engineering.
 
-{% include media-video.html
-   embed-code= '<iframe src="https://www.youtube.com/embed/lLMyjZqci2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "The ALCF's Murali Emani leads a hands-on workshop covering use and functionality of the ALCF's AI Testbed."
-%}
+Being able to rapidly evaluate AI models and adjust parameters for improved performance is crucial for driving progress in AI-driven science across many research areas, including drug discovery, materials identification, and brain mapping.
+
+The ALCF’s platform contains sixteen of SambaNova’s Reconfigurable DataFlow Units (RDU). The system’s capabilities support the development of large foundation models like [Argonne’s AuroraGPT](https://auroragpt.anl.gov/), which is being built to enable autonomous scientific exploration across disciplines, including biology, chemistry, and materials science. AuroraGPT is being trained on Argonne’s Aurora exascale system.
+
+The ability to switch between different AI models instantly and fine-tune them using domain-specific datasets can help streamline the process of testing and validating their performance.
+
+The system also gives the lab a new platform to continue its explorations into energy-efficient technologies for next-generation supercomputers and data centers, as one of the aims of the ALCF AI Testbed is to determine how novel AI accelerators like the SN40L can be integrated with future supercomputers to enhance energy efficiency.
+
+
+# Cerebras
+The Cerebras system, previously upgraded to a Wafer-Scale Cluster WSE-2, optimized the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
+
+An Argonne-led research team examined the feasibility of performing continuous energy Monte Carlo (MC) particle transport on the Cerebras WSE-2—simulations with the potential to fill in crucial gaps in experimental and operational nuclear reactor data.
+
+The researchers ported a key kernel from the MC transport algorithm to the Cerebras Software Language programming model and evaluated the performance of the kernel on the Cerebras WSE-2. The team developed an architecture-specific optimization to leverage the capabilities of the WSE-2 and a highly optimized CUDA kernel for testing on a conventional graphics processing unit (GPU), which served as a baseline to contextualize the WSE-2’s performance.
+
+A single WSE-2 was found to run 130 times faster than the highly optimized CUDA version of the kernel deployed on the conventional GPU comparison—significantly outpacing expected performance increase, given the difference in transistor counts between the architectures. A follow-up study saw the WSE-2 achieve a 182x speedup over the GPU.
+
+The team’s analysis suggests the potential for a wide variety of complex and irregular simulation methods to be mapped efficiently onto AI accelerators like the Cerebras WSE-2, providing users with an invaluable tool for effective scientific discovery.
 
