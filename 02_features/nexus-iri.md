@@ -30,42 +30,21 @@ As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF ha
 
 # Facility Integration
 
-For over a decade, the ALCF and the APS have been collaborating to build the infrastructure for integrated ALCF-APS research, including the develpment of workflow management tools and enable secure access to on-demand computing.
+For over a decade, the ALCF and the APS have been collaborating to build the infrastructure for integrated ALCF-APS research, including the development of workflow management tools and enable secure access to on-demand computing.
 
-With the upgraded APS providing x-rays up to 500 times brighter than before, the APS-ALCF collaboration is paying off with increased computational power at experiment time, a requirement given the corresponding growth in data rates and resulting computing needs. The APS powers more than 60 beamlines, each representing a unique experimental apparatus and research community. Of these, more than 20 identified significant computing needs and have engaged the full power of ALCF's Nexus services and functionality, using service accounts for transparent access to ALCF, and the demand queue for time-sensitive analysis of beamline data through integration with the APS Data Management system. With more beamlines coming online with greater data analysis needs, the APS demand for computing at ALCF will continue to grow, and also leverage the newly upgraded network connectivity between the facilities.
+With the upgraded APS providing x-rays up to 500 times brighter than before with, the APS-ALCF collaboration is providing increased computational power at experiment time. More than 20 beamlines housed at the APS identified significant computing needs and have engaged the full power of ALCF's Nexus services and functionality, using service accounts for transparent access to ALCF, and the demand queue for time-sensitive analysis of beamline data through integration with the APS Data Management system. With more beamlines coming online with ever greater computational needs, the APS demand for ALCF supercomputing resources and newly upgraded inter-facility network connectivity will continue to grow.
 
 Working with a team at the Lawrence Berkeley National Laboratory Advanced Light Source, ALCF staff have helped to automate analysis of data from a tomography beamline on Polaris. Using a service account to submit jobs to Polaris through Globus Compute and the demand queue to analyze data at experiment time, the team has moved beyond an initial prototype and is now able to run analysis in a dedicated discretionary allocation. This production-ready capability is planned to be used in upcoming beamline experiments.
 
-<br>
-
-{% include media-video.html
-   embed-code= '<iframe src="https://www.youtube.com/embed/twLutyNPmX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Argonne's Nicholas Schwarz discusses how the integration of Aurora and the upgraded APS will transform science."
-   credit= "Argonne National Laboratory"
-%}
-
-
 # Expanding and Demonstrating Capabilities
 
-Getting instant access to DOE supercomputers for data analysis requires a shift in how the computing facilities operate. Each facility has established policies and processes for gaining access to machines, setting up user accounts, managing data and other tasks. If a researcher is set up at one computing facility but needs to use supercomputers at the other facilities, they would have to go through a similar set of steps again for each site.
+In a recent achievement of facility integration for near-real-time data analysis, Argonne deployed a fully automated pipeline that uses ALCF resources to rapidly process data obtained from the x-ray experiments at the APS.
 
-Once a project is set up, researchers submit their jobs to a queue, where they wait their turn to run on the supercomputer. While the traditional queuing system helps optimize supercomputer usage at the facilities, it does not support the rapid turnaround times needed for the IRI.
+To demonstrate the capabilities of the pipeline, [Argonne researchers carried out a study](https://www.alcf.anl.gov/news/argonne-team-demonstrates-rapid-cross-facility-data-processing) focused on a technique called Laue microdiffraction, which is employed at the APS and other light sources to analyze materials with crystalline structures. The team used the ALCF’s Polaris supercomputer to reconstruct data obtained from an APS experiment, returning reconstructed scans to the APS within 15 minutes of them being sent to the ALCF. The beamline technique introduced in the study allows users to collect data about 10 times faster than was previously possible.
+These results carry implications for future software development, engineering, and beamline science.
+Argonne researchers showcased the use of the Polaris system for processing data from APS experiments in near-real time during a demonstration at the SC24 conference.
 
-To make things easy for the end users, the IRI will require implementing a uniform way for experimental teams to gain quick access to the DOE supercomputing resources.
-
-To that end, Argonne has developed and demonstrated methods for overcoming both the user account and job scheduling challenges. The co-location of the APS and the ALCF on the Argonne campus has offered an ideal environment for testing and demonstrating such capabilities. When the ALCF launched the Polaris supercomputer in 2022, four of the system’s racks were dedicated to advancing the integration efforts with experimental facilities.
-
-{% include media-img.html
-   source= "ALCF-Polaris.jpg"
-   caption= "The ALCF’s Polaris supercomputer is supporting research to advance the development of an Integrated Research Infrastructure."
-   credit= "Argonne National Laboratory"
-%}
-
-In the case of user accounts, the existing process can get unwieldy for experiments involving several team members who need to use the computing facilities for data processing. Because many experiments have a team of people collecting data and running analysis jobs, it is important to devise a method that supports the experiment independent of who is operating the instruments on a particular day. In response to this challenge, the Argonne team has piloted the idea of employing “service accounts” that provide secure access to a particular experiment instead of requiring each team member to have an active account. 
-
-To address the job scheduling issue, the Argonne team has set aside a portion of Polaris nodes to run with “on-demand” and “preemptable” queues. This approach allows time-sensitive jobs to run on the dedicated nodes immediately. 
-
-Using data collected during an APS experiment, the team was able to complete their first fully automated end-to-end test of the service accounts and preemptable queues on Polaris with no humans in the loop. While work continues to enable these capabilities at more and more beamlines, this effort points to a future where the integration of the upgraded APS and the ALCF's Aurora exascale supercomputer will transform science at Argonne and beyond.
+Additional experiments and papers presented at the SC24 XLOOP workshop explored multiple IRI-related issues, including the scaling capabilities of file-based reconstruction of ptychography data—which requires particularly short data-processing turnaround times. New scans on the APS beamline storage system were automatically transferred to ALCF’s Eagle file system through Globus using the file-based workflow, which automatically launched reconstruction jobs on Polaris compute nodes using an on-demand queue. Once the reconstruction results were available on Eagle, they were transferred back to the APS through the same Globus transfer workflow.
 
 # Bringing It All Together
 
