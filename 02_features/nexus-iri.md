@@ -46,24 +46,8 @@ Argonne researchers showcased the use of the Polaris system for processing data 
 
 Additional experiments and papers presented at the SC24 XLOOP workshop explored multiple IRI-related issues, including the scaling capabilities of file-based reconstruction of ptychography data—which requires particularly short data-processing turnaround times. New scans on the APS beamline storage system were automatically transferred to ALCF’s Eagle file system through Globus using the file-based workflow, which automatically launched reconstruction jobs on Polaris compute nodes using an on-demand queue. Once the reconstruction results were available on Eagle, they were transferred back to the APS through the same Globus transfer workflow.
 
-# Bringing It All Together
+# Partnering to Advance Energy Technologies
 
-While Argonne and its fellow national labs have been working on projects to demonstrate the promise of an integrated research paradigm for the past several years, DOE’s Advanced Scientific Computing Research (ASCR) program made it a more formal initiative in 2020 with the creation of the IRI Task Force. Comprised of members from several national labs, including Argonne’s Corey Adams, Jini Ramprakash, Nicholas Schwarz, and Tom Uram, the task force identified the opportunities, risks, and challenges posed by such an integration.
 
-{% include media-img.html
-   source= "IRI-blueprint-report.png"
-   caption= "DOE's IRI Architecture Blueprint Activity Report provides the conceptual foundations to move forward with coordinated DOE implementation efforts."
-%}
 
-ASCR recently launched the IRI Blueprint Activity to create a framework for implementing the IRI. In 2023, the blueprint team, which included Ramprakash and Schwarz, released the [IRI Archictecture Blueprint Activity Report](https://www.osti.gov/biblio/1984466), which describes a path forward from the lab’s individual partnerships and demonstrations to a broader long-term strategy that will work across the DOE ecosystem. Over the past year, the blueprint activities have started to formalize with the introduction of IRI testbed resources and environments. Now in place at each of the DOE computing facilities, the testbeds facilitate research to explore and refine IRI ideas in collaboration with teams from DOE experimental facilities.
-
-{% include media-download.html
-   thumbsource= "IRI-blueprint-report.png"
-   filesource= "https://www.osti.gov/biblio/1984466"
-   title= "IRI Architecture Blueprint Activity Report"
-   credit= "Department of Energy"
-   filetype= "PDF"
-   filesize= "1.2kb"
-%}
-
-With the launch of Argonne’s Nexus effort, the lab will continue to leverage its expertise and resources to help DOE and the larger scientific community enable and scale this new paradigm across a diverse range of research areas, scientific instruments, and user facilities. 
+# Leading the Future of Inter-Facility Science
