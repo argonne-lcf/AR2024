@@ -280,7 +280,7 @@ p.intro {
   //   background-color: color(green, XX);
   // }
   .aside {
-    background-color: color(neutral, XXXX);
+    background-color: #2d2d36; //color(neutral, XXXXX);
     color: color(neutral, X);
   }
   .meta {
@@ -374,7 +374,6 @@ table.scroll-table {
   tr td:last-child {
     @include stack(xxs);
   }
-
 
 
   
@@ -484,6 +483,113 @@ table.scroll-table {
   }
 
   }
+}
+
+
+
+table.timeline {
+  table-layout: fixed;
+  border-bottom: 1px solid #d8dce1;
+  border-top: 1px solid #d8dce1;
+
+
+  tr {
+    margin-bottom: space(XXXX);
+    display: block;
+  }
+
+  tr:first-child {
+    border-top: none;
+  }
+
+  td, th {
+    display: block;
+  }
+
+  .table__stack-label {
+    display: block;
+  }
+
+  thead {
+    display: none;
+  }
+
+  span {
+    display: block;
+    @include typestyle($sans-xs-bld);
+    color: color(green, XX);
+  }
+
+  tr td:first-child {
+    @include typestyle($sans-sm-reg);
+    padding-top: bl(4); //16px
+  }
+
+  tr td:last-child {
+    @include stack(xxs);
+  }
+
+  @include respond-to(m) {
+    .table__stack-label { display: none; }
+    vertical-align: top;
+    max-width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: revert;
+    margin-top: bl(3); //12px
+
+   span {
+      display: none;
+    }
+
+    tbody {
+       display: revert;
+      // position: relative;
+       width: 100%;
+    }
+
+    thead {
+      // min-width: min-content;
+      display: revert;
+      width: 100%;
+    }
+
+    tr {
+      // display: grid;
+      // grid-auto-flow: row;
+      // grid-auto-rows: 1fr;
+      // height: 100%;
+      margin-bottom: 0;
+      border-top: none;
+      display: revert;
+    }
+
+    td, th {
+      // min-width: 180px;
+      display: revert;
+      // box-sizing: border-box;
+      grid-row:auto / span 1;
+    }
+
+    tr td:first-child {
+      @include typestyle($sans-xs-reg);
+      padding-top: bl(3); //12px
+      padding-bottom: bl(3); //12px
+    }
+
+    th {
+      color: color(green, XX);
+    }
+
+    td {
+      padding-bottom: bl(3); //12px
+    }
+
+
+
+  }
+
 }
 
 
