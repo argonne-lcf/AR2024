@@ -26,7 +26,7 @@ title: Argonne Leadership Computing Facility
 					Facility
 				</h1>
 				<h1 class="title">
-					2023<br>
+					2024<br>
 					<span>Annual<br>
 					Report</span><br>
 				</h1>

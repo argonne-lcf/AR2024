@@ -6,8 +6,8 @@
   */
 
 header {
-	background: color(warm, XXXX);
-  color: color(blue, X);
+	background: color(green, XXXX);
+  color: color(warm, X);
 	padding-top: 16px; 
 	position: fixed;
 	top: 0;
@@ -94,13 +94,13 @@ header {
 		position: absolute;
 		right: 24px;
 		top: 50%;
-		background-color: color(warm, XXXX);
+		background-color: color(green, XXXX);
 		border-radius: 4px;
 		display: inline-block;
 		transition: .2s all;
 		&:hover {
 			cursor: pointer;
-			background-color: color(warm, XXXXX);
+			background-color: color(green, XXXXX);
 		}
 	}
 
