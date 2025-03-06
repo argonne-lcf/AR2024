@@ -167,8 +167,8 @@
                         </li>
                       
                         <li>
-                          <a href="/year-in-review/about-alcf#2023-by-the-numbers">
-                            2023 by the Numbers
+                          <a href="/year-in-review/about-alcf#2024-by-the-numbers">
+                            2024 by the Numbers
                           </a>
                         </li>
                       
@@ -189,7 +189,7 @@
                       
                         <li>
                           <a href="/features/aurora">
-                            Bringing Aurora Online
+                            Aurora Nears Full Deployment
                           </a>
                         </li>
                       
@@ -201,7 +201,7 @@
                       
                         <li>
                           <a href="/features/nexus-iri">
-                            Bringing Supercomputers and Experiments Together
+                            Linking Experimental Facilities and Leadership Computing
                           </a>
                         </li>
                       
@@ -212,8 +212,8 @@
                         </li>
                       
                         <li>
-                          <a href="/features/theta">
-                            ALCF Retires Theta Supercomputer
+                          <a href="/features/ai-training">
+                            Preparing a new generation of AI-ready researchers
                           </a>
                         </li>
                       
@@ -423,7 +423,7 @@
           
             <li>
               
-                <a href="http://localhost:4000/year-in-review/about-alcf#2023-by-the-numbers">2023 by the Numbers</a>
+                <a href="http://localhost:4000/year-in-review/about-alcf#2024-by-the-numbers">2024 by the Numbers</a>
               
             </li>
           
@@ -583,13 +583,20 @@ available parameters:
 
 <h1 id="kalyan-kumaran-alcf-director-of-technology">Kalyan Kumaran, ALCF Director of Technology</h1>
 
-<p>Over the past year, we made considerable progress in deploying Aurora, enhancing our AI for Science capabilities, and advancing the development of DOE’s Integrated Research Infrastructure (IRI). On the Aurora front, our team was instrumental in enabling a partial system run that earned the #2 spot on the Top500 List in November. It was also great to see Aurora’s DAOS storage system place #1 on the IO500 production list. We helped get several early science applications up and running on Aurora – some of which have scaled to 2,000 nodes with very promising performance numbers compared to other GPU-powered systems. Our team also made some notable advances with scientific visualizations, demonstrating interactive visualization capabilities using blood flow simulation data generated with the HARVEY code on Aurora hardware and producing animations from HACC cosmology simulations that ran at scale on the system.</p>
+<p>Over the past year, our team made significant strides in advancing the ALCF-3 project, successfully facilitating the transition of the Aurora supercomputer into production early next year. At the same time, we laid the groundwork for the ALCF-4 project, contributing extensively to the early stages of our next system acquisition.</p>
 
-<p>We continued to work closely with Intel to improve and scale oneAPI software, bringing many pieces into production. On Aurora, the AI for Science models driving the deployment of AI frameworks (TensorFlow, PyTorch) have achieved an average single GPU performance more than 2x faster than NVIDIA A100, driven by close collaboration between Argonne staff and Intel engineers. Other efforts included using the Argonne-developed chipStar HIP implementation for Intel GPUs to get HIP applications running on Aurora. To help support Aurora users and the broader exascale computing community in the future, we played a role in launching the DAOS Foundation, which is working to advance the use of DAOS for next-generation HPC and AI/ML workloads, and the Unified Acceleration (UXL) Foundation, which was formed to drive an open standard accelerator software ecosystem. ALCF team members also continued to contribute to the development of standards for various programming languages and frameworks, including C++, OpenCL, SYCL, and OpenMP.</p>
+<p>The Aurora efforts were multifaceted, with our team collaborating closely with Intel on Non-Recurring Engineering (NRE) tasks for key software components, including those integrated within the oneAPI framework. Additionally, we focused on stabilizing and optimizing system performance by running a diverse array of workloads designed to stress-test Aurora, pinpointing performance bottlenecks and addressing system failures. In parallel, our team worked diligently to optimize and scale several science applications from the Aurora Early Science Program and the Exascale Computing Project. A major accomplishment was the preparation and execution of an extensive set of tests and applications that were essential for the functional, performance, and stability assessments during Aurora’s acceptance at the end of the year.</p>
 
-<p>In the AI for science realm, we enhanced the capabilities of the ALCF AI Testbed with two new system deployments (Groq, Graphcore) and two system upgrades (Cerebras, SambaNova). With a total of four different accelerators available for open science research, we partnered with the vendors to host a series of ALCF training workshops, as well as a SC23 tutorial, that introduced each system’s hardware and software and helped researchers get started. The team published a paper on performance portability across the three major GPU vendors’ architectures at SC23, demonstrating that all three of them are good for AI for science workloads. The Intel GPU on Aurora demonstrated the best performance at the time of the study. Our staff also contributed to the development of MLCommon’s new storage performance benchmark for AI/ML workloads and submitted results using our Polaris supercomputer and Eagle file system, which demonstrated efficient I/O operations for state-of-the-art AI applications at scale. In addition, we deployed a large language model service on Sunspot and demonstrated its capabilities at Intel’s SC23 booth.</p>
+<p>For the ALCF-4 project, the team played an instrument role in drafting several sections of the Request for Proposal (RFP), actively enaging in internal reviews, and visiting vendors to gain a deeper understanding of their roadmaps while effectively communicating the facility’s evolving needs.
+Throughout the year, the team also made impressive contributions in showcasing Aurora’s extraordinary scientific capabilities. Notable achievements include:</p>
 
-<p>Finally, our ongoing efforts to develop IRI tools and capabilities got a boost with Polaris and the launch of Argonne’s Nexus — a coordinated effort that builds on our decades of research to integrate HPC resources with experiments. We currently have workflows from the Advanced Photon Source and the DIII-D National Fusion Facility running on Polaris, as well as workflows prototyped for DOE’s Earth System Grid Federation and Fermilab’s flagship Short Baseline Neutrino Program. Our team also delivered talks to share our IRI research at the Monterey Data Conference, the Smoky Mountains Computational Sciences and Engineering Conference, Confab23, and the DOE booth at SC23. With momentum building for continued advances in our IRI activities, the Aurora deployment, and AI for science, we have a lot to look forward to in 2024.</p>
+<ul>
+  <li><b>Performance Engineering Excellence:</b> The performance engineering team partnered with Intel to run a comprehensive suite of benchmarks, including the High-Performance Linpack (HPL) benchmark for the TOP500 list and the mixed-precision variant (HPL MxP) to evaluate Aurora’s AI processing capabilities. The team also executed the Graph 500 benchmark, which evaluates large-scale data analytics performance, and the High-Performance Conjugate Gradient (HPCG) benchmark, which measures computational efficiency in scientific simulations. These results placed Aurora among the most powerful supercomputers in the world, establishing its place at the top of the global rankings.</li>
+  <li><b>AI/ML Innovations:</b> The AI/ML team, in collaboration with other research groups, earned widespread recognition for their groundbreaking work in scaling and fine-tuning a large language model on Aurora. Their efforts were recognized as a finalist for Gordon Bell Prize, underscoring their significant contributions to advancing  AI and machine learning capabilities in supercomputing.</li>
+  <li><b>Visualization and Data Analytics Milestone:</b> In partnership with Intel, the visualization and data analytics team ensured that Intel’s oneAPI Render Kit fully leveraged Aurora’s GPU ray-tracing cores. As a result, Aurora became the first supercomputer in the world to use GPU-accelerated ray tracing as its primary rendering method, pushing the boundaries of high-performance visualization and data analytics.</li>
+  <li><b>Data Services and Workflows for Advanced AI:</b> The data services and workflows continues to work at the forefront of developing scalable inference services to meet the growing demand for large language model prompting on ALCF systems. These services support a broad spectrum of applications, from querying complex scientific phenomena to protein sequence analysis and even code generation. The team’s innovative work has resulted in the creation of user-friendly web applications and robust programmable interfaces for both individual queries and large-batch prompt processing, further expanding the accessibility to cutting-edge AI capabilities.</li>
+  <li><b>Commitment to Standards and User Empowerment:</b> The team remains actively engaged in various standards committees, advocating for the integration of new features into programming languages and models that are driven by ALCF user needs and the technical requirements of our systems. The team’s commitment to user empowerment is reflected in their ongoing development of comprehensive technical documentation and workshop presentations designed to educate and train the user community. Moreover, the team continues to evaluate emerging systems at Argonne’s Joint Laboratory for System Evaluation and the ALCF AI Testbed, ensuring the ALCF stays ahead of the curve and remains at the forefront of technological innovation in anticipation of future acquisitions.</li>
+</ul>
 
 <!-- 
 

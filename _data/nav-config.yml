@@ -9,22 +9,22 @@ toc:
         url: year-in-review/year-in-review
       - page: About ALCF
         url: year-in-review/about-alcf
-      - page: 2023 by the Numbers
-        url: year-in-review/about-alcf#2023-by-the-numbers
+      - page: 2024 by the Numbers
+        url: year-in-review/about-alcf#2024-by-the-numbers
   - title: Features
     slug: features
     url: features
     subfolderitems:
-      - page: Bringing Aurora Online
+      - page: Aurora Nears Full Deployment
         url: features/aurora
       - page: Aurora Performance Highlights
         url: features/aurora-performance-highlights
-      - page: Bringing Supercomputers and Experiments Together
+      - page: Linking Experimental Facilities and Leadership Computing
         url: features/nexus-iri
       - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
         url: features/alcf-ai-testbed
-      - page: ALCF Retires Theta Supercomputer
-        url: features/theta
+      - page: Preparing a new generation of AI-ready researchers
+        url: features/ai-training
   - title: Growing the HPC Community
     slug: community-and-outreach
     url: community-and-outreach
