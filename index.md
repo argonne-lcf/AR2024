@@ -8,33 +8,8 @@ title: Argonne Leadership Computing Facility
 {% assign features = site.data.nav-config.toc | where: "title", "Features" %}
 
 
-<div class="home--hero-wrapper">
-	<div class="img-wrapper">
-		<div>
-			<img src="{{ site.url }}/assets/images/hero.jpg">
-			poster="{{ site.url }}/assets/images/hero.jpg" 
-			<!-- <video autoplay loop muted>
-				<source src="{{ site.url }}/assets/video/hypersonic.webm" type="video/webm">	
-				<source src="{{ site.url }}/assets/video/hypersonic.mp4" type="video/mp4">
-  				Your browser does not support the video tag.
-			</video> -->
-			<div class="home--hero-text">
-				<h1 class="alcf">
-					Argonne<br>
-					<span>Leadership<br>
-					Computing</span><br>
-					Facility
-				</h1>
-				<h1 class="title">
-					2024<br>
-					<span>Annual<br>
-					Report</span><br>
-				</h1>
-			</div>
-			<div class="home--hero-scrim"></div>
-		</div>
-	</div>
-</div>
+
+<div class='home--content-wrapper'>
 
 <div class="home--hero-caption">
 	<small>
@@ -114,6 +89,8 @@ title: Argonne Leadership Computing Facility
 		</div>
 	<!-- </div> -->
 </div>
+
+</div><!-- End home--content-wrapper -->
 
 
 

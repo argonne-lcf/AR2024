@@ -15,6 +15,36 @@
 }
 
 
+.parralax-wrapper {
+	perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.parralax-top,
+.parralax-bottom {
+	position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.parralax-top {
+	transform: translateZ(-3px) scale(4);
+}
+
+.parralax-bottom {
+  width: 100vw;
+  position: relative;
+  top: calc(100vh - 80px);
+  transform: translateZ(0);
+  background-color: color(neutral, X);
+}
+
+
+
 
 
 // Hero
@@ -84,6 +114,11 @@
 	}
 }
 
+.home--content-wrapper {
+	width: 100vw;
+	background-color: color(neutral, X);
+}
+
 .home--hero-caption {
 	@include grid-parent($config: $grid-full);
 	@include stack(xs);
@@ -105,7 +140,6 @@
 // ----------------------------------------------------------------------------
 
 .home--features-wrapper  {
-	background-color: color(neutral, X);
 	width: 100vw;
 	padding: bl(10) 0;
 
