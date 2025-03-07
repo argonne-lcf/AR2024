@@ -7,34 +7,29 @@ title: Preparing a new generation of AI-ready researchers
 hero-mp4-source: "theta.mp4"
 hero-webm-source: "theta.webm"
 hero-img-source: Theta.jpg
-hero-img-caption: "Held twice in 2024, the “Intro to AI-driven Science on Supercomputers” series has hosted over 700 participants since its launch in 2021."
+hero-img-caption: "The ALCF's “Intro to AI” student training series has hosted over 700 participants from across the nation to date, helping to cultivate a new generation of AI researchers."
 ---
 
+Since its launch in 2021, the ALCF’s annual "Intro to AI-driven Science on Supercomputers" training series has been helping students develop the expertise to harness the power of AI and HPC to accelerate scientific discoveries and innovation.
 
-Run in spring and fall of 2024, the “Intro to AI-driven Science on Supercomputers” is an ALCF organized virtual training series aimed at undergraduate and graduate students. Drawing on Argonne’s extensive AI expertise and computing capabilities, the series is designed around AI training and works to equip a new generation of researchers with the knowledge and skills needed to harness the power of AI and high-performance computing (HPC) for scientific discoveries and innovations.
+Aimed at undergraduate and graduate students from U.S. universities and community colleges, the program offers a combination of hands-on sessions and expert guidance to equip attendees with the knowledge and skills to effectively use AI in their research. Over the past four years, the series has welcomed over 700 total participants.
 
-This year’s series focused on understanding the fundamentals of large-language models (LLMs) and their scientific applications.
+#Comprehensive AI for Science Curriculum
 
-The series is comprised of a variety of virtual sessions that give attendees hands-on experience running AI models on ALCF supercomputers and AI accelerators. This included hands on time on Polaris as well as the AI Testbeds machines. Led by Argonne experts, the sessions covered topics such as large language models and LLM prompt engineering, neural networks, parallel training methods for AI, and an overview of novel AI accelerators which featured the systems housed at the ALCF AI Testbed.   
+The primary goal of the series is to introduce students to the integration of AI into scientific research, preparing them for careers in both AI and HPC. The training covers essential AI concepts, including large language models (LLMs), neural networks, and AI accelerators, while also giving participants the opportunity to work directly with ALCF’s powerful systems, such as Polaris and the ALCF AI Testbed. The series is designed specifically for students with basic experience in Python, ensuring that participants gain the skills necessary to apply AI in their research. By providing this foundational knowledge, the training helps participants bridge the gap between theoretical AI concepts and practical application using world-class computational resources.
 
-Each session is followed by a science-focused talk that highlights how different Argonne teams are using AI for research in fields such as biosciences, climate and cosmology. To extend the program’s reach, videos of each session are available on  YouTube and session materials are available on GitHub. 
+The training series covers fundamental AI concepts and introduces students to the advanced computational capabilities at Argonne, such as the Polaris supercomputer and the ALCF AI Testbed. With weekly sessions led by ALCF AI experts, the program offers detailed instruction on topics like large language models, neural networks, model training, and AI accelerators. In addition, attendees learn about the infrastructure necessary to run large-scale AI models efficiently, from computational strategies to optimizing workloads on advanced hardware systems like GPUs and novel AI accelerators. 
 
-https://www.youtube.com/watch?v=RUi63L-6-8g
+The program also includes “science talks,” which showcase how various Argonne teams are using AI to drive advances in diverse scientific fields. These talks not only provide context for how AI is applied but also highlight the potential of supercomputing resources in accelerating science and engineering.
 
-In this session, ALCF’s Archit Vasan shows attendees how computer models generate and comprehend natural language. The session covers the architecture of large language models, input tokenization, and practical applications. Following Vasan’s presentation, Argonne’s Nicola Ferrier discusses AI @ Edge, sharing several ways in which AI is being pushed out to remote locations where data can be collected, analyzed, and used in real-time.  
+A key feature of the series is its hands-on learning approach, where participants apply their new skills using ALCF computing resources. Each session includes exercises that reinforce key concepts, while also providing a platform for students to explore AI applications in science. At the end of the program, participants who complete all exercises receive a certificate of completion and a digital badge, marking their achievements. 
 
-https://www.youtube.com/watch?v=ujPQf9zioLs
+#Expanding Reach and Impact
 
-In this session, ALCF’s Marieme Ngom teaches attendees the basics of neural networks, opening the black box of machine learning by building out by-hand networks for linear regression to increase the understanding of the math that goes into machine learning methods. Following her talk, Argonne’s Nina Andrejevic gives a talk covering how to advance materials characterization through physics-guided machine learning.
+The ALCF training series continues to expand its reach, with over 250 students registered in 2024 alone. By offering free access to advanced tools and resources, the program plays a vital role in developing the next generation of AI researchers and practitioners. 
 
+In addition to the live sessions, ALCF has made all training materials and session recordings publicly available on YouTube and GitHub. This ensures that even students who cannot attend live sessions have access to the curriculum and can continue their education at their own pace. By broadening access to these valuable resources, the training series empowers students nationwide to gain practical, real-world experience with AI and HPC.
 
-https://www.youtube.com/watch?v=4ltulBj4oVk&list=PLcbxjEfgjpO8Dy4bFRtnIknfXkTNNzAuL&index=7
-
-ALCF’s Sam Foreman presents modern parallelism techniques and discusses how they can be used to train and distribute large models across many GPUs. Following that, Argonne’s Arvind Ramanathan presents an AI for Science talk over autonomous discovery for biological systems design.
-
-https://www.youtube.com/watch?v=nl6LqNe_qrY&list=PLcbxjEfgjpO8Dy4bFRtnIknfXkTNNzAuL&index=7
-
-In this session, ALCF’s Siddhisanket Raskar presents current advances in AI hardware and the ALCF AI Testbed that is being integrated with existing and upcoming supercomputers at the facility to accelerate science insights. Raskar also provides a brief overview of getting started on each AI Testbed including Cerebras, 
-Graphcore, SambaNova, and Groq. 
+Through its commitment to education and the development of an AI-ready workforce, the ALCF’s training series is playing a vital role in shaping the future of AI-driven science. By preparing students to leverage the power of AI and supercomputers, the program is empowering a new generation of researchers who will drive scientific breakthroughs and innovations in the years to come.
 
 Attendees who complete all in-class and post-class exercises by the end of the series receive a certificate of completion and a digital badge.
