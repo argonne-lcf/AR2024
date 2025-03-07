@@ -324,13 +324,13 @@
                       
                         <li>
                           <a href="/science/highlights">
-                            2023 Science Highlights
+                            2024 Science Highlights
                           </a>
                         </li>
                       
                         <li>
                           <a href="/science/projects">
-                            2023 Award List
+                            2024 Award List
                           </a>
                         </li>
                       
@@ -704,17 +704,17 @@ available parameters:
       },
     "expertise-and-resources": {
         "title": "Expertise and Resources",
-        "content": "",
+        "content": "{% assign er-pages = site.data.nav-config.toc | where: \"title\", \"Expertise and Resources\" %}{% for entry in er-pages[0].subfolderitems %}{% assign er-page = site.pages | where: 'permalink', entry.url %}    \t  \t  {% if er-page[0].teaser-img-source %}            {% elsif er-page[0].hero-img-source %}            {% endif %}  \t\t  \t  \t  \t\t{{ er-page[0].title }}  \t\t{{ er-page[0].intro }}  \t  {% endfor %}",
         "url": "/expertise-and-resources"
       },
     "science": {
         "title": "Science",
-        "content": "",
+        "content": "{% assign sci-pages = site.data.nav-config.toc | where: \"title\", \"Science\" %}{% for entry in sci-pages[0].subfolderitems %}{% assign sci-page = site.pages | where: 'permalink', entry.url %}    \t  \t  {% if sci-page[0].teaser-img-source %}            {% elsif sci-page[0].hero-img-source %}            {% endif %}  \t\t  \t  \t  \t\t{{ sci-page[0].title }}  \t\t{{ sci-page[0].intro }}  \t  {% endfor %}",
         "url": "/science"
       },
     "community-and-outreach": {
         "title": "Growing the HPC Community",
-        "content": "",
+        "content": "{% assign com-pages = site.data.nav-config.toc | where: \"title\", \"Growing the HPC Community\" %}{% for entry in com-pages[0].subfolderitems %}{% assign com-page = site.pages | where: 'permalink', entry.url %}    \t  \t  {% if com-page[0].teaser-img-source %}            {% elsif com-page[0].hero-img-source %}            {% endif %}  \t\t  \t  \t  \t\t{{ com-page[0].title }}  \t\t{{ com-page[0].intro }}  \t  {% endfor %}",
         "url": "/community-and-outreach"
       },
     "expertise-and-resources-staff-news": {

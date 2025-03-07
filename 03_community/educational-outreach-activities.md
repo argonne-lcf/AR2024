@@ -2,8 +2,9 @@
 layout: page
 
 title: Inspiring Students
-hero-img-source: "SummerCamp2023.jpg"
+hero-img-source: SummerCamp2023.jpg
 hero-img-caption: "Argonne summer camps allow students to get firsthand experience with coding and computer science. Image: Argonne National Laboratory."
+intro: "By updating and expanding its testbed for AI accelerators, the ALCF enables users to harness leading-edge AI technologies for efficient and impactful scientific discovery."
 
 theme: white
 permalink: community-and-outreach/educational-outreach-activities
