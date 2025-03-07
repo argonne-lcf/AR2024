@@ -6,7 +6,7 @@ permalink: 'science/highlights/kent'
 
 title: 'Simulating the Cosmos for the Roman and Rubin Telescopes'
 pi: 'Katrin Heitmann, Argonne National Laboratory'
-award: 'Director's Discretionary'
+award: "Director's Discretionary"
 systems: 'Theta'
 field: 'Physics'
 sdl: 's'
@@ -21,9 +21,7 @@ publications:
     source: null
     date: '2024'
     publisher: null
-    url: 'https://doi.org/10.26131/IRSA569'
-    
-    
+    url: 'https://doi.org/10.26131/IRSA569'   
 ---
 
 {% include txt-intro.html 
