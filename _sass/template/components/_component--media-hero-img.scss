@@ -15,7 +15,7 @@
 
 	.img-wrapper {
 		@include aspect-ratio(16, 9);
-		@include stack(xs);
+		// @include stack(xxs);
 		width: calc(75vw + 26px);
 		margin-left: -40px;
 		width: calc(100vw + 26px);
@@ -33,6 +33,14 @@
 
 	.caption {
 		color: color(neutral, XXXX);
+		padding-bottom: bl(2);
+		border-bottom: 1px solid color(neutral, XX);
+		display: block;
+		@include stack(xxs);
+	}
+
+	.caption:before {
+		content: '\25B2  ';
 	}
 
 	.credit {
