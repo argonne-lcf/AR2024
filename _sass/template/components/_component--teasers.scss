@@ -59,14 +59,14 @@
 
 	small.meta {
 		border-top: 2px solid color(blue, XX);
-		color: color(neutral, X);
+		color: color(warm, X);
 	}
 
 	.teaser {
 		background: color(green, XXXXX);
 		color: color(neutral, X);
 		transition: all .15s;
-		@include stack(lg);
+		@include stack(md);
 		grid-column: span 12;
 		@include respond-to(s){
 			grid-column: span 6;
@@ -135,7 +135,7 @@
   .teasers {
 
   	h3 {
-  		color: color(neutral, X);
+  		color: color(warm, X);
   	}
 
   }
