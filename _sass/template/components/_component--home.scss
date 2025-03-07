@@ -316,40 +316,46 @@
 	}
 
 	.toc-science .hl {
-		border-bottom: 2px solid color(blue, XXX);
+		border-bottom: 2px solid color(green, XXX);
 		grid-column: span 12;
+		grid-row: 1;
 		padding-bottom: bl(1);
-		margin-top: bl(1);
+		margin-top: bl(3);
 	}
 
 	.toc-science .not-hl {
-		grid-row: 15;
-		grid-column: span 3;
+		// grid-row: 15;
+		grid-column: 1/-1;
+		margin-top: bl(3);
+		@include stack(xs);
+		@include respond-to(m){
+			grid-column: span 3;
+		}
 	}
 
 	ul.toc-highlights {
 		// @include grid-child($cols: 4);
-		border-bottom: 2px solid color(blue, XXX);
+		border-bottom: 2px solid color(green, XX);
 		padding-bottom: bl(5);
 		@include stack(xxs);
 		grid-column: span 12;
+		grid-row: 2;
 		display: grid;
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(4, 1fr);
 		grid-template-rows: repeat(7, 1fr);
 		grid-auto-flow: column;
     grid-column-gap: 20px;
     column-gap: 20px;
     grid-row-gap: 0rem;
     row-gap: 0rem;
-    @include respond-to(s){
-			grid-template-columns: repeat(6, 1fr);
+    @include respond-to(m){
 			grid-template-rows: repeat(5, 1fr);
 		}
 	}
 
 	.toc-highlight {
 		margin-top: bl(2); //8px
-		@include stack(md);
+		@include stack(xs);
 	}
 
 	.toc-highlight .title,
@@ -367,8 +373,8 @@
 	}
 
 	.toc-science li {
-		grid-column: span 1;
-		@include respond-to(s){
+		grid-column: 1/-1;
+		@include respond-to(m){
 			grid-column: span 2;
 		}
 	}
