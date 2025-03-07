@@ -31,7 +31,7 @@ permalink: features/aurora-performance-highlights
   		<div class="hover-scrim"></div>
   	</div>
   	<div class="content-wrapper">
-      <small class="eyebrow">{{ item.field }}</small>
+      <!-- <small class="eyebrow">{{ item.field }}</small> -->
   		<h3>{{ item.title }}</h3>
       <small class="meta">PI: {{ item.pi }}</small>
   	</div>
