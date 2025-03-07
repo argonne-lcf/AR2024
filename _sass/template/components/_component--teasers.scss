@@ -63,7 +63,7 @@
 	}
 
 	.teaser {
-		background: color(green, XXXX);
+		background: color(green, XXXXX);
 		color: color(neutral, X);
 		transition: all .15s;
 		@include stack(lg);
@@ -78,7 +78,7 @@
 		.image-wrapper {
 			@include aspect-ratio(16, 9);
 			background-color: color(neutral, X);
-			border: 1px solid color(neutral, XXX);
+			border: .5px solid color(green, XXXXX);
 		}
 
 		img {
@@ -98,7 +98,7 @@
 		}
 
 		&:hover {
-			background: color(green, XXXXX);
+			background: color(neutral, XXXXX);
 			h3 { text-decoration: underline; }
 			.hover-scrim { opacity: .2; }
 		}

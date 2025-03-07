@@ -285,7 +285,7 @@
 	h3 {
 		text-transform: none;
 		@include typestyle($sans-sm-bld);
-		border-bottom: 2px solid color(blue, XX);
+		border-bottom: 2px solid color(green, XXX);
 		// @include stack(xs);
 		margin-bottom: 0;
 	}
@@ -316,7 +316,7 @@
 	}
 
 	.toc-science .hl {
-		border-bottom: 2px solid color(green, XXX);
+		border-bottom: 2px solid color(green, XXXX);
 		grid-column: span 12;
 		grid-row: 1;
 		padding-bottom: bl(1);
@@ -327,7 +327,7 @@
 		// grid-row: 15;
 		grid-column: 1/-1;
 		margin-top: bl(3);
-		@include stack(xs);
+		@include stack(xxs);
 		@include respond-to(m){
 			grid-column: span 3;
 		}
@@ -335,8 +335,8 @@
 
 	ul.toc-highlights {
 		// @include grid-child($cols: 4);
-		border-bottom: 2px solid color(green, XX);
-		padding-bottom: bl(5);
+		border-bottom: 2px solid color(green, XXXX);
+		// padding-bottom: bl(5);
 		@include stack(xxs);
 		grid-column: span 12;
 		grid-row: 2;
