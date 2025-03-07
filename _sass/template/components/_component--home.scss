@@ -38,7 +38,7 @@
 .parralax-bottom {
   width: 100vw;
   position: relative;
-  top: calc(100vh - 80px);
+  top: 50vw;
   transform: translateZ(0);
   background-color: color(neutral, X);
 }
@@ -87,6 +87,7 @@
 
 	h1 {
 		@include typestyle($sans-lg-bld);
+		padding-top: 1.05325rem !important;
 		color: color(warm, XX);
 		span {
 			color: color(warm, X);
