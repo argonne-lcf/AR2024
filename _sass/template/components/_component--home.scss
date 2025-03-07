@@ -126,6 +126,8 @@
 .home--hero-caption {
 	@include grid-parent($config: $grid-full);
 	@include stack(xs);
+	padding-bottom: bl(3);
+	border-bottom: 1px solid color(neutral, XX);
 
 	small {
 		grid-column: 1 / 11;
