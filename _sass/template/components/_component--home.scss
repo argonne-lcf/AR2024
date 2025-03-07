@@ -80,6 +80,8 @@
 		top: bl(3); //12px
 		left: 20px;
 		box-sizing: border-box;
+		animation-name: titleOpacity;
+		animation-duration: 2s;
 		@include respond-to(s){
 			top: bl(4); //16px
 		}
@@ -93,6 +95,7 @@
 			color: color(warm, X);
 		}		
 	}
+
 
 	h1.alcf {
 		grid-column: 1 / 7;
@@ -372,3 +375,13 @@
 
 }
 
+
+
+	@keyframes titleOpacity {
+	  0% {
+	    opacity: 1;
+	  }
+	  1% {
+	    opacity: 0;
+	  }
+	}
