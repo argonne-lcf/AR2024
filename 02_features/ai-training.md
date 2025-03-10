@@ -1,12 +1,10 @@
 ---
 layout: page
-theme: dark
+theme: warm
 permalink: features/ai-training
 
 title: Preparing a new generation of AI-ready researchers
-hero-mp4-source: "theta.mp4"
-hero-webm-source: "theta.webm"
-hero-img-source: Theta.jpg
+hero-img-source: ALCF_AItraining.jpg
 hero-img-caption: "The ALCF's “Intro to AI” student training series has hosted over 700 participants from across the nation to date, helping to cultivate a new generation of AI researchers."
 ---
 
@@ -14,7 +12,7 @@ Since its launch in 2021, the ALCF’s annual "Intro to AI-driven Science on Sup
 
 Aimed at undergraduate and graduate students from U.S. universities and community colleges, the program offers a combination of hands-on sessions and expert guidance to equip attendees with the knowledge and skills to effectively use AI in their research. Over the past four years, the series has welcomed over 700 total participants.
 
-# Comprehensive AI for Science Curriculum
+## Comprehensive AI for Science Curriculum
 
 The primary goal of the series is to introduce students to the integration of AI into scientific research, preparing them for careers in both AI and HPC. The training covers essential AI concepts, including large language models (LLMs), neural networks, and AI accelerators, while also giving participants the opportunity to work directly with ALCF’s powerful systems, such as Polaris and the ALCF AI Testbed. The series is designed specifically for students with basic experience in Python, ensuring that participants gain the skills necessary to apply AI in their research. By providing this foundational knowledge, the training helps participants bridge the gap between theoretical AI concepts and practical application using world-class computational resources.
 
@@ -24,7 +22,7 @@ Each session concludes with a science talk, delivered by different domain scient
 
 A key feature of the series is its hands-on learning approach, where participants apply their new skills using ALCF computing resources. Each session includes exercises that reinforce key concepts, while also providing a platform for students to explore AI applications in science. At the end of the program, participants who complete all exercises receive a certificate of completion and a digital badge, marking their achievements. 
 
-# Expanding Reach and Impact
+## Expanding Reach and Impact
 
 The ALCF training series continues to expand its reach, with over 250 students registered in 2024 alone. By offering free access to advanced tools and resources, the program plays a vital role in developing the next generation of AI researchers and practitioners. 
 
