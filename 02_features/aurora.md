@@ -5,10 +5,9 @@ theme: dark
 permalink: features/aurora
 
 title: Aurora Nears Full Deployment
-hero-mp4-source: "aurora.mp4"
-hero-webm-source: "aurora.webm"
+hero-mp4-source: "aurora_pan.mp4"
 hero-img-source: ALCF-Aurora1.jpg
-hero-img-caption: "The Aurora team uses a specialized machine to install the supercomputer's blades."
+hero-img-caption: "The Aurora team uses a specialized machine to install the supercomputer’s blades."
 intro: "The system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community in 2025."
 
 aside: alcf-4.md
@@ -22,7 +21,7 @@ Once operational, it will provide the research community with powerful simulatio
 
 {% include media-video.html embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=02Bsm94uZaZQgSrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>' caption= "ALCF's Christine Simpson and Victor Mateevitsi provide a fun behind-the-scenes look at Aurora." credit= "Argonne National Laboratory" %}
 
-# Breaking the Exascale Barrier
+## Breaking the Exascale Barrier
 
 Over the course of the year, Aurora demonstrated its capabilities in various performance benchmarks that solidified its place among the world’s most powerful supercomputers. The ALCF system officially broke the exascale barrier in June, achieving 1.012 exaflops on the High Performance LINPACK (HPL) benchmark. Aurora also set a new record for AI performance, registering 11.6 exaflops on the HPL-MxP mixed-precision benchmark. Its strengths in data-intensive applications were further highlighted with leading results on the Graph500 and HPCG benchmarks, while its storage system, DAOS, retained the top ranking on the IO500 production list.
 
@@ -37,13 +36,13 @@ Built in partnership with Intel and HPE, Aurora’s architecture represents a fi
    credit= "Argonne National Laboratory"
 %}
 
-# World-Class Simulation, AI, and Data Capabilities
+## World-Class Simulation, AI, and Data Capabilities
 
 Aurora’s computing power and advanced capabilities are expected to transform research across a wide range of scientific domains. Ahead of the system’s deployment, teams participating in DOE’s Exascale Computing Project (ECP) the ALCF’s Aurora Early Science Program (ESP) have demonstrated its potential in training large-scale AI models and carrying out extreme-scale modeling and simulation campaigns.
 
 One key target involves the development of AI-driven scientific models that can accelerate discovery across multiple disciplines, including materials design, drug development, and energy research. The system is also being prepared to support high-fidelity simulations of complex systems, such as the human circulatory system, nuclear reactors, and supernovae, to gain new insights into their behavior. Additionally, its capacity to process massive datasets will be critical for analyzing the growing data streams from large-scale research facilities such as Argonne’s Advanced Photon Source and CERN’s Large Hadron Collider.
 
-# Preparing for Science on Day One
+## Preparing for Science on Day One
 
 Bringing a system of this scale online has required close collaboration among the ALCF, Intel, HPE, and researchers from the DOE’s Exascale Computing Project and Aurora Early Science Program. Throughout 2024, these teams worked to optimize codes and stress-test the system, ensuring it would be ready for science from day one of production.
 
