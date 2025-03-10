@@ -3,7 +3,7 @@
 {%- include head.html -%}
 
   {% if page.theme %}
-    <body class="theme--{{ page.theme }}">
+    <body class="theme--{{ page.theme }} {{ page.title | slugify }}">
   {% else %}
     <body>
   {% endif %}

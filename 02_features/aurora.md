@@ -17,10 +17,6 @@ In 2024, the ALCF made significant progress toward the full deployment of its Au
 
 Once operational, it will provide the research community with powerful simulation, AI, and data analysis capabilities to drive breakthroughs in physics, engineering, materials science, and other domains.
 
-<br>
-
-{% include media-video.html embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=02Bsm94uZaZQgSrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>' caption= "ALCF's Christine Simpson and Victor Mateevitsi provide a fun behind-the-scenes look at Aurora." credit= "Argonne National Laboratory" %}
-
 ## Breaking the Exascale Barrier
 
 Over the course of the year, Aurora demonstrated its capabilities in various performance benchmarks that solidified its place among the world’s most powerful supercomputers. The ALCF system officially broke the exascale barrier in June, achieving 1.012 exaflops on the High Performance LINPACK (HPL) benchmark. Aurora also set a new record for AI performance, registering 11.6 exaflops on the HPL-MxP mixed-precision benchmark. Its strengths in data-intensive applications were further highlighted with leading results on the Graph500 and HPCG benchmarks, while its storage system, DAOS, retained the top ranking on the IO500 production list.
@@ -31,8 +27,8 @@ Built in partnership with Intel and HPE, Aurora’s architecture represents a fi
 
 
 {% include media-img.html
-   source= "SC23-Aurora-talk.jpg"
-   caption= "ALCF's Kevin Harms discusses Aurora during a tech talk at Intel's booth at the SC23 conference."
+   source= "ALCF_AuroraSkin.jpg"
+   caption= "Quick brown fox"
    credit= "Argonne National Laboratory"
 %}
 
