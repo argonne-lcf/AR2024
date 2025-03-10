@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ozik'
+permalink: 'science/highlights/uzdensky'
 
 title: 'Demonstrating Cross-Facility Data Processing at Scale with Laue Microdiffraction'
 pi: 'Michael Prince, Argonne National Laboratory'
