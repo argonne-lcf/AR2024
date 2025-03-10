@@ -10,8 +10,8 @@ permalink: expertise-and-resources/staff-spotlights
 
 
 {% include media-img.html
-   source= "FelkerKinsley.png"
-   caption= "Left: Kyle Felker; right: Paige Kinsley"
+   source= "ALCF-BalinEmani.jpg"
+   caption= "Left: Riccardo Balin; right: Murali Emani"
 %}
 
 ## Riccardo Balin, Assistant Computational Scientist
@@ -36,8 +36,8 @@ Murali was also a part of SC24 GordonBell paper finalist (MProt-DPO). He serves 
 
 
 {% include media-img.html
-   source= "KnowlesKoyama.png"
-   caption= "Left: Janet Knowles; right: Sean Koyama"
+   source= "ALCF_SastrySimpson.jpg"
+   caption= "Left: Varuni Sastry; right: Christine Simpson"
 %}
 
 ## Varuni Sastry, Assistant Computational Scientist
@@ -61,8 +61,8 @@ Christine is also the postdoc hiring lead for ALCF. Prior to joining ALCF, she r
 
 
 {% include media-img.html
-   source= "NgomSimini.png"
-   caption= "Left: Marieme Ngom; right: Filippo Simini"
+   source= "ALCF_SusanUpton.jpg"
+   caption= "Left: Sheeja Susan; right: Peter Upton"
 %}
 
 ## Sheeja Susan, Software Development Specialist
