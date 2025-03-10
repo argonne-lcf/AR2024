@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Biological Sciences'
 sdl: 's'
 
-image: 'Ozik.png' 
+image: 'prince.png' 
 image-caption: 'Screening benefits lost due to disruptions by cohort and scenario for two microsimulation models and for unscreened (U60), colonoscopy screening-adherent (C60), and fecal immunochemical test screening-adherent (F60) 60-year-olds.'
 image-credit: 'Pedro Nascimento de Lima, RAND Corporation'
 
