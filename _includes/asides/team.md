@@ -1,4 +1,4 @@
-# ALCF Staff Numbers
+## ALCF Staff Numbers
 
 {%	include txt-fig.html 
 	figure-1 = "128"
