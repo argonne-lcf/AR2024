@@ -4,52 +4,52 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/nakano'
 
-title: 'AI-Guided Exascale Simulations of Quantum Materials Manufacturing and Control'
-pi: 'Aiichiro Nakano, University of Southern California'
+title: 'Three-Dimensional Shock Boundary Layer Interactions over Flexible Walls'
+pi: 'Johan Larsson, University of Maryland; Ivan Bermejo-Moreno, University of Southern California'
 award: 'INCITE'
-systems: 'Polaris'
-field: 'Materials Sciences'
-sdl: 's,l'
+systems: 'Theta'
+field: 'Engineering'
+sdl: 's'
 
-image: 'nakano.png' 
-image-caption: 'Allegro–Legato has significantly increased the time to failure, thereby enabling long-time simulation including nuclear quantum effects, which was necessary to explain recent high-resolution inelastic neutron scattering experiments on ammonia.'
-image-credit: 'Anikeya Aditya, Thomas Linker, and Ken-ichi Nomura, University of Southern California'
+image: 'larsson.tif' 
+image-caption: 'Snapshot of simulation results obtained for a wedge deflection of 17.5 degree at time t=15 ms, showing contour maps of the flexible panel vertical displacement, the wall shear stress, and the fluid flow velocity on a vertical slice at the center of the spanwise domain, highlighting the incident and reflected shocks, the turbulent boundary layer, and the separation bubble.'
+image-credit: 'Ivan Bermejo-Moreno, University of Southern California'
 
 publications:
-  - authors: 'Ibayashi, H., T. M. Razakh, L. Yang, T. Linker, M. Olguin, S. Hattori, Y. Luo, R. K. Kalia, A. Nakano, K. Nomura, and P. Vashishta'
-    title: 'Allegro-Legato: Scalable, Fast, and Robust Neural-Network Quantum Molecular Dynamics via Sharpness- Aware Minimization'
-    source: 'ISC High Performance 2023'
-    date: 'May 2023'
-    publisher: 'Springer Nature'
-    url: 'https://doi.org/10.1007/978-3-031-32041-5_12'
+  - authors: 'Hoy, J., and I. Bermejo-Moreno'
+    title: 'Fluid-Structural Coupling of an Impinging Shock-Turbulent Boundary Layer Interaction at Mach 3 over a Flexible Panel'
+    source: 'Flow'
+    date: 'December 2022'
+    publisher: 'Cambridge University Press'
+    url: 'https://doi.org/10.1017/flo.2022.28'
     
     
 ---
 
 {% include txt-intro.html 
-    blurb = "This project aims to boost scalable manufacturing of quantum materials and ultrafast control of their emergent properties on demand using AI-guided exascale quantum dynamics simulations. Neural-network quantum molecular dynamics (NNQMD) simulations based on machine learning are revolutionizing atomistic simulations of materials by providing quantum-mechanical accuracy at speeds orders of magnitude faster than is possible with traditional methods, but face challenges in scaling properly on massively parallel systems."
+    blurb = "To design safe and efficient hypersonic aircraft, engineers must understand how shockwaves and turbulence affect the aircraft’s performance and structural integrity. Recently, a team from the University of Southern California and the University of Maryland used ALCF supercomputing resources to develop predictive 3D simulations of shock wave and turbulent interactions over flexible walls."
 %}
 
 
 
 # Challenge
 
-Despite its remarkable computational scalability, massively parallel NNQMD simulations face a major unsolved issue known as fidelity scaling. In such cases, small prediction errors can propagate and lead to unphysical atomic forces that degrade the accuracy of atomic trajectory over time. These force outliers can even cause the simulation to terminate unexpectedly. As simulations become spatially larger and temporally longer, the number of unphysical force predictions is expected to scale proportionally, which could severely limit NNQMD fidelity on new exascale supercomputing platforms, especially for the most exciting far-from-equilibrium applications.
-
+High-speed airflows create a thin boundary layer along solid surfaces. When a shock hits the boundary layer forcefully enough, it may create high-amplitude, low-frequency oscillations that can damage the aircraft. To address this, we need to understand the mechanics of shockwave and turbulent boundary-layer interactions (STBLI) and the fluid-structure interactions (FSI). Researchers have not extensively studied the fluid-structural coupling of STBLIs. While teams have led efforts to investigate the relationships of STBLIs with flexible panels, it is extremely challenging to characterize this class of interactions experimentally. Numerical simulations are crucial to provide these fundamental insights. Several simulation approaches have been tested, but many suffer from high associated computational costs. Approaches that have lower computational costs suffer from lower accuracy.
 
 
 # Approach
 
-To solve the fidelity-scaling issue, the researchers implemented the Allegro–Legato model in its NNQMD code, RXMD-NN, which was deployed on the ALCF’s Polaris supercomputer. The model was trained using sharpness- aware minimization to regularize its sharpness along with its training loss and thereby enhance its robustness.
+coupling between FSI and STBLI over flexible walls to replicate and complement wind-tunnel experiments. They studied the interactions’ characteristic low-frequency motions on flexible panels using wall-modeled large-eddy simulations (WMLES). This method models rather than resolves the inner boundary layer, reducing the computational cost of the simulation and maintaining the physical fidelity of flow features like separation and reattachment. This approach allows for sufficiently long integration times needed to capture the low-frequency motions of interest. The team coupled the WMLES with a finite-element solid mechanics (FEM) solver to incorporate structural damping. This is the first time researchers have combined these approaches to study such interactions on flexible panels. 
 
 
 
 # Results
 
-As shown in an _ISC High Performance 2023_ paper, the implemented Allegro–Legato model increases time-to-failure while maintaining the same inference speed and nearly equal accuracy. Specifically, time-to-failure in Allegro–Legato is less dependent on problem size, thus allowing larger-scale and longer-duration NNQMD simulations without failure. Additionally, the researchers demonstrate that the fidelity-scalability of the NNQMD model correlates with sharpness of the model more than the number of parameters in the model.
+To validate the high-fidelity simulation methodology, the team used WMLES to replicate experiments at different strengths of the incident shock on the turbulent boundary layer. Based on these results, the team assessed the importance of the 3D effects in those interactions by conducting reduced-span simulations with imposed periodicity in the spanwise direction. The simulations replicated the coupled interactions observed experimentally with better accuracy than prior numerical studies, while also providing additional insights into the wind-tunnel experiments.  
 
 
 
 # Impact
 
+The ultimate goal of the team’s research is to develop improved modeling techniques for the prediction of fluid-thermal-structural interactions through coupled specialized domain-specific solvers. These techniques will reduce the uncertainty factored into designing hypersonic vehicles and propulsion systems, leading to safer and more precise aircraft designs.
 This work, directly validated by x-ray free electron laser, ultrafast electron diffraction, and neutron experiments at DOE facilities, will enable future production of high-quality custom quantum material architectures for broad and critical applications for continued U.S. leadership in technology development, including that for sustainable ammonia, thereby addressing DOE basic research needs for transformative manufacturing and quantum materials. The Allegro–Legato model exhibits excellent computational scalability and GPU acceleration in carrying out NNQMD simulations, with strong promise for emerging exascale systems.
