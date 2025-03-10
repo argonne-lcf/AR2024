@@ -4,10 +4,10 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/uzdensky'
 
-title: 'Electron Kinetic Plasma Physics of Black Hole Accretion Flows'
-pi: 'Dmitri Uzdensky, University of Colorado'
+title: 'State-of-the-Art High-Resolution 3D Simulations of Core-Collapse Supernovae'
+pi: 'Adam Burrows, Princeton University'
 award: 'INCITE'
-systems: 'Theta'
+systems: 'Polaris, Theta'
 field: 'Physics'
 sdl: 's'
 
@@ -16,40 +16,40 @@ image-caption: 'Representative depiction of a generic feature of core-collapse e
 image-credit: 'ALCF Visualization and Data Analytics Team; Princeton University'
 
 publications:
-  - authors: 'Bacchini, F., L. Arzamasskiy, V. Zhdankin, G. R. Werner, M. C. Begelman, and D. A. Uzdensky'
-    title: 'Fully Kinetic Shearing-Box Simulations of Magnetorotational Turbulence in 2D and 3D. I. Pair Plasmas'
+  - authors: 'Burrows, A., T. Wang, D. Vartanyan, M. S. B. Coleman'
+    title: 'A Theory for Neutron Star and Black Hole Kicks and Induced Spins'
     source: 'The Astrophysical Journal'
-    date: 'October 2022'
+    date: 'February 2024'
     publisher: 'American Astronomical Society'
-    url: 'https://doi.org/10.3847/1538-4357/ac8a94'
+    url: 'https://doi.org/10.3847/1538-4357/ad2353'
     
     
 ---
 
 {% include txt-intro.html 
-    blurb = "Accretion flows around supermassive black holes at the centers of galaxies emit electromagnetic radiation that is critical to understanding these active galactic nuclei, which influence galactic evolution. Interpreting observed radiation, however, requires detailed modeling of the complex multiscale plasma processes in accretion flows. Using petascale 3D particle-in-cell (PIC) simulations,this project investigates electron versus ion energization, nonthermal particle acceleration, and self-consistent synchrotron radiation for plasma processes likely ubiquitous in black-hole accretion, including plasma turbulence driven by the magnetorotational instability (MRI) or other forces, and collisionless magnetic reconnection."
+    blurb = "Supernovae shape the universe and life as we know it, but the physical mechanisms that cause a star to explode remain a mystery. Using ALCF supercomputing resources, a team from Princeton University has been generating one of the largest collections of 3D supernova simulations to shed light on the physics behind these cosmic events."
 %}
 
 
 
 # Challenge
 
-The team has identified three key links in the chain of plasma processes that lead from gravitational attraction of matter around a black hole to accretion and radiation. The development of the MRI leads to outward angular momentum transport that allows accretion; it also generates turbulence and current sheets leading to magnetic reconnection, both of which result in particle energization and hence radiation.
+Modeling the physics of supernovae has posed a persistent challenge to astrophysicists for decades. Models must not only be shown to explode, but must reach the asymptotic state of the blast to determine many of the observables. Many relevant simulations have been developed. However, the necessary sophisticated and expensive 3D simulations typically have not run long enough after bounce to capture asymptotic kick speeds. Even the few existing longer-term studies do not explore the systematics with the broad range of progenitor masses to determine the relationships between the kick speed and progenitor mass or the initial core structure.
 
 
 
 # Approach
 
-To perform simulations, the researchers deployed the Zeltron application on ALCF supercomputers. Zeltron models relativistic, radiating, and rotating astrophysical plasmas from first principles using an explicit finite-difference time-domain, radiative electromagnetic PIC code. Zeltron can include the radiation reaction force (due to synchrotron and inverse Compton emission) in the particles’ equations of motion, and simulate shearing box boundary conditions appropriate for studying MRI in black hole accretion disks.
+The team carried out 20 state-of-the-art 3D long-term core-collapse simulations generated using the code FORNAX. They performed these simulations on multiple supercomputers, including the ALCF’s Theta and Polaris systems. The researchers focused their study on the kicks during the simultaneous accretion and explosion phase, with attention towards the crucial first few seconds post-bounce. They then complemented their kick study with a study of the associated induced spins. The ALCF Catalyst team provided support to transition the code to Polaris (NVIDIA GPUs) and has worked with the researchers to port the FORNAX GPU version to Aurora to enable exascale simulations.
 
 
 
 # Results
 
-As detailed in a paper published in _The Astrophysical Journal_, the researchers explored nonlinear development of MRI turbulence in a pair plasma, employing fully kinetic PIC simulations in two and three dimensions carried out on Theta. This included studying the axisymmetric MRI with 2D simulations, explaining how and why the 2D geometry produces results that differ substantially from 3D MHD expectations; and then performing the largest such 3D simulations carried out to date, for which the team employed a novel shearing-box approach, demonstrating that 3D PIC models can reproduce mesoscale MRI dynamics in sufficiently large runs. Using the fully kinetic simulations, the team was able to describe the nonthermal particle acceleration and angular-momentum transport driven by the collisionless MRI.
+For the first time, using a large and uniform collection of 3D supernova models ranging from 9 to 60-solar-mass stars, the researchers asymptoted the kicks or came within 20 percent of doing so. They obtained an integrated and wide-angle perspective of the overall dependence of the recoil kicks and induced spins upon progenitor mass and their Chandrasekhar-like core structures, the latter indexed approximately by compactness. The team found that the mass and compactness of the progenitors directly correlated to the size of the neutron star’s kicks. These two classes can be correlated to the gravitational mass of the residual neutron star, which suggests the survival of binary neutron star systems may be due to their lower observed kick speeds. Their new 3D model suite provides a greatly expanded perspective and appears to explain some observed pulsar properties by default.
 
 
 
 # Impact
 
-The work takes a critical step toward understanding the behavior of black holes in the universe. The simulations of plasma processes and energy conversion mechanisms in black hole accretion flows will be used to inform global magnetohydrodynamics computational and theoretical modeling, thus accounting for kinetic processes to predict radiation output and enable comparison to observations. Moreover, these simulations have the potential to significantly advance computational plasma physics.
+The team’s simulations represent the largest set of long-term 3D state-of-the-art core collapse simulations ever created. These simulations lay the groundwork for more comprehensive research that will address other aspects and outcomes of core collapse and their dependence upon progenitors. These simulations provide a qualitative picture, paving the way to develop a quantitative explanation of the survival of binary neutron star systems.  
