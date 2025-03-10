@@ -11,9 +11,9 @@ systems: 'Theta'
 field: 'Physics'
 sdl: 's'
 
-image: 'Uzdensky.png' 
-image-caption: 'Evolution of the pair-plasma MRI in a small 3D box (2 × 2 × 2 λ 3 MRI, where λMRI is the most unstable MRI wavelength), showing the spatial distribution of the radial (Bx) and toroidal (By) magnetic field at subsequent times during the simulation (in terms of P0, the orbital period). '
-image-credit: 'Dmitri Uzdensky, University of Colorado'
+image: 'burrows.png' 
+image-caption: 'Representative depiction of a generic feature of core-collapse explosions by the turbulence-aided neutrino-driven mechanism. There is often a simultaneous explosion in one general direction and accretion in a very roughly perpendicular direction when the explosion time is delayed by a few hundred milliseconds, and a more spherical explosion when it is launched early as for an initially nonrotating (or slowly rotating), low-compactness progenitor, such as this 9 M☉ model.'
+image-credit: 'ALCF Visualization and Data Analytics Team; Princeton University'
 
 publications:
   - authors: 'Bacchini, F., L. Arzamasskiy, V. Zhdankin, G. R. Werner, M. C. Begelman, and D. A. Uzdensky'
