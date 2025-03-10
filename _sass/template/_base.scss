@@ -149,16 +149,17 @@ h1 {
 }
 
 h2 {
-  @include typestyle($sans-sm-bld);
+  @include typestyle($sans-md-bld);
+  @include stack(xxs);
 }
 
 h3 {
-  @include typestyle($sans-xs-bld);
-  text-transform: uppercase;
+  @include typestyle($sans-sm-bld);
 }
 
 h4 {
   @include typestyle($sans-xs-bld);
+  text-transform: uppercase;
 }
 
 p, ol, ul {
