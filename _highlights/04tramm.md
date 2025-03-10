@@ -2,32 +2,33 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/tan'
+permalink: 'science/highlights/tramm'
 
-title: 'Multiphysics Modeling of Blood Flow with Cell Suspensions in Patient- Specific Capillary Network'
-pi: 'Jifu Tan, Northern Illinois University'
+title: 'Efficient Algorithms for Monte Carlo Particle Transport on AI Accelerator Hardware'
+pi: 'John Tramm, Argonne National Laboratory'
 award: 'Director’s Discretionary'
-systems: 'Cooley'
-field: 'Biological Sciences'
-sdl: 's'
+systems: 'AI Testbed'
+field: 'Computer Science'
+sdl: 's,l'
 
-image: 'tan.png' 
-image-caption: 'A snapshot of complex flow with cell suspensions in the retina network showing the transport of cells in different regions of the network. The blue/ green coloring indicates the flow velocity within the network and blood cells are colored red.'
-image-credit: 'ALCF Visualization and Data Analytics Team; Kacper Ostalowski and Jifu Tan, Northern Illinois University'
+image: 'tramm.png' 
+image-caption: 'Diagram showing the energy column sorting process. Each square represents a single PE in the WSE-2 grid, with each dot representing a particle.'
+image-credit: 'John Tramm, Kazutomo Yoshii, Andrew Siegel, Argonne National Laboratory; Bryce Allen, Argonne National Laboratory and University of Chicago; Leighton Wilson, Cerebras Systems'
 
 publications:
-  - authors: 'Ostalowski, K., and J. Tan'
-    title: 'Direct Simulation of Blood Flow with Heterogeneous Cell Suspensions in a Patient-Specific Capillary Network'
-    source: 'Physics of Fluids'
-    date: 'April 2022'
-    publisher: 'AIP Publishing'
-    url: 'https://doi.org/10.1063/5.0088342'
-  - authors: 'Thompson, A.'
-    title: 'Capillary Model Tracks Blood Flow in Healthy and Diseased Networks'
-    source: 'Scilight'
-    date: 'April 2022'
-    publisher: 'AIP Publishing'
-    url: 'https://doi.org/10.1063/10.0010412'
+  - authors: 'Tramm, J., B. Allen, K. Yoshii, A. Siegel, and L. Wilson'
+    title: 'Efficient Algorithms for Monte Carlo Particle Transport on AI Accelerator Hardware'
+    source: 'Computer Physics Communications'
+    date: 'December 2023'
+    publisher: 'Elsevier BV'
+    url: 'https://doi.org/10.1016/j.cpc.2023.109072'
+  - authors: 'Tramm, J., B. Allen, K. Yoshii, and A. Siegel'
+    title: 'Monte Carlo with Single-Cycle Latency: Optimization of a Continuous Energy Cross Section Lookup Kernel for AI Accelerator Hardware'
+    source: 'International Conference on Physics of Reactors'
+    date: 'April 2024'
+    publisher: 'American Nuclear Society'
+    location: San Francisco, CA
+    url: 'https://doi.org/10.13182/PHYSOR24-43696'
     
     
 ---
