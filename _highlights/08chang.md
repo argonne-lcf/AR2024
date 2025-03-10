@@ -4,52 +4,52 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/kanai'
 
-title: 'First-Principles Simulation of Electronic Stopping Excitation and Beyond'
-pi: 'Yosuke Kanai, University of North Carolina at Chapel Hill'
-award: 'INCITE'
-systems: 'Theta'
-field: 'Materials Science'
+title: 'Exascale Gyrokinetic Study of ITER Challenge on Power-Exhaust and ELM-Free Edge'
+pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
+award: 'INCITE, Aurora ESP'
+systems: 'Aurora, Polaris'
+field: 'Physics'
 sdl: 's'
 
-image: 'kanai-highlight.jpg' 
-image-caption: 'Simulation cell for solvated DNA. The simulation cell, outlined in black, is shown with periodic boundary conditions for solvated DNA. Blue (orange) isosurfaces represent decreases (increases) in electron density in response to a proton moving through the center of DNA at 0.50 a.u. velocity (6.25 keV).'
-image-credit: 'Christopher Shepard, University of North Carolina at Chapel Hill'
+image: 'chang.png' 
+image-caption: 'Tungsten density profile in the German tokamak ASDEX-U. Like ITER, ASDEX-U uses a tungsten wall, which allows sputtering of tungsten particles into the core plasma.'
+image-credit: 'ALCF Visualization and Data Analytics Team; CS Chang, Princeton Plasma Physics Laboratory'
 
 publications:
-  - authors: 'Shepard, C., D.C. Yost, and Y. Kanai'
-    title: 'Electronic Excitation Response of DNA to High-Energy Proton Radiation in Water'
-    source: 'Physical Review Letters'
-    date: 'March 2023'
-    publisher: 'American Physical Society'
-    url: 'https://doi.org/10.1103/PhysRevLett.130.118401'
+  - authors: 'Chang, C. S., S. Ku, R. Hager, J. Choi, D. Pugmire, S. Klasky, A. Loarte, and R. A. Pitts'
+    title: 'Role of Turbulent Separatrix Tangle in the Improvement of the Integrated Pedestal and Heat Exhaust Issue for Stationary-Operation Tokamak Fusion Reactors'
+    source: 'Nuclear Fusion'
+    date: 'April 2024'
+    publisher: 'IOP Publishing'
+    url: 'https://doi.org/10.1088/1741-4326/ad3b1e'
 
-  - authors: 'Shepard, C. and Y. Kanai'
-    title: 'Ion-Type Dependence of DNA Electronic Excitation in Water under Proton, α-Particle, and Carbon Ion Irradiation: A First-Principles Simulation Study'
-    source: 'The Journal of Physical Chemistry B'
-    date: 'November 2023'
-    publisher: 'American Chemical Society'
-    url: 'https://doi.org/10.1021/acs.jpcb.3c05446'
+  - authors: 'Dominski, J., C. S. Chang, R. Hager, S. Ku, E. S. Yoon, and V. Parail'
+    title: 'Neoclassical Transport of Tungsten Ion Bundles in Total-f Neoclassical Gyrokinetic Simulations of a Whole-Volume JET-Like Plasma'
+    source: 'Physics of Plasmas'
+    date: 'March 2024'
+    publisher: 'AIP Publishing'
+    url: 'https://doi.org/10.1063/5.0144509'
     
     
 ---
 
 {% include txt-intro.html 
-    blurb = "Proton beam therapy, a promising alternative to conventional X-rays for cancer treatment, relies on understanding the radiation-induced response of DNA. This knowledge not only enhances the treatment by allowing for more precise tumor targeting that minimizes damage to healthy cells, but also holds significance for space missions, where exposure to high-energy protons is a concern for astronauts due to limited data on bodily effects. To help advance our understanding of this complex process, researchers from the University of North Carolina at Chapel Hill are using ALCF supercomputers to study the quantum mechanics involved in the transfer of energy from high-energy protons to DNA."
+    blurb = "This project aims to significantly advance our understanding of fundamental edge plasma physics in fusion reactors, answering questions critical to the successful operation of ITER and to the design of fusion power plants (FPPs)."
 %}
 
 
 # Challenge
 
-The lack of molecular-level understanding for the electronic excitation response of DNA to charged particle radiation, such as high-energy protons, remains a fundamental scientific bottleneck in advancing proton and other ion-beam cancer therapies. Specifically, the relationship between high-energy protons and various types of DNA damage poses a significant knowledge void. The ultrafast nature of the excitations makes experimental investigation difficult. However, employing quantum mechanical methods and non-equilibrium simulations can provide valuable insights into the intricate energy transfer process of high-energy protons damaging DNA.
+The goal of this project is to perform two-pronged, inter-related fundamental edge physics studies of critical importance to the successful operation of ITER and to the design of FPPs. The first prong is the mitigation of high stationary heat-flux densities that will damage material walls while maintaining the high edge plasma pedestal within a safe operational window. The second prong is avoiding explosive transient power flow to material walls caused by edge localized mode crash.
 
 # Approach
 
-In a recent study, the University of North Carolina at Chapel team leveraged the ALCF’s Theta supercomputer to carry out first-principles real-time time-dependent density functional theory simulations to unravel the quantum mechanical details of the energy transfer from high-energy protons to DNA in water. The researchers used the Qb@ll version of the Qbox code for the simulations, which included 3,991 atoms and 11,172 electrons, with six different proton kinetic energies sampled for each proton path. Two proton paths were considered: one directly through center of DNA and another along a sugar-phosphate side chain. By including explicit water molecules in their simulations, the team was able to get a more accurate picture of the DNA excitations in the initial radiation process over the first few femtoseconds. ALCF staff worked with the researchers to aid in employing optimized libraries and to resolve compiling issues. 
+Achieving their goals necessitates that the researchers employ DOE supercomputing resources. The team uses the electromagnetic edge gyrokinetic particle-in-cell code XGC, which enables the inclusion of two important but computationally expensive components: (a) the addition of tungsten impurity particles that are sputtered from ITER’s material wall as a third species along with deuterium and tritium fuel particles, and (b) the capability for plasma detachment from the divertor plates. Tungsten impurity particles, beyond their deleterious effect of radiating away plasma energy in the core, are known to significantly impact the edge physics, and the detached plasma is known to significantly reduce the divertor heat load.
 
 # Results
 
-The team’s calculations revealed that high-energy protons transfer significantly more energy to sugar-phosphate side chains than the nucleobases of DNA, and that greater energy transfer is expected onto the DNA side chains than onto water.  The researchers determined the stopping power magnitude for side path was more than three times larger at the peak and at least twice as large at all velocities. As a result of the electronic stopping process, highly energetic holes are generated on the DNA side chains as a source of oxidative damage. The stopping power was found to largely depend on the energetics of holes generated.  Results from these detailed simulations help to fill the knowledge void in understanding detailed mechanisms for extensive DNA strand break lesions observed with a proton beam, and will help inform the development of increasingly more sophisticated multiscale medical physics models.
+A paper published in _Physics of Plasmas_ demonstrated the application of a bundling technique to model the diverse charge states of tungsten impurity species in total-f gyrokinetic simulations. XGC was used to simulate a JET H-mode-like plasma across an entire plasma volume, spanning from the magnetic axis to the divertor. Tungsten impurities were found to affect the deuterium fluxes of particles and heat.
 
 # Impact
 
-The team’s research into the radiation-induced response of DNA has important implications for human health. Their insights will help researchers develop a more complete understanding of the initial excitation response in proton beam cancer therapy and add to the growing knowledge base for advanced multiscale models in medical physics. The team's findings will also help determine how exposure to radiation, such as cosmic rays in space, can lead to potential health risks due to DNA damage.
+As fusion power represents a paradigm-shifting breakthrough, success of the ITER project is a high-priority challenge for the DOE mission, which will ultimately lead to more economical FPPs. To accomplish this goal, simulations based on first-principles must be deployed to solve issues with power exhaust, including mitigating stationary heat-flux densities and avoiding unacceptably high transient power flow to material walls.
