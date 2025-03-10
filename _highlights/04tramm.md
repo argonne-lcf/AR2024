@@ -34,29 +34,26 @@ publications:
 ---
 
 {% include txt-intro.html 
-    blurb = "Cardiovascular disease, including heart attack and stroke, is the leading cause of death in the United States. In this project, simulations of blood flow with deformable red blood cells were performed for the first time in a patient- specific retina vascular network examining the impact of blockages on flow rate and cell transport dynamics."
+    blurb = "In this study, researchers led by Argonne National Laboratory examined the feasibility of performing continuous energy Monte Carlo (MC) particle transport on the Cerebras Wafter-Scale Engine 2 (WSE-2). The researchers ported a key kernel from the MC transport algorithm to the Cerebras Software Language (CSL) programming model and evaluated the performance of the kernel on the Cerebras WSE-2."
 %}
 
 
 
 # Challenge
 
-Modeling capillary flow accurately is challenging due to the complex structure with various vessel branches and loops, and moving cell suspensions whose size is comparable to vessel diameters. Large three-dimensional (3D) vascular networks, such as this, are typically represented by simplified one-dimensional (1D) models at a much lower computational cost; however, these reduced order models may not accurately describe the flow dynamics.
-
+Beyond the challenge of porting the kernel into the low-level CSL programming model, the team proposed and tested various new algorithms to handle the decomposition of neutron cross-sectional data (which is used to generate random samples for particle behavior) into the small local memory domains contained in each of 750,000-some WSE-2 units.
 
 
 # Approach
 
-Flow dynamics in a patient-specific retina capillary network were simulated through coupling of a lattice Boltzmann method (LBM) based fluid solver with particle-based cell membrane models using the immersed boundary method (IBM). The geometry of the retina network was obtained from the National Institutes Health 3D print database. The red and white blood cells were modeled as thin membranes using a particle-based method implemented in LAMMPS. Collaborating with the ALCF Visualization and Data Analytics team, the team used Cooley to develop scientific visualizations of their blood flow simulations.
-
+The researchers ported a simplified version of the MC cross-section lookup kernel (a kernel used by the MC neutral particle transport algorithm) using the Cerebras SDK and the Cerebras CSL programming model. Their decomposition and communication scheme involved three stages: (1) the sorting of particles into energy bands within each column of compute cores; (2) an iterative diffusion-based load balancing stage for balancing starting particle loads within each row; and (3) an exchange of particles to allow particles to accumulate nuclide information from each column in the row. All communication patterns had to be developed to avoid any concept of global synchronization or point-to-point message passing, given the limitations of the WSE-2 hardware. Additionally, the team developed an architecture-specific optimization to leverage the capabilities of the WSE-2 and a highly optimized CUDA kernel for testing on an NVIDIA A100 graphics processing unit to provide a baseline to contextualize the performance of the WSE-2.
 
 
 # Results
 
-From the 3D simulations, it was found that cells in blood act as moderators of flow. The flow of blood was redistributed from high flow rate regions near the inlet to the distant vessels with lower flow rates. Cell splitting behavior at bifurcations was found to be complex, which depends on many factors such as flow rates, pressure differences, or geometric parameters of the daughter branches. From 1D simulations, the steady state flow rate through the network was obtained 1) without any blockages and 2) for blockages in various vessels to assess the severity (i.e., change in flow velocity) and impact in different parts of the network. Several potential improvements to the 3D model were noted as well as the need for efficient post-analysis and visualization tools to enable in-situ visualization and analysis considering the large volume of data generated.
-
+A single WSE-2 was found to run 130 times faster than the highly optimized CUDA version of the kernel deployed on a single NVIDIA A100—significantly outpacing expected performance increase, given the difference in transistor counts between the architectures. However, the performance gains came at a cost—namely, increases in both software programming and algorithmic complexity. Considering how AI accelerators such as the WSE-2 were designed almost exclusively around deep learning AI tasks, it is noteworthy that the WSE-2 is already able to exceed performance expectations relative to GPUs—an architecture that has had several decades to mature and is now quite friendly to HPC simulation applications. A follow-up study saw the WSE-2 achieve a 182x speedup over the A100.
 
 
 # Impact
 
-Inclusion of larger white blood cells was found to significantly increase the transit time of red blood cells through vessels. The simulation of flow under partial vessel blockage (e.g., stenosis) with cells showed that cells could oscillate and be trapped in an adjacent vessel due to the fluctuating flow. The best performing 1D reduced order model still resulted in large errors in both the number of red blood cells and flow rate for short vessels, and such models may be more suitable for networks with larger vessels.
+The team’s analysis suggests the potential for a wide variety of complex and irregular simulation methods to be mapped efficiently onto AI accelerators like the Cerebras WSE-2. Such accelerators could offer significant advantages to traditional simulation workloads, and the development of higher-level programming models to more readily enable software development and exploration could greatly benefit HPC simulations. MC simulations themselves offer the potential to fill in crucial gaps in experimental and operational nuclear reactor data.
