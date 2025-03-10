@@ -6,7 +6,7 @@ permalink: 'science/highlights/uzdensky'
 
 title: 'Demonstrating Cross-Facility Data Processing at Scale with Laue Microdiffraction'
 pi: 'Michael Prince, Argonne National Laboratory'
-award: 'Director's Discretionary'
+award: 'Director’s Discretionary'
 systems: 'Polaris'
 field: 'Computer Science'
 sdl: 'd'
@@ -18,7 +18,7 @@ image-credit: 'Michael Prince, Argonne National Laboratory'
 publications:
   - authors: 'Prince, M., D. Gürsoy, D. Sheyfer, R. Chard, B. Côté, H. Parraga, B. Frosik, J. Tischler, and N. Schwarz'
     title: 'Demonstrating Cross-Facility Data Processing at Scale with Laue Microdiffraction'
-    source: 'SC-W 2023: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis'
+    source: "SC-W 2023: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis"
     date: 'November 2023'
     publisher: 'ACM'
     url: 'https://doi.org/10.1145/3624062.3624613'
