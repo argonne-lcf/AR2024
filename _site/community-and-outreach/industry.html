@@ -503,30 +503,38 @@ available parameters:
 
     <div class="page-intro-media">
       
-				<div class="media-hero-img">
-					<div class="img-wrapper">
-						<div>
-							<video autoplay loop muted>
-								
-									<source src="http://localhost:4000/assets/video/industry.webm" type="video/webm">	
-								
-								
-									<source src="http://localhost:4000/assets/video/industry.mp4" type="video/mp4">
-								
-				  				Your browser does not support the video tag.
-							</video>
-						</div>
-					</div>
+				<!-- 
 
-					
-						<small class="caption">
-							Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This is a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the Army Research Laboratory's midsize combustor (ARC-M1) at the University of Illinois Urbana-Champaign. The simulation was performed on ALCF computing resources using the Nek5000 code.
-							
-								<span class="credit">Image: ALCF Visualization and Data Analytics Team; Muhsin Ameen and Sicong Wu, Argonne National Laboratory</span>
-							
-						</small>
-					
-				</div>
+MEDIA, HERO
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+
+<div class="media-hero-img">
+	<div class="img-wrapper">
+		<div><img src="http://localhost:4000/assets/images/ALCF_Industry.jpg"></div>
+	</div>
+
+	
+		<small class="caption">
+			Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration. The simulation was carried out at the ALCF as part of a collaboration between Argonne and Raytheon Technologies Research Center.
+			
+				<span class="credit">Image: Argonne National Laboratory</span>
+			
+		</small>
+	
+</div>
 			
     </div>
     
@@ -552,39 +560,6 @@ available parameters:
 
 <h2 id="msbai">MSBAI</h2>
 <p>Researchers at MSBAI are using DOE’s exascale supercomputers as part of an ALCC project aimed at enhancing GURU, an autonomous system designed to reduce modeling and simulation setup time from hours to minutes for a range of engineering applications. The team will use ALCF’s Aurora and OLCF’s Frontier to drive advancements in hybrid interaction, skills agent learning, and geometry search and synthesis – core components of GURU’s AI-driven workflow automation. By addressing key barriers in simulation and CAD data handling, the project aims to accelerate product development across industries such as energy, automotive, aerospace, and medical devices, while democratizing access to HPC resources.</p>
-
-<!-- 
-
-MEDIA, IMAGE
-please use hero-page include for hero images
-
--------------------------------------------------------------------------------
-
-available parameters:
-* source
-- caption
-- credit
-
-* required
-
--------------------------------------------------------------------------------
-
--->
-
-<div class="media-img">
-	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/Argonne-Raytheon.jpg" /></div>
-	</div>
-
-	
-		<small class="caption">
-			Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration. The simulation was carried out at the ALCF as part of a collaboration between Argonne and Raytheon Technologies Research Center.
-			
-				<span class="credit">Image: Argonne National Laboratory</span>
-			
-		</small>
-	
-</div>
 
 <h2 id="rtx-technology-research-center">RTX Technology Research Center</h2>
 <p>With support from DOE’s HPC4EI program, researchers from RTX Technology Research Center are working with Argonne to develop reduced-order deep learning surrogate models to capture the impact of manufacturing uncertainties on the performance of film cooling schemes used for thermal management of aviation gas turbines. Reliable film cooling drives durability and thermal efficiency in gas turbine engines but is greatly sensitive to variations in the shape of cooling holes due to surface roughness induced by the manufacturing process. To this end, the team leveraged ALCF supercomputers and Argonne’s highly scalable nekRS solver to perform morphology-resolved computational fluid dynamics simulations of gas turbine film cooling schemes incorporating surface roughness of the cooling hole. Detailed analysis of the numerical results was carried out to gain insights into the impact of various surface roughness parameters on the downstream film cooling effectiveness. High-fidelity datasets from these simulations will be combined with data from coarse-grained simulations to develop multi-fidelity deep learning surrogate models to predict the impact of surface roughness on film cooling effectiveness. The team’s framework aims to help the company improve the fuel efficiency and durability of aircraft engines while reducing design times and costs.</p>

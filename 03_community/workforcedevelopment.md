@@ -2,8 +2,8 @@
 layout: page
 
 title: Building the Computing Workforce of the Future
-hero-img-source: "MorrissetteMateevitsi.jpg"
-hero-img-caption: "James Morrissette (right) first began working with ALCF mentor Victor Mateevitsi (left) as a high school student participating in the Argonne ACT-SO program. In 2023, he returned to the ALCF as a college intern through the Sustainable Research Pathways program. Image: Argonne National Laboratory"
+hero-img-source: "ALCF_Lighthouse.jpg"
+hero-img-caption: "The quick brown fox."
 
 theme: white
 permalink: community-and-outreach/building-an-hpc-workforce
@@ -15,18 +15,14 @@ Scientific breakthroughs in HPC and AI are driven by the ingenuity and expertise
 Attracting and training the next generation of computing professionals is crucial to sustaining innovation in the use of HPC and AI for scientific research. The ALCF is committed to expanding the HPC and AI talent pipeline by engaging with students, educators, and researchers through a variety of outreach, training, and internship programs.
 
 
-# Student Outreach
+## Student Outreach
 
 The ALCF is actively working to inspire future computer scientists through its contributions to educational programs that introduce students to coding, computational thinking, and scientific research. Each December, ALCF staff volunteer in Chicagoland schools for the Hour of Code initiative, a global effort to teach students to the basics of programming and broaden participation in computer science. The facility also engages students through programs like CodeGirls@Argonne Camp, which encourages them to explore coding, and annual outreach events such as Introduce a Girl to Engineering Day and Science Careers in Search of Women, where they connect with Argonne researchers and learn about careers in STEM.
 
 For high school students, the ALCF contributes to immersive learning experiences that introduce them to computational science and data-driven research. Argonne’s annual Coding for Science Camp and Big Data Camp provide hands-on training in programming, data science, and problem-solving techniques used in scientific research. Additionally, ALCF staff mentor students participating in the ACT-SO (Afro-Academic, Cultural, Technological & Scientific Olympics) High School Research Program, guiding them through independent research projects that use Argonne’s computing resources.
 
-{% include media-img.html
-   source= "MiddleAlvaro.png"
-   caption= "ALCF’s Alvaro Vazquez-Mayagoitia leads a breakout session at the 2023 Intro to HPC Bootcamp."
-%}
 
-# Hands-On Training and Career Development
+## Hands-On Training and Career Development
 
 At the college level, the ALCF provides hands-on learning experiences through its annual summer student program. Through programs like DOE’s Science Undergraduate Laboratory Internship (SULI) and Argonne’s research aide appointments, undergraduate and graduate students have the opportunity to work alongside ALCF staff mentors on real-world research projects in areas such as HPC system administration, data analytics, computational science, and AI-driven workflows.
 
@@ -37,7 +33,7 @@ For those seeking more advanced training, the facility also hosts the Argonne Tr
 In 2024, the ALCF launched the Lighthouse Initiative, a program designed to establish long-term partnerships with academic institutions. This initiative aims to broaden the facility’s user base while fostering connections with the next generation of computing professionals. As part of its workforce development efforts, the ALCF offers internship opportunities to students from partner institutions, providing them with hands-on experience in scientific computing.
 
 
-# Recruitment and Community Engagement
+## Recruitment and Community Engagement
 
 To connect with new talent and share career opportunities, the ALCF maintains a presence at major computing conferences and industry events. Staff members engage with students and professionals at events such as SC (Supercomputing), the Grace Hopper Celebration, and computing workshops to highlight the impact of HPC in advancing research and innovation.
 
