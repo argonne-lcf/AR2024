@@ -11,7 +11,7 @@ systems: 'AI Testbed'
 field: 'Computer Science'
 sdl: 's,l'
 
-image: 'tramm.png' 
+image: 'tramm.jpg' 
 image-caption: 'Diagram showing the energy column sorting process. Each square represents a single PE in the WSE-2 grid, with each dot representing a particle.'
 image-credit: 'John Tramm, Kazutomo Yoshii, Andrew Siegel, Argonne National Laboratory; Bryce Allen, Argonne National Laboratory and University of Chicago; Leighton Wilson, Cerebras Systems'
 
