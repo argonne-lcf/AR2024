@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/kanai'
+permalink: 'science/highlights/chang'
 
 title: 'Exascale Gyrokinetic Study of ITER Challenge on Power-Exhaust and ELM-Free Edge'
 pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
