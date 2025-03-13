@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/yu'
+permalink: 'science/highlights/jiang'
 
 title: 'Assessment of Turbulent Prandtl Number for Heavy Liquid Metal Flow in a Bare Rod Bundle'
 pi: 'Yiqi Yu, Emily Shemon, Argonne National Laboratory'
