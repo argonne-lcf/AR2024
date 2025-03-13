@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/ramanathan'
 
 title: 'MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization'
 pi: 'Arvind Ramanathan, Argonne National Laboratory
