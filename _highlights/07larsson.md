@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/nakano'
+permalink: 'science/highlights/larsson'
 
 title: 'Three-Dimensional Shock Boundary Layer Interactions over Flexible Walls'
 pi: 'Johan Larsson, University of Maryland; Ivan Bermejo-Moreno, University of Southern California'
