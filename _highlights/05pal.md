@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ameen'
+permalink: 'science/highlights/pal'
 
 title: 'High-Fidelity Simulations of Gas Turbine Combustors for Sustainable Aviation Applications'
 pi: 'Muhsin Ameen, Sicong Wu, Argonne National Laboratory'
