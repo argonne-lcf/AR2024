@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/uzdensky'
+permalink: 'science/highlights/burrows'
 
 title: 'State-of-the-Art High-Resolution 3D Simulations of Core-Collapse Supernovae'
 pi: 'Adam Burrows, Princeton University'
