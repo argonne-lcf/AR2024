@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/kent'
+permalink: 'science/highlights/heitmann'
 
 title: 'Simulating the Cosmos for the Roman and Rubin Telescopes'
 pi: 'Katrin Heitmann, Argonne National Laboratory'
