@@ -68,7 +68,32 @@
 
 	img {
 		object-fit: cover;
-		min-width: 100%;
+		width: 100vw;
+		display: inline-block;
+		position: absolute;
+		animation-duration: 150s;
+  	animation-iteration-count: infinite;
+  	animation-timing-function: linear;
+	}
+
+	@keyframes pos-left {
+	  0%   {left: 0;}
+	  100% {left: -100vw;}
+	}
+
+	@keyframes pos-right {
+	  0%   {left: 100vw;}
+	  100% {left: 0vw;}
+	}
+
+	img.pan-left{
+		left: 0;
+		animation-name: pos-left;	
+	}
+
+	img.pan-right{
+		left: 100vw;
+		animation-name: pos-right;
 	}
 
 	video {
