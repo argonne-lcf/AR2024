@@ -36,16 +36,27 @@ HOURS: ALCF: 200,000 Node-Hours
 
 
 
+## COMPUTER SCIENCE 
+
+### [Democratizing AI by Training Deployable Open-Source Language Models](https://www.alcf.anl.gov/science/projects/democratizing-ai-training-deployable-open-source-language-models)
+PI: Abhinav Bhatele, University of Maryland\
+HOURS: ALCF: 150,000 Node-Hours, OLCF: 600,000 Node-Hours
+
+
 
 ## CHEMISTRY
 
-### [Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensembles-states-0)
-PI: Philippe Sautet, University of California Los Angeles\
-HOURS: ALCF: 330,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+### [Exascale Catalytic Chemistry](https://www.alcf.anl.gov/science/projects/exascale-catalytic-chemistry)
+PI: David Bross, Argonne National Laboratory\
+HOURS: ALCF: 425,000 Node-Hours
 
-### [Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensembles-states-0)
-PI: Philippe Sautet, University of California Los Angeles\
-HOURS: ALCF: 330,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+### [Heterogeneous Catalysis as a Collective Phenomenon within a Dynamic Ensemble of Sites](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensemble-sites)
+PI: Anastassia Alexandrova, University of California, Los Angeles\
+HOURS: ALCF: 250,000 Node-Hours
+
+### [Heteropolymer Design Harnessing New and Emerging Computing Technologies](https://www.alcf.anl.gov/science/projects/heteropolymer-design-harnessing-new-and-emerging-computing-technologies)
+PI: Vikram Mulligan, Flatiron Institute\
+HOURS: ALCF: 375,000 Node-Hours
 
 
 
