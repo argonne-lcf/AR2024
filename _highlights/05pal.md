@@ -16,17 +16,12 @@ image-caption: 'Contour plot of velocity magnitude on a vertical cut plane from 
 image-credit: 'Ibrahim Jarrah, Pinaki Pal, and Muhsin Ameen, Argonne National Laboratory'
 
 publications:
-  - authors: 'Wu, S., D. Dasgupta, M. Ameen, and S. Patel'
-    title: 'LES Modeling of Gas Turbine Combustor Using Nek5000'
-    source: 'Bulletin of the American Physical Society'
-    date: 'November 2022'
-    publisher: 'APS'
-  - authors: 'Wu, S., D. Dasgupta, M. Ameen, and S. Patel'
-    title: 'High-Fidelity Simulations of Gas Turbine Combustor Using Spectral Element Method'
-    source: 'AIAA SCITECH 2023 Forum'
-    date: 'January 2023'
-    publisher: 'AIAA'
-    url: 'https://doi.org/10.2514/6.2023-1641'
+  - authors: 'Jarrah, I., P. Pal, M. Ameen, and M. M. Joly'
+    title: 'Wall-Resolved LES Study of Shaped-Hole Film Cooling Flow for Varying In-Hole Surface Roughness'
+    source: 'AIAA Aviation Forum and ASCEND 2024'
+    date: 'July 2024'
+    publisher: 'American Institute of Aeronautics and Astronautics'
+    url: 'https://doi.org/10.2514/6.2024-4262'
     
     
 ---
