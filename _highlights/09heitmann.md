@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Physics'
 sdl: 's'
 
-image: 'kent.jpeg' 
+image: 'ALCF-NASA.jpg' 
 image-caption: 'This pair of simulations images shows the same region of sky as the Vera C. Rubin Observatory (left) and Nancy Grace Roman Space Telescope (right) will see it.'
 image-credit: 'J. Chiang, SLAC; C. Hirata, Ohio State University; and NASA’s Goddard Space Flight Center'
 
