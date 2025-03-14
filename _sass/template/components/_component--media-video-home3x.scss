@@ -11,7 +11,7 @@
 
 
 	h2 {
-		@include stack(sm);
+		@include stack(xs);
 		color: color(blue, XXXXX);
 		grid-column: span 12;
 		@include typestyle($sans-md-bld);
@@ -45,10 +45,19 @@
 		width: 100%;
 		aspect-ratio: 16 / 9;
 		@include stack(xxs);
+		border: 1px solid color(green, XXXX);
 	}
 
 	.caption {
 		color: color(neutral, XXXX);
+		padding-bottom: bl(2);
+		border-bottom: 1px solid color(neutral, XX);
+		display: block;
+		@include stack(xxs);
+	}
+
+	.caption:before {
+		content: '\25B2  ';
 	}
 
 	.credit {

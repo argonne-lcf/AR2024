@@ -164,6 +164,13 @@
 	.credit {
 		font-style: italic;
 	}
+
+	@include respond-to(m){
+		margin-left: 60px;
+		width: calc(100vw - 84px);
+		padding-top: bl(2); //8px
+	}
+
 }
 
 
@@ -189,7 +196,7 @@
 	}
 
 	h2 {
-		@include stack(sm);
+		@include stack(xs);
 		color: color(blue, XXXXX);
 		@include typestyle($sans-md-bld);
 		@include respond-to(s){
@@ -282,7 +289,7 @@
 	background-color: color(green, XXXXX);
 	color: color(neutral, X);
 	width: 100vw;
-	padding: bl(7) 0 bl(14);
+	padding: bl(7) 0 bl(4);
 
 	.content-wrapper {
 		@include grid-parent($config: $grid-full);
@@ -330,6 +337,7 @@
 		grid-column: span 12;
 		@include respond-to(s){
 			grid-column: span 6;
+			@include stack(sm);
 		}
 	}
 
@@ -366,7 +374,7 @@
 		// @include grid-child($cols: 4);
 		border-bottom: 2px solid color(green, XXXX);
 		// padding-bottom: bl(5);
-		@include stack(xxs);
+		@include stack(xs);
 		grid-column: span 12;
 		grid-row: 2;
 		display: grid;
@@ -385,7 +393,12 @@
 	.toc-highlight {
 		margin-top: bl(2); //8px
 		@include stack(xs);
+		min-height: 52px;
 	}
+
+	// .toc-highlight li {
+	// 	min-height: 60px;
+	// }
 
 	.toc-highlight .title,
 	.toc-highlight .pi {

@@ -112,16 +112,16 @@ $sans-xl-bld: (
 
 $sans-lg-reg: (
   null    : (normal, normal, 400, 1.625,   7,  $sans, -.025, 0),
-  s       : (normal, normal, 400, 4.25,   15,  $sans, -.025, 0),
-  m       : (normal, normal, 400, 4.25,   15,  $sans, -.025, 0),
-  l       : (normal, normal, 400, 4.25,   15,  $sans, -.025, 0),   
+  s       : (normal, normal, 400, 4,   15,  $sans, -.025, 0),
+  m       : (normal, normal, 400, 4,   15,  $sans, -.025, 0),
+  l       : (normal, normal, 400, 4,   15,  $sans, -.025, 0),   
 );
 
 $sans-lg-bld: (
   null    : (normal, normal, 600, 1.625,   7,  $sans, -.025, 0),
-  s       : (normal, normal, 600, 4.25,   15,  $sans, -.025, 0),
-  m       : (normal, normal, 600, 4.25,   15,  $sans, -.025, 0),
-  l       : (normal, normal, 600, 4.25,   15,  $sans, -.025, 0),   
+  s       : (normal, normal, 600, 4,   15,  $sans, -.025, 0),
+  m       : (normal, normal, 600, 4,   15,  $sans, -.025, 0),
+  l       : (normal, normal, 600, 4,   15,  $sans, -.025, 0),   
 );
 
 
@@ -144,20 +144,20 @@ $sans-md-bld: (
 
 
 
-// SM 16px/24px
+// SM 18.15px/24px
 
 $sans-sm-reg: (
-  null    : (normal, normal, 400, 1.125,  6,  $sans, 0, 0), 
-  sm      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),
-  md      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),
-  lg      : (normal, normal, 400, 1.125,  6,  $sans, 0, 0),   
+  null    : (normal, normal, 400, 1.134375,  6,  $sans, 0, 0), 
+  sm      : (normal, normal, 400, 1.134375,  6,  $sans, 0, 0),
+  md      : (normal, normal, 400, 1.134375,  6,  $sans, 0, 0),
+  lg      : (normal, normal, 400, 1.134375,  6,  $sans, 0, 0),   
 );
 
 $sans-sm-bld: (
-  null    : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
-  sm      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
-  md      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),
-  lg      : (normal, normal, 600, 1.125,  6,  $sans, 0, 0),   
+  null    : (normal, normal, 600, 1.134375,  6,  $sans, 0, 0),
+  sm      : (normal, normal, 600, 1.134375,  6,  $sans, 0, 0),
+  md      : (normal, normal, 600, 1.134375,  6,  $sans, 0, 0),
+  lg      : (normal, normal, 600, 1.134375,  6,  $sans, 0, 0),   
 );
 
 
