@@ -11,7 +11,8 @@
 
 
 	h2 {
-		@include stack(xs);
+		// @include stack(xxs);
+		padding-bottom: bl(2) !important;
 		color: color(blue, XXXXX);
 		grid-column: span 12;
 		@include typestyle($sans-md-bld);
