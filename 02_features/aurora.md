@@ -6,7 +6,7 @@ permalink: features/aurora
 
 title: Aurora Nears Full Deployment
 hero-mp4-source: "aurora_pan.mp4"
-hero-img-source: ALCF-Aurora1.jpg
+hero-img-source: ALCF_AuroraSkin.jpg
 hero-img-caption: "The Aurora team uses a specialized machine to install the supercomputer’s blades."
 intro: "The system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community in 2025."
 
@@ -26,8 +26,8 @@ Together with Oak Ridge National Laboratory’s Frontier and Lawrence Livermore 
 Built in partnership with Intel and HPE, Aurora’s architecture represents a first-of-its-kind deployment, integrating cutting-edge technologies at an unprecedented scale. Equipped with 63,744 GPUs and 84,992 network endpoints, the system is designed to tackle complex computational challenges in ways that were previously unimaginable.
 
 
-{% include media-img.html
-   source= "ALCF_AuroraSkin.jpg"
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/djEzdORj0F0?si=2FBUZcgIVLey9ywP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption= "Quick brown fox"
    credit= "Argonne National Laboratory"
 %}
