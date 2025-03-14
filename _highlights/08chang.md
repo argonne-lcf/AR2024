@@ -38,18 +38,18 @@ publications:
 %}
 
 
-# Challenge
+## Challenge
 
 The goal of this project is to perform two-pronged, inter-related fundamental edge physics studies of critical importance to the successful operation of ITER and to the design of FPPs. The first prong is the mitigation of high stationary heat-flux densities that will damage material walls while maintaining the high edge plasma pedestal within a safe operational window. The second prong is avoiding explosive transient power flow to material walls caused by edge localized mode crash.
 
-# Approach
+## Approach
 
 Achieving their goals necessitates that the researchers employ DOE supercomputing resources. The team uses the electromagnetic edge gyrokinetic particle-in-cell code XGC, which enables the inclusion of two important but computationally expensive components: (a) the addition of tungsten impurity particles that are sputtered from ITER’s material wall as a third species along with deuterium and tritium fuel particles, and (b) the capability for plasma detachment from the divertor plates. Tungsten impurity particles, beyond their deleterious effect of radiating away plasma energy in the core, are known to significantly impact the edge physics, and the detached plasma is known to significantly reduce the divertor heat load.
 
-# Results
+## Results
 
 A paper published in _Physics of Plasmas_ demonstrated the application of a bundling technique to model the diverse charge states of tungsten impurity species in total-f gyrokinetic simulations. XGC was used to simulate a JET H-mode-like plasma across an entire plasma volume, spanning from the magnetic axis to the divertor. Tungsten impurities were found to affect the deuterium fluxes of particles and heat.
 
-# Impact
+## Impact
 
 As fusion power represents a paradigm-shifting breakthrough, success of the ITER project is a high-priority challenge for the DOE mission, which will ultimately lead to more economical FPPs. To accomplish this goal, simulations based on first-principles must be deployed to solve issues with power exhaust, including mitigating stationary heat-flux densities and avoiding unacceptably high transient power flow to material walls.

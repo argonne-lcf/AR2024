@@ -638,20 +638,20 @@ available parameters:
 
 <p class="intro">The ongoing Advanced Photon Source (APS) upgrade project will offer users x-ray beams 500 times more powerful than previously available, with commensurate increases in the amounts of experimental data generated for processing. To meet the demands of the upgrade, a team of researchers led by Argonne National Laboratory developed high-performance software tools and data infrastructure to integrate APS data processing and analysis in near-real time with ALCF computing resources.</p>
 
-<h1 id="challenge">Challenge</h1>
+<h2 id="challenge">Challenge</h2>
 
 <p>The co-location of the ALCF and the APS offers an ideal proving ground for methods to closely integrate supercomputers and experiments for near-real-time data analysis. The research team deployed a fully automated pipeline that uses ALCF resources to rapidly process data obtained from x-ray experiments at the APS. To demonstrate the capabilities of the pipeline, the team carried out a study using a technique called Laue microdiffraction, which is employed at the APS and other light sources to analyze materials with crystalline structures but requires significant computational resources.</p>
 
-<h1 id="approach">Approach</h1>
+<h2 id="approach">Approach</h2>
 
 <p>As a focused x-ray beam passes through a material, individual crystallites along the path of the beam diffract at different angles depending on their orientation. To obtain a full 3D map of the structure, the angle and position of each diffracted beam must be resolved. A new coded aperture Laue reconstruction algorithm is used instead of using a time-intensive scan to complete the analysis, necessitating supercomputers.
 The automatic pipeline the team built for processing APS data leveraged infrastructure and tools being deployed between APS and ALCF as part of the Argonne Nexus effort. Globus handles much of the cross-facility data management. The APS Data Management System integrates with Globus Gladier/FuncX workflow tools to provide a single end-to-end data pipeline.</p>
 
-<h1 id="results">Results</h1>
+<h2 id="results">Results</h2>
 
 <p>With ALCF resources, the team demonstrated the on-demand reconstruction of data obtained from the APS beamline, returning reconstructed scans to the APS within 15 minutes of them being sent to the ALCF. Near-ideal scaling for the workflow has been shown on as many as 100 nodes. Continuously using up to 50 nodes on Polaris, it was able to keep up with the data generation rate processing scans, which came in every 1 to 2 minutes throughout 6-to-12 hour runs. The work resulted in a Best Paper Award at the SC23 conference’s XLOOP workshop.</p>
 
-<h1 id="impact">Impact</h1>
+<h2 id="impact">Impact</h2>
 
 <p>The team’s results carry implications for future software development, engineering and beamline science. The parallelization, optimization, and deployment onto Polaris of the Laue microdiffraction technique has enabled full-scale analysis of microdiffraction data. The automated near-real-time reconstruction of coded aperture Laue datasets will enable users of ALCF supercomputing resources to collect data at speeds ten times faster than is currently possible, thereby accelerating the pace of scientific discovery. Furthermore, the full-scale reconstructions produced with Polaris are being used to improve the underlying beamline technique.</p>
 

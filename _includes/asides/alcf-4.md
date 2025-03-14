@@ -1,4 +1,4 @@
-# ALCF-4: Planning for Argonne’s Next-Generation Supercomputer
+## ALCF-4: Planning for Argonne’s Next-Generation Supercomputer
 
 | Q3 2024 | Q2 2025 | Q3 2025 | Q4 2025 | Q4 2028 | 
 | :-- | :-- | :-- | :-- | :-- |

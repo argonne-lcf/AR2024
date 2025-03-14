@@ -1,7 +1,7 @@
 ---
 layout: page
 
-theme: dark
+theme: green
 permalink: features/alcf-ai-testbed
 
 title: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
@@ -27,7 +27,7 @@ These methods are powerful tools for speeding up scientific progress. Computer v
 Experimental data analysis also benefits from the lab’s AI Testbed. Researchers from Argonne’s Advanced Photon Source (APS) are exploring how different accelerators can enable fast, scalable AI model training and inference to accelerate the analysis of x-ray imaging data. Rapid data analysis methods are becoming increasingly important for the APS and other experimental facilities as data generation rates continue to grow. 
 
 
-# SambaNova
+## SambaNova
 The ALCF AI Testbed expanded its SambaNova platform with the addition of SambaNova Suite. SambaNova Suite, powered by SambaNova DataScale SN40L systems, is a fully integrated hardware-software platform that enables users to train, fine tune, and deploy AI workloads. Optimized for low-latency, high-throughput inference, the platform provides scientists with a new AI resource to accelerate scientific research. 
 
 The deployment of the DataScale SN40L system extends advanced AI inference capabilities beyond the ALCF’s traditional ALCF user base. By making trained AI models more accessible, the platform enables a wider community of researchers to explore new directions in generative and agentic AI workloads for science and engineering.
@@ -41,7 +41,7 @@ The ability to switch between different AI models instantly and fine-tune them u
 The system also gives the lab a new platform to continue its explorations into energy-efficient technologies for next-generation supercomputers and data centers, as one of the aims of the ALCF AI Testbed is to determine how novel AI accelerators like the SN40L can be integrated with future supercomputers to enhance energy efficiency.
 
 
-# Cerebras
+## Cerebras
 The Cerebras system, previously upgraded to a Wafer-Scale Cluster WSE-2, optimized the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
 
 An Argonne-led research team examined the feasibility of performing continuous energy Monte Carlo (MC) particle transport on the Cerebras WSE-2—simulations with the potential to fill in crucial gaps in experimental and operational nuclear reactor data.

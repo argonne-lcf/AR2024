@@ -1,7 +1,7 @@
 ---
 layout: page
 
-theme: dark
+theme: cyan
 permalink: features/nexus-iri
 
 title: Linking Experimental Facilities and Leadership Computing
@@ -22,13 +22,13 @@ Numerous ALCF activities and achievements have helped realize the DOE effort to 
 -	Participating in leadership groups and technical subcommittees dedicated to the design and implementation of computing facility functionality useful for experimentalists.
 
 
-# Nexus
+## Nexus
 Under [Argonne's Nexus effort](https://www.anl.gov/nexus-connect), Argonne researchers are working to advance the DOE’s vision by integrating experimental facilities with ALCF computing resources. 
 
 As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF has continued its commitment to linking experimental facilities with ALCF computing. Work with APS over recent years has been a primary driver for defining new functionality and services ALCF has deployed to satisfy experiment-time computing needs at APS beamlines. Service accounts enable APS users to leverage automated analysis of their data at ALCF in a shared environment in a streamlined fashion throughout their multi-day beamline campaigns, with jobs running immediately at experiment time in the on-demand queue on Polaris. Analysis results are available to scientists at the beamline via Globus Sharing enabled on the Eagle filesystem, at the time of experiment and post-hoc. Building on these ALCF-deployed features, Globus Compute and Globus Flows manage application execution and data transfer in a frictionless manner, for projects across the DOE-SC program offices.
 
 
-# Facility Integration
+## Facility Integration
 
 For over a decade, the ALCF and the APS have been collaborating to build the infrastructure for integrated ALCF-APS research, including the development of workflow management tools and enable secure access to on-demand computing.
 
@@ -36,7 +36,7 @@ With the upgraded APS providing x-rays up to 500 times brighter than before with
 
 Working with a team at the Lawrence Berkeley National Laboratory Advanced Light Source, ALCF staff have helped to automate analysis of data from a tomography beamline on Polaris. Using a service account to submit jobs to Polaris through Globus Compute and the demand queue to analyze data at experiment time, the team has moved beyond an initial prototype and is now able to run analysis in a dedicated discretionary allocation. This production-ready capability is planned to be used in upcoming beamline experiments.
 
-# Expanding and Demonstrating Capabilities
+## Expanding and Demonstrating Capabilities
 
 In a recent achievement of facility integration for near-real-time data analysis, Argonne deployed a fully automated pipeline that uses ALCF resources to rapidly process data obtained from the x-ray experiments at the APS.
 
@@ -46,7 +46,7 @@ Argonne researchers showcased the use of the Polaris system for processing data 
 
 Additional experiments and papers presented at the SC24 XLOOP workshop explored multiple IRI-related issues, including the scaling capabilities of file-based reconstruction of ptychography data—which requires particularly short data-processing turnaround times. New scans on the APS beamline storage system were automatically transferred to ALCF’s Eagle file system through Globus using the file-based workflow, which automatically launched reconstruction jobs on Polaris compute nodes using an on-demand queue. Once the reconstruction results were available on Eagle, they were transferred back to the APS through the same Globus transfer workflow.
 
-# Partnering to Advance Energy Technologies
+## Partnering to Advance Energy Technologies
 
 The Plasma Physics and Fusion Energy Pathfinder aims to incorporate remote use of high-performance computing into experiments running at the General Atomics [DIII-D National Fusion Facility](https://d3dfusion.org/) in San Diego, California.
 
@@ -56,7 +56,7 @@ ALCF staff also worked to automate the Ion Orbiter workflow, which simulates par
 
 Both the CAKE and Ion Orbiter workflows were demonstrated at the SC24 conference at the DOE booth.
 
-# Leading the Future of Inter-Facility Science
+## Leading the Future of Inter-Facility Science
 
 ALCF staff participate in and co-chair weekly Leadership Group meetings to direct overall IRI efforts and specific tasks for technical subcommittees, form new subcommittees, and work with the Pathfinder projects. In 2024, ALCF staff served on the organizing committee for the [IRI/HPDF](https://www.hpdf.science/) kickoff meeting in Gaithersburg, Maryland, and produced related materials describing outcomes from the meeting. ALCF staff also presented during the Leadership Group's participation in the DOE ASCAC meeting in May 2024.
 

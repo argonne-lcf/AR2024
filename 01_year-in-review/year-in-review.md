@@ -14,7 +14,7 @@ permalink: year-in-review/year-in-review
    caption= "Bill Allcock"
 %}
 
-# Bill Allcock, ALCF Director of Operations
+## Bill Allcock, ALCF Director of Operations
 
 For the operations team, and much of ALCF, 2024 was the year of Aurora. It was the single largest effort, involving every aspect of the team, and culminated in the completion of acceptance testing in December. We plan on opening Aurora to users early next year. This concluded an effort that spanned many years and while it was a challenge, I am proud of the operations team for the part they played in bringing Aurora to fruition.
 
@@ -37,7 +37,7 @@ We also released a significant upgrade to the ALCF account and project managemen
    caption= "Kalyan Kumaran"
 %}
 
-# Kalyan Kumaran, ALCF Director of Technology
+## Kalyan Kumaran, ALCF Director of Technology
 
 Over the past year, our team made significant strides in advancing the ALCF-3 project, successfully facilitating the transition of the Aurora supercomputer into production early next year. At the same time, we laid the groundwork for the ALCF-4 project, contributing extensively to the early stages of our next system acquisition.
 
@@ -57,7 +57,7 @@ Throughout the year, the team also made impressive contributions in showcasing A
    caption= "Jini Ramprakash"
 %}
 
-# Jini Ramprakash, ALCF Deputy Director
+## Jini Ramprakash, ALCF Deputy Director
 
 In 2024, we ramped up our efforts to plan for the facility’s next-generation supercomputer via the ALCF-4 project. While our latest system, Aurora, is just about ready to make its debut, it’s critical to lay the groundwork for future supercomputers well in advance. We formally launched the ALCF-4 effort in 2023 with a target deployment in the 2028–2029 timeframe. Over the past year, we’ve reached several key milestones: releasing the draft technical requirements in June, conducting a successful technical design review in August, and engaging with potential vendors to assess their technology roadmaps and timelines. The project will gain further momentum next year with major reviews, including Critical Decision-1 (CD-1), which evaluates the project's technical approach, design, and implementation while establishing preliminary cost and schedule estimates.
 
@@ -71,7 +71,7 @@ Workforce development has remained a priority as well. Our annual “Intro to AI
    caption= "Katherine Riley"
 %}
 
-# Katherine Riley, ALCF Director of Science
+## Katherine Riley, ALCF Director of Science
 
 Once again, our user community led a number of impressive research campaigns this year, achieving breakthroughs in fields ranging from biology and materials science to cosmology and fusion energy. At the same time, we continued to see more and more projects with complex workflows that integrate simulation, data science, and AI methods, reflecting the growing convergence of these approaches in scientific computing. The year was marked by several high-impact projects, including a collaboration between DOE and NASA to perform simulations that are helping prepare for future observations of the cosmos, and the development of an innovative AI-driven protein design framework that was recognized as a finalist for the Gordon Bell Prize. We also made strides in integrating our supercomputing resources with experimental facilities to speed up data-intensive discoveries, while early science teams on Aurora had some promising pre-production results that hint at the transformative advances to come.
 

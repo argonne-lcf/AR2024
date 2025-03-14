@@ -1,4 +1,4 @@
-# INCITE/ALCC
+## INCITE/ALCC
 
 {%	include txt-fig.html 
 	  figure-1 = "2M"
@@ -8,7 +8,7 @@
 %}
 
 
-
+<br>
 ## 2024 by Domain
 
 

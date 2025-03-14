@@ -638,19 +638,19 @@ available parameters:
 
 <p class="intro">Westinghouse Electric Company is working with an international team to develop its next-generation high-capacity nuclear power plant based on lead-cooled fast reactor technology. Using ALCF supercomputers, researchers from Argonne National Laboratory are collaborating with the company to provide insights into the reactor’s flow physics and heat transfer mechanisms.</p>
 
-<h1 id="challenge">Challenge</h1>
+<h2 id="challenge">Challenge</h2>
 
 <p>Lead-cooled fast reactors are a type of nuclear reactor design that offer many advantages, including the ability to operate at higher thermal efficiencies than existing commercial light water reactors. Developing these advanced reactors poses challenges due to the unique characteristics of heavy liquid metal (HLM) coolants, such as a low Prandtl number (Pr) compared to water. Existing turbulence models are inadequate for accurately predicting heat transfer in HLM flows, making the selection of an appropriate turbulent Prandtl number (Pr<sub>t</sub>) critical. Accurate modeling and simulation of heat transfer and mixing in the HLM coolant is needed to help prepare the technology for licensing.</p>
 
-<h1 id="approach">Approach</h1>
+<h2 id="approach">Approach</h2>
 
 <p>For this effort, the team performed large eddy simulations (LES) using the open-source Nek5000 code on ALCF’s Theta system to study nuclear fuel rod bundles with HLM flows. LES do not require a Pr<sub>t</sub> to model turbulence-driven heat transfer, and thus can be used as benchmarks for selecting a Pr<sub>t</sub> in a less computationally expensive Reynolds Averaged Navier–Stokes (RANS) model which requires this parameter.</p>
 
-<h1 id="results">Results</h1>
+<h2 id="results">Results</h2>
 
 <p>In a paper published in <em>Nuclear Engineering and Design</em>, the researchers showed that the selection of the appropriate Pr<sub>t</sub> significantly impacts the accuracy of simulations for advanced nuclear reactors. By analyzing a prototypical lead-cooled fast reactor assembly with different Pr<sub>t</sub> values, the team found that inappropriate Pr<sub>t</sub>can introduce error in Nusselt number (a measure of heat transfer) by up to 44 percent. They also compared detailed temperature distributions obtained by computationally expensive LES and less expensive RANS simulations to better understand the deviation introduced by the turbulence model. The analysis shows that the RANS model with Pr<sub>t</sub>=1.5 shows the best agreement with LES on the prediction of local temperature distribution and global Nusselt number.</p>
 
-<h1 id="impact">Impact</h1>
+<h2 id="impact">Impact</h2>
 
 <p>The team’s research is helping to enhance the understanding and modeling of heavy liquid metal flow behavior and heat transfer mechanisms for next-generation nuclear reactors. In addition, their study provides valuable high-fidelity reference data that can be used by the nuclear reactor research community to validate and calibrate less computationally expensive models.</p>
 

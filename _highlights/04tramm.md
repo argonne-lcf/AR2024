@@ -39,21 +39,21 @@ publications:
 
 
 
-# Challenge
+## Challenge
 
 Beyond the challenge of porting the kernel into the low-level CSL programming model, the team proposed and tested various new algorithms to handle the decomposition of neutron cross-sectional data (which is used to generate random samples for particle behavior) into the small local memory domains contained in each of 750,000-some WSE-2 units.
 
 
-# Approach
+## Approach
 
 The researchers ported a simplified version of the MC cross-section lookup kernel (a kernel used by the MC neutral particle transport algorithm) using the Cerebras SDK and the Cerebras CSL programming model. Their decomposition and communication scheme involved three stages: (1) the sorting of particles into energy bands within each column of compute cores; (2) an iterative diffusion-based load balancing stage for balancing starting particle loads within each row; and (3) an exchange of particles to allow particles to accumulate nuclide information from each column in the row. All communication patterns had to be developed to avoid any concept of global synchronization or point-to-point message passing, given the limitations of the WSE-2 hardware. Additionally, the team developed an architecture-specific optimization to leverage the capabilities of the WSE-2 and a highly optimized CUDA kernel for testing on an NVIDIA A100 graphics processing unit to provide a baseline to contextualize the performance of the WSE-2.
 
 
-# Results
+## Results
 
 A single WSE-2 was found to run 130 times faster than the highly optimized CUDA version of the kernel deployed on a single NVIDIA A100—significantly outpacing expected performance increase, given the difference in transistor counts between the architectures. However, the performance gains came at a cost—namely, increases in both software programming and algorithmic complexity. Considering how AI accelerators such as the WSE-2 were designed almost exclusively around deep learning AI tasks, it is noteworthy that the WSE-2 is already able to exceed performance expectations relative to GPUs—an architecture that has had several decades to mature and is now quite friendly to HPC simulation applications. A follow-up study saw the WSE-2 achieve a 182x speedup over the A100.
 
 
-# Impact
+## Impact
 
 The team’s analysis suggests the potential for a wide variety of complex and irregular simulation methods to be mapped efficiently onto AI accelerators like the Cerebras WSE-2. Such accelerators could offer significant advantages to traditional simulation workloads, and the development of higher-level programming models to more readily enable software development and exploration could greatly benefit HPC simulations. MC simulations themselves offer the potential to fill in crucial gaps in experimental and operational nuclear reactor data.

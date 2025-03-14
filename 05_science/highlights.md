@@ -1,8 +1,8 @@
 ---
 layout: page
 
-title: 2023 Science Highlights
-intro: "In 2023, scientists from across the world used ALCF supercomputing and AI resources to accelerate discovery and innovation across a wide range of research areas. The following science highlights detail some of the groundbreaking research campaigns carried out by ALCF users over the past year."
+title: 2024 Science Highlights
+intro: "The quick brown fox jumps over the lazy dog."
 
 theme: white
 permalink: science/highlights
