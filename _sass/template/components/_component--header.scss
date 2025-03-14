@@ -44,8 +44,12 @@ header {
 		}
 
 		h1 {
-			padding-top: 6px !important;
+			padding-top: 0 !important;
 			margin-top: 0 !important;
+			color: color(warm, X);
+			@include respond-to(m){
+				padding-top: 6px !important;
+			}
 		}
 	}
 
@@ -61,6 +65,7 @@ header {
 	h1 {
 		@include typestyle($sans-sm-bld);
 		color: color(green, X) !important;
+		padding-top: 0 !important;
 		@include respond-to(m){
 			@include typestyle($sans-sm-bld);
 			margin-top: bl(1);
@@ -69,12 +74,13 @@ header {
 
 
 	h2 {
-		@include typestyle($sans-sm-reg);
+		@include typestyle($sans-xs-bld);
 		display: inline-block;
 		margin-left: bl(2); //8px;
 		margin-right: bl(2); //8px;
 		margin-top: bl(1); //4px;
-		color: color(blue, X);
+		character-spacing: .25px;
+		color: color(warm, X);
 	}
 
 	a {
