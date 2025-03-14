@@ -9,9 +9,9 @@ pi: 'Pinaki Pal and Muhsin Ameen, Argonne National Laboratory'
 award: 'Director’s Discretionary'
 systems: 'Polaris'
 field: 'Engineering'
-sdl: 's, l'
+sdl: 's,l'
 
-image: 'Wu.png' 
+image: 'ALCF-RTRC.jpg' 
 image-caption: 'Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration with a rough cooling hole. The simulation was carried out at the ALCF as part of a collaboration between Argonne and RTX Technology Research Center.'
 image-credit: 'Ibrahim Jarrah, Pinaki Pal, and Muhsin Ameen, Argonne National Laboratory'
 
