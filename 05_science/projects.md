@@ -8,15 +8,32 @@ permalink: science/projects
 ---
 
 
-# INCITE 2023
+# INCITE 2024
 
 
 
 ## BIOLOGICAL SCIENCES
 
-### [High-Resolution Ensemble 3D Structures of Genome across Tissues](https://www.alcf.anl.gov/science/projects/high-resolution-ensemble-3d-structures-genome-across-tissues)
-PI: Jie Liang, University of Illinois at Chicago\
+### [COMbining Deep-Learning with Physics-Based affinIty estimatiOn 3 (COMPBIO3)](https://www.alcf.anl.gov/science/projects/combining-deep-learning-physics-based-affinity-estimation-3-compbio3)
+PI: Peter Coveney, University College London\
 HOURS: ALCF: 1,625,000 Node-Hours
+
+### [Establishing Digital Twins for High-Throughput Cellular Analysis in Whole Blood](https://www.alcf.anl.gov/science/projects/establishing-digital-twins-high-throughput-cellular-analysis-whole-blood)
+PI: Amanda Randles, Duke University\
+HOURS: ALCF: 60,000 Node-Hours, OLCF: 240,000 Node-Hours
+
+### [ExaCortex: Exascale Reconstruction of Human Cerebral Cortex](https://www.alcf.anl.gov/science/projects/exacortex-exascale-reconstruction-human-cerebral-cortex)
+PI: Nicola Ferrier, Argonne National Laboratory\
+HOURS: ALCF: 250,000 Node-Hours
+
+### [Foundation Models for Predictive Molecular Epidemiology](https://www.alcf.anl.gov/science/projects/foundation-models-predictive-molecular-epidemiology)
+PI: Arvind Ramanathan, Argonne National Laboratory\
+HOURS: ALCF: 320,000 Node-Hours
+
+### [OpenFold-Powered Machine Learning of Protein-Protein Interactions and Complexes](https://www.alcf.anl.gov/science/projects/openfold-powered-machine-learning-protein-protein-interactions-and-complexes)
+PI: Mohammed AlQuraishi, Columbia University\
+HOURS: ALCF: 200,000 Node-Hours
+
 
 
 
@@ -24,7 +41,11 @@ HOURS: ALCF: 1,625,000 Node-Hours
 
 ### [Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensembles-states-0)
 PI: Philippe Sautet, University of California Los Angeles\
-HOURS: ALCF: 2,200,000 Node-Hours
+HOURS: ALCF: 330,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+
+### [Heterogeneous Catalysis as a Collective Phenomenon Within Dynamic Ensembles of States](https://www.alcf.anl.gov/science/projects/heterogeneous-catalysis-collective-phenomenon-within-dynamic-ensembles-states-0)
+PI: Philippe Sautet, University of California Los Angeles\
+HOURS: ALCF: 330,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
 
 
