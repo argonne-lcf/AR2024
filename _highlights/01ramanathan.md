@@ -12,7 +12,7 @@ systems: 'Aurora'
 field: 'Biological Sciences'
 sdl: 's,d,l'
 
-image: 'ma.jpg' 
+image: 'ALCF-MProtDPO.png' 
 image-caption: 'Using the MProt-DPO framework, scientists identified synthetic versions of malate dehydrogenase that preserve the protein’s critical structure and key binding areas.'
 image-credit: 'Arvind Ramanathan, Argonne National Laboratory'
 
