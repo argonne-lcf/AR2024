@@ -23,7 +23,7 @@ title: Search Results
       "{{ highlight.url | slugify }}": {
         "title": "{{ highlight.title | xml_escape }}",
         "content": {{ highlight.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ highlight.url | xml_escape }}"
+        "url": "{{ site.url }}/{{ highlight.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
@@ -33,7 +33,7 @@ title: Search Results
       "{{ ph.url | slugify }}": {
         "title": "{{ ph.title | xml_escape }}",
         "content": {{ ph.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ ph.url | xml_escape }}"
+        "url": "{{ site.url }}/{{ ph.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
@@ -44,7 +44,7 @@ title: Search Results
     "{{ p.url | slugify }}": {
         "title": "{{ p.title | xml_escape }}",
         "content": {{ p.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ p.url | xml_escape }}"
+        "url": "{{ site.url }}/{{ p.url | xml_escape }}"
       }
       {%- unless forloop.last %},{% endunless -%}
     {% endfor %}
