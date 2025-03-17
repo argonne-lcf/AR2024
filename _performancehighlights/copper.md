@@ -31,7 +31,4 @@ Running on Sunspot, the Aurora test and development system, CosmicTagger achieve
 %}
 
 # Impact
-Deep learning has enabled state-of-the-art results in high-energy neutrino physics, with this application in particular achieving substantially improved background particle rejection compared to classical techniques. Deploying CosmicTagger on Aurora will enable training and inference of the model at the highest resolution data and with the most scientifically accurate model.
-
-Additionally, the Short Baseline Neutrino Detector, which originated the CosmicTagger application in collaboration with Argonne, is expected to begin operations in 2024. CosmicTagger will be beneficial in aiding the scientific analysis of what is expected to be the biggest, highest-resolution beam neutrino dataset ever collected.
-
+Copper has not only drastically reduced the total time to load data and software libraries, but has also freed up such previously contended, highly demanded resources such as filesystem responders and storage network bandwidth. The savings in time and energy have enabled the ALCF to permit more science-campaign jobs with more efficient utilization of resources. Copper also provides an effective means to adopt and reuse existing software libraries developed within the DOE laboratory system. The researchers are currently assisting other exascale computing facilities with the implementation of Copper.
