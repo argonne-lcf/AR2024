@@ -248,108 +248,94 @@ HOURS: ALCF: 70,000 Node-Hours
 
 
 
-# ALCC 2022–2023
+# ALCC 2023–2024
 
 ## BIOLOGICAL SCIENCES
 
-### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-0)
+### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-1)
 PI: Jonathan Ozik, Argonne National Laboratory\
-HOURS: ALCF: 283,000 Node-Hours
+HOURS: ALCF: 160,000 Node-Hours, NERSC: 100,000 Node-Hours
 
-
-
-
-## COMPUTER SCIENCE
-
-### [A Multiscale Surrogate Model for Fracture Evolution Using DeepONet](https://www.alcf.anl.gov/science/projects/multiscale-surrogate-model-fracture-evolution-using-deeponet)
-PI: George Karniadakis, Brown University\
-HOURS: ALCF: 50,000 Node-Hours, OLCF: 40,000 Node-Hours, NERSC: 60,000 Node-Hours
+### [Scaling Genomic Variant Callers to Leadership-Class Systems: A Collaboration Between VA-MVP and DOE](https://www.alcf.anl.gov/science/projects/scaling-genomic-variant-callers-leadership-class-systems-collaboration-between-va)
+PI: Ravi Madduri, Argonne National Laboratory\
+HOURS: ALCF: 210,000 Node-Hours
 
 
 
 
 ## CHEMISTRY
 
-### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-0)
+### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-1)
 PI: Wei Jiang, Argonne National Laboratory\
-HOURS: ALCF: 500,000 Node-Hours
+HOURS: ALCF: 710,000 Node-Hours
 
-
-
-
-## EARTH SCIENCE
-
-### [A Climate Model Ensemble for Understanding Future Changes to Extreme Weather](https://www.alcf.anl.gov/science/projects/climate-model-ensemble-understanding-future-changes-extreme)
-PI: Paul Ullrich, University of California\
-HOURS: ALCF: 900,000 Node-Hours, NERSC: 300,000 Node-Hours
+### [Relativistic Quantum Dynamics in the Non-Equilibrium Regime](https://www.alcf.anl.gov/science/projects/relativistic-quantum-dynamics-non-equilibrium-regime)
+PI: Eugene DePrince, Florida State University\
+HOURS: ALCF: 700,000 Node-Hours
 
 
 
 
 ## ENERGY TECHNOLOGIES
 
-### [High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-next-generation-nuclear-reactor-designs)
+### [Accelerating Deployment of Next-Generation Nuclear Power Using High-Fidelity CFD](https://www.alcf.anl.gov/science/projects/accelerating-deployment-next-generation-nuclear-power-using-high-fidelity-cfd)
 PI: Dillon Shaver, Argonne National Laboratory\
-HOURS: ALCF: 400,000 Node-Hours, OLCF: 400,000 Node-Hours, NERSC: 100,000 Node-Hours
-
-### [Investigation of Flow and Heat Transfer Behavior in Involute Plate Research Reactor with Large Eddy Simulation to Support the Conversion of Research Reactors to Low Enriched Uranium Fuel](https://www.alcf.anl.gov/science/projects/investigation-flow-and-heat-transfer-behavior-involute-plate-research-reactor)
-PI: Yiqi Yu, Argonne National Laboratory\
 HOURS: ALCF: 500,000 Node-Hours
 
-### [Modeling Operating Conditions in the US East Coast Offshore Wind Energy Lease Areas](https://www.alcf.anl.gov/science/projects/modeling-operating-conditions-us-east-coast-offshore-wind-energy-lease-areas)
-PI: Sara Pryor, Cornell University\
-HOURS: ALCF: 142,000 Node-Hours
+### [High Energy Density Physics of Inertial Confinement Fusion Ablator Materials](https://www.alcf.anl.gov/science/projects/high-energy-density-physics-inertial-confinement-fusion-ablator-materials)
+PI: Ivan Oleynik , University of South Florida\
+HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,500,000 Node-Hours
 
-### [Predictive Simulations of Inertial Confinement Fusion Ablator Materials](https://www.alcf.anl.gov/science/projects/predictive-simulations-inertial-confinement-fusion-ablator-materials)
-PI: Ivan Oleynik, University of South Florida\
-HOURS: ALCF: 150,000 Node-Hours
+### [Large Eddy Simulation on Flow and Heat Transfer Behavior in Involute Plate Research Reactor Supporting the Needs of the Materials Management and Minimization (M3) Reactor Conversion Program](https://www.alcf.anl.gov/science/projects/large-eddy-simulation-flow-and-heat-transfer-behavior-involute-plate-research)
+PI: Yiqi Yu, Argonne National Laboratory\
+HOURS: ALCF: 510,000 Node-Hours
 
 
 
 
 ## ENGINEERING
 
-### [HFIR DNS Simulation](https://www.alcf.anl.gov/science/projects/hfir-dns-simulations)
-PI: Emilian Popov, Oak Ridge National Laboratory\
-HOURS: ALCF: 224,000 Node-Hours
+### [Two-Phase Flow Interface Capturing Simulations](https://www.alcf.anl.gov/science/projects/two-phase-flow-interface-capturing-simulations)
+PI: Igor Bolotnov, North Carolina State University\
+HOURS: ALCF: 200,000 Node-Hours, NERSC: 300,000 Node-Hours
 
 
 
 
 ## MATERIALS SCIENCE
 
-### [Computational Design of Novel Semiconductors for Power and Energy](https://www.alcf.anl.gov/science/projects/computational-design-novel-semiconductors-power-and-energy)
-PI: Feliciano Giustino, University of Texas\
-HOURS: ALCF: 883,000 Node-Hours
+### [Computational Design of Novel Semiconductors for Power and Energy Applications](https://www.alcf.anl.gov/science/projects/computational-design-novel-semiconductors-power-and-energy-applications)
+PI: Feliciano Giustino , The University of Texas at Austin\
+HOURS: ALCF: 100,000 Node-Hours
+
+### [Large Scale Simulations of Materials for Quantum Information Science](https://www.alcf.anl.gov/science/projects/large-scale-simulations-materials-quantum-information-science)
+PI: Giulia Galli , University of Chicago\
+HOURS: ALCF: 600,000 Node-Hours, NERSC: 400,000 Node-Hours
+
+### [Quantum Accurate Large-Scale Atomistic Simulations of Advanced Fusion Reactor Materials](https://www.alcf.anl.gov/science/projects/quantum-accurate-large-scale-atomistic-simulations-advanced-fusion-reactor)
+PI: Aidan Thompson, Sandia National Laboratories\
+HOURS: ALCF: 850,000 Node-Hours, OLCF: 500,000 Node-Hours, NERSC: 250,000 Node-Hours
 
 
 
 
 ## PHYSICS
 
-### [Cosmological Hydro Simulations to Explore the High and Low-Redshift Universe](https://www.alcf.anl.gov/science/projects/cosmological-hydro-simulations-explore-high-and-low-redshift-universe)
-PI: Zarija Lukić, Lawrence Berkeley National Laboratory\
-HOURS: ALCF: 100,000 Node-Hours, OLCF: 50,000 Node-Hours, NERSC: 50,000 Node-Hours
+### [Continuum Limit Latice Calculation of Direct CP-violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
+PI: Christopher Kelly, Brookhaven National Laboratory\
+HOURS: ALCF: 135,000 Node-Hours
 
-### [Energy Partition and Particle Acceleration in Laboratory Magnetized Shocks](https://www.alcf.anl.gov/science/projects/energy-partition-and-particle-acceleration-laboratory-magnetized-shocks)
+### [Energy Partition and Particle Acceleration in Laser-Driven Laboratory Magnetized Shocks](https://www.alcf.anl.gov/science/projects/energy-partition-and-particle-acceleration-laser-driven-laboratory-magnetized)
 PI: Frederico Fiuza, SLAC National Accelerator Laboratory\
-HOURS: ALCF: 860,000 Node-Hours
+HOURS: ALCF: 300,000 Node-Hours, NERSC: 150,000 Node-Hours
 
-### [High Precision Hadronic Vacuum Polarization Contribution to the Muon Anomalous Magnetic Moment Using Highly Improved Staggered Quarks](https://www.alcf.anl.gov/science/projects/high-precision-hadronic-vacuum-polarization-contribution-muon-anomalous-magnetic)
-PI: Steven Gottlieb, Indiana University\
-HOURS: ALCF: 100,000 Node-Hours, OLCF: 1,000,000 Node-Hours, NERSC: 100,000 Node-Hours
+### [Hadronic Contributions to the Muon G-2 from Lattice QCD](https://www.alcf.anl.gov/science/projects/hadronic-contributions-muon-g-2-lattice-qcd)
+PI: Thomas Blum, University of Connecticut\
+HOURS: ALCF: 5,000 Node-Hours, OLCF: 3,283,000 Node-Hours
 
-### [Particle-in-Cell Simulations of Beam-Driven, Field-Reversed Configuration Plasmas](https://www.alcf.anl.gov/science/projects/particle-cell-simulations-beam-driven-field-reversed-configuration-plasmas)
-PI: Jaeyoung Park, TAE Technologies, Inc.\
-HOURS: ALCF: 400,000 Node-Hours
-
-### [Short Range Correlations from a Quantum Monte Carlo Perspective](https://www.alcf.anl.gov/science/projects/short-range-correlations-quantum-monte-carlo-perspective)
-PI: Noemi Rocco, Fermi National Accelerator Laboratory/
-HOURS: ALCF: 730,000 Node-Hours
-
-### [The Spectrum and Structure of Hadrons](https://www.alcf.anl.gov/science/projects/spectrum-and-structure-hadrons)
-PI: Robert Edwards, Jefferson Laboratory/
-HOURS: ALCF: 300,000 Node-Hours
+### [Using GPU to Reconstruct LHC Collisions Recorded with the CMS Detector](https://www.alcf.anl.gov/science/projects/using-gpu-reconstruct-lhc-collisions-recorded-cms-detector)
+PI: Dirk Hufnagel , Fermi National Accelerator Laboratory\
+HOURS: ALCF: 70,000 Node-Hours
 
 
 
