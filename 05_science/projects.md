@@ -62,80 +62,94 @@ HOURS: ALCF: 375,000 Node-Hours
 
 ## EARTH SCIENCE
 
-### [Convection-Permitting Climate-Scale Simulations for Extreme Event Modeling](https://www.alcf.anl.gov/science/projects/convection-permitting-climate-scale-simulations-extreme-event-modeling)
-PI: Rao Kotamarthi, Argonne National Laboratory\
-HOURS: ALCF: 1,600,000 Node-Hours
+### [Energy Exascale Earth System Model](https://www.alcf.anl.gov/science/projects/energy-exascale-earth-system-model-1)
+PI: Peter Caldwell, Lawrence Livermore National Laboratory\
+HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
 
 
 ## ENGINEERING
 
-### [DNS of Wall-Bounded Magnetohydrodynamic Turbulence at High Reynolds Number](https://www.alcf.anl.gov/science/projects/dns-wall-bounded-magnetohydrodynamic-turbulence-high-reynolds-number)
-PI: Myoungkyu Lee, University of Alabama\
-HOURS: ALCF: 700,000 Node-Hours
+### [Flight-Scale Simulations of a Transport Aircraft in High-Lift Conditions](https://www.alcf.anl.gov/science/projects/flight-scale-simulations-transport-aircraft-high-lift-conditions)
+PI: Eric Nielsen, NASA Langley Research Center\
+HOURS: ALCF: 350,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
-### [First-Principles Simulation of Hypersonic Flight](https://www.alcf.anl.gov/science/projects/first-principles-simulation-hypersonic-flight-0)
-PI: Maninder Grover, University of Dayton Research Institute\
-HOURS: ALCF: 1,650,000 Node-Hours
+### [High Reynolds Number Hypersonic Transition Control via Porous Walls](https://www.alcf.anl.gov/science/projects/high-reynolds-number-hypersonic-transition-control-porous-walls)
+PI: Carlo Scalo, Purdue University\
+HOURS: ALCF: 300,000 Node-Hours
 
-### [Hypersonic Turbulent Boundary Layers Over Parameterized Wall Conditions](https://www.alcf.anl.gov/science/projects/hypersonic-turbulent-boundary-layers-over-parameterized-wall-conditions)]
-PI: Lian Duan, The Ohio State University\
-HOURS: ALCF: 500,000 Node-Hours
+### [Interface-resolved Simulations of Scalar Transport in Turbulent Bubbly Flows](https://www.alcf.anl.gov/science/projects/interface-resolved-simulations-scalar-transport-turbulent-bubbly-flows)]
+PI: Parisa Mirbod, University of Illinois at Chicago\
+HOURS: ALCF: 50,000 Node-Hours
 
+### [Online Machine Learning for Large-Scale Turbulent Simulations]https://www.alcf.anl.gov/science/projects/online-machine-learning-large-scale-turbulent-simulations-0)]
+PI: Kenneth Jansen, University of Colorado Boulder\
+HOURS: ALCF: 375,000 Node-Hours
 
 
 
 ## MATERIALS SCIENCE
 
-### [AI-Guided Exascale Simulations of Quantum Materials Manufacturing and Control](https://www.alcf.anl.gov/science/projects/ai-guided-exascale-simulations-quantum-materials-manufacturing-and-control)
-PI: Aiichiro Nakano, University of Southern California\
-HOURS: ALCF: 200,000 Node-Hours
+### [Carbon at Extremes: Discovery Science with Exascale Computers](https://www.alcf.anl.gov/science/projects/carbon-extremes-discovery-science-exascale-computers)
+PI: Ivan Oleynik, University of South Florida\
+HOURS: ALCF: 300,000 Node-Hours, OLCF: 300,000 Node-Hours
 
-### [Exascale Gyrokinetic Study of ITER Challenge on Power-Exhaust and ELM-Free Edge](https://www.alcf.anl.gov/science/projects/exascale-gyrokinetic-study-iter-challenge-power-exhaust-and-elm-free-edge)
-PI: Choongseok Chang, Princeton Plasma Physics Laboratory\
-HOURS: ALCF: 300,000 Node-Hours, OLCF: 2,500,000 Node-Hours
-
-### [Exascale Simulations of Quantum Materials](https://www.alcf.anl.gov/science/projects/exascale-simulations-quantum-materials)
+### [Exascale Simulations of Quantum Materials](https://www.alcf.anl.gov/science/projects/exascale-simulations-quantum-materials-0)
 PI: Paul Kent, Oak Ridge National Laboratory\
-HOURS: ALCF: 100,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+HOURS: ALCF: 590,000 Node-Hours, OLCF: 600,000 Node-Hours
 
-### [First-Principles Electron Dynamics in Complex Systems](https://www.alcf.anl.gov/science/projects/first-principles-electron-dynamics-complex-systems)
-PI: Andre Schleife, University of Illinois at Urbana-Champaign\
-HOURS: ALCF: 1,000,000 Node-Hours
+### [Heterogeneous Reaction Dynamics for Energy Storage and Hydrogen Production](https://www.alcf.anl.gov/science/projects/heterogeneous-reaction-dynamics-energy-storage-and-hydrogen-production)
+PI: Boris Kozinsky, Harvard University\
+HOURS: ALCF: 150,000 Node-Hours, OLCF: 300,000 Node-Hours
 
-### [High-Throughput Calculation of Materials Properties at Finite Temperature](https://www.alcf.anl.gov/science/projects/high-throughput-calculation-materials-properties-finite-temperature)
-PI: Chris Wolverton, Northwestern University\
-HOURS: ALCF: 1,800,000 Node-Hours
 
 
 
 ## PHYSICS
 
-### [Ab-initio Nuclear Structure and Nuclear Reactions](https://www.alcf.anl.gov/science/projects/ab-initio-nuclear-structure-and-nuclear-reactions-2)
+### [3D Imaging of Strong Interaction Nambu-Goldstone Bosons](https://www.alcf.anl.gov/science/projects/3d-imaging-strong-interaction-nambu-goldstone-bosons)
+PI: Yong Zhao, Argonne National Laboratory\
+HOURS: ALCF: 150,000 Node-Hours
+
+### [Ab-initio Nuclear Structure and Nuclear Reactions](https://www.alcf.anl.gov/science/projects/ab-initio-nuclear-structure-and-nuclear-reactions-3)
 PI: Gaute Hagen, Oak Ridge National Laboratory\
-HOURS: ALCF: 2,500,000 Node-Hours, OLCF: 1,590,000 Node-Hours
+HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
-### [COMbining deep-learning with Physics-Based affinIty estimatiOn 2 (COMPBIO2)](https://www.alcf.anl.gov/science/projects/compbio2-combining-deep-learning-physics-based-affinity-estimation-2)
-PI: Peter Coveney, University College London\
-HOURS: ALCF: 75,000 Node-Hours, OLCF: 520,000 Node-Hours
-
-### [Electron Kinetic Plasma Physics of Black Hole Accretion Flows](https://www.alcf.anl.gov/science/projects/electron-kinetic-plasma-physics-black-hole-accretion-flows-0)
-PI: Dmitri Uzdensky, University of Colorado\
-HOURS: ALCF: 2,600,000 Node-Hours
+### [Advances in Quark and Lepton Flavor Physics with Lattice QCD](https://alcf.anl.gov/science/projects/advances-quark-and-lepton-flavor-physics-lattice-qcd)
+PI: Andreas Kronfeld, Fermilab\
+HOURS: ALCF: 1,200,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
 ### [Exascale Models of Astrophysical Thermonuclear Explosions](https://www.alcf.anl.gov/science/projects/exascale-models-astrophysical-thermonuclear-explosions)
+PI: Katrin Heitmann, Argonne National Laboratory\
+HOURS: ALCF: 375,000 Node-Hours, OLCF: 800,000 Node-Hours
+
+### [Exascale Gyrokinetic Study of ITER Challenge on Power-Exhaust and ELM-Free Edge](https://www.alcf.anl.gov/science/projects/exascale-gyrokinetic-study-iter-challenge-power-exhaust-and-elm-free-edge-0)
+PI: Choongseok Chang, Princeton Plasma Physics Laboratory\
+HOURS: ALCF: 550,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+
+### [Exascale Models of Astrophysical Thermonuclear Explosions](https://www.alcf.anl.gov/science/projects/exascale-models-astrophysical-thermonuclear-explosions-0)
 PI: Michael Zingale, Stony Brook University\
-HOURS: ALCF: 100,000 Node-Hours, OLCF: 700,000 Node-Hours
+HOURS: ALCF: 75,000 Node-Hours, OLCF: 400,000 Node-Hours
 
-### [Next-Generation 3D Core-Collapse Supernova Simulations](https://www.alcf.anl.gov/science/projects/next-generation-3d-core-collapse-supernova-simulations)
-PI: James Stone, Institute for Advanced Study\
-HOURS: ALCF: 110,000 Node-Hours, OLCF: 1,000,000 Node-Hours
+### [Novel Calculation of Nucleon Generalized Form Factors in Lattice QCD at the Physical Point](https://www.alcf.anl.gov/science/projects/novel-calculation-nucleon-generalized-form-factors-lattice-qcd-physical-point)
+PI: Martha Constantinou, Temple University\
+HOURS: ALCF: 315,000 Node-Hours
 
-### [Unraveling How Lasers and Beams with Arbitrary Spatial and Temporal Structure Interact with Plasmas](https://www.alcf.anl.gov/science/projects/unraveling-how-lasers-and-beams-arbitrary-spatial-and-temporal-structure-interact)
-PI: Paulo Alves, University of California Los Angeles\
-HOURS: ALCF: 200,000 Node-Hours
+### [Radiation-Dominated Black Hole Accretion](https://www.alcf.anl.gov/science/projects/radiation-dominated-black-hole-accretion-0)
+PI: James Stone, Institute for Advanced Studies\
+HOURS: ALCF: 425,000 Node-Hours, OLCF: 800,000 Node-Hours
 
+### [Resolving Cosmic Ray Transport by Pushing the Frontier of MHD Turbulence](https://www.alcf.anl.gov/science/projects/resolving-cosmic-ray-transport-pushing-frontier-mhd-turbulence)
+PI: Drummond Fielding, Cornell University\
+HOURS: ALCF: 200,000 Node-Hours, OLCF: 700,000 Node-Hours
 
+### [State-of-the-Art High-Resolution 3D Simulations of Core-Collapse Supernovae](https://alcf.anl.gov/science/projects/state-art-high-resolution-3d-simulations-core-collapse-supernovae)
+PI: Adam Burrows, Princeton\
+HOURS: ALCF: 1,000,000 Node-Hours
+
+### [QCD under Extreme Conditions](https://alcf.anl.gov/science/projects/qcd-under-extreme-conditions)
+PI: Zoltan Fodor, Pennsylvania State University\
+HOURS: ALCF: 400,000 Node-Hours
 
 
 
