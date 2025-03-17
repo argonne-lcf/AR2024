@@ -6,7 +6,8 @@ permalink: 'features/aurora-performance-highlights/copper'
 
 title: 'Cooperative Caching Layer for Scalable Parallel Data Movement in Exascale Supercomputing: Copper'
 pi: 'Venkat Vishwanath, Argonne National Laboratory'
-award: 'Early Career Research Program, AI for Science"
+award: 'Early Career Research Program, AI for Science'
+systems: '-'
 
 image: 'Adams-cosmictagger.png' 
 
