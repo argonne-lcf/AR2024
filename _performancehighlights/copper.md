@@ -2,10 +2,10 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora-performance-highlights/cosmictagger'
+permalink: 'features/aurora-performance-highlights/copper'
 
-title: 'High-Energy Particle Physics at Scale: CosmicTagger'
-pi: 'Corey Adams, Argonne National Laboratory'
+title: 'Cooperative Caching Layer for Scalable Parallel Data Movement in Exascale Supercomputing: Copper'
+pi: 'Venkat Vishwanath, Argonne National Laboratory'
 
 image: 'Adams-cosmictagger.png' 
 
