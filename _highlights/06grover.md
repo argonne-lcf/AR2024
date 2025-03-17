@@ -4,7 +4,7 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/grover'
 
-title: 'First-Principles Simulation of Hypersonic Flight'
+title: 'From Quantum Mechanics to Hypersonic Aerodynamics'
 pi: 'Maninder Grover, University of Dayton Research Institute'
 award: 'INCITE'
 systems: 'Theta'
@@ -22,12 +22,12 @@ publications:
     date: 'July 2023'
     publisher: 'Cambridge University Press'
     url: 'https://doi.org/10.1017/jfm.2023.437'
-  - authors: 'Grover, M. S., A. M. Verhoff, P. Valentini, and N. J. Bisek'
-    title: 'First Principles Simulation of Reacting Hypersonic Flow over a Blunt Wedge'
-    source: 'Physics of Fluids'
-    date: 'August 2023'
-    publisher: 'AIP Publishing'
-    url: 'https://doi.org/10.1063/5.0161570'
+  - authors: 'Grover, M. S., P. Valentini, and N. Bisek'
+    title: 'Ab Initio Investigation of a Hypersonic Double Cone Experiment'
+    source: 'Science Advances'
+    date: 'February 2025'
+    publisher: 'AAAS'
+    url: 'https://doi.org/10.1126/sciadv.ads2147'
     
 ---
 
