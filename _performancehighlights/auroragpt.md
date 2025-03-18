@@ -22,13 +22,8 @@ image: 'Ferrier-connectomics.png'
 
 # Challenge
 
-Connectomics stresses many boundaries: high-throughput electron microscopy technology
-operating at nanometer resolution; tens of thousands of images, each with tens of gigapixels;
-accuracy sufficient to capture minuscule synaptic detail; computer vision methods to align
-corresponding structures across large images; and deep learning networks that can trace
-narrow axons and dendrites over large distances. Multiple applications contribute to the 3D reconstruction of neurons; the most demanding of them perform image alignment and segmentation.
+The main tasks in the project include collecting and refining large-scale scientific datasets; building models at 8 billion to 400 billion or more parameter scales using general texts, code, and specific scientific data, and evaluating their performance on the Aurora and Polaris supercomputers; refining the models for deployment and introducing post-processing techniques such as instruct tuning and Reinforcement Learning for aligned chat-based interfaces; and evaluating the effectiveness of the models on scientific tasks.
 
-Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects must be aligned between neighboring images in an image stack. Image misalignment can occur when tissue samples are cut into thin sections, or during imaging on the electron microscope. The Feabas application (developed by collaborators at Harvard) uses template matching and feature matching techniques for coarse and fine-grained alignment, using a network-of-springs approach to produce optimal linear and local non-linear image transformations, to align the 2D image content between sections.
 
 # Performance Results
 The team’s software stack and frameworks have the capability to train LLMs efficiently at scale and on Polaris. The development team trained a model on 2 trillion tokens, for which, after  debugging and implementing certain code enhancements, they successfully reduced preprocessing time from approximately 1 hour to 2 minutes. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
