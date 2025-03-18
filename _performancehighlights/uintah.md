@@ -30,7 +30,7 @@ Running on Aurora, the team was able to achieve strong-scaling results for the B
 These large-scale studies explored the impact of a larger refinement ratio to determine if aggressive mesh refinement will make full-system runs possible. It is fortunate that the Uintah runtime systems have proved to be exceptionally capable when it comes to enabling Uintah to run in a scalable way on Aurora. 
 
 {% include media-img.html
-   source= "Chart_CRK_HACC_.png"
+   source= "uintah-chart.png"
 %}
 
 # Impact
