@@ -4,9 +4,9 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora-performance-highlights/gamess'
 
-title: 'Unlocking the Secrets of Molecular Science: GAMESS'
-pi: 'Mark Gordon, Iowa State University'
-award: 'Exascale Computing Project'
+title: 'Machine Learning-Guided Computational Fluid Dynamics at Extreme Scales'
+pi: 'Kenneth Jansen, University of Colorado'
+award: 'Aurora Early Science Program, INCITE'
 systems: '-'
 
 image: 'gamess.png' 
@@ -32,4 +32,7 @@ In 2023, the GAMESS team leveraged the Aurora system to perform simulations of s
 %}
 
 # Impact
-Full-scale utilization of the Aurora system will enable GAMESS users to carry out demanding tasks like computing the energies and reaction pathways of catalysis processes within a large silica nanoparticle.
+The high-resolutions simulations of turbulent flows at high Reynolds numbers performed will help refine the turbulence models currently available, while improving the robustness and accuracy of turbine models. These models can in turn be used for improved design of aircraft and other mechanical systems.
+
+This project provides a scalable and performant solution to performing in situ machine learning in the exascale era, thereby unlocking the ability to access much richer datasets for training ML models from scientific simulations. Additionally, accuracy and uncertainty quantification metrics obtained from the ongoing training inform the data-generation process within the simulation, which can lead to intelligent data sub-sampling techniques to train models on fewer data samples and at reduced energy cost.
+
