@@ -5,7 +5,7 @@ theme: dark
 permalink: 'features/aurora-performance-highlights/uintah'
 
 title: 'Reverse Monte-Carlo Radiative Ray Tracing Calculations at Scale: Uintah'
-pi: 'Martin Berzin, The University of Utah'
+pi: 'Martin Berzins, The University of Utah'
 award: 'Aurora Early Science Program'
 systems: '-'
 
