@@ -4,9 +4,9 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora-performance-highlights/connectomics'
 
-title: 'Brain Connectome Reconstruction at Scale: Large-Scale Connectomics with Flood-Filling Networks'
-pi: 'Nicola Ferrier, Argonne National Laboraotory'
-award: 'Early Science Program'
+title: 'A Large-Scale Foundation Model for Advancing Science: AuroraGPT'
+pi: 'Rick Stevens, Argonne National Laboraotory'
+award: 'INCITE'
 systems: '-'
 
 image: 'Ferrier-connectomics.png' 
