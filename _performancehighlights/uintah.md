@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora-performance-highlights/hacc'
+permalink: 'features/aurora-performance-highlights/uintah'
 
 title: 'Reverse Monte-Carlo Radiative Ray Tracing Calculations at Scale: Uintah'
 pi: 'Martin Berzin, The University of Utah'
