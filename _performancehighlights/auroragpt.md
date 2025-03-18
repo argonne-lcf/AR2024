@@ -15,14 +15,15 @@ image: 'Ferrier-connectomics.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "The structure of the human brain is enormously complex and not well understood. Its 80 billion neurons, each connected to as many as 10,000 other neurons, support activities from sustaining vital life processes to defining who we are. From high-resolution electron microscopy images of brain tissue, computer vision and machine learning techniques operating at the exascale can reveal the morphology and connectivity of neurons in brain tissue samples, informing future studies of the structure and function of mammalian brains."
+    blurb = "The AuroraGPT project leverages DOE supercomputing resources to develop and enhance understanding of powerful foundation models (FMs) such as large language models (LLMs), for science. By creating FMs for science—while developing underlying capabilities, tools and workflows, data resources, and other processes and artifacts—Argonne Argonne aims to significantly improve how science is conducted, by fostering a deeper integration of AI capabilities into research workflows. To this end, Argonne’s AuroraGPT project is creating and evaluating a series of increasingly powerful FMs, each with more parameters and/or trained on more data than those that precede it, designed to assist researchers in making more informed and efficient discoveries. The AuroraGPT research program focuses on producing this sequence of models while ensuring that each provides both a scientifically useful capability and knowledge concerning scientific and computational performance to guide the design of the next model in the sequence.
+"
 %}
 
 
 
 # Challenge
 
-The main tasks in the project include collecting and refining large-scale scientific datasets; building models at 8 billion to 400 billion or more parameter scales using general texts, code, and specific scientific data, and evaluating their performance on the Aurora and Polaris supercomputers; refining the models for deployment and introducing post-processing techniques such as instruct tuning and Reinforcement Learning for aligned chat-based interfaces; and evaluating the effectiveness of the models on scientific tasks.
+The main tasks in the project include collecting and refining large-scale scientific datasets; building models at 8 billion to 400 billion or more parameter scales using general texts, code, and specific scientific data, and evaluating their performance on the Aurora and Polaris supercomputers; refining the models for deployment and introducing post-processing techniques such as instruct tuning and reinforcement learning for aligned chat-based interfaces; and evaluating the effectiveness of the models on scientific tasks.
 
 
 # Performance Results
