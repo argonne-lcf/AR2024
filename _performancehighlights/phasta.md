@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora-performance-highlights/gamess'
+permalink: 'features/aurora-performance-highlights/phasta'
 
 title: 'Machine Learning-Guided Computational Fluid Dynamics at Extreme Scales'
 pi: 'Kenneth Jansen, University of Colorado'
