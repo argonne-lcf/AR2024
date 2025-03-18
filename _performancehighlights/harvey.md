@@ -33,7 +33,7 @@ Leveraging ALCF leadership-computing resources, the researchers devised a workfl
 
 
 # Performance Results
-The researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. The first is for fluid-only calculations and the second for fluid and red-blood cell simulations. In both cases, HARVEY ran on full-body human vasculatures. The greatest Aurora scaling feat achieved in 2024 saw the application running on 2048 nodes for the fluid-only simulation. The team deployed HARVEY on 1024 nodes for red-blood cell and fluid simulations.
+As of 2024, the researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. The first is for fluid-only calculations and the second for fluid and red-blood cell simulations. In both cases, HARVEY ran on full-body human vasculatures. The researchers successfully performed fluid-only simulations on as many 2048 Aurora. The team deployed HARVEY on 1024 nodes for red-blood cell and fluid simulations.
 
 
 {% include media-img.html
