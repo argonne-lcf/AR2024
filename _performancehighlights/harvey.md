@@ -29,9 +29,8 @@ Leveraging ALCF leadership-computing resources, the researchers devised a workfl
 
 
 # Performance Results
-Drug screening inference scaled to 128 nodes on Aurora, screening approximately 11 billion drug molecules per hour. Screening inference was then scaled to 256 nodes on Aurora, screening approximately 22 billion drug molecules per hour. These results indicate that Aurora enabled strong performance improvements over other systems: the workflow facilitated screening some 3 billion compounds per hour when scaled to 48 nodes on Polaris. Assuming linear scaling, researchers could expect about a trillion compounds screened per hour if using all compute resources in Aurora.
+The researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. The first is for fluid-only calculations and the second for fluid and red-blood cell simulations. In both cases, HARVEY ran on full-body human vasculatures. The greatest Aurora scaling feat achieved in 2024 saw the application running on 2048 nodes for the fluid-only simulation. The team deployed HARVEY on 1024 nodes for red-blood cell and fluid simulations.
 
-ST showed comparable accuracy to state-of-the-art surrogate models, with r-squared values between 70 and 90 percent on multiple test protein receptors, affirming the capability of ST to learn molecular information directly from language-based data. One significant advantage of the ST approach is its notably faster tokenization preprocessing compared to alternative preprocessing methods such as generating molecular descriptors. Furthermore, ST predictions emphasize several molecular motifs that have previously been confirmed to interact with residues in their target binding pockets.
 
 {% include media-img.html
    source= "Chart_DrugDesign_.png"
