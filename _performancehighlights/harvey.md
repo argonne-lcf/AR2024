@@ -2,10 +2,10 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora-performance-highlights/drugdiscovery'
+permalink: 'features/aurora-performance-highlights/harvey'
 
-title: 'Accelerating Drug Design and Discovery'
-pi: 'Archit Vasan, Argonne National Laboratory'
+title: 'Extreme-Scale Visualization and Analysis of Fluid-Structure Interactions: HARVEY'
+pi: 'Amanda Randles, Duke University'
 award: 'Early Science Program'
 systems: '-'
 
@@ -39,5 +39,6 @@ ST showed comparable accuracy to state-of-the-art surrogate models, with r-squar
 %}
 
 # Impact
-The team’s approach presents an efficient means for screening otherwise cumbersomely extensive compound databases for molecular properties that could prove useful for targeting cancer and other diseases. Aurora system capabilities will make possible screening 40 to 60 billion candidate compounds for potential synthesis. A key future direction for the workflow involves integrating de-novo drug design, enabling the researchers to scale their efforts to explore the limits of synthesizable compounds within chemical space.
+The exscale-optimized HARVEY application will offer the ability to create personalized models for individual patients. Blood flow simulations have the potential to greatly benefit diagnosis and treatment of patients suffering from vascular disease. By predicting where metastasized cells might travel in the body, HARVEY can help doctors anticipate early on where secondary tumors may form. Empowering models of the full arterial tree can provide insight into diseases such as arterial hypertension, while enabling the study of how local factors impact global hemodynamics.
+
 
