@@ -154,6 +154,111 @@ HOURS: ALCF: 400,000 Node-Hours
 
 
 
+# ALCC 2024–2025
+
+## BIOLOGICAL SCIENCES
+
+### [Building Digital Twin of a Model Host-Pathogen System for Enhancing Biopreparedness](https://www.alcf.anl.gov/science/projects/building-digital-twin-model-host-pathogen-system-enhancing-biopreparedness)
+PI: Margaret S. Cheung, Pacific Northwest National Laboratory\
+HOURS: ALCF: 200,000 Node-Hours, OLCF, 50,000 Node-Hours, NERSC: 300,000 Node-Hours
+
+### [Foundation Neuroscience AI Model-NeuroX](https://www.alcf.anl.gov/science/projects/foundation-neuroscience-ai-model-neurox)
+PI: Shinjae Yoo, Brookhaven National Laboratory\
+HOURS: ALCF: 290,000 Node-Hours, OLCF: 152,000 Node-Hours, NERSC: 120,000 Node-Hours
+
+
+
+
+## COMPUTER SCIENCE
+
+### [Scalable and Resilient Modeling for Federated Learning Systems and Applications](https://www.alcf.anl.gov/science/projects/scalable-and-resilient-modeling-federated-learning-systems-and-applications)
+PI: Xiaoyi Lu, University of California\
+HOURS: ALCF: 44,800 Node-Hours, OLCF: 15,360 Node-Hours, NERSC: 207,520 Node-Hours
+
+
+
+
+
+## CHEMISTRY
+
+### [Exploring Exascale Quantum Chemical Methods for Transition Metal Chemistry](https://www.alcf.anl.gov/science/projects/exploring-exascale-quantum-chemical-methods-transition-metal-chemistry)
+PI: Daniel Mejia Rodriguez, Pacific Northwest National Laboratory\
+HOURS: ALCF: 313,442 Node-Hours, OLCF: 145,628 Node-Hours
+
+### [Highly Scalable Ab Initio Simulations of N-Doped Porous Materials for Carbon Capture](https://www.alcf.anl.gov/science/projects/highly-scalable-ab-initio-simulations-n-doped-porous-materials-carbon-capture)
+PI: Mark Gordon, Ames National Laboratory\
+HOURS: ALCF: 2,000,000 Node-Hours
+
+
+
+
+## ENERGY TECHNOLOGIES
+
+### [DNS of Buoyancy Driven Flows for Developing NN-informed High-fidelity Turbulence Closures](https://www.alcf.anl.gov/science/projects/dns-buoyancy-driven-flows-developing-nn-informed-high-fidelity-turbulence-closures)
+PI: Som Dutta, Utah State University\
+HOURS: ALCF: 100,000 Node-Hours, OLCF: 300,000 Node-Hours, NERSC: 200,000 Node-Hours
+
+### [Exascale Computing for Energy Applications](https://www.alcf.anl.gov/science/projects/exascale-computing-energy-applications)
+PI: Misun Min, Argonne National Laboratory\
+HOURS: ALCF: 250,000 Node-Hours, OLCF: 200,000 Node-Hours, NERSC: 50,000 Node-Hours
+
+### [High-Fidelity CFD Enabling Advanced Nuclear Power](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-enabling-advanced-nuclear-power)
+PI: Dillon Shaver, Argonne National Laboratory\
+HOURS: ALCF: 150,000 Node-Hours, OLCF: 200,000 Node-Hours
+
+### [High Fidelity Numerical Analysis on Flow and Heat Transfer behavior in Involute Plate Research Reactor to Support the Conversion Program](https://www.alcf.anl.gov/science/projects/high-fidelity-numerical-analysis-flow-and-heat-transfer-behavior-involute-plate)
+PI: Yiqi Yu, Argonne National Laboratory\
+HOURS: ALCF: 200,000 Node-Hours, OLCF: 500,000 Node-Hours
+
+### [High-Fidelity Simulations of Helium-Air Mixing in High-Temperature Gas Reactor Cavities](https://www.alcf.anl.gov/science/projects/high-fidelity-simulations-helium-air-mixing-high-temperature-gas-reactor-cavities)
+PI: Saumil Patel, Argonne National Laboratory\
+HOURS: ALCF: 115,000 Node-Hours
+
+
+
+
+## ENGINEERING
+
+### [Autonomy for DOE Simulations](https://www.alcf.anl.gov/science/projects/autonomy-doe-simulations)
+PI: Allan Grosvenor, MSBAI\
+HOURS: ALCF: 30,000 Node-Hours, OLCF: 100,000 Node-Hours
+
+
+
+
+## MATERIALS SCIENCE
+
+### [High Energy Density Physics of Novel Inertial Fusion Energy Ablator Materials](https://www.alcf.anl.gov/science/projects/high-energy-density-physics-novel-inertial-fusion-energy-ablator-materials)
+PI: Ivan Oleynik, University of South Florida\
+HOURS: ALCF: 600,000 Node-Hours, OLCF: 900,000 Node-Hours
+
+### [Machine Learning Enabled Atomistic Simulation of Iron at Extreme Pressure](https://www.alcf.anl.gov/science/projects/machine-learning-enabled-atomistic-simulation-iron-extreme-pressure)
+PI: Robert Rudd, Lawrence Livermore National Laboratory\
+HOURS: ALCF: 150,000 Node-Hours
+
+### [Predicting Heterogeneous Photocatalysts Using Large-scale Ab Initio Calculations](https://www.alcf.anl.gov/science/projects/predicting-heterogeneous-photocatalysts-using-large-scale-ab-initio-calculations)
+PI: Felipe Jornada, Stanford University\
+HOURS: ALCF: 100,000 Node-Hours, OLCF: 140,000 Node-Hours
+
+
+
+
+## PHYSICS
+
+### [Hadronic Contributions to the Muon g-2 from Lattice QCD](https://www.alcf.anl.gov/science/projects/hadronic-contributions-muon-g-2-lattice-qcd-0)
+PI: Thomas Blum, University of Connecticut\
+HOURS: ALCF: 1,000,000 Node-Hours, OLCF: 3,846,000 Node-Hours
+
+### [Simulating Large-scale Long-lived Neutron Star Remnants from Binary Neutron Star Mergers](https://www.alcf.anl.gov/science/projects/simulating-large-scale-long-lived-neutron-star-remnants-binary-neutron-star)
+PI: Ore Gottlieb, Flatiron Institute\
+HOURS: ALCF: 400,000 Node-Hours
+
+
+
+
+
+
+
 # ALCC 2023–2024
 
 ## BIOLOGICAL SCIENCES
@@ -248,94 +353,6 @@ HOURS: ALCF: 70,000 Node-Hours
 
 
 
-# ALCC 2023–2024
-
-## BIOLOGICAL SCIENCES
-
-### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-1)
-PI: Jonathan Ozik, Argonne National Laboratory\
-HOURS: ALCF: 160,000 Node-Hours, NERSC: 100,000 Node-Hours
-
-### [Scaling Genomic Variant Callers to Leadership-Class Systems: A Collaboration Between VA-MVP and DOE](https://www.alcf.anl.gov/science/projects/scaling-genomic-variant-callers-leadership-class-systems-collaboration-between-va)
-PI: Ravi Madduri, Argonne National Laboratory\
-HOURS: ALCF: 210,000 Node-Hours
-
-
-
-
-## CHEMISTRY
-
-### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-1)
-PI: Wei Jiang, Argonne National Laboratory\
-HOURS: ALCF: 710,000 Node-Hours
-
-### [Relativistic Quantum Dynamics in the Non-Equilibrium Regime](https://www.alcf.anl.gov/science/projects/relativistic-quantum-dynamics-non-equilibrium-regime)
-PI: Eugene DePrince, Florida State University\
-HOURS: ALCF: 700,000 Node-Hours
-
-
-
-
-## ENERGY TECHNOLOGIES
-
-### [Accelerating Deployment of Next-Generation Nuclear Power Using High-Fidelity CFD](https://www.alcf.anl.gov/science/projects/accelerating-deployment-next-generation-nuclear-power-using-high-fidelity-cfd)
-PI: Dillon Shaver, Argonne National Laboratory\
-HOURS: ALCF: 500,000 Node-Hours
-
-### [High Energy Density Physics of Inertial Confinement Fusion Ablator Materials](https://www.alcf.anl.gov/science/projects/high-energy-density-physics-inertial-confinement-fusion-ablator-materials)
-PI: Ivan Oleynik , University of South Florida\
-HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,500,000 Node-Hours
-
-### [Large Eddy Simulation on Flow and Heat Transfer Behavior in Involute Plate Research Reactor Supporting the Needs of the Materials Management and Minimization (M3) Reactor Conversion Program](https://www.alcf.anl.gov/science/projects/large-eddy-simulation-flow-and-heat-transfer-behavior-involute-plate-research)
-PI: Yiqi Yu, Argonne National Laboratory\
-HOURS: ALCF: 510,000 Node-Hours
-
-
-
-
-## ENGINEERING
-
-### [Two-Phase Flow Interface Capturing Simulations](https://www.alcf.anl.gov/science/projects/two-phase-flow-interface-capturing-simulations)
-PI: Igor Bolotnov, North Carolina State University\
-HOURS: ALCF: 200,000 Node-Hours, NERSC: 300,000 Node-Hours
-
-
-
-
-## MATERIALS SCIENCE
-
-### [Computational Design of Novel Semiconductors for Power and Energy Applications](https://www.alcf.anl.gov/science/projects/computational-design-novel-semiconductors-power-and-energy-applications)
-PI: Feliciano Giustino , The University of Texas at Austin\
-HOURS: ALCF: 100,000 Node-Hours
-
-### [Large Scale Simulations of Materials for Quantum Information Science](https://www.alcf.anl.gov/science/projects/large-scale-simulations-materials-quantum-information-science)
-PI: Giulia Galli , University of Chicago\
-HOURS: ALCF: 600,000 Node-Hours, NERSC: 400,000 Node-Hours
-
-### [Quantum Accurate Large-Scale Atomistic Simulations of Advanced Fusion Reactor Materials](https://www.alcf.anl.gov/science/projects/quantum-accurate-large-scale-atomistic-simulations-advanced-fusion-reactor)
-PI: Aidan Thompson, Sandia National Laboratories\
-HOURS: ALCF: 850,000 Node-Hours, OLCF: 500,000 Node-Hours, NERSC: 250,000 Node-Hours
-
-
-
-
-## PHYSICS
-
-### [Continuum Limit Latice Calculation of Direct CP-violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
-PI: Christopher Kelly, Brookhaven National Laboratory\
-HOURS: ALCF: 135,000 Node-Hours
-
-### [Energy Partition and Particle Acceleration in Laser-Driven Laboratory Magnetized Shocks](https://www.alcf.anl.gov/science/projects/energy-partition-and-particle-acceleration-laser-driven-laboratory-magnetized)
-PI: Frederico Fiuza, SLAC National Accelerator Laboratory\
-HOURS: ALCF: 300,000 Node-Hours, NERSC: 150,000 Node-Hours
-
-### [Hadronic Contributions to the Muon G-2 from Lattice QCD](https://www.alcf.anl.gov/science/projects/hadronic-contributions-muon-g-2-lattice-qcd)
-PI: Thomas Blum, University of Connecticut\
-HOURS: ALCF: 5,000 Node-Hours, OLCF: 3,283,000 Node-Hours
-
-### [Using GPU to Reconstruct LHC Collisions Recorded with the CMS Detector](https://www.alcf.anl.gov/science/projects/using-gpu-reconstruct-lhc-collisions-recorded-cms-detector)
-PI: Dirk Hufnagel , Fermi National Accelerator Laboratory\
-HOURS: ALCF: 70,000 Node-Hours
 
 
 
@@ -344,10 +361,34 @@ HOURS: ALCF: 70,000 Node-Hours
 
 
 
+# ALCF Data Science Program
 
+### Advanced Materials Characterization with AI-Informed Computation
+PI: Marco Govoni, Argonne National Laboratory
 
+### Autonomous Molecular Design for Redox Flow Batteries
+PI: Logan Ward, Argonne National Laboratory
 
+### Deep Learning at Scale for Multimessenger Astrophysics Through the NCSA-Argonne Collaboration
+PI: Eliu Huerta, University of Illinois at Urbana-Champaign
 
+### Developing High-Performance-Computing Applications for Liquid Argon Neutrino Detectors
+PI: Andrzej Szelc, University of Manchester
+
+### Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction
+PI: Robert Hovden, University of Michigan
+
+### Learning Optimal Image Representations for Current and Future Sky Surveys
+PI: George Stein, Lawrence Berkeley National Laboratory
+
+### Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments
+PI: Marco Del Tutto, Fermi National Accelerator Laboratory 
+
+### Machine Learning Magnetic Properties of Van Der Waals Heterostructures
+PI: Trevor Rhone, Rensselaer Polytechnic Institute
+
+### X-ray Microscopy of Extended 3D Objects: Scaling Towards the Future
+PI: Chris Jacobsen, Argonne National Laboratory and Northwestern University
 
 
 # AURORA EARLY SCIENCE PROGRAM
@@ -407,9 +448,6 @@ The following list provides a sampling of the many Director’s Discretionary pr
 
 
 ## BIOLOGICAL SCIENCES
-
-### Bioinformatics Codes for Polygenic Risk Scores 
-PI: Ravi Madduri, Argonne National Laboratory 
 
 ### Large Ensemble Model of Single-Cell 3D Genome Structures
 PI: Jie Liang, University of Illinois at Chicago
