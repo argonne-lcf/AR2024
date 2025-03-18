@@ -11,6 +11,14 @@ systems: '-'
 
 image: 'Adams-cosmictagger.png' 
 
+publications:
+  - authors: 'Lewis, N., K. Velusamy, K. Harms, and H. Zheng'
+    title: 'Copper: Cooperative Caching Layer for Scalable Data Loading in Exascale Supercomputer'
+    source: "SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis"
+    date: 'January 2025, Atlanta, GA'
+    publisher: 'IEEE'
+    url: '10.1109/SCW63240.2024.00173'
+
 
 ---
 
