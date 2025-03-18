@@ -14,7 +14,11 @@ image: 'drugdiscovery.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "High-throughput screening of extensive compound datasets so as to identify advantageous properties—such as the ability to interact with relevant biomolecules (including proteins)—represents a promising direction in drug discovery for the treatment of diseases like cancer as well as for response to epidemics like SARS-CoV-2. However, traditional structural approaches for assessing binding affinity, such as free energy methods or molecular docking, pose significant computational bottlenecks when dealing with quantities of data of this magnitude. To address this, researchers have developed a docking surrogate called the SMILES transformer (ST), which learns molecular features from the SMILES (Simplified Molecular Input Line Entry System) representation of compounds and approximates their binding affinity."
+    blurb = "HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care.
+A team of researchers, led by Duke University, aims to repurpose HARVE to understand metastasis in cancer better.
+One in four deaths in the United States is due to cancer, and metastasis is responsible for more than 90 percent of these deaths. The metastatic patterns of circulating tumor cells (CTCs) are strongly influenced by both a favorable microenvironment and mechanical factors such as blood flow.
+Advancing the use of data science to drive in situ analysis of extreme-scale fluid-structure- interaction (FSI) simulations, this work aims to leverage the ALCF’s exascale Aurora system to model and analyze the movement of CTCs through the complex geometry of the human vasculature and thereby lay the groundwork for a predictive model of cancer metastasis. Simulating the rare cells, nearby red blood cells, and underlying fluid of the arterial network presents not only a computationally challenging simulation but a large data problem for posterior analysis. Scalable and in situ analysis of massively parallel FSI models, including cellular-level flow, will be critical for enabling new scientific insights into the mechanisms driving cancer progression. 
+"
 %}
 
 
