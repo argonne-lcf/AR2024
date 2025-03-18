@@ -25,9 +25,9 @@ A team of researchers led by ALCF staff received the [Best Paper Award](https://
 
 As part of the 2024 Argonne Board of Governors Awards, the Aurora installation team received the James B. Porter, Jr. Team Award for Outstanding Safety Performance, which recognizes teams that embody the principles of integrated safety management and contribute to a positive safety culture. Honored for their efforts in safely installing and preparing Argonne’s Aurora exascale system, team members included ALCF’s William Allcock, Jonathan Bouvet, Susan Coghlan, Joseph Crawford, Gregory Cross, Jeff Goetz, Michael Hogan, Carissa Holohan, Ti Leggett, and Haseebuddin Syed in collaboration with contributors from across the laboratory, including Christopher Baltas, Adena Banas, Erika Gutierrez, Cari Helberg, William Lucnik, Mitchell McClellan, Lisa Polowy, Raihan Rahman, Dillon Roark, Dana Silvestri, Michael Talamonti, and Jeremy Young.
 
-## Papka Named UIC Warren S. McCulloch Professor of Computer Science
+## Papka Named UIC Warren S. McCulloch Professor of Computer Science, Director of Electronic Visualization Laboratory
 
-Michael Papka was named the Warren S. McCulloch Professor of Computer Science at the University of Illinois Chicago. The endowed professorship recognizes individuals who have demonstrated leadership and impact in their field while supporting their continued research and teaching.
+ALCF Director Michael Papka was named the [Warren S. McCulloch Professor of Computer Science](https://cs.uic.edu/news-stories/cs-establishes-the-warren-s-mcculloch-collegiate-professorships-of-computer-science/) at the University of Illinois Chicago, an endowed professorship recognizing leadership and impact in the field while supporting continued research and teaching. In addition to this honor, Papka was also appointed [director of UIC’s Electronic Visualization Laboratory (EVL)](https://cs.uic.edu/news-stories/michael-e-papka-named-director-of-uics-electronic-visualization-laboratory/), an interdisciplinary research space focused on collaborative visualization, virtual reality, and advanced computing and networking infrastructure.
 
 ## ECP Team Earns DOE Secretary of Energy Achievement Award
 
@@ -35,19 +35,19 @@ The U.S. Department of Energy (DOE) recognized the Exascale Computing Project (E
 
 ## Shilpika Earns Recognition in Argonne’s Postdoc Research Slam
 
-ALCF postdoctoral researcher Shilpika tied for third place in Argonne’s 2024 Postdoc Research Slam with her presentation, “Alice in the Data Labyrinth: Solving Supercomputer Mysteries Through Intelligent Visuals.” The event showcased research from postdoctoral scholars in three-minute pitches before a live audience and panel of judges. Shilpika later presented her work as part of the Argonne OutLoud lecture series event, “Global Problem Solvers: Early-Career Scientists Explore New Frontiers to Unleash Discoveries for Today and Tomorrow.”
+ALCF postdoctoral researcher Shilpika tied for third place in Argonne’s 2024 Postdoc Research Slam with her presentation, “Alice in the Data Labyrinth: Solving Supercomputer Mysteries Through Intelligent Visuals.” The event showcased research from postdoctoral scholars in three-minute pitches before a live audience and panel of judges. Shilpika later presented her work as part of the Argonne OutLoud lecture series event, “[Global Problem Solvers: Early-Career Scientists Explore New Frontiers to Unleash Discoveries for Today and Tomorrow](https://www.youtube.com/watch?v=Q1tYaX-tpec).”
 
 ## Mateevitsi Named Senior Member of IEEE and ACM
 
-In 2024, Victor Mateevitsi, ALCF assistant computer scientist, was named a senior member of both the IEEE and the Association for Computing Machinery (ACM), recognizing his professional experience and contributions to the field.
+In 2024, Victor Mateevitsi, ALCF assistant computer scientist, was named a senior member of both the Institute of Electrical and Electronics Engineers (IEEE) and the Association for Computing Machinery (ACM), recognizing his professional experience and contributions to the field.
 
 ## Papka Honored with IEEE Chicago Section Award
 
-ALCF Director Michael Papka received the IEEE Chicago Section's Distinguished Senior Research and Development Award, recognizing his contributions to high-performance computing. Argonne National Laboratory was also honored with the Friends of the IEEE Chicago Section Award, highlighting the lab’s collaborative efforts with the organization.
+ALCF Director Michael Papka received the Institute of Electrical and Electronics Engineers (IEEE) Chicago Section's Distinguished Senior Research and Development Award, recognizing his contributions to high-performance computing. Argonne National Laboratory was also honored with the Friends of the IEEE Chicago Section Award, highlighting the lab’s collaborative efforts with the organization.
 
 ## Papka Receives NIU Distinguished Alumni Award
 
-ALCF Director Michael Papka received the Distinguished Alumni Award from Northern Illinois University's College of Liberal Arts and Sciences. The award honors alumni who have made significant contributions in their professional field or through civic, cultural, or charitable service.
+ALCF Director Michael Papka received the [Distinguished Alumni Award](https://www.niu.edu/clas/about/awards/index.shtml) from Northern Illinois University's College of Liberal Arts and Sciences. The award honors alumni who have made significant contributions in their professional field or through civic, cultural, or charitable service.
 
 ## Research Team Using ALCF Resources Wins HPCwire Award for Best Use of HPC in Physical Sciences
 
@@ -56,13 +56,3 @@ A team with researchers from Argonne National Laboratory, as well as University 
 ## ALCF-APS Pipeline Honored with HPCwire Readers’ Choice Award
 
 An automated pipeline integrating ALCF supercomputers and Advanced Photon Source instruments to enable near-real-time data analysis was named the [Best HPC in the Cloud Use Case](https://www.hpcwire.com/2024-readers-editors-choice-best-use-of-hpc-in-the-cloud-use-case/), winning an HPCwire Readers’ Choice Award. The pipeline allows scientists to adjust experiments on the fly, potentially accelerating scientific breakthroughs by delivering rapid results while researchers still have facility access.
-
-
-## Aurora Honored with HPCwire Readers’ Choice Award for Top Supercomputing Achievement
-
-The ALCF’s Aurora supercomputer was named the recipient of the [Readers’ Choice Award for Top Supercomputing Achievement](https://www.hpcwire.com/2024-readers-editors-choice-top-supercomputing-achievement/) at HPCwire 2024. The supercomputer was recognized for demonstrating how effectively AI can be implemented in high-performance computing to accelerate scientific breakthroughs across disciplines, including neuroscience, particle physics, and drug discovery.
-
-## Argonne Collaboration Wins HPCwire Readers’ Choice Award for Best Use of High Performance Data Analytics and Artificial Intelligence
-
-Argonne National Laboratory and Dow Inc. received the [HPCwire Readers’ Choice Award for Best Use of High Performance Data Analytics and Artificial Intelligence](https://www.hpcwire.com/2024-readers-editors-choice-best-use-of-high-performance-data-analytics-ai/) for their collaborative development of a framework that combines computational fluid dynamics and an active machine learning optimizer for efficient turbulent jet mixer design. The novel approach developed optimizes jet-mixing technology, potentially reducing reliability issues and costs associated with traditional agitators, with estimated savings of up to $6.1 million per year per plant.
-
