@@ -31,7 +31,7 @@ narrow axons and dendrites over large distances. Multiple applications contribut
 Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects must be aligned between neighboring images in an image stack. Image misalignment can occur when tissue samples are cut into thin sections, or during imaging on the electron microscope. The Feabas application (developed by collaborators at Harvard) uses template matching and feature matching techniques for coarse and fine-grained alignment, using a network-of-springs approach to produce optimal linear and local non-linear image transformations, to align the 2D image content between sections.
 
 # Performance Results
-The team’s software stack and frameworks have the capability to train LLMs efficiently at scale and on Polaris. The development team trained a model on 2 trillion tokens. After  debugging and implementing certain code enhancements, the developers successfully reduced preprocessing time from approximately 1 hour to 2 minutes. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
+The team’s software stack and frameworks have the capability to train LLMs efficiently at scale and on Polaris. The development team trained a model on 2 trillion tokens, for which, after  debugging and implementing certain code enhancements, they successfully reduced preprocessing time from approximately 1 hour to 2 minutes. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
 
 {% include media-img.html
    source= "Chart_Connectome_.png"
@@ -39,6 +39,5 @@ The team’s software stack and frameworks have the capability to train LLMs eff
 
 # Impact
 
-Connectomics today is leveraging innovations in imaging, supercomputing, and artificial intelligence to improve our understanding of how the brain's neurons are arranged and connected; this is becoming possible today due to exascale computing on Aurora. The techniques developed guarantee that computing will scale from cubic millimeters of brain tissue today, to a cubic centimeter whole mouse brain in the future, and to larger volumes of human brain tissue. As imaging technology advances, computing will need to achieve high performance on post-exascale machines to avoid becoming the bottleneck.
+AuroraGPT offers a transformative opportunity to leverage AI for scientific discovery, potentially redefining problem-solving across various domains critical to the DOE’s mission. AuroraGPT will enable Aurora users to both train LLMs from scratch and finetune existing models. A pretrained model—trained on 2 trillion tokens—is complete. The work has the potential to improve significantly how science is conducted by fostering a deeper integration of AI capabilities into research workflows.
 
-The work done to prepare this project for exascale will also benefit other exascale system users: with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source, a DOE Office of Science User Facility.
