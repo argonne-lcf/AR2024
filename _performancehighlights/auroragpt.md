@@ -31,9 +31,7 @@ narrow axons and dendrites over large distances. Multiple applications contribut
 Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects must be aligned between neighboring images in an image stack. Image misalignment can occur when tissue samples are cut into thin sections, or during imaging on the electron microscope. The Feabas application (developed by collaborators at Harvard) uses template matching and feature matching techniques for coarse and fine-grained alignment, using a network-of-springs approach to produce optimal linear and local non-linear image transformations, to align the 2D image content between sections.
 
 # Performance Results
-Deep learning models for connectomic reconstruction have been trained on Aurora on up to 512 nodes, demonstrating performance increases up to 40 percent.
-
-Reconstructions have been run with these models on up to 1024 nodes on Aurora, with multiple inference processes per GPU, to produce a segmentation of a teravoxel of data. Projecting from these runs to the full machine, the researchers anticipate being able to segment a petavoxel dataset on Aurora imminently.
+The team’s software stack and frameworks have the capability to train LLMs efficiently at scale and on Polaris. The development team trained a model on 2 trillion tokens. After  debugging and implementing certain code enhancements, the developers successfully reduced preprocessing time from approximately 1 hour to 2 minutes. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
 
 {% include media-img.html
    source= "Chart_Connectome_.png"
