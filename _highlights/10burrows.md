@@ -34,7 +34,7 @@ publications:
 
 ## Challenge
 
-Modeling the physics of supernovae has posed a persistent challenge to astrophysicists for decades. Models must not only be shown to explode, but must reach the asymptotic state of the blast to determine many of the observables. Many relevant simulations have been developed. However, the necessary sophisticated and expensive 3D simulations typically have not run long enough after bounce to capture asymptotic kick speeds. Even the few existing longer-term studies do not explore the systematics with the broad range of progenitor masses to determine the relationships between the kick speed and progenitor mass or the initial core structure.
+Modeling the physics of supernovae has posed a persistent challenge to astrophysicists for decades. Models must not only be shown to explode, but must reach the asymptotic state of the blast to determine many of the observables. Many relevant simulations have been developed. However, the necessary sophisticated and expensive 3D simulations typically have not run long enough after bounce to successfully capture asymptotic kick speeds. Even the few existing longer-term studies do not explore the systematics with the broad range of progenitor masses to determine the relationships between the kick speed and progenitor mass or the initial core structure.
 
 
 
