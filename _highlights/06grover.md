@@ -32,16 +32,15 @@ publications:
 ---
 
 {% include txt-intro.html 
-    blurb = "The development of hypersonic flight the ability to fly at 5 times the speed of sounds—and related capabilities is now of interest across the globe, potential to revolutionize technologies for national security, aviation, and space exploration. At the core of this research is the pursuit of accuracy in the prediction of the environment surrounding the hypervelocity vehicle.  This work, led by a research team from the University of Dayton Research Institute and Air Force Research Laboratory, replicated a hypervelocity ground-test experiment using the novel direct molecular simulation (DMS) method."
+    blurb = "The development of hypersonic flight—the ability to fly at five times the speed of sound—and related capabilities is now of interest across the globe, with the potential to revolutionize technologies for national security, aviation, and space exploration. At the core of this research is the pursuit of accuracy in the prediction of the environment surrounding the hypervelocity vehicle.  This work, led by a research team from the University of Dayton Research Institute and Air Force Research Laboratory, replicated a hypervelocity ground-test experiment using the novel direct molecular simulation (DMS) method.
+"
 %}
 
 
 
 ## Challenge
 
-At high Mach numbers, the shock encapsulating a vehicle is strong enough to cause chemical reactions and excitation of internal energy modes in the shock-heated gas. A precise description of these processes is essential to many aspects of flight, especially the heat loads experienced by the vehicle. DMS methods were used to model a reactive Mach 8.2 oxygen flow over a double-cone geometry. The method relies on molecular dynamics guided by interaction potentials grounded in quantum mechanics to construct this complex flow-field. The free-stream conditions and the article configuration generate a flow with thermal, chemical, and mechanical nonequilibrium. 
-
-
+At high Mach numbers, the shock encapsulating a vehicle is strong enough to cause chemical reactions and excitation of internal energy modes in the shock-heated gas. A precise description of these processes is essential to many aspects of flight, especially the heat loads experienced by the vehicle. DMS methods were used to model a reactive Mach 8.2 oxygen flow over a double-cone geometry. The method relies on molecular dynamics guided by interaction potentials grounded in quantum mechanics to construct this complex flow-field. The free-stream conditions and the article configuration generate a flow with thermal, chemical, and mechanical nonequilibrium.
 
 ## Approach
 
@@ -49,11 +48,13 @@ The researchers used a custom, massively parallel version of the SPARTA DSMC cod
 
 
 
+
 ## Results
 
-As detailed in _Science Advances_, the team used ALCF computing resources to simulate, for the first time, using a method grounded in quantum mechanics, a full-scale reactive hypersonic flow studied experimentally. Due to the fundamental nature of the simulation technique, this work provides a molecular-level description of internal energy excitation and reaction mechanisms throughout the system. Building on direct simulation monte carlo (DSMC) methods, DMS replaces stochastic collision models for particles in the flow with molecular dynamics calculations using interaction potentials derived from quantum mechanics. These ab initio interaction potentials are the only modeling input in the flow; therefore, all flow features can be attributed the quantum mechanically guided molecular interactions.
+As detailed in _Science Advances_, the team used ALCF computing resources to simulate, for the first time, using a method grounded in quantum mechanics, a full-scale reactive hypersonic flow studied experimentally. Due to the fundamental nature of the simulation technique, this work provides a molecular-level description of internal energy excitation and reaction mechanisms throughout the system. Building on direct simulation Monte Carlo (DSMC) methods, DMS replaces stochastic collision models for particles in the flow with molecular dynamics calculations using interaction potentials derived from quantum mechanics. These ab-initio interaction potentials are the only modeling input in the flow; therefore, all flow features can be attributed the quantum mechanically=guided molecular interactions.
 
 
 ## Impact
 
-This was the first-ever quantum mechanically guided simulation of a hypersonic ground test  The team’s research is helping to advance our understanding of the complex aerothermodynamics of hypersonic flight, providing insights that could help inform the design of safer and efficient technologies for space travel and defense. A simulation of such fidelity and detail can be used as a benchmark solution to verify computational fluid mechanics (CFD) codes and assess fundamental gaps and opportunities of improvement for the physics simulated by lower fidelity models. This, in turn, enables robust and accurate CFD solutions to mission-critical scenarios where the flow field may be in thermal and chemical nonequilibrium. 
+This was the first-ever quantum mechanically guided simulation of a hypersonic ground test. The team’s research is helping to advance our understanding of the complex aerothermodynamics of hypersonic flight, providing insights that could help inform the design of safer and more efficient technologies for space travel and defense. The simulation performed is of sufficiently great fidelity and detail that it can be used as a benchmark solution to verify computational fluid mechanics (CFD) codes and assess fundamental gaps and opportunities of improvement for the physics simulated by lower fidelity models. This, in turn, enables robust and accurate CFD solutions to mission-critical scenarios where the flow field may be in thermal and chemical nonequilibrium.
+
