@@ -52,4 +52,4 @@ A paper published in _Physics of Plasmas_ demonstrated the application of a bund
 
 ## Impact
 
-As fusion power represents a paradigm-shifting breakthrough, success of the ITER project is a high-priority challenge for the DOE mission, which will ultimately lead to more economical FPPs. To accomplish this goal, simulations based on first-principles must be deployed to solve issues with power exhaust, including mitigating stationary heat-flux densities and avoiding unacceptably high transient power flow to material walls.
+As fusion power represents a paradigm-shifting breakthrough, success of the ITER project is a high-priority challenge for the DOE mission, which will ultimately lead to more economical FPPs. To accomplish this goal, simulations based on first principles must be deployed to solve issues with power exhaust, including mitigating stationary heat-flux densities and avoiding unacceptably high transient power flow to material walls.
