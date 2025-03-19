@@ -52,4 +52,4 @@ For the first time, using a large and uniform collection of 3D supernova models 
 
 ## Impact
 
-The team’s simulations represent the largest set of long-term 3D state-of-the-art core collapse simulations ever created. These simulations lay the groundwork for more comprehensive research that will address other aspects and outcomes of core collapse and their dependence upon progenitors. These simulations provide a qualitative picture, paving the way to develop a quantitative explanation of the survival of binary neutron star systems.  
+The team’s simulations represent the largest set of long-term 3D state-of-the-art core-collapse simulations ever created. These simulations lay the groundwork for more comprehensive research that will address other aspects and outcomes of core collapse and their dependence upon progenitors. These simulations provide a qualitative picture, paving the way to develop a quantitative explanation of the survival of binary neutron star systems.  
