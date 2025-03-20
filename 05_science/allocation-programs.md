@@ -10,9 +10,16 @@ intro: "As a national user facility dedicated to open science, any researcher in
 aside: by-domain.md
 ---
 
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/I6bSEnk4ZyA?si=9JgIcYQe6Fhfnuau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
 Researchers gain access to ALCF systems for computational science and engineering projects through competitive, peer-reviewed allocation programs supported by the DOE and Argonne.
 
 The ALCF also hosts competitive, peer-reviewed application programs designed to prepare key scientific applications and innovative computational methods for the architecture and scale of DOE supercomputers.
+
 
 ## Allocation Programs
 

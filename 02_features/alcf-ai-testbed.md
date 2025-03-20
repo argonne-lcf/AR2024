@@ -27,6 +27,19 @@ These methods are powerful tools for speeding up scientific progress. Computer v
 Experimental data analysis also benefits from the lab’s AI Testbed. Researchers from Argonne’s Advanced Photon Source (APS) are exploring how different accelerators can enable fast, scalable AI model training and inference to accelerate the analysis of x-ray imaging data. Rapid data analysis methods are becoming increasingly important for the APS and other experimental facilities as data generation rates continue to grow. 
 
 
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/bQ8S9N0LoCY?si=oBKi9Y0fkQLZXT2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/9NrrkGT2m8Q?si=Sn0IGC_GvBO5VKQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
+
 ## SambaNova
 The ALCF AI Testbed expanded its SambaNova platform with the addition of SambaNova Suite. SambaNova Suite, powered by SambaNova DataScale SN40L systems, is a fully integrated hardware-software platform that enables users to train, fine tune, and deploy AI workloads. Optimized for low-latency, high-throughput inference, the platform provides scientists with a new AI resource to accelerate scientific research. 
 

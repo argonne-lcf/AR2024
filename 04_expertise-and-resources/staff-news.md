@@ -33,6 +33,12 @@ ALCF Director Michael Papka was named the [Warren S. McCulloch Professor of Comp
 
 The U.S. Department of Energy (DOE) recognized the Exascale Computing Project (ECP) with the Secretary of Energy Honor Achievement Award for its role in delivering an exascale computing ecosystem for the nation. The multi-lab collaboration involved several key staff from Argonne, including Lois Curfman McInnes, David Martin, Susan Coghlan, Todd Munson, and Yasaman Ghadar, who were on hand to receive the award as part of the ECP leadership team.
 
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/Q1tYaX-tpec?si=Zp0uj0dB5OBRWCuZ&start=700&end=1200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
 ## Shilpika Earns Recognition in Argonne’s Postdoc Research Slam
 
 ALCF postdoctoral researcher Shilpika tied for third place in Argonne’s 2024 Postdoc Research Slam with her presentation, “Alice in the Data Labyrinth: Solving Supercomputer Mysteries Through Intelligent Visuals.” The event showcased research from postdoctoral scholars in three-minute pitches before a live audience and panel of judges. Shilpika later presented her work as part of the Argonne OutLoud lecture series event, “[Global Problem Solvers: Early-Career Scientists Explore New Frontiers to Unleash Discoveries for Today and Tomorrow](https://www.youtube.com/watch?v=Q1tYaX-tpec).”
@@ -40,6 +46,12 @@ ALCF postdoctoral researcher Shilpika tied for third place in Argonne’s 2024 P
 ## Mateevitsi Named Senior Member of IEEE and ACM
 
 In 2024, Victor Mateevitsi, ALCF assistant computer scientist, was named a senior member of both the Institute of Electrical and Electronics Engineers (IEEE) and the Association for Computing Machinery (ACM), recognizing his professional experience and contributions to the field.
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/fM3NOD2QgZw?si=8iXLkeoolPsQJdsr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
 
 ## Papka Honored with IEEE Chicago Section Award
 

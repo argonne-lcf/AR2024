@@ -12,6 +12,12 @@ Since its launch in 2021, the ALCF’s annual "Intro to AI-driven Science on Sup
 
 Aimed at undergraduate and graduate students from U.S. universities and community colleges, the program offers a combination of hands-on sessions and expert guidance to equip attendees with the knowledge and skills to effectively use AI in their research. Over the past four years, the series has welcomed over 700 total participants.
 
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/ujPQf9zioLs?si=QkkF81fhAgM1F-MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
 ## Comprehensive AI for Science Curriculum
 
 The primary goal of the series is to introduce students to the integration of AI into scientific research, preparing them for careers in both AI and HPC. The training covers essential AI concepts, including large language models (LLMs), neural networks, and AI accelerators, while also giving participants the opportunity to work directly with ALCF’s powerful systems, such as Polaris and the ALCF AI Testbed. The series is designed specifically for students with basic experience in Python, ensuring that participants gain the skills necessary to apply AI in their research. By providing this foundational knowledge, the training helps participants bridge the gap between theoretical AI concepts and practical application using world-class computational resources.

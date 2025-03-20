@@ -22,10 +22,25 @@ Numerous ALCF activities and achievements have helped realize the DOE effort to 
 -	Participating in leadership groups and technical subcommittees dedicated to the design and implementation of computing facility functionality useful for experimentalists.
 
 
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/1gM9N7cmT38?si=elp49gvF4-rXVauP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
+
+
 ## Nexus
 Under [Argonne's Nexus effort](https://www.anl.gov/nexus-connect), Argonne researchers are working to advance the DOE’s vision by integrating experimental facilities with ALCF computing resources. 
 
 As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF has continued its commitment to linking experimental facilities with ALCF computing. Work with APS over recent years has been a primary driver for defining new functionality and services ALCF has deployed to satisfy experiment-time computing needs at APS beamlines. Service accounts enable APS users to leverage automated analysis of their data at ALCF in a shared environment in a streamlined fashion throughout their multi-day beamline campaigns, with jobs running immediately at experiment time in the on-demand queue on Polaris. Analysis results are available to scientists at the beamline via Globus Sharing enabled on the Eagle filesystem, at the time of experiment and post-hoc. Building on these ALCF-deployed features, Globus Compute and Globus Flows manage application execution and data transfer in a frictionless manner, for projects across the DOE-SC program offices.
+
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/twLutyNPmX4?si=ABoBr5VeNlpF9qni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
 
 
 ## Facility Integration
