@@ -4,22 +4,21 @@ layout: page
 theme: dark
 permalink: features/aurora
 
-title: Aurora Nears Full Deployment
+title: Aurora Reaches Exascale, Leads in AI Performance
 hero-mp4-source: "aurora_pan.mp4"
 hero-img-source: ALCF_AuroraSkin.jpg
-hero-img-caption: "The Aurora team uses a specialized machine to install the supercomputer’s blades."
-intro: "The system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community in 2025."
+hero-img-caption: "In 2024, the system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community."
 
 aside: alcf-4.md
 ---
 
-In 2024, the ALCF made significant progress toward the full deployment of its Aurora exascale supercomputer for scientific research. After completing extensive system validation, verification, and scale-up efforts, Aurora is undergoing acceptance testing in December 2024, with plans to enter full production mode in January 2025.
+Over the past year, the ALCF made significant progress in preparing its Aurora exascale supercomputer for deployment in January 2025. In close collaboration with Intel and Hewlett Packard Enterprise, the team completed extensive system validation, verification, and scale-up efforts to pave the way for system acceptance.
 
-Once operational, it will provide the research community with powerful simulation, AI, and data analysis capabilities to drive breakthroughs in physics, engineering, materials science, and other domains.
+Dedicated to open science, Aurora will provide the research community with powerful simulation, AI, and data analysis capabilities to drive breakthroughs in physics, engineering, materials science, and other domains.
 
 ## Breaking the Exascale Barrier
 
-Over the course of the year, Aurora demonstrated its capabilities in various performance benchmarks that solidified its place among the world’s most powerful supercomputers. The ALCF system officially broke the exascale barrier in June, achieving 1.012 exaflops on the High Performance LINPACK (HPL) benchmark. Aurora also set a new record for AI performance, registering 11.6 exaflops on the HPL-MxP mixed-precision benchmark. Its strengths in data-intensive applications were further highlighted with leading results on the Graph500 and HPCG benchmarks, while its storage system, DAOS, retained the top ranking on the IO500 production list.
+Aurora demonstrated its capabilities in various performance benchmarks revealed at the ISC and SC conferences, further cementing its place among the world’s most powerful supercomputers. The ALCF system officially broke the exascale barrier in June, achieving 1.012 exaflops on the High Performance LINPACK (HPL) benchmark. Aurora also set a new record for AI performance, registering 11.6 exaflops on the HPL-MxP mixed-precision benchmark. Its strengths in data-intensive applications were further highlighted with leading results on the Graph500 and HPCG benchmarks, while its storage system, DAOS, retained the top ranking on the IO500 production list.
 
 Together with Oak Ridge National Laboratory’s Frontier and Lawrence Livermore National Laboratory’s El Capitan, DOE is now home to the world’s first three exascale systems. These machines not only mark the first to reach exascale but are also the three fastest supercomputers on the TOP500 List.
 
