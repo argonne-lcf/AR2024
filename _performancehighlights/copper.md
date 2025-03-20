@@ -18,15 +18,10 @@ publications:
     date: 'January 2025, Atlanta, GA'
     publisher: 'IEEE'
     url: '10.1109/SCW63240.2024.00173'
-
-
 ---
 
 {% include txt-intro.html 
-    blurb = "Users of exascale computers like the ALCF’s Aurora—which feature more than 10,000 compute nodes—can experience as much as 20 minutes of idle time for a single line of code during application initialization.
-
-Copper, a scalable data loading library developed at the ALCF by an Argonne research team, addresses this problem—reducing load times by as much as 95 percent—by freeing up energy and compute resources. This is achieved without any changes to application codes, by means of a cooperative caching layer.
-"
+    blurb = "Users of exascale computers like the ALCF’s Aurora—which feature more than 10,000 compute nodes—can experience as much as 20 minutes of idle time for a single line of code during application initialization. Copper, a scalable data loading library developed at the ALCF by an Argonne research team, addresses this problem—reducing load times by as much as 95 percent—by freeing up energy and compute resources. This is achieved without any changes to application codes, by means of a cooperative caching layer."
 %}
 
 
