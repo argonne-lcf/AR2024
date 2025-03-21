@@ -6,6 +6,16 @@ title: ALCF Systems
 theme: white
 permalink: expertise-and-resources/systems
 ---
+
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=9kAgTCiziE0go8fa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "Quick brown fox"
+   credit= "Argonne National Laboratory"
+%}
+
+
+
 ## Supercomputing Resources
 
 ALCF supercomputing resources support large-scale, computationally intensive projects aimed at solving some of the world’s most complex and challenging scientific problems.
