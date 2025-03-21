@@ -25,7 +25,8 @@
 		bottom: 0;
 		left: 0;
 		background-color: color(blue, XXXX);
-		opacity: .65;
+		opacity: .7;
+		mix-blend-mode: multiply;
 	}
 
 	img, video {
@@ -40,4 +41,8 @@
 
 .theme--dark .bg-img--scrim {
  background-color: color(neutral, XXXXX);
+}
+
+.theme--green .bg-img--scrim {
+ background-color: color(green, XXXX);
 }
