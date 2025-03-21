@@ -1,21 +1,14 @@
 ---
-layout: page
+layout: section-head
 
 theme: dark
 permalink: features
 
 title: Features
+bg-mp4-source: "harvey.mp4"
 intro: "The ALCF is providing supercomputing and AI resources and capabilities to enable pioneering research at the intersection of simulation, big data analysis, and machine learning."
 ---
 
-
-{% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
-   credit= "Name A. Name"
-%}
-
-<br><br>
 
 <div class="teasers">
 
