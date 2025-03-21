@@ -9,6 +9,14 @@ intro: "The ALCF is providing supercomputing and AI resources and capabilities t
 ---
 
 
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
+<br><br>
+
 <div class="teasers">
 
 {% assign features = site.data.nav-config.toc | where: "title", "Features" %}

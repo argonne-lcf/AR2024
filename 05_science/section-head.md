@@ -10,6 +10,15 @@ intro: "The ALCF is accelerating scientific discoveries in many disciplines, ran
 bg-img: Science_Apace_01.png
 ---
 
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
+<br><br>
+
+
 <div class="teasers">
 
 {% assign sci-pages = site.data.nav-config.toc | where: "title", "Science" %}

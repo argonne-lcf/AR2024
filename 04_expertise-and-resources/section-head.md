@@ -10,6 +10,15 @@ intro: "The ALCF’s unique combination of supercomputing resources and expertis
 bg-img: ALCF-2023workshop.jpg
 ---
 
+{% include media-img.html
+   source= "fpo.jpg"
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
+%}
+
+<br><br>
+
+
 <div class="teasers">
 
 {% assign er-pages = site.data.nav-config.toc | where: "title", "Expertise and Resources" %}
