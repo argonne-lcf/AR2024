@@ -181,29 +181,44 @@ Zhang, C., F. Gygi, and G. Galli. “Charge State and Entropic Effects Affecting
 
 # MAY
 
-Bazavov, A., C. DeTar, A. X. El-Khadra, E. Gámiz, Z. Gelzer, S. Gottlieb, W. I. Jay, H. Jeong, A. S. Kronfeld, R. Li, A. T. Lytle, P. B. Mackenzie, E. T. Neil, T. Primer, J. N. Simone, R. L. Sugar, D. Toussaint, R. S. Van de Water, and A. Vaquero. “D-meson Semileptonic Decays to Pseudoscalars from Four-Flavor Lattice QCD," <i>Physical Review D</i> (May 2023), APS. doi: 10.1103/PhysRevD.107.094516
+Abbott, R., A. Botev, D. Boyda, E. C. Hackett, G. Kanwar, S. Racanière, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Applications of Flow Models to the Generation of Correlated Lattice QCD Ensembles," _Physical Review D_ (May 2024), APS. doi: 10.1103/PhysRevD.109.094514
 
-Bhati, A. P., A. Hoti, A. Potterton, M. K. Bieniek, and P. V. Coveney. “Long Time Scale Ensemble Methods in Molecular Dynamics: Ligand–Protein Interactions and Allostery in SARS-CoV-2 Targets," <i>Journal of Chemical Theory and Computation</i> (May 2023), ACS. doi: 10.1021/acs.jctc.3c00020
+Fan, K., S. Petruzza, T. Gilray, and S. Kumar. “Configurable Algorithms for All-to-All Collectives," _ISC High Performance 2024 Research Paper Proceedings (39th International Conference)_ (May 2024), Hamburg, Germany, IEEE. doi: 10.23919/ISC.2024.10528936
 
-Fearick, R. W., P. von Neumann-Cosel, S. Bacca, J. Birkhan, F. Bonaiti, I. Brandherm, G. Hagen, H. Matsubara, W. Nazarewicz, N. Pietralla, V. Y. Ponomarev, P.-G. Reinhard, X. Roca-Maza, A. Richter, A. Schwenk, J. Simonis, and A. Tamii. “Electric Dipole Polarizability of <sup>40</sup>Ca," <i>Physical Review Research</i> (May 2023), APS. doi: 10.1103/PhysRevResearch.5.L022044
+Gao, X., W.-Y. Liu, and Y. Zhao. “Parton Distributions from Boosted Fields in the Coulomb Gauge," _Physical Review D_ (May 2024), APS. doi: 10.1103/PhysRevD.109.094506
 
-Ibayashi, H., T. M. Razakh, L. Yang, T. Linker, M. Olguin, S. Hattori, Y. Luo, R. K. Kalia, A. Nakano, K. Nomura, and P. Vashishta. “Allegro-Legato: Scalable, Fast, and Robust Neural-Network Quantum Molecular Dynamics via Sharpness-Aware Minimization," <i>ISC High Performance 2023: High Performance Computing</i> (May 2023), Springer Link, pp. 223-239. doi: 10.1007/978-3-031-32041-5_12
+Grieder, A. C., K. Kim, L. F. Wan, J. Chapman, B. C. Wood, and N. Adelstein. “Effects of Nonequilibrium Atomic Structure on Ionic Diffusivity in LLZO: A Classical and Machine Learning Molecular Dynamics Study," _The Journal of Physical Chemistry C_ (May 2024), ACS Publications. doi: 10.1021/acs.jpcc.4c00171
 
-Kang, S., and E. M. Constantinescu. “Learning Subgrid-Scale Models with Neural Ordinary Differential Equations," Computers and Fluids</i> (May 2023), Elsevier. doi: 10.1016/j.compfluid.2023.105919
+Howarth, T.L., M. A. Picciani, E. S. Richardson, M. S. Day, and A. J Aspden. “Direct Numerical Simulation of a High-Pressure Hydrogen Micromix Combustor: Flame Structure and Stabilisation Mechanism," _Combustion and Flame_ (May 2024), Elsevier. doi: 10.1016/j.combustflame.2024.113504
 
-Nascimento de Lima, P., R. van den Puttelaar, A. I. Hahn, M. Harlass, N. Collier, J. Ozik, A. G. Zauber, I. Lansdorp-Vogelaar, and C. M. Rutter. “Projected Long-Term Effects of Colorectal Cancer Screening Disruptions Following the COVID-19 Pandemic," <i>eLife</i> (May 2023), eLife Sciences. doi: 10.7554/eLife.85264
+Kilic, O. O., T. Wang, M. Turilli, M. Titov, A. Merzky, L. Pouchard, and S. Jha. “Workflow Mini-Apps: Portable, Scalable, Tunable, and Faithful Representations of Scientific Workflows," _CCGRID 2024_ (May 2024), Philadelphia, PA, IEEE. doi: 10.48550/arXiv.2403.18073
 
-Ramos-Valle, A. N., A. F. Prein, M. Ge, D. Wang, and S. E. Giangrande. “Grid Spacing Sensitivities of Simulated Mid-Latitude and Tropical Mesoscale Convective Systems in the Convective Gray Zone," <i>Journal of Geophysical Research: Atmospheres</i> (May 2023), American Geophysical Union. doi: 10.1029/2022jd037043
+Lee, M. “Spectral Analysis of the Correlation Between Temperature and Wall-Normal Velocity in Rayleigh-Bénard Convection at Moderate Rayleigh Numbers," _Journal of Physics: Conference Series_ (May 2024), vol. 2573, IOP Publishing. doi: 10.1088/1742-6596/2753/1/012006
 
-Rosofsky, S. G., H. Al Majed, and E. A. Huerta. “Applications of Physics Informed Neural Operators," <i>Machine Learning: Science and Technology</i> (May 2023), IOP. doi: 10.1088/2632-2153/acd168
+Li, H., J. Duarte, A. Roy, R. Zhu, E. A. Huerta, D. Diaz, P. Harris, R. Kansal, D. S. Katz, I. H. Kavoori, V. V. Kindratenko, F. Mokhtar, M. S. Neubauer, S. E. M. Quinnan, R. Rusack, and Z. Zhao. “FAIR AI Models in High Energy Physics," _26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)_ (May 2024), EDP Sciences. doi: 10.1051/epjconf/202429509017
 
-Shen, S., S. Elhatisari, T. A. Lähde, D. Lee, B.-N. Lu, and U.-G. Meißner. “Emergent Geometry and Duality in the Carbon Nucleus," <i>Nature Communications</i> (May 2023), Springer Nature. doi: 10.1038/s41467-023-38391-y
+Ma, X., F. Yan, L. Yang, I. Foster, M. E. Papka, Z. Liu, and R. Kettimuthu. “MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes," _ICPE '24: Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering_ (May 2024), New York, NY, ACM. doi: 10.1145/3629526.3645035
 
-Su, Q., J. Larson, T. N. Dalichaouch, F. Li, W. An, L. Hildebrand, Y. Zhao, V. Decyk, P. Alves, S. M. Wild, and W. B. Mori. “Optimization of Transformer Ratio and Beam Loading in a Plasma Wakefield Accelerator with a Structure-Exploiting Algorithm," <i>Physics of Plasmas</i> (May 2023), AIP Publishing. doi: 10.1063/5.0142940
+Min, M., M. Brazell, A. Tomboulides, M. Churchfield, P. Fischer, and M. Sprague. “Towards Exascale for Wind Energy Simulations," _The International Journal of High Performance Computing Applications_ (May 2024), SAGE Publications. doi: 10.1177/10943420241252511
 
-Swaminathan, B., J. Kang, K. Vaidya, A. Srinivasan, P. Kumar, S. Byna, and D. Barbarash. “Crowd Cluster Data in the USA for Analysis of Human Response to COVID-19 Events and Policies," <i>Scientific Data</i> (May 2023), Springer Nature. doi: 10.1038/s41597-023-02176-1
+Nicholson, G. L., L. Duan, and N. J. Bisek. “Direct Numerical Simulation Database of High-Speed Flow over Parameterized Curved Walls," _AIAA Journal_ (May 2024), AIAA. doi: 10.2514/1.J063456
 
-Vartanyan, D., A. Burrows, T. Wang, M. S. B. Coleman, and C. J. White. “Gravitational-Wave Signature of Core-Collapse Supernovae," <i>Physical Review D</i> (May 2023), APS. doi: 10.1103/PhysRevD.107.103015
+Nikitin, V., G. Wildenberg, A. Mittone, P. Shevchenko, A. Deriy, and F. De Carlo. “Laminography as a Tool for Imaging Large-Size Samples with High Resolution," _Journal of Synchrotron Radiation_ (May 2024), Wiley-Blackwell. doi: 10.1107/S1600577524002923
+
+Reina, G., and S. Rizzi. “PGV 2024: Frontmatter," _EGPGV24: Eurographics Symposium on Parallel Graphics and Visualization_ (May 2024), Odense, Denmark, Eurographics. doi: 10.2312/pgv.20242012
+
+Sun, Y., O. Sowunmi, R. Egele, S. H. K. Narayanan, L. van Roekel, and P. Balaprakash. “Streamlining Ocean Dynamics Modeling with Fourier Neural Operators: A Multiobjective Hyperparameter and Architecture Optimization Approach," _Mathematics_ (May 2024), MDPI. doi: 10.3390/math12101483
+
+Tessier, F., V. Vishwanath, and E. Jeannot. “Adding Topology and Memory Awareness in Data Aggregation Algorithms," _Future Generation Computer Systems_ (May 2024), Elsevier. doi: 10.1016/j.future.2024.05.016
+
+Tiwari, S., E. Kioupakis, J. Menendez, and F. Giustino. “Unified Theory of Optical Absorption and Luminescence Including Both Direct and Phonon-Assisted Processes," _Physical Review B_ (May 2024), APS. doi: 10.1103/PhysRevB.109.195127
+
+Wang, R., S. Snyder, D. Benjamin, Z. Dong, P. Gartung, and K. Herner. “Darshan for HEP Applications," _26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)_ (May 2024), Norfolk, VA, EDP Sciences. doi: 10.1051/epjconf/202429505003
+
+Wang, X., S. Gao, Y. Luo, X. Liu, R. Tom, K. Zhao, V. Chang, and N. Marom. “Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory," _The Journal of Physical Chemistry C_ (May 2024), ACS Publications. doi: 10.1021/acs.jpcc.4c01340
+
+Zhang, Z., W. Gee, P. Sautet, and A. N. Alexandrova. “H and CO Co-Induced Roughening of Cu Surface in CO<sub>2</sub> Electroreduction Conditions," _Journal of the American Chemical Society_ (May 2024), ACS Publications. doi: 10.1021/jacs.4c03515
+
 
 
 
