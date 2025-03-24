@@ -36,7 +36,7 @@ The U.S. Department of Energy (DOE) recognized the Exascale Computing Project (E
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/Q1tYaX-tpec?si=Zp0uj0dB5OBRWCuZ&start=700&end=1200" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
+   caption= "ALCF’s Shilpika discussed her work to enhance the reliability and efficiency of supercomputers in the latest installment of Argonne National Laboratory's OutLoud Lecture Series, “Global Problem Solvers: Early-Career Scientists Explore New Frontiers to Unleash Discoveries for Today and Tomorrow."
    credit= "Argonne National Laboratory"
 %}
 
@@ -50,7 +50,7 @@ In 2024, Victor Mateevitsi, ALCF assistant computer scientist, was named a senio
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/fM3NOD2QgZw?si=8iXLkeoolPsQJdsr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
+   caption= "ALCF's Michael Papka gives a Tedx talk over exascale computer's ability accelerate scientific discovery."
    credit= "Argonne National Laboratory"
 %}
 
