@@ -373,7 +373,7 @@ Willman, J. T., J. M. Gonzalez, K. Nguyen-Cong, S. Hamel, V. Lordi, and I. I. Ol
 
 Wu, Q., J. A. Insley, V. A. Mateevitsi, S. Rizzi, M. E. Papka, and K.-L. Ma. “Distributed Neural Representation for Reactive _In Situ_ Visualization," _IEEE Transactions on Visualization and Computer Graphics_ (August 2024), IEEE. doi: 10.1109/TVCG.2024.3432710
 
-Zuo, W., J. Gim, T. Li, D. Hou, Y. Gao, S. Zhou, C. Zhao, X. Jia, Z. Yang, Y. Liu, X. Xiao, G. L. Xu, and K. Amine. “Microstrain Screening Towards Defect-less Layered Transition Metal Oxide Cathodes," _Nature Nanotechnology_ (August 2024), Nature. doi: https://doi.org/10.1038/s41565-024-01734-x
+Zuo, W., J. Gim, T. Li, D. Hou, Y. Gao, S. Zhou, C. Zhao, X. Jia, Z. Yang, Y. Liu, X. Xiao, G. L. Xu, and K. Amine. “Microstrain Screening Towards Defect-less Layered Transition Metal Oxide Cathodes," _Nature Nanotechnology_ (August 2024), Springer Nature. doi: 10.1038/s41565-024-01734-x
 
 
 # SEPTEMBER
