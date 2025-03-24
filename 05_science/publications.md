@@ -69,7 +69,7 @@ Cheng, S., J.-L. Lin, M. Emani, S. Raskar, S. Foreman, Z. Xie, V. Vishwanath, an
 
 Grošelj, D., H. Hakobyan, A. M. Beloborodov, L. Sironi, and A. Philippov. “Radiative Particle-in-Cell Simulations of Turbulent Comptonization in Magnetized Black-Hole Coronae," _Physical Review Letters_ (February 2024), APS. doi: 10.1103/PhysRevLett.132.085202
 
-Huang, J., S. Di, X. Yu, Y. Zhai, J. Liu, Y. Huang, K. J. Raffenetti, H. Zhou, K. Zhao, Z. Chen, F. Cappello, Y. Guo, and R. Thakur. “POSTER: Optimizing Collective Communications with Error-Bounded Lossy Compression for GPU Clusters," PPoPP '24: Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (February 2024), Edinburgh, United Kingdom, ACM. doi: 10.1145/3627535.3638467
+Huang, J., S. Di, X. Yu, Y. Zhai, J. Liu, Y. Huang, K. J. Raffenetti, H. Zhou, K. Zhao, Z. Chen, F. Cappello, Y. Guo, and R. Thakur. “POSTER: Optimizing Collective Communications with Error-Bounded Lossy Compression for GPU Clusters," _PPoPP '24: Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming_ (February 2024), Edinburgh, United Kingdom, ACM. doi: 10.1145/3627535.3638467
 
 Kim, S. W., M. M. Elsayed, N. S. Nichols, T. Lakoba, J. Vanegas, C. Wexler, V. N. Kotov, and A. Del Maestro. “Atomically Thin Superfluid and Solid Phases for Atoms on Strained Graphene," _Physical Review B_ (February 2024), APS. doi: 10.1103/PhysRevB.109.064512
 
