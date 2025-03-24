@@ -5,7 +5,7 @@ theme: white
 permalink: 'science/highlights/pal'
 
 title: 'Robust Gas Turbine Film Cooling Under Manufacturing Uncertainty for Improved Jet Engine Lifecycle Energy Efficiency'
-pi: 'Pinaki Pal and Muhsin Ameen, Argonne National Laboratory'
+pi: 'Michael Joly, RTX Technology Research Center; Pinaki Pal and Muhsin Ameen, Argonne National Laboratory'
 award: 'Director’s Discretionary'
 systems: 'Polaris'
 field: 'Engineering'
