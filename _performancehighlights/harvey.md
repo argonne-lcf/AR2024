@@ -9,7 +9,7 @@ pi: 'Amanda Randles, Duke University'
 award: 'Early Science Program'
 systems: '-'
 
-image: 'drugdiscovery.png' 
+image: 'harvey_showstopper_06.png' 
 
 ---
 
