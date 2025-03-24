@@ -100,45 +100,47 @@ Wang, T., and A. Burrows. “Nucleosynthetic Analysis of Three-Dimensional Core-
 
 # MARCH
 
-Allcroft, S., M. Metwaly, Z. Berg, I. Ghodgaonakar, F. Bordwell, X. Zhao, X. Liu, J. Xu, S. Chakraborty, V. Banna, A. Chinnakotla, A. Goel, C. Tung, G. Kao, W. Zakharov, D. A. Shoham, G. K. Thiruvathukal, and Y.-H. Lu. “Observing Human Mobility Internationally During COVID-19," <i>Computer</i> (March 2023), vol. 56, IEEE, pp. 59-69. doi: 10.1109/MC.2022.3175751
+Annaberdiyev, A., P. Ganesh, and J. T. Krogel. “Enhanced Twist-Averaging Technique for Magnetic Metals: Applications Using Quantum Monte Carlo," _Journal of Chemical Theory and Computation_ (March 2024), ACS Publications. doi: 10.1021/acs.jctc.4c00058
 
-Chitty-Venkata, K. T., M. Emani, V. Vishwanath, and A. K. Somani. “Neural Architecture Search Benchmarks: Insights and Survey," <i>IEEE Access</i> (March 2023), IEEE. doi: 10.1109/ACCESS.2023.3253818
+Bhattarai, R., P. Minch, Y. Liang, S. Zhang, and T. D. Rhone. “Strain-Induced Topological Phase Transition in Ferromagnetic Janus Monolayer MnSbBiS<sub>2</sub>Te<sub>2</sub>," _Physical Chemistry Chemical Physics_ (March 2024), Royal Society of Chemistry. doi: 10.1039/D3CP05578G
 
-Condon, L. E., A. Farley, S. Jourdain, P. O'leary, P. Avery, L. Gallagher, C. Chennault, and R. M. Maxwell. “ParFlow Sand Tank: A Tool for Groundwater Exploration," <i>The Journal of Open Source Education</i> (March 2023), Open Source Initiative. doi: 10.21105/jose.00179
+Burrows, A., T. Wang, and D. Vartanyan. “Physical Correlations and Predictions Emerging from Modern Core-Collapse Supernova Theory," _The Astrophysical Journal Letters_ (March 2024), IOP Publishing. doi: 10.3847/2041-8213/ad319e
 
-Dorier, M., Z. Wang, S. Ramesh, U. Ayachit, S. Snyder, R. Ross, and M. Parashar. “Towards Elastic In Situ Analysis for High-Performance Computing Simulations," <i>Journal of Parallel and Distributed Computing</i> (March 2023), Elsevier. doi: 10.1016/j.jpdc.2023.02.014
+Carrillo-Perez, F., M. Pizurica, Y. Zheng, T. N. Nandi, R. Madduri, J. Shen, and O. Gevaert. “Generation of Synthetic Whole-Slide Image Tiles of Tumours from RNA-Sequencing Data via Cascaded Diffusion Models," _Nature Biomedical Engineering_ (March 2024), Springer Nature. doi: 10.1038/s41551-024-01193-8
 
-Hausen, R., B. E. Robertson, H. Zhu, N. Y. Gnedin, P. Madau, E. E. Schneider, B. Villasenor, and N. E. Drakos. “Revealing the Galaxy–Halo Connection through Machine Learning," <i>The Astrophysical Journal Letters</i> (March 2023), IOP Publishing. doi: 10.3847/1538-4357/acb25c
+Dominski, J., C. S. Chang, R. Hager, S. Ku, E. S. Yoon, and V. Pareil. “Neoclassical Transport of Tungsten Ion Bundles in Total-F Neoclassical Gyrokinetic Simulations of a Whole-Volume JET-Like Plasma," _Physics of Plasmas_ (March 2024), AIP Publishing. doi: 10.1063/5.0144509
 
-Huang, B., O. Anatole von Lilienfeld, J. T. Krogel, and A. Benali. “Toward DMC Accuracy Across Chemical Space with Scalable Δ-QML," <i>Journal of Chemical Theory and Computation</i> (March 2023), ACS Publications. doi: 10.1021/acs.jctc.2c01058
+Gao, X., A. D. Hanlon, S. Mukherjee, S. Petreczky, Q. Shi, S. Syritsyn, and Y. Zhao. “Transversity PDFs of the Proton from Lattice QCD with Physical Quark Masses," _Physical Review D_ (March 2024), APS. doi: 10.1103/PhysRevD.109.054506
 
-Huang, J., Y.-F. Jiang, H. Feng, S. W. Davis, J M. Stone, and M. J. Middleton. “Global 3D Radiation Magnetohydrodynamic Simulations of Accretion onto a Stellar-Mass Black Hole at Sub- and Near-Critical Accretion Rates," <i>The Astrophysical Journal</i> (March 2023), IOP Publishing. doi: 10.3847/1538-4357/acb6fc
+Gnedin, N. Y. “Do Minihalos Affect Cosmic Reionization?," _The Astrophysical Journal_ (March 2024), IOP Publishing. doi: 10.3847/1538-4357/ad298e
 
-Joshi, A. V., S. G. Rosofsky, R. Haas, and E. A. Huerta. “Numerical Relativity Higher Order Gravitational Waveforms of Eccentric, Spinning, Nonprecessing Binary Black Hole Mergers," <i>Physical Review D</i> (March 2023), APS. doi: 10.1103/PhysRevD.107.064038
+Isazawa, T., and J. M. Cole. “How Beneficial Is Pretraining on a Narrow Domain-Specific Corpus for Information Extraction about Photocatalytic Water Splitting?," _Journal of Chemical Information and Modeling_ (March 2024), ACS Publications. doi: 10.1021/acs.jcim.4c00063
 
-Kumari, S., T. Masubuchi, H. S. White, A. Alexandrova, S. L. Anderson, and P. Sautet. “Electrocatalytic Hydrogen Evolution at Full Atomic Utilization over ITO-Supported Sub-nano-Ptn Clusters: High, Size-Dependent Activity Controlled by Fluxional Pt Hydride Species," <i>Journal of the American Chemical Society</i> (March 2023), ACS Publications. doi: 10.1021/jacs.2c13063
+Kanwar, G. A. Lovato, N. Rocco, and M. Wagman. “Mitigating Green's Function Monte Carlo Signal-to-Noise Problems Using Contour Deformations," _Physical Review C_ (March 2024), APS. doi: 10.1103/PhysRevC.109.034317
 
-Kumari, S., and P. Sautet. “Elucidation of the Active Site for the Oxygen Evolution Reaction on a Single Pt Atom Supported on Indium Tin Oxide," <i>The Journal of Physical Chemistry Letters</i> (March 2023), ACS. doi: 10.1021/acs.jpclett.3c00160
+Lavroff, R.H., J. Munarriz, C. E. Dickerson, F. Munoz, and A.N. Alexandrova. “Chemical Bonding Dictates Drastic Critical Temperature Difference in Two Seemingly Identical Superconductors," _PNAS_ (March 2024), National Academy of Sciences. doi: 10.1073/pnas.231610112
 
-Li, H., A. Hu, and G. A. Meehl. “Role of Tropical Cyclones in Determining ENSO Characteristics," <i>Geophysical Research Letters</i> (March 2023), American Geophysical Union. doi: 10.1029/2022gl101814
+Li, Z., S. He, P. Chaturvedi, V. Kindratenko, E. A. Huerta, K. Kim, and R. Madduri. “Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources: A Case Study on Federated Fine-Tuning of LLaMA 2," _Computing in Science and Engineering_ (March 2024), IEEE. doi: 10.1109/MCSE.2024.3382583
 
-Maris, P., H. Le, A. Nogga, R. Roth, and J. P. Vary. “Uncertainties in Ab Initio Nuclear Structure Calculations with Chiral Interactions," <i>Frontiers in Physics</i> (March 2023), Frontiers Media SA. doi: 10.3389/fphy.2023.1098262
+Mahadevan, V., D. Lenz, I. Grindeanu, and T. Peterka. “Accelerating Optimal Power Flow with GPUs: SIMD Abstraction of Nonlinear Programs and Condensed-Space Interior-Point Methods," _Journal of Computational Science_ (March 2024), Elsevier. doi: 10.1016/j.jocs.2024.102268
 
-Nelson, J., T. K. Stanev, D. Lebedev, T. LaMountain, J. Tyler Gish, H. Zeng, H. Shin, O. Heinonen, K. Watanabe, T. Taniguchi, M. C. Hersam, and N. P. Stern. “Layer-Dependent Optically Induced Spin Polarization in InSe," <i>Physical Review B</i> (March 2023), APS. doi: 10.1103/PhysRevB.107.115304
+Popov, E. L., N. J. Mecham, and I. A. Bolotnov. “Direct Numerical Simulation of Involute Channel Turbulence," _Journal of Fluids Engineering_ (March 2024), ASME. doi: 10.1115/1.4064496
 
-Pal, S., J. Wang, J. Feinstein, E. Yan, and V. R. Kotamarthi. “Projected Changes in Extreme Streamflow and Inland Flooding in the Mid-21st Century over Northeastern United States Using Ensemble WRF-Hydro Simulations," <i>Journal of Hydrology: Regional Studies</i> (March 2023), Elsevier. doi: 10.1016/j.ejrh.2023.101371
+Poths, P., S. Vargas, P. Sautet, and A. N. Alexandrova. “Thermodynamic Equilibrium versus Kinetic Trapping: Thermalization of Cluster Catalyst Ensembles Can Extend Beyond Reaction Time Scales," _ACS Catalysis_ (March 2024), ACS Publications. doi: 10.1021/acscatal.3c06154
 
-Seyitliyev, D., X. Qin, M. K. Jana, S. M. Janke, X. Zhong, W. You, D. B. Mitzi, V. Blum, and K. Gundogdu. “Coherent Phonon-Induced Modulation of Charge Transfer in 2D Hybrid Perovskites," <i>Advanced Functional Materials</i> (March 2023), John Wiley and Sons. doi: 10.1002/adfm.202213021
+Qian, Q., and T. Mallick. “Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting," _ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ (March 2024), Seoul, Republic of Korea, IEEE. doi: 10.1109/ICASSP48485.2024.10446847
 
-Sharma, H., M. Shrivastava, and B. Singh. “Physics Informed Deep Neural Network Embedded in a Chemical Transport Model for the Amazon Rainforest," <i>npj Climate and Atmospheric Science</i> (March 2023), Springer Nature. doi: 10.1038/s41612-023-00353-y
+Rojas, E., D. Pérez, and E. Meneses. “A Characterization of Soft-Error Sensitivity in Data-Parallel and Model-Parallel Distributed Deep Learning," _Journal of Parallel and Distributed Computing_ (March 2024), Elsevier. doi: 10.1016/j.jpdc.2024.104879
 
-Shen, K., S. Kumari, Y.-C. Huang, J. Jang, P. Sautet, and C. G. Morales-Guio. “Electrochemical Oxidation of Methane to Methanol on Electrodeposited Transition Metal Oxides," <i>Journal of the American Chemical Society</i> (March 2023), ACS Publications. doi: 10.1021/jacs.3c00441
+Shah, A. H., Z. Zhang, C. Wan, S. Wang, A. Zhang, L. Wang, A. N. Alexandrova, Y. Huang, and X. Duan. “Platinum Surface Water Orientation Dictates Hydrogen Evolution Reaction Kinetics in Alkaline Media," _Journal of the American Chemical Society_ (March 2024), ACS Publications. doi: 10.1021/jacs.3c12934
 
-Shepard, C., D. C. Yost, and Y. Kanai. “Electronic Excitation Response of DNA to High-Energy Proton Radiation in Water," <i>Physical Review Letters</i> (March 2023), APS. doi: 10.1103/PhysRevLett.130.118401
+Tropiano, A. J., S. K. Bogner, R. J. Furnstahl, M. A. Hisham, A. Lovato, and R. B. Wiringa. “High-Resolution Momentum Distributions from Low-Resolution Wave Functions," _Physical Letters B_ (March 2024), Elsevier B.V. doi: 10.1016/j.physletb.2024.138591
 
-Van den Puttelaar, R., R. G. S. Meester, E. E. P. Peterse, A. G. Zauber, J. Zheng, R. B. Hayes, Y.-R. Su, J. K. Lee, M. Thomas, L. C. Sakoda, Y. Li, D. A. Corley, U. Peters, L. Hsu, and I. Lansdorp-Vogelaar. “Risk-Stratified Screening for Colorectal Cancer Using Genetic and Environmental Risk Factors: A Cost-Effectiveness Analysis Based on Real-World Data," <i>Clinical Gastroenterology and Hepatology</i> (March 2023), Elsevier. doi: 10.1016/j.cgh.2023.03.003
+Van den Puttelaar, R., P. Nascimento de Lima, A. B. Knudsen, C. M. Rutter, K. M. Kuntz, L. de Jonge, F. A. Escudero, D. Lieberman, A. G. Zauber, A. I. Hahn, J. M. Inadomi, and I. Lasdorp-Vogelaar. “Effectiveness and Cost-Effectiveness of Colorectal Cancer Screening with a Blood Test That Meets the Centers for Medicare and Medicaid Services Coverage Decision," _Gastroentereology_ (March 2024), Elsevier. doi: 10.1053/j.gastro.2024.02.012
 
-Zhang, Z. T. Masubuchi, P. Sautet, S. L. Anderson, and A. N. Alexandrova. “Hydrogen Evolution on Electrode-Supported Ptn Clusters: Ensemble of Hydride States Governs the Size Dependent Reactivity," <i>Angewandte Chemie</i> (March 2023), John Wiley and Sons. doi: 10.1002/anie.202218210
+Vivas, A., C. E. Alvarez, J. M. Monsalve Diaz, E. Hernandez, J. G. Lalinde-Pulido, and H. Castro. “Expanding Horizons: Advancing HPC Education in Colombia through CyberColombia's Summer Schools," _Journal of Computational Science Education_ (March 2024), Shodor. doi: 10.22369/issn.2153-4136/15/1/4
+
+Werner, G. R., and D. A. Uzdensky. “Electron and Proton Energization in 3D Reconnecting Current Sheets in Semirelativistic Plasma with Guide Magnetic Field," _The Astrophysical Journal Letters_ (March 2024), IOP Publishing. doi: 10.3847/2041-8213/ad2fa5
 
 
 # APRIL
