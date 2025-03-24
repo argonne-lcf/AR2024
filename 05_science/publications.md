@@ -516,30 +516,49 @@ Xu, N., and I. Bermejo-Moreno. “Wall-Modeled Large-Eddy Simulations of the Flo
 
 
 # DECEMBER
-Babbar, A., S. Ragunathan, D. Mitra, A. Dutta, and T. K. Patra. “Explainability and Extrapolation of Machine Learning Models for Predicting the Glass Transition Temperature of Polymers," <i>Journal of Polymer Science</i> (December 2023), John Wiley and Sons. doi: 10.1002/pol.20230714
+Andreoli, L., G. B. King, S. Pastore, M. Piarulli, J. Carlson, S. Gandolfi, and R. B. Wiringa. “Quantum Monte Carlo Calculations of Electron Scattering from 12C in the Short-Time Approximation," Physical Review C (December 2024), APS. doi: 10.1103/PhysRevC.110.064004
 
-Barwey, S., V., Shankar, V. Viswanathan, and R. Maulik, "Multiscale Graph Neural Network Autoencoders for Interpretable Scientific Machine Learning," <i>Journal of Computational Physics</i> (December 2023), Elsevier. doi: 10.1016/j.jcp.2023.112537
+Bhati, A. P., S. Wan, and P. V. Coveney. “Equilibrium and Nonequilibrium Ensemble Methods for Accurate, Precise and Reproducible Absolute Binding Free Energy Calculations," Journal of Chemical Theory and Computation (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01389
 
-Chen, J. L., J. L. Prelesnik, B. Liang, Y. Sun, M. Bhatt, C. Knight, K. Mahesh, and J. I. Siepmann. “Large-Scale Molecular Dynamics Simulations of Bubble Collapse in Water: Effects of System Size, Water Model, and Nitrogen," <i>The Journal of Chemical Physics</i> (December 2023), AIP Publishing. doi: 10.1063/5.0181781
+Bothmann, E., T. Childers, W. Giele, S. Höche, J. Isaacson, and M. Knobbe. “A Portable Parton-Level Event Generator for the High-Luminosity LHC," SciPost Physics (December 2024), SciPost Foundation. doi: 10.21468/SciPostPhys.17.3.081
 
-Ding, H. T., X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn, and Y. Zhao. “Lattice QCD Predictions of Pion and Kaon Electromagnetic Form Factors at Large Momentum Transfer," <i>The 40th International Symposium on Lattice Field Theory (LATTICE2023)</i> (December 2023), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0320
+Cloët, I., X. Gao, S. Mukherjee, S. Syritsyn, N. Karthik, P. Petreczky, R. Zhang, and Y. Zhao. “Lattice QCD Calculation of X-Dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation," Physical Review D (December 2024), APS. doi: 10.1103/PhysRevD.110.114502
 
-Duarte, J., H. Li, A. Roy, R. Zhu, E. A. Huerta, D. Diaz, P. Harris, R. Kansal, D. S. Katz, I. H. Kavoori, V. V. Kindratenko, F. Mokhtar, M. S. Neubauer, S. E. Park, M. Quinnan, R. Rusack, and Z. Zhao. “FAIR AI Models in High Energy Physics," <i>Machine Learning: Science and Technology</i> (December 2023), IOP Publishing. doi: 10.1088/2632-2153/ad12e3
+Comiss, L., G. R. Farrar, and M. S. Muzio. “Ultra-High-Energy Cosmic Rays Accelerated by Magnetically Dominated Turbulence," The Astrophysical Journal Letters (December 2024), American Astronomical Society. doi: 10.3847/2041-8213/ad955f
 
-Foreman, S., X.-Y. Jin, and J. C. Osborn. “MLMC: Machine Learning Monte Carlo for Lattice Gauge Theory," <i>The 40th International Symposium on Lattice Field Theory (LATTICE2023)</i> (December 2023), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0036
+Dharuman, G., K. Hippe, A. Brace, S. Foreman, V. Hatanpää, V. K. Sastry, H. Zheng, L. Ward, S. Muralidharan, A. Vasan, B. Kale, C. M. Mann, H. Ma, Y.-H. Cheng, Y. Zamora, S. Liu, C. Xiao, M. Emani, T. Gibbs, M. Tatineni, D. Canchi, J. Mitchell, K. Yamada, M. Garzaran, M. E. Papka, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization," SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00013
 
-Hackett, D. C., P. R. Oare, D. A. Pefkou, and P. E. Shanahan. “Gravitational Form Factors of the Pion from Lattice QCD," <i>Physical Review D</i> (December 2023), APS. doi: 10.1103/physrevd.108.114504
+Goldsborough, S. S., S. Cheng, D. Kang, J. P. Molnar, Y. M. Wright, and C. E. Frouzakis. “Asynchronicity in Opposed-Piston RMCs: Does It Matter?," Proceedings of the Combustion Institute (December 2024), Elsevier. doi: 10.1016/j.proci.2024.105406
 
-Narykov, O., Y. Zhu, T. Brettin, Y. A. Evrard, A. Partin, M. Shukla, F. Xia, A. Clyde, P. Vasanthakumari, J. H. Doroshow, and R. L. Stevens. "Integration of Computational Docking into Anti-Cancer Drug Response Prediction Models," <i>Cancers</i> (December 2023), MDPI. doi: 10.3390/cancers16010050
+Govett, M., B. Bah, P. Bauer, D. Berod, V. Bouchet, S. Corti, C. Davis, Y. Duan, T. Graham, Y. Honda, A. Hines, M. Jean, J. Ishida, B. Lawrence, J. Li, J. Luterbacher, C. Muroi, K. Rowe, M. Schultz, M. Visbeck, and K. Williams. “Exascale Computing and Data Handling: Challenges and Opportunities for Weather and Climate Prediction," Bulletin of the American Meteorological Society (December 2024), American Meteorological Society. doi: 10.1175/BAMS-D-23-0220.1
 
-Sarkar, A., D. Lee, and U.-G. Meißner. “Floating Block Method for Quantum Monte Carlo Simulations," <i>Physical Review Letters</i> (December 2023), APS. doi: 10.1103/PhysRevLett.131.242503
+Graziani, C., and M. Ngom. “Targeted Adaptive Design," SIAM/ASA Journal on Uncertainty Quantification (December 2024), Society for Industrial and Applied Mathematics. doi: 10.1137/22M149898X
 
-Tian, M., E. A. Huerta, and H. Zheng. “AI Ensemble for Signal Detection of Higher Order Gravitational Wave Modes of Quasi-Circular, Spinning, Non-Precessing Binary Black Hole Mergers," <i>2023 Workshop on Machine Learning and the Physical Sciences</i> (December 2023), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2310.00052
+Harlass, M., R. R. Dalmat, J. Chubak, R. van den Puttelaar, N. Udaltsova, D. A. Corley, C. D. Jensen, N. Collier, J. Ozik, I. Lansdorp-Vogelaar, and R. G. S. Meester. “Optimal Stopping Ages for Colorectal Cancer Screening," JAMA Network Open (December 2024), AMA. doi: doi.org/10.1001/jamanetworkopen.2024.51715
 
-Wallace, B. C., A. M. Haberlie, W. S. Ashley, V. A. Gensini, and A. C. Michaelis. “Decomposing the Precipitation Response to Climate Change in Convection Allowing Simulations over the Conterminous United States," <i>Earth and Space Science</i> (December 2023), John Wiley and Sons. doi: 10.1029/2023ea003094
+Jin, H., G. Papadimitriou, K. Raghavan, P. Zuk, P. Balaprakash, and C. Wang. “Large Language Models for Anomaly Detection in Computational Workflows: From Supervised Fine-Tuning to In-Context Learning," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00098
 
-Wang, H.-H., S.-Y. Moon, H. Kim, G. Kim, W.-Y. Ah, Y. Y. Joo, and J. Cha. “Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children," <i>Heliyon</i> (December 2023), Cell Press. doi: 10.1016/j.heliyon.2023.e23345
+Kéruzoré, F., L. E. Bleem, N. Frontiere, N. Krishnan, M. Buehlmann, J. D. Emberson, S. Habib, and P. Larsen. “The Picasso Gas Model: Painting Intracluster Gas on Gravity-Only Simulations," The Open Journal of Astrophysics (December 2024), Maynooth Academic Publishing. doi: 10.33232/001c.127486
 
-Wildenberg, G., H. Li, V. Sampathkumar, A. Sorokina, and N. Kasthuri. “Isochronic Development of Cortical Synapses in Primates and Mice," <i>Nature Communications</i> (December 2023), Springer Nature. doi: 10.1038/s41467-023-43088-3
+Lin, P. T., P. Nayak, A. Kashi, D. Kulkarni, A. Scheinberg, and H. Anzt. “Accelerating Fusion Plasma Collision Operator Solves with Portable Batched Iterative Solvers on GPUs," ISC High Performance 2024 International Workshops (December 2024), Hamburg, Germany, Springer Nature. doi: 10.1007/978-3-031-73716-9_9
 
-Ye, Z., F. Gygi, and G. Galli. “Raman Spectra of Electrified Si–Water Interfaces: First-Principles Simulations," <i>The Journal of Physical Chemistry Letters</i> (December 2023), ACS. doi: 10.1021/acs.jpclett.3c03122
+Liu, J., J. Tian, S. Wu, S. Di, B. Zhang, R. Underwood, Y. Huang, J. Huang, K. Zhao, G. Li, D. Tao, Z. Chen, and F. Cappelo. “CUSZ-i: High-Ratio Scientific Lossy Compression on GPUs with Optimized Multi-Level Interpolation," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00019
+
+Martin, A., G. Liu, B. Joo, R. Wu, M. S. Kabir, and E. W. Draeger. “Designing a GPU-Accelerated Communication Layer for Efficient Fluid-Structure Interaction Computations on Heterogeneous Systems," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00099
+
+Pauloski, J. G., V. Hayot-Sasson, L. Ward, A. Brace, A. Bauer, K. Chard, and I. Foster. “Object Proxy Patterns for Accelerating Distributed Applications," IEEE Transactions of Parallel and Distributed Systems (December 2024), IEEE. doi: 10.1109/TPDS.2024.3511347
+
+Pearl, A. N., G. D. Beltz-Mohrmann, and A. P. Hearin. “DiffOpt: Parallel Optimization of Jax Models," The Journal of Open Source Software (December 2024), Open Source Initiative. doi: 10.21105/joss.07522
+
+Raj, M. S., T. MacDougall, D. Zhang, and D. Dai . “An Empirical Study of a Machine Learning-Based Synthetic Job Trace Generation Methods," Job Scheduling Strategies for Parallel Processing 2024 (December 2024), San Francisco, CA, Springer Nature. doi: 10.1007/978-3-031-74430-3_2
+
+Tan, N., K. Assogba, W. J. Ashworth, B. Bogale, F. Cappello, M. M. Rafique, M. Taufer, and B. Nicolae. “Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results," Middleware '24: Proceedings of the 25th International Middleware Conference (December 2024), Hong Kong, ACM. doi: 10.1145/3652892.3700780
+
+Wisesa, P., and W. A. Saidi. “Overcoming Inaccuracies in Machine Learning Interatomic Potential Implementation for Ionic Vacancy Simulations," Physical Insights into Chemistry, Catalysis, and Interfaces (December 2024), ACS. doi: 10.1021/acs.jpclett.4c02934
+
+Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “ GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," Journal of Chemical Theory and Computation (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
+
+Zhang, Z., W. Gee, R. H. Lavroff, and A. N. Alexandrova. “GOCIA: a Grand Canonical Global Optimizer for Clusters, Interfaces, and Adsorbates," Phyiscal Chemistry Chemical Physics (December 2024), Royal Society of Chemistry. doi: 10.1039/D4CP03801K
+
+Zhang, Z., M. Lyu, X. Han, S. Bandara, M. Cui, E. S. Istvan, X. Geng, M. L. Tringides, W. D. Gregor, M. Miyagi, J. Oberstaller, J. H. Adams, Y. Zhang, M. T. Nieman, J. Von Lintig, D. E. Goldberg, and E. W. Yu. “The Plasmodium Falciparum NCR1 Transporter Is an Antimalarial Target that Exports Cholesterol from the Parasite’s Plasma Membrane," Science Advances (December 2024), AAAS. doi: 10.1126/sciadv.adq6651
+
