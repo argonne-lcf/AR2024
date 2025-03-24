@@ -24,7 +24,7 @@ For high school students, the ALCF contributes to immersive learning experiences
 
 {% include media-img.html
    source= "ALCF-Vis-Students.jpg"
-   caption= "ALCF summer students Athena Angara and James Morissette collaborate on a project to create digital twins of components of robotic arms that can be used to handle hazardous materials."
+   caption= "ALCF summer students Athena Angara and James Morrissette collaborate on a project to create digital twins of components of robotic arms that can be used to handle hazardous materials."
 %}
 
 
