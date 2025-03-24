@@ -460,59 +460,59 @@ Wu, X., J. R. Tramm, J. Larson, J.-L. Navarro, P. Balaprakash, B. Videau, M. Kru
 
 
 # NOVEMBER
-Abbott, R., M. S. Albergo, D. Boyda, D. Hackett, G. Kanwar, F. Romero-Lopez, P. Shanahan, and J. Urban. “Multiscale Normalizing Flows for Gauge Theories," The 40th International Symposium on Lattice Field Theory (LATTICE2023) (November 2024), Batavia, IL, Sissa Medialab. doi: https://doi.org/10.22323/1.453.0035
+Abbott, R., M. S. Albergo, D. Boyda, D. Hackett, G. Kanwar, F. Romero-Lopez, P. Shanahan, and J. Urban. “Multiscale Normalizing Flows for Gauge Theories," _The 40th International Symposium on Lattice Field Theory (LATTICE2023)_ (November 2024), Batavia, IL, Sissa Medialab. doi: https://doi.org/10.22323/1.453.0035
 
-Abbott, R., D. Boyda, D. Hackett, G. Kanwar, F. Romero-Lopez, P. Shanahan, J. Urban, and M. Albergo. “Practical Applications of Machine-Learned Flows on Gauge Fields," The 40th International Symposium on Lattice Field Theory (LATTICE2023) (November 2024), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0011
+Abbott, R., D. Boyda, D. Hackett, G. Kanwar, F. Romero-Lopez, P. Shanahan, J. Urban, and M. Albergo. “Practical Applications of Machine-Learned Flows on Gauge Fields," _The 40th International Symposium on Lattice Field Theory (LATTICE2023)_ (November 2024), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0011
 
-Adeniji, I. A., J. A. Insley, D. Joiner, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Exploring Large-Scale Scientific Data in Virtual Reality," 2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV) (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00019
+Adeniji, I. A., J. A. Insley, D. Joiner, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Exploring Large-Scale Scientific Data in Virtual Reality," _2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV)_ (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00019
 
-Barwey, S., R. Balin, B. Lusch, S. Patel, R. Balakrishnan, P. Pal, R. Maulik, and V. Vishwanath. “Scalable and Consistent Graph Neural Networks for Distributed Mesh-Based Data-Driven Modeling," SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (November 2024), IEEE. doi: 10.1109/SCW63240.2024.00146
+Barwey, S., R. Balin, B. Lusch, S. Patel, R. Balakrishnan, P. Pal, R. Maulik, and V. Vishwanath. “Scalable and Consistent Graph Neural Networks for Distributed Mesh-Based Data-Driven Modeling," _SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis_ (November 2024), IEEE. doi: 10.1109/SCW63240.2024.00146
 
-Bilondi, A. M., N. Scapin, L. Brandt, and P. Mirbod. “Turbulent Convection in Emulsions: The Rayleigh–Bénard Configuration," Journal of Fluid Mechanics (November 2024), Cambridge University Press. doi: 10.1017/jfm.2024.765
+Bilondi, A. M., N. Scapin, L. Brandt, and P. Mirbod. “Turbulent Convection in Emulsions: The Rayleigh–Bénard Configuration," _Journal of Fluid Mechanics_ (November 2024), Cambridge University Press. doi: 10.1017/jfm.2024.765
 
-Brower, R. C., C. Culver, K. K. Cushman, G. T. Fleming, A. Hasenfratz, D. Howarth, J. Ingoldby, X. Y. Jin, G. D. Kribs, A. S. Meyer, E. T. Neil, J. C. Osborn, E. Owen, S. Park, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Stealth Dark Matter Spectrum Using Laplacian Heaviside Smearing and Irreducible Representations," Physical Review D (November 2024), APS. doi: 10.1103/PhysRevD.110.095001
+Brower, R. C., C. Culver, K. K. Cushman, G. T. Fleming, A. Hasenfratz, D. Howarth, J. Ingoldby, X. Y. Jin, G. D. Kribs, A. S. Meyer, E. T. Neil, J. C. Osborn, E. Owen, S. Park, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Stealth Dark Matter Spectrum Using Laplacian Heaviside Smearing and Irreducible Representations," _Physical Review D_ (November 2024), APS. doi: 10.1103/PhysRevD.110.095001
 
-Chambers-Wall, G., A. Gnech, G. B. King, S. Pastore, M. Piarulli, R. Schiavilla, and R. B. Wiringa. “Quantum Monte Carlo Calculations of Magnetic Form Factors in Light Nuclei," Physical Review Letters (November 2024), APS. doi: 10.1103/PhysRevLett.133.212501
+Chambers-Wall, G., A. Gnech, G. B. King, S. Pastore, M. Piarulli, R. Schiavilla, and R. B. Wiringa. “Magnetic Structure of 𝐴≤10 Nuclei Using the Norfolk Nuclear Models with Quantum Monte Carlo Methods," _Physical Review C_ (November 2024), APS. doi: 10.1103/PhysRevC.110.054316
 
-Chambers-Wall, G., A. Gnech, G. B. King, S. Pastore, M. Piarulli, R. Schiavilla, and R. B. Wiringa. “Magnetic Structure of 𝐴≤10 Nuclei Using the Norfolk Nuclear Models with Quantum Monte Carlo Methods," Physical Review C (November 2024), APS. doi: 10.1103/PhysRevC.110.054316
+Chambers-Wall, G., A. Gnech, G. B. King, S. Pastore, M. Piarulli, R. Schiavilla, and R. B. Wiringa. “Quantum Monte Carlo Calculations of Magnetic Form Factors in Light Nuclei," _Physical Review Letters_ (November 2024), APS. doi: 10.1103/PhysRevLett.133.212501
 
-Chu, X., D. Hofstätter, S. Ilager, S. Talluri, D. Kampert, D. Podareanu, D. Duplyakin, I. Brandic, and A. Iosup. “Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis," 2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS) (November 2024), Belgrade, Serbia, IEEE. doi: 10.1109/ICPADS63350.2024.00097
+Chu, X., D. Hofstätter, S. Ilager, S. Talluri, D. Kampert, D. Podareanu, D. Duplyakin, I. Brandic, and A. Iosup. “Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis," _2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS)_ (November 2024), Belgrade, Serbia, IEEE. doi: 10.1109/ICPADS63350.2024.00097
 
-Dai, Z., and F. Giustino. “Identification of Large Polarons and Exciton Polarons in Rutile and Anatase Polymorphs of Titanium Dioxide," Proceedings of the National Academy of Sciences of the United States of America (November 2024), National Academy of Sciences. doi: 10.1073/pnas.2414203121
+Dai, Z., and F. Giustino. “Identification of Large Polarons and Exciton Polarons in Rutile and Anatase Polymorphs of Titanium Dioxide," _Proceedings of the National Academy of Sciences of the United States of America_ (November 2024), National Academy of Sciences. doi: 10.1073/pnas.2414203121
 
-Devarajan, H., L. Pottier, K. Velusamy, H. Zheng, I. Yildirim, O. Kogiou, W. Yu, A. Kougakas, X.-H. Sun, J. S. Yeom, and K. Mohror. “DFTracer: An Analysis-Friendly Data Flow Tracer for AI-Driven Workflows," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (November 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00023
+Devarajan, H., L. Pottier, K. Velusamy, H. Zheng, I. Yildirim, O. Kogiou, W. Yu, A. Kougakas, X.-H. Sun, J. S. Yeom, and K. Mohror. “DFTracer: An Analysis-Friendly Data Flow Tracer for AI-Driven Workflows," _SC24: International Conference for High Performance Computing, Networking, Storage and Analysis_ (November 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00023
 
-Dominski, J., P. Maget, P. Manas, J. Morales, S. Ku, A. Scheinberg, C. S. Chang, R. Hager, M. O'Mullane, and the WEST team. “Gyrokinetic Prediction of Core Tungsten Peaking in a WEST Plasma with Nitrogen Impurities," Nuclear Fusion (November 2024), IOP Publishing. doi: 10.1088/1741-4326/ad8c63
+Dominski, J., P. Maget, P. Manas, J. Morales, S. Ku, A. Scheinberg, C. S. Chang, R. Hager, M. O'Mullane, and the WEST team. “Gyrokinetic Prediction of Core Tungsten Peaking in a WEST Plasma with Nitrogen Impurities," _Nuclear Fusion_ (November 2024), IOP Publishing. doi: 10.1088/1741-4326/ad8c63
 
-Geng, P., S. Huang, and J. Marian. “Stability of Trivalent and Hexavalent Chromium Oxide Layers on Aluminum Substrates from Electronic Structure Calculations," Physical Review Materials (November 2024), APS. doi: 10.1103/PhysRevMaterials.8.113603
+Geng, P., S. Huang, and J. Marian. “Stability of Trivalent and Hexavalent Chromium Oxide Layers on Aluminum Substrates from Electronic Structure Calculations," _Physical Review Materials_ (November 2024), APS. doi: 10.1103/PhysRevMaterials.8.113603
 
-Grubbs, T., and I. A. Bolotnov. “V2684603: Interface Resolved Simulation of Two-Phase Flow Within a 360° Steam Separator Geometry," 77th Annual Meeting of the APS Division of Fluid Dynamics (November 2024), Salt Lake City, UT, APS. doi: 10.1103/APS.DFD.2024.GFM.V2684603
+Grubbs, T., and I. A. Bolotnov. “V2684603: Interface Resolved Simulation of Two-Phase Flow Within a 360° Steam Separator Geometry," _77th Annual Meeting of the APS Division of Fluid Dynamics_ (November 2024), Salt Lake City, UT, APS. doi: 10.1103/APS.DFD.2024.GFM.V2684603
 
-Heinemann, C., J. Amstutz, J. A. Insley, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Graphical Representation Through a User Interface for In Situ Scientific Visualization with Ascent," 2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV) (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00017
+Heinemann, C., J. Amstutz, J. A. Insley, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Graphical Representation Through a User Interface for In Situ Scientific Visualization with Ascent," _2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV)_ (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00017
 
-Jung, C., and N. H. Christ. “Riemannian Manifold HMC with Fermions," The 40th International Symposium on Lattice Field Theory (LATTICE2023) (November 2024), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0009
+Jung, C., and N. H. Christ. “Riemannian Manifold HMC with Fermions," _The 40th International Symposium on Lattice Field Theory (LATTICE2023)_ (November 2024), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0009
 
-King, G. B., G. Chambers-Wall, A. Gnech, S. Pastore, M. Piarulli, and R. B. Wiringa. “Longitudinal Form Factors of 𝐴≤10 Nuclei in a Chiral Effective Field Theory Approach," Physical Review C (November 2024), APS. doi: 10.1103/PhysRevC.110.054325
+King, G. B., G. Chambers-Wall, A. Gnech, S. Pastore, M. Piarulli, and R. B. Wiringa. “Longitudinal Form Factors of 𝐴≤10 Nuclei in a Chiral Effective Field Theory Approach," _Physical Review C_ (November 2024), APS. doi: 10.1103/PhysRevC.110.054325
 
-Kumar, P., S. Kabra, and J. M. Cole. “A Database of Stress-Strain Properties Auto-Generated from the Scientific Literature Using ChemDataExtractor," Scientific Data (November 2024), Springer Nature. doi: 10.1038/s41597-024-03979-6
+Kumar, P., S. Kabra, and J. M. Cole. “A Database of Stress-Strain Properties Auto-Generated from the Scientific Literature Using ChemDataExtractor," _Scientific Data_ (November 2024), Springer Nature. doi: 10.1038/s41597-024-03979-6
 
-Lavroff, R. H., E. Cummings, K. Sawant, Z. Zhang, P. Sautet, and A. N. Alexandrova. “Cu-Supported ZnO under Conditions of CO2 Reduction to Methanol: Why 0.2 ML Coverage?," The Journal of Physical Chemistry Letters (November 2024), ACS Publications. doi: 10.1021/acs.jpclett.4c02908
+Lavroff, R. H., E. Cummings, K. Sawant, Z. Zhang, P. Sautet, and A. N. Alexandrova. “Cu-Supported ZnO under Conditions of CO2 Reduction to Methanol: Why 0.2 ML Coverage?," _The Journal of Physical Chemistry Letters_ (November 2024), ACS Publications. doi: 10.1021/acs.jpclett.4c02908
 
-Li, Z., K. Shi, D. Dubbeldam, M. Dewing, C. Knight, Á. Vásquez-Mayagoitia, and R. Q. Snurr. “Efficient Implementation of Monte Carlo Algorithms on Graphical Processing Units for Simulation of Adsorption in Porous Materials," Journal of Chemical Theory and Computation (November 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01058
+Li, Z., K. Shi, D. Dubbeldam, M. Dewing, C. Knight, Á. Vásquez-Mayagoitia, and R. Q. Snurr. “Efficient Implementation of Monte Carlo Algorithms on Graphical Processing Units for Simulation of Adsorption in Porous Materials," _Journal of Chemical Theory and Computation_ (November 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01058
 
-Martinez-Navarro, H., A. Bertrand, R. Doste, H. Smith, J. Tomek, G. Ristagno, R. S. Oliveira, R. Weber dos Santos, S. V. Pandit, and B. Rodriguez. “ECG Analysis of Ventricular Fibrillation Dynamics Reflects Ischaemic Progression Subject to Variability in Patient Anatomy and Electrode Location," Frontiers in Cardiovascular Medicine (November 2024), Frontiers Media. doi: 10.3389/fcvm.2024.1408822
+Martinez-Navarro, H., A. Bertrand, R. Doste, H. Smith, J. Tomek, G. Ristagno, R. S. Oliveira, R. Weber dos Santos, S. V. Pandit, and B. Rodriguez. “ECG Analysis of Ventricular Fibrillation Dynamics Reflects Ischaemic Progression Subject to Variability in Patient Anatomy and Electrode Location," _Frontiers in Cardiovascular Medicine_ (November 2024), Frontiers Media. doi: 10.3389/fcvm.2024.1408822
 
-Mateevitsi, V. A., A. Sewell, M. Bode, P. Fischer, J. H. Göbbert, J. A. Insley, I. Kavroulakis, Y.-H. Lan, M. Min, D. Papageorgiou, M. E. Papka, S. Petruzza, S. Rizzi, and A. Tomboulides. “Visuals on the House: Optimizing HPC Workflows with No-Cost CPU Visualization," 2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV) (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00016
+Mateevitsi, V. A., A. Sewell, M. Bode, P. Fischer, J. H. Göbbert, J. A. Insley, I. Kavroulakis, Y.-H. Lan, M. Min, D. Papageorgiou, M. E. Papka, S. Petruzza, S. Rizzi, and A. Tomboulides. “Visuals on the House: Optimizing HPC Workflows with No-Cost CPU Visualization," _2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV)_ (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00016
 
-Minch, P., R. Bhattarai, K. Choudary, and T. D. Rhone. “Predicting Magnetic Properties of van der Waals Magnets Using Graph Neural Networks," Physical Review Materials (November 2024), APS. doi: 10.1103/PhysRevMaterials.8.114002
+Minch, P., R. Bhattarai, K. Choudary, and T. D. Rhone. “Predicting Magnetic Properties of van der Waals Magnets Using Graph Neural Networks," _Physical Review Materials_ (November 2024), APS. doi: 10.1103/PhysRevMaterials.8.114002
 
-Povaliaiev, D., R. Liem, J. Kunkel, J. Lofstead, and P. Carns. “High-Quality I/O Bandwidth Prediction with Minimal Data via Transfer Learning Workflow," 2024 IEEE 36th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (November 2024), Hilo, HI, IEEE. doi: 10.1109/SBAC-PAD63648.2024.00017
+Povaliaiev, D., R. Liem, J. Kunkel, J. Lofstead, and P. Carns. “High-Quality I/O Bandwidth Prediction with Minimal Data via Transfer Learning Workflow," _2024 IEEE 36th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)_ (November 2024), Hilo, HI, IEEE. doi: 10.1109/SBAC-PAD63648.2024.00017
 
-Prince, M. H., H. Chan, A. Vriza, T. Zhou, V. K. Sastry, Y. Luo, M. T. Dearing, R. J. Harder, R. K. Vasudevan, and M. J. Cherukara. “Opportunities for Retrieval and Tool Augmented Large Language Models in Scientific Facilities," NPJ Computational Materials (November 2024), Springer Nature. doi: 10.1038/s41524-024-01423-2
+Prince, M. H., H. Chan, A. Vriza, T. Zhou, V. K. Sastry, Y. Luo, M. T. Dearing, R. J. Harder, R. K. Vasudevan, and M. J. Cherukara. “Opportunities for Retrieval and Tool Augmented Large Language Models in Scientific Facilities," _npj Computational Materials_ (November 2024), Springer Nature. doi: 10.1038/s41524-024-01423-2
 
-Sewell, A., L. Dyken, V. A. Mateevitsi, W. Usher, J. Amstutz, T. Marrinan, K. Reda, S. Rizzi, J. A. Insley, M. E. Papka, S. Kumar, and S. Petruzza. “High-Quality Approximation of Scientific Data using 3D Gaussian Splatting," 2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV) (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00018
+Sewell, A., L. Dyken, V. A. Mateevitsi, W. Usher, J. Amstutz, T. Marrinan, K. Reda, S. Rizzi, J. A. Insley, M. E. Papka, S. Kumar, and S. Petruzza. “High-Quality Approximation of Scientific Data using 3D Gaussian Splatting," _2024 IEEE 14th Symposium on Large Data Analysis and Visualization (LDAV)_ (November 2024), St Pete Beach, FL, IEEE. doi: 10.1109/LDAV64567.2024.00018
 
-Xu, N., and I. Bermejo-Moreno. “Wall-Modeled Large-Eddy Simulations of the Flow over a Gaussian-Shaped Bump with a Sensor-Based Blended Wall Model," Physical Review Fluids (November 2024), APS. doi: 10.1103/PhysRevFluids.9.114605
+Xu, N., and I. Bermejo-Moreno. “Wall-Modeled Large-Eddy Simulations of the Flow over a Gaussian-Shaped Bump with a Sensor-Based Blended Wall Model," _Physical Review Fluids_ (November 2024), APS. doi: 10.1103/PhysRevFluids.9.114605
 
 
 # DECEMBER
