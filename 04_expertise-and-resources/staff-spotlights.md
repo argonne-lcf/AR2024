@@ -2,6 +2,7 @@
 layout: page
 
 title: Staff Spotlights
+intro: "ALCF staff spotlights highlight some of the outstanding individuals at the lab and their accomplishments in 2024."
 
 theme: white
 permalink: expertise-and-resources/staff-spotlights

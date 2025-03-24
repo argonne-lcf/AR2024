@@ -3,7 +3,7 @@ layout: page
 theme: warm
 permalink: features/ai-training
 
-title: Preparing a new generation of AI-ready researchers
+title: Preparing a New Generation of AI-Ready Researchers
 hero-img-source: ALCF_AItraining.jpg
 hero-img-caption: "ALCF postdoctoral researcher Shilpika (center) leads a session on prompt engineering during Argonne’s Intro to AI training series. Seated around the table are Argonne colleagues Paige Kinsley (foreground, left), George Thiruvathukal (back, center) and Venkat Vishwanath (foreground, right). Image: Argonne National Laboratory"
 intro: "The ALCF's “Intro to AI” student training series has hosted over 700 participants from across the nation to date, helping to cultivate a new generation of AI researchers."

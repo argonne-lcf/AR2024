@@ -13,8 +13,8 @@ title: Argonne Leadership Computing Facility
 
 <div class="home--hero-caption">
 	<small>
-		&#9650; Researchers from the University of Dayton Research Institute and the Air Force Research Laboratory are using ALCF supercomputers to shed light on the complex thermal environment that hypersonic vehicles encounter. This image shows the contour of gas velocity along an experimental test article.
-		<span class="credit">Image: ALCF Visualization and Data Analytics Team, Air Force Research Laboratory, and University of Dayton Research Institute</span>
+		&#9650; Researchers used the ALCF’s Polaris supercomputer to perform GPU-enabled weather simulations at cloud-resolving (1 km) spatial resolution for the month of September 2017. Covering the entire North American continent and approximately 3 billion grid cells, this visualization shows water vapor (red-blue) and cloud water (white-grayscale) fields, with wind vectors highlighting the jet stream pattern.
+		<span class="credit">Image: ALCF Visualization and Data Analytics Team; Rao Kotamarthi and Gökhan Sever, Argonne National Laboratory</span>
 	</small>
 </div>
 
@@ -51,7 +51,7 @@ title: Argonne Leadership Computing Facility
 			    	</div>
 			    	<div class="content-wrapper">
 			    		<h3>Science Highlights</h3>
-			    		<p>In 2023, scientists from across the world used ALCF supercomputing and AI resources to accelerate discovery and innovation across a wide range of research areas. The following science highlights detail some of the groundbreaking research campaigns carried out by ALCF users over the past year.</p>
+			    		<p>In 2024, researchers from around the globe leveraged ALCF's supercomputing and AI resources to drive breakthroughs across a diverse array of scientific fields, ranging from AI-driven protein design to hypersonic aircraft research to fusion energy science.</p>
 			    	</div>
 			    </a>
 			  </div>	

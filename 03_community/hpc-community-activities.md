@@ -4,7 +4,8 @@ layout: page
 title: Shaping the Future of Supercomputing
 
 hero-img-source: "ALCF_Shaping.jpg"
-hero-img-caption: "Quick brown fox."
+hero-img-caption: "ALCF’s Nevin Liber provides an update on standardization and performance portability efforts with C++, SYCL, and Kokkos at the 2024 Exascale Computing Project Industry and Agency Council Meeting at Argonne National Laboratory."
+intro: "The ALCF participates in various computing conferences and HPC standards groups to help shape the future of AI and HPC."
 
 theme: white
 permalink: community-and-outreach/hpc-community-activities
@@ -22,7 +23,7 @@ ALCF staff members remain actively involved in several HPC standards and communi
 
 {% include media-img.html
    source= "ALCF_Shaping2.jpg"
-   caption= "Quick brown fox."
+   caption= "ALCF's Sam Foreman presents over AuroraGPT at the 2024 Hands-on HPC Workshop."
 %}
 
 ## Performance Portability

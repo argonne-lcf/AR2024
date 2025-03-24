@@ -7,6 +7,7 @@ permalink: expertise-and-resources/team
 title: ALCF Team
 hero-img-source: "ALCF_Team.jpg"
 hero-img-caption: "The ALCF team provides expertise and support to the research community to help maximize their use of the facility's supercomputing and AI resources."
+intro: "ALCF’s world-class team of computational scientists, performance engineers, visualization experts, HPC systems administrators, and support staff helps researchers maximize their use of the facility’s supercomputing resources."
 
 aside: team.md
 ---
