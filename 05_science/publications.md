@@ -558,7 +558,7 @@ Wisesa, P., and W. A. Saidi. “Overcoming Inaccuracies in Machine Learning Inte
 
 Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “ GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," Journal of Chemical Theory and Computation (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
 
-Zhang, Z., W. Gee, R. H. Lavroff, and A. N. Alexandrova. “GOCIA: a Grand Canonical Global Optimizer for Clusters, Interfaces, and Adsorbates," Phyiscal Chemistry Chemical Physics (December 2024), Royal Society of Chemistry. doi: 10.1039/D4CP03801K
+Zhang, Z., W. Gee, R. H. Lavroff, and A. N. Alexandrova. “GOCIA: a Grand Canonical Global Optimizer for Clusters, Interfaces, and Adsorbates," _Physical Chemistry Chemical Physics_ (December 2024), Royal Society of Chemistry. doi: 10.1039/D4CP03801K
 
-Zhang, Z., M. Lyu, X. Han, S. Bandara, M. Cui, E. S. Istvan, X. Geng, M. L. Tringides, W. D. Gregor, M. Miyagi, J. Oberstaller, J. H. Adams, Y. Zhang, M. T. Nieman, J. Von Lintig, D. E. Goldberg, and E. W. Yu. “The Plasmodium Falciparum NCR1 Transporter Is an Antimalarial Target that Exports Cholesterol from the Parasite’s Plasma Membrane," Science Advances (December 2024), AAAS. doi: 10.1126/sciadv.adq6651
+Zhang, Z., M. Lyu, X. Han, S. Bandara, M. Cui, E. S. Istvan, X. Geng, M. L. Tringides, W. D. Gregor, M. Miyagi, J. Oberstaller, J. H. Adams, Y. Zhang, M. T. Nieman, J. Von Lintig, D. E. Goldberg, and E. W. Yu. “The Plasmodium Falciparum NCR1 Transporter Is an Antimalarial Target that Exports Cholesterol from the Parasite’s Plasma Membrane," _Science Advances_ (December 2024), AAAS. doi: 10.1126/sciadv.adq6651
 
