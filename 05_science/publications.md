@@ -145,35 +145,38 @@ Werner, G. R., and D. A. Uzdensky. “Electron and Proton Energization in 3D Rec
 
 # APRIL
 
-Applencourt, T., B. Videau, J. Le Quellec, A. Dufek, K. Harms, N. Liber, B. Allen, and A. Belton-Schure. “Standardizing Complex Numbers in SYCL," <i>IWOCL '23: Proceedings of the 2023 International Workshop on OpenCL</i> (April 2023), ACM, pp. 1-6. doi: 10.1145/3585341.3585343
+Anaya, J. J., N. S. Manavi, A. A. Tropina, A. Dogariu, R. B. Miles, and M. S. Grover. “Interferometry Analysis and CARS Measurements of Nonequilibrium in Hypersonic Oxygen/Argon and Pure Oxygen Flows," _Experiments in Fluids_ (April 2024), Springer Nature. doi: 10.1007/s00348-024-03804-1
 
-Clarke, R. W., T. Sandmeier, K. A. Franklin, D. Reich, X. Zhang, N. Vengallur, T. K. Patra, R. J. Tannenbaum, S. Adhikari, S. K. Kumar, T. Rovis, and E. Y.-X. Chen. “Dynamic Crosslinking Compatibilizes Immiscible Mixed Plastics," <i>Nature</i> (April 2023), Springer Nature. doi: 10.1038/s41586-023-05858-3
+Arndt, D., D. Leburn-Grandie, and C. Trott. “Experiences with Implementing Kokkos' Backend," _IWOCL '24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), ACM. doi: 10.1145/3648115.3648118
 
-Fedorov, D. G., and B. Q. Pham. “Multi-Level Parallelization of Quantum-Chemical Calculations," <i>The Journal of Chemical Physics</i> (April 2023), AIP. doi: 10.1063/5.0144917
+Babcock, N. S., G. Montes-Cabrera, K. E. Oberhofer, M. Chergui, G. L. Celardo, and P. Kurian. “Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures," _The Journal of Physical Chemistry B_ (April 2024), ACS Publications. doi: 10.1021/acs.jpcb.3c07936
 
-Fragola, N. R., B. M. Brems, M. Mukherjee, M. Cui, and R. G. Booth. “Conformationally Selective 2-Aminotetralin Ligands Targeting the alpha2A- and alpha2C-Adrenergic Receptors," <i>ACS Chemical Neuroscience</i> (April 2023), ACS. doi: 10.1021/acschemneuro.3c00148
+Bollweg, D., X. Gao, S. Mukherjee, and Y. Zhao. “Nonperturbative Collins-Soper Kernel from Chiral Quarks with Physical Masses," _Physics Letters B_ (April 2024), Elsevier. doi: 10.1016/j.physletb.2024.138617
 
-Gao, X., A. D. Hanlon, J. Holligan, N. Karthik, S. Mukherjee, P. Petreczky, S. Syritsyn, and Y. Zhao. “Unpolarized Proton PDF at NNLO from Lattice QCD with Physical Quark Masses," <i>Physical Review D</i> (April 2023), APS. doi: 10.1103/PhysRevD.107.074509
+Chang, C. S., S. Ku, R. Hager, J. Choi, D. Pugmire, S. Klasky, A. Loarte, and R. A. Pitts. “Role of Turbulent Separatrix Tangle in the Improvement of the Integrated Pedestal and Heat Exhaust Issue for Stationary-Operation Tokamak Fusion Reactors," _Nuclear Fusion_ (April 2024), IOP Publishing. doi: 10.1088/1741-4326/ad3b1e
 
-Holford, J. J., M. Lee, and Y. Hwang. “Optimal White-Noise Stochastic Forcing for Linear Models of Turbulent Channel Flow," <i>Journal of Fluid Mechanics</i> (April 2023), Cambridge University Press. doi: 10.1017/jfm.2023.234
+Holmen, J. K., M. García, A. Bagusetty, A. Sanderson, and M. Berzins. “Making Uintah Performance Portable for Department of Energy Exascale Testbeds," _Euro-Par 2023: Parallel Processing Workshops_ (April 2024), Springer Nature. doi: 10.1007/978-3-031-48803-0_10
 
-Ichibha, T., K. Saritas, J. T. Krogel, Y. Luo, P. R. C. Kent, and F. A. Reboredo. “Existence of La-site Antisite Defects in LaMO<sub>3</sub> (M=Mn, Fe, and Co) Predicted with Many-Body Diffusion Quantum Monte Carlo," <i>Scientific Reports</i> (April 2023), Springer Nature. doi: 10.1038/s41598-023-33578-1
+Jiang, W. “Studying the Collective Functional Response of a Receptor in Alchemical Ligand Binding Free Energy Simulations with Accelerated Solvation Layer Dynamics," _Journal of Chemical Theory and Computation_ (April 2024), ACS Publications. doi: 10.1021/acs.jctc.4c00191
 
-Lavroff, R. H., J. Wang, M. G. White, P. Sautet, and A. N. Alexandrova. “Mechanism of Stoichiometrically Governed Titanium Oxide Brownian Tree Formation on Stepped Au(111)," <i>The Journal of Physical Chemistry C</i> (April 2023), ACS. doi: 10.1021/acs.jpcc.3c00715
+König, K., J. C. Berengut, A. Borschevsky, A. Brinson, B. A. Brown, A. Dockery, S. Elhatisari, E. Eliav, R. F. Garcia Ruiz, J. D. Holt, B.-S. Hu, J. Karthein, D. Lee, Y.-Z. Ma, U.-G. Meißner, K. Minamisono, A. V. Oleynichenko, S. V. Pineda, S. D. Prosnyak, M. L. Reitsma, L. V. Skripnikov, A. Vernon, and A. Zaitsevskii. “Nuclear Charge Radii of Silicon Isotopes," _Physical Review Letters_ (April 2024), APS. doi: 10.1103/PhysRevLett.132.162502
 
-Li, K., and D. Qi. “Molecular Dynamics Simulation of Mechanical Properties of Carbon Nanotube Reinforced Cellulose," <i>Journal of Molecular Modeling</i> (April 2023), Springer Nature. doi: 10.1007/s00894-023-05542-3
+Lauricella, G., M. M. Naderi, J. Zhou, I. Papautsky, and Z. Peng. “Bifurcation of Equilibrium Positions for Ellipsoidal Particles in Inertial Shear Flows Between Two Walls," _Journal of Fluid Mechanics_ (April 2024), Cambridge University Press. doi: 10.1017/jfm.2024.152
 
-Lytle, A., C. DeTar, A. X. El-Khadra, E. Gámiz, S. Gottlieb, W. Jay, A. Kronfeld, J. N. Simone, and A. Vaquero. “B-meson Semileptonic Decays with Highly Improved Staggered Quarks," <i>The 39th International Symposium on Lattice Field Theory (LATTICE2022)</i> (April 2023), Sissa Medialab. doi: 10.22323/1.430.0418
+Lo, S. C. Y., J. W. S. McCullough, X. Xue, and P. V. Coveney. “Uncertainty Quantification of the Impact of Peripheral Arterial Disease on Abdominal Aortic Aneurysms in Blood Flow Simulations," _Journal of the Royal Society Interface_ (April 2024), The Royal Society. doi: 10.1098/rsif.2023.0656
 
-Matthews, B., J. Hall, M. Batty, S. Blainey, N. Cassidy, R. Choudhary, D. Coca, S. Hallett, J. J. Harou, P. James, N. Lomax, P. Oliver, A. Sivakumar, T. Tryfonas, and L. Varga. “DAFNI: A Computational Platform to Support Infrastructure Systems Research," <i>Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Constrution</i> (April 2023), Emerald Publishing Limited. doi: 10.1680/jsmic.22.00007
+Nichols, N. S., J. T. Childers, T. J. Burch, and L. Field. “Improving Performance Portability of the Procedurally Generated High Energy Physics Event Generator MadGraph Using SYCL," _IWOCL '24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), Chicago, IL, ACM. doi: 10.1145/3648115.3648116
 
-Pham, B. Q., L. Carrington, A. Tiwari, S. S. Leang, M. Alkan, C. Bertoni, D. Datta, T. Sattasathuchana, P. Xu, and M. S. Gordon. “Porting Fragmentation Methods to GPUs Using an OpenMP API: Offloading the Resolution-of-the-Identity Second-Order Møller-Plesset Perturbation Method," <i>The Journal of Chemical Physics</i> (April 2023), AIP Publishing. doi: 10.1063/5.0143424
+Prakash, A., R. Balin, J. A. Evans, and K. E. Jansen. “A Streamline Coordinate Analysis of a Turbulent Boundary Layer Subject to Pressure Gradients and Curvature on the Windward Side of a Bump," _Journal of Fluid Mechanics_ (April 2024), Cambridge University Press. doi: 10.1017/jfm.2024.199
 
-Rhone, T. D., R. Bhattarai, H. Gavras, B. Lusch, M. Salim, M. Mattheakis, D. T. Larson, Y. Krockenberger, and E. Kaxiras. “Artificial Intelligence Guided Studies of van der Waals Magnets," <i>Advanced Theory and Simulations</i> (April 2023), John Wiley and Sons. doi: doi.org/10.1002/adts.202300019
+Schwartz, J., Z. W. Di, Y. Jiang, J. Manassa, J. Pietryga, Y. Qian, M. G. Cho, J. L. Rowell, H. Zheng, R. D. Robinson, J. Gu, A. Kirlin, S. Rozeveld, P. Ercius, J. A. Fessler, T. Xu, M. Scott, and R. Hovden. “Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography," _Nature Communications_ (April 2024), Springer Nature. doi: 10.1038/s41467-024-47558-0
 
-Yang, L., R. Jaramillo, R. K. Kalia, A. Nakano, and P. Vashishta. “Pressure-Controlled Layer-by-Layer to Continuous Oxidation of ZrS2(001) Surface," <i>ACS Nano</i> (April 2023), ACS. doi: 10.1021/acsnano.2c12724
+Varughese, B., S. Manna, T. D. Loeffler, R. Batra, M. J. Cherukara, and S. K. R. S. Sankaranarayanan. “Active and Transfer Learning of High-Dimensional Neural Network Potentials for Transition Metals," _ACS Applied Materials and Interfaces_ (April 2024), ACS. doi: 10.1021/acsami.3c15399
 
-Yang, T. T., and W. A. Saidi. “Simple Approach for Reconciling Cyclic Voltammetry with Hydrogen Adsorption Energy for Hydrogen Evolution Exchange Current," <i>The Journal of Physical Chemistry Letters</i> (April 2023), ACS. doi: 10.1021/acs.jpclett.3c00534
+Yao, Y., A. Kononov, A. Metzlaff, A. Wucher, L. Kalkhoff, L. Breuer, M. Schleberger, and A. Schleife. “Nonequilibrium Dynamics of Electron Emission from Cold and Hot Graphene Under Proton Irradiation," _Nano Letters_ (April 2024), ACS Publications. doi: 10.1021/acs.nanolett.4c00356
+
+Zhang, C., F. Gygi, and G. Galli. “Charge State and Entropic Effects Affecting the Formation and Dynamics of Divacancies in 3C-SiC," _Physical Review Materials_ (April 2024), APS. doi: 10.1103/PhysRevMaterials.8.046201
+
 
 
 # MAY
