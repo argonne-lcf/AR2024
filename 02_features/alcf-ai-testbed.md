@@ -6,7 +6,7 @@ permalink: features/alcf-ai-testbed
 
 title: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
 hero-img-source: AI-testbed-sambanova.jpg
-hero-img-caption: "The ALCF AI Testbed's Cerebras, Graphcore, Groq, and SambaNova systems are available to researchers across the world."
+hero-img-caption: "The ALCF is expanded the AI TEstbed to include the SambaNova DataScale SN40L systems."
 intro: "By updating and expanding its testbed for AI accelerators, the ALCF enables users to harness leading-edge AI technologies for efficient and impactful scientific discovery."
 ---
 
