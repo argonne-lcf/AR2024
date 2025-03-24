@@ -51,7 +51,7 @@ title: Argonne Leadership Computing Facility
 			    	</div>
 			    	<div class="content-wrapper">
 			    		<h3>Science Highlights</h3>
-			    		<p>In 2023, scientists from across the world used ALCF supercomputing and AI resources to accelerate discovery and innovation across a wide range of research areas. The following science highlights detail some of the groundbreaking research campaigns carried out by ALCF users over the past year.</p>
+			    		<p>In 2024, researchers from around the globe leveraged ALCF's supercomputing and AI resources to drive breakthroughs across a diverse array of scientific fields. Highlights from the past year include a novel AI-driven approach to protein design; large-scale simulation campaigns advancing fusion energy science and hypersonic aircraft research; and a collaboration with NASA to simulate the cosmos in preparation for upcoming telescopes.</p>
 			    	</div>
 			    </a>
 			  </div>	
