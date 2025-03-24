@@ -22,6 +22,11 @@ The ALCF is actively working to inspire future computer scientists through its c
 
 For high school students, the ALCF contributes to immersive learning experiences that introduce them to computational science and data-driven research. Argonne’s annual Coding for Science Camp and Big Data Camp provide hands-on training in programming, data science, and problem-solving techniques used in scientific research. Additionally, ALCF staff mentor students participating in the ACT-SO (Afro-Academic, Cultural, Technological & Scientific Olympics) High School Research Program, guiding them through independent research projects that use Argonne’s computing resources.
 
+{% include media-img.html
+   source= "ALCF-Vis-Students.jpg"
+   caption= "ALCF summer students Athena Angara and James Morissette collaborate on a project to create digital twins of components of robotic arms that can be used to handle hazardous materials."
+%}
+
 
 ## Hands-On Training and Career Development
 
