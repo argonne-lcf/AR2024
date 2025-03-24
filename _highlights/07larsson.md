@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Engineering'
 sdl: 's'
 
-image: 'larsson.tif' 
+image: 'larsson.png' 
 image-caption: 'Snapshot of simulation results obtained for a wedge deflection of 17.5 degree at time t=15 ms, showing contour maps of the flexible panel vertical displacement, the wall shear stress, and the fluid flow velocity on a vertical slice at the center of the spanwise domain, highlighting the incident and reflected shocks, the turbulent boundary layer, and the separation bubble.'
 image-credit: 'Ivan Bermejo-Moreno, University of Southern California'
 
