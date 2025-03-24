@@ -5,6 +5,7 @@ title: ALCF Systems
 
 theme: white
 permalink: expertise-and-resources/systems
+teaser-img-source: systems.jpg
 ---
 
 

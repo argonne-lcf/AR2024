@@ -5,12 +5,13 @@ title: Publications
 
 theme: sky
 permalink: science/publications
+teaser-img-source: ALCF_SDL-2.jpg
 ---
 
 
 
 
-# JANUARY 
+## JANUARY 
 
 Akinsanola, A. A., C. Jung, J. Wang, and V. R. Kotamarthi. “Evaluation of Precipitation Across the Contiguous United States, Alaska, and Puerto Rico in Multi-Decadal Convection-Permitting Simulations," _Scientific Reports_ (January 2024), Springer Nature. doi: 10.1038/s41598-024-51714-3
 
@@ -55,7 +56,7 @@ Roa Perdomo, D. A., R. A. Herrera Guaitero, D. Fox, H. Yviquel, S. Raskar, X. Li
 Tramm, J., B. Allen, K. Yoshii, A. Siegel, and L. Wilson. “Efficient Algorithms for Monte Carlo Particle Transport on AI Accelerator Hardware," _Computer Physics Communications_ (January 2024), Elsevier. doi: 10.1016/j.cpc.2023.109072
 
 
-# FEBRUARY
+## FEBRUARY
 
 Adamson, R., P. Bryant, D. Montoya, J. Neel, E. Palmer, R. Powell, R. Prout, and P. Upton. “Creating Continuous Integration Infrastructure for Software Development on U.S. Department of Energy High-Performance Computing Systems," _Computing in Science and Engineering_ (February 2024), IEEE. doi: 10.1109/MCSE.2024.3362586
 
@@ -98,7 +99,7 @@ Wang, T., and A. Burrows. “Nucleosynthetic Analysis of Three-Dimensional Core-
 
 
 
-# MARCH
+## MARCH
 
 Annaberdiyev, A., P. Ganesh, and J. T. Krogel. “Enhanced Twist-Averaging Technique for Magnetic Metals: Applications Using Quantum Monte Carlo," _Journal of Chemical Theory and Computation_ (March 2024), ACS Publications. doi: 10.1021/acs.jctc.4c00058
 
@@ -143,7 +144,7 @@ Vivas, A., C. E. Alvarez, J. M. Monsalve Diaz, E. Hernandez, J. G. Lalinde-Pulid
 Werner, G. R., and D. A. Uzdensky. “Electron and Proton Energization in 3D Reconnecting Current Sheets in Semirelativistic Plasma with Guide Magnetic Field," _The Astrophysical Journal Letters_ (March 2024), IOP Publishing. doi: 10.3847/2041-8213/ad2fa5
 
 
-# APRIL
+## APRIL
 
 Anaya, J. J., N. S. Manavi, A. A. Tropina, A. Dogariu, R. B. Miles, and M. S. Grover. “Interferometry Analysis and CARS Measurements of Nonequilibrium in Hypersonic Oxygen/Argon and Pure Oxygen Flows," _Experiments in Fluids_ (April 2024), Springer Nature. doi: 10.1007/s00348-024-03804-1
 
@@ -179,7 +180,7 @@ Zhang, C., F. Gygi, and G. Galli. “Charge State and Entropic Effects Affecting
 
 
 
-# MAY
+## MAY
 
 Abbott, R., A. Botev, D. Boyda, E. C. Hackett, G. Kanwar, S. Racanière, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Applications of Flow Models to the Generation of Correlated Lattice QCD Ensembles," _Physical Review D_ (May 2024), APS. doi: 10.1103/PhysRevD.109.094514
 
@@ -223,7 +224,7 @@ Zhang, Z., W. Gee, P. Sautet, and A. N. Alexandrova. “H and CO Co-Induced Roug
 
 
 
-# JUNE
+## JUNE
 
 Abdelfattah, A., N. Beams, R. Carson, P. Ghysels, T. Kolev, T. Stitt, A. Vargas, S. Tomov, and J. Dongarra. “MAGMA: Enabling Exascale Performance with Accelerated BLAS and LAPACK for Diverse GPU Architectures," _The International Journal of High Performance Computing Applications_ (June 2024), SAGE Publications. doi: 10.1177/10943420241261960
 
@@ -264,7 +265,7 @@ Tian, M., E. A. Huerta, H. Zheng, and P. Kumar. “Physics-Inspired Spatiotempor
 Xue, X., J. W. S. McCullough, S. C. Y. Lo, I. Zacharoudiou, B. Joó, and P. V. Coveney. “The Lattice Boltzmann Based Large Eddy Simulations for the Stenosis of the Aorta," _The International Conference on Computer Science 2024_ (June 2024), Seattle, WA, Springer Nature. doi: 10.1007/978-3-031-63775-9_30
 
 
-# JULY
+## JULY
 
 Ananthakrishnan, R., Y. Babuji, M. Baughman, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, D. S. Katz, K. H. Kesling, C. Janidlo, R. Mello, and L. Wang. “Enabling Remote Management of FaaS Endpoints with Globus Compute Multi-User Endpoints," _PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing_ (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670612
 
@@ -325,7 +326,7 @@ Zhang, D., M. S. Raj, B. Xie, S. Di, and D. Dai. “Cross-System Analysis of Job
 
 
 
-# AUGUST
+## AUGUST
 
 Ahn, J., S.-H. Kang, M. Yoon, and J. T. Krogel. “Exploring Interlayer Coupling in the Twisted Bilayer PtTe<sub>2</sub>," _Physical Review Research_ (August 2024), APS. doi: 10.1103/PhysRevResearch.6.033177
 
@@ -376,7 +377,7 @@ Wu, Q., J. A. Insley, V. A. Mateevitsi, S. Rizzi, M. E. Papka, and K.-L. Ma. “
 Zuo, W., J. Gim, T. Li, D. Hou, Y. Gao, S. Zhou, C. Zhao, X. Jia, Z. Yang, Y. Liu, X. Xiao, G. L. Xu, and K. Amine. “Microstrain Screening Towards Defect-less Layered Transition Metal Oxide Cathodes," _Nature Nanotechnology_ (August 2024), Springer Nature. doi: 10.1038/s41565-024-01734-x
 
 
-# SEPTEMBER
+## SEPTEMBER
 
 Bollweg, D., H.-T. Ding, J. Goswami, F. Karsch, S. Mukherjee, P. Petreczky, and C. Schmidt. “Strangeness-Correlations on the Pseudocritical Line in (2+1)-Flavor QCD," _Physical Review D_ (September 2024), APS. doi: 10.1103/PhysRevD.110.054519
 
@@ -412,7 +413,7 @@ Winetrout, J. J., K. Kanhaiya, J. Kemppainen, P. J. in 't Veld, G. Sachdeva, R. 
 
 Zheng, W., J. Kordas, T. J. Skluzacek, R. Kettimuthu, and I. Foster. “Globus Service Enhancements for Exascale Applications and Facilities," _The International Journal of High Performance Computing Applications_ (September 2024), Sage. doi: 10.1177/10943420241281744
 
-# OCTOBER
+## OCTOBER
 
 Ahrens, J., M. Arienti, U. Ayachit, J. Bennett, R. Binyahib, A. Biswas, P.-T. Bremer, E. Brugger, R. Bujack, H. Carr, J. Chen, H. Childs, S. Dutta, A. Essiari, B. Geveci, C. Harrison, S. Hazarika, M. H. Fulp, P. Hristov, X. Huang, J. Insley, Y. Kawakami, C. Keilers, J. Kress, M. Larsen, D. Lipsa, M. Majumder, N. Marsaglia, V. A. Mateevitsi, V. Pascucci, J. Patchett, S. Patel, S. Petruzza, D. Pugmire, S. Rizzi, D. H. Rogers, O. Rübel, J. Salinas, S. Sane, S. Shudler, A. Stewart, K. Tsai, T. L. Turton, W. Usher, Z. Wang, G. H. Weber, C. Wetterer-Nelson, J. Woodring, and A. Yenpure. “The ECP ALPINE Project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241286521
 
@@ -459,7 +460,7 @@ Wu, X., P. Balaprakash, M. Kruse, J. Koo, B. Videau, P. Hovland, V. Taylor, B. G
 Wu, X., J. R. Tramm, J. Larson, J.-L. Navarro, P. Balaprakash, B. Videau, M. Kruse, P. Hovland, V. Taylor, and M. Hall. “Integrating ytopt and libEnsemble to Autotune OpenMC," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241286476
 
 
-# NOVEMBER
+## NOVEMBER
 Abbott, R., M. S. Albergo, A. Botev, D. Boyda, K. Cranmer, D. C. Hackett, A. G. D. G. Matthews, S. Racanière, A. Razavi, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Aspects of Scaling and Scalability for Flow-Based Sampling of Lattice QCD," <i>The European Physical Journal A</i> (November 2023), Springer Nature. doi: 10.1140/epja/s10050-023-01154-w
 
 Antepara, O., S. Williams, H. Johansen, T. Zhao, S. Hirsch, P. Goyal, and M. Hall. “Performance Portability Evaluation of Blocked Stencil Computations on GPUs," <i>SC-W '23: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis</i> (November 2023), ACM, pp. 1007-1018. doi: 10.1145/3624062.3624177
@@ -548,7 +549,7 @@ Zhang, C., B. Sun, X. Yu, Z. Xie, W. Zheng, K. A. Iskra, P. Beckman, and D. Tao.
 
 Zubair, M., A. Walden, G. Nastac, E. Nielsen, C. Bauinger, and X. Zhu. “Optimization of Ported CFD Kernels on Intel Data Center GPU Max 1550 using oneAPI ESIMD," <i>SC-W '23: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis</i> (November 2023), ACM, pp. 1705-1712. doi: 10.1145/3624062.3624251
 
-# DECEMBER
+## DECEMBER
 Babbar, A., S. Ragunathan, D. Mitra, A. Dutta, and T. K. Patra. “Explainability and Extrapolation of Machine Learning Models for Predicting the Glass Transition Temperature of Polymers," <i>Journal of Polymer Science</i> (December 2023), John Wiley and Sons. doi: 10.1002/pol.20230714
 
 Barwey, S., V., Shankar, V. Viswanathan, and R. Maulik, "Multiscale Graph Neural Network Autoencoders for Interpretable Scientific Machine Learning," <i>Journal of Computational Physics</i> (December 2023), Elsevier. doi: 10.1016/j.jcp.2023.112537

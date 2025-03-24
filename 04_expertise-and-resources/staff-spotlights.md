@@ -5,6 +5,7 @@ title: Staff Spotlights
 
 theme: white
 permalink: expertise-and-resources/staff-spotlights
+teaser-img-source: ALCF_staff-spotlight.jpg
 ---
 
 
