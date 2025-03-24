@@ -1,22 +1,14 @@
 ---
-layout: page
+layout: section-head
 
 theme: green
 permalink: science
 
 title: Science
+bg-mp4-source: "bubbly.mp4"
 intro: "The ALCF is accelerating scientific discoveries in many disciplines, ranging from physics and materials science to biology and engineering."
-
-bg-img: Science_Apace_01.png
 ---
 
-{% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
-   credit= "Name A. Name"
-%}
-
-<br><br>
 
 
 <div class="teasers">

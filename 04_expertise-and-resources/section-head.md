@@ -1,22 +1,14 @@
 ---
-layout: page
+layout: section-head
 
 theme: green
 permalink: expertise-and-resources
 
 title: Expertise and Resources
+bg-mp4-source: "sc24.mp4"
 intro: "The ALCF’s unique combination of supercomputing resources and expertise is helping its user community to accelerate the pace of scientific discovery and innovation."
-
-bg-img: ALCF-2023workshop.jpg
 ---
 
-{% include media-img.html
-   source= "fpo.jpg"
-   caption= "The quick brown fox jumps over the lazy dog."
-   credit= "Name A. Name"
-%}
-
-<br><br>
 
 
 <div class="teasers">
