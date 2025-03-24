@@ -5,8 +5,8 @@ theme: white
 permalink: year-in-review/about-alcf
 
 title: About ALCF
-hero-img-source: "TCSBuilding.jpg"
-hero-img-caption: "The ALCF is a national scientific user facility located at Argonne National Laboratory."
+hero-img-source: "exascale-staff_2024.jpg"
+hero-img-caption: "ALCF staff celebrating Aurora becoming an exascale system and earning the top spot on the HPL-MxP benchmark in May 2024."
 
 aside: about-numbers.md
 ---
