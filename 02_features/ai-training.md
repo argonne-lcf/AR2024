@@ -6,6 +6,7 @@ permalink: features/ai-training
 title: Preparing a new generation of AI-ready researchers
 hero-img-source: ALCF_AItraining.jpg
 hero-img-caption: "The ALCF's “Intro to AI” student training series has hosted over 700 participants from across the nation to date, helping to cultivate a new generation of AI researchers."
+intro: "By updating and expanding its testbed for AI accelerators, the ALCF enables users to harness leading-edge AI technologies for efficient and impactful scientific discovery."
 ---
 
 Since its launch in 2021, the ALCF’s annual "Intro to AI-driven Science on Supercomputers" training series has been helping students develop the expertise to harness the power of AI and HPC to accelerate scientific discoveries and innovation.
