@@ -225,57 +225,43 @@ Zhang, Z., W. Gee, P. Sautet, and A. N. Alexandrova. “H and CO Co-Induced Roug
 
 # JUNE
 
-Afle, C., S. K. Kundu, J. Cammerino, E. R. Coughlin, D. A. Brown, D. Vartanyan, and A. Burrows. “Measuring the Properties of f−Mode Oscillations of a Protoneutron Star by Third-Generation Gravitational-Wave Detectors," <i>Physical Review D</i> (June 2023), APS. doi: 10.1103/PhysRevD.107.123005
+Abdelfattah, A., N. Beams, R. Carson, P. Ghysels, T. Kolev, T. Stitt, A. Vargas, S. Tomov, and J. Dongarra. “MAGMA: Enabling Exascale Performance with Accelerated BLAS and LAPACK for Diverse GPU Architectures," _The International Journal of High Performance Computing Applications_ (June 2024), SAGE Publications. doi: 10.1177/10943420241261960
 
-Anaya, J. J., A. Tropina, R. Miles, and M. Grover. “Refractive Index of Diatomic Species for Nonequilibrium Flows," <i>AIAA AVIATION 2023 Forum</i> (June 2023), San Diego, CA, AIAA. doi: 10.2514/6.2023-3478
+Dematties, D., S. Rizzi, and G. K. Thiruvathukal. “Containerization on a Self-Supervised Active Foveated Approach to Computer Vision," _Revista Colombiana de Computación_ (June 2024), UNAB. doi: 10.29375/25392115.5055
 
-Ayush, K., A. Seth, and T. K. Patra. “nanoNET: Machine Learning Platform for Predicting Nanoparticles Distribution in a Polymer Matrix," <i>Soft Matter</i> (June 2023), Royal Society of Chemistry. doi: 10.1039/d3sm00567d
+Denny, J. E., S. Lee, P. Valero-Lara, M. Gonzalez-Tallada, K. Teranishi, and J. S. Vetter. “Clacc: OpenACC for C/C++ in Clang," _The International Journal of High Performance Computing Applications_ (June 2024), SAGE Publications. doi: 10.1177/10943420241261976
 
-Bazavov, A., C. Davies, C. DeTar, A. X. El-Khadra, E. Gámiz, S. Gottlieb, W. I. Jay, H. Jeong, A. S. Kronfeld, S. Lahert, G. P. Lepage, M. Lynch, A. T. Lytle, P. B. Mackenzie, C. McNeile, E. T. Neil, C. T. Peterson, C. Ray, J. N. Simone, R. S. Van de Water, and A. Vaquero. “Light-Quark Connected Intermediate-Window Contributions to the Muon g − 2 Hadronic Vacuum Polarization from Lattice QCD," <i>Physical Review D</i> (June 2023), APS. doi: 10.1103/physrevd.107.114514
+Haberlie, A. M., B. Wallace, W. S. Ashley, V. A. Gensini, and A. C. Michaelis. “Mesoscale Convective System Activity in the United States Under Intermediate and Extreme Climate Change Scenarios," _Climatic Change_ (June 2024), Springer Nature. doi: 10.1007/s10584-024-03752-z
 
-Bera, M., Q. Zhang, X. Zuo, W. Bu, J. Strzalka, S. Weigand, J. Ilavsky, E. Dufresne, S. Narayanan, and B. Lee. “Opportunities of Soft Materials Research at Advanced Photon Source," <i>Synchrotron Radiation News</i> (June 2023), Informa UK Limited. doi: 10.1080/08940886.2023.2204096 
+Hackett, D. C., D. A. Pefkou, and P. E. Shanahan. “Gravitational Form Factors of the Proton from Lattice QCD," _Physical Review Letters_ (June 2024), APS. doi: 10.1103/PhysRevLett.132.251904
 
-Chen, J., R. G. Edwards, and W. Mao. “Graph Contractions for Calculating Correlation Functions in Lattice QCD," <i>PASC '23: Proceedings of the Platform for Advanced Scientific Computing Conference</i> (June 2023), ACM. doi: 10.1145/3592979.3593409
+Hammond, K. D., D. Maroudas, and B. D. Wirth. “Helium Aggregation and Surface Morphology Near Grain Boundaries in Plasma-Facing Tungsten," _Journal of Applied Physics_ (June 2024), AIP Publishing. doi: 10.1063/5.0200464
 
-Cruz-Camacho, E., K. A. Brown, X. Wang, X. Xu, K. Shu, Z. Lan, R. B. Ross, and C. D. Carothers. “Hybrid PDES Simulation of HPC Networks Using Zombie Packets," <i>SIGSIM-PADS '23: Proceedings of the 2023 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i> (June 2023), ACM. doi: 10.1145/3573900.3591122
+Hidayetoglu, M., S. Garcia de Gonzalo, E. Slaughter, Y. Li, C. Zimmer, T. Bicer, B. Ren, W. Gropp, W. M. Hwu, and A. Aiken. “CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes," _ICS '24: Proceedings of the 38th ACM International Conference on Supercomputing_ (June 2024), Kyoto, Japan, ACM. doi: 10.1145/3650200.365659
 
-Giraurd, S., J. C. Zamora, R. G. T. Zegers, D. Bazin, Y. Ayyad, S. Bacca, S. Beceiro-Novo, B. A. Brown, A. Carls, J. Chen, M. Cortesi, M. DeNudt, G. Hagen, C. Hultquist, C. Maher, W. Mittig, F. Ndayisabye, S. Noji, S. J. Novario, J. Peneira, Z. Rahman, J. Schmitt, M. Serikow, L. J. Sun, J. Surbrook, N. Watwood, and T. Wheeler. “β<sup>+</sup> Gamow-Teller Strengths from Unstable <sup>14</sup>O via the (d, <sup>2</sup>He) Reaction in Inverse Kinematics," <i>Physical Review Letters</i> (June 2023), APS. doi: 10.1103/PhysRevLett.130.232301
+Lee, M. “Direct Numerical Simulation of Magnetohydrodynamic Turbulent Flows," _13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)_ (June 2024), Montreal, Canada, TSFP Symposia.
 
-Grover, M. S., P. Valentini, N. J. Bisek, and A. M. Verhoff. “First Principle Simulation of CUBRC Double Cone Experiments," <i>AIAA AVIATION 2023 Forum</i> (June 2023), San Diego, CA, AIAA. doi: 10.2514/6.2023-3735
+Liu, X., D. K. Hoang, Q. A. T. Nguyen, D. D. Phuc, S.-G. Kim, P. C. Nam, A. Kumar, F. Zhang, C. Zhi, and V. Q. Bui. “Advanced Dual-Atom Catalysts on Graphitic Carbon Nitride for Enhanced Hydrogen Evolution via Water Splitting," _Nanoscale_ (June 2024), Royal Society of Chemistry. doi: 10.1039/D4NR01241K
 
-Hamilton, A., J.-M. Qiu, and H. Zhang. “Scalable Riemann Solvers with the Discontinuous Galerkin Method for Hyperbolic Network Simulation," <i>PASC '23: Proceedings of the Platform for Advanced Scientific Computing Conference</i> (June 2023), ACM, pp. 1-10. doi: 10.1145/3592979.3593421
+Marrinan, T., E. Honzik, H. L. N. Brynteson, and M. E. Papka. “Image Synthesis from a Collection of Depth Enhanced Panoramas: Creating Interactive Extended Reality Experiences from Static Images," _IMX '24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences_ (June 2024), Stockholm, Sweden, ACM. doi: 10.1145/3639701.3656312
 
-Kale, B., A. Clyde, M. Sun, A. Ramanathan, R. Stevens, and M. E. Papka. “ChemoGraph: Interactive Visual Exploration of the Chemical Space," <i>Computer Graphics Forum</i> (June 2023), John Wiley and Sons. doi: 10.1111/cgf.14807
+Nascimento de Lima, P., R. van den Puttelaar, A. B. Knudsen, A. I. Hahn, K. M. Kuntz, J. Ozik, N. Collier, F. Alarid-Escudero, A. G. Zauber, J. M. Inadomi, I. Lansdorp-Vogelaar, and C. M. Rutter. “Characteristics of a Cost-Effective Blood Test for Colorectal Cancer Screening," _Journal of the National Cancer Institute_ (June 2024), Oxford University Press. doi: 10.1093/jnci/djae124
 
-Kale, B., M. Sun, and M. E. Papka. “The State of the Art in Visualizing Dynamic Multivariate Networks," <i>Computer Graphics Forum</i> (June 2023), John Wiley and Sons. doi: 10.1111/cgf.14856
+Núñez, G., H. Romero-Sandí, E. Rojas, and E. Meneses. “A Study of Pipeline Parallelism in Deep Neural Networks," _Revista Colombiana de Computación_ (June 2024), Universidad Autonoma de Bucaramanga. doi: 10.29375/25392115.5056
 
-Kang, S., A. Dener, A. Hamilton, H. Zhang, E. M. Constantinescu, and R. L. Jacob. “Multirate Partitioned Runge–Kutta Methods for Coupled Navier–Stokes Equations," <i>Computers and Fluids</i> (June 2023), Elsevier. doi: 10.1016/j.compfluid.2023.105964
+Park, H., P. Patel, R. Haas, and E. A. Huerta. “APACE: AlphaFold2 and Advanced Computing as a Service for Accelerated Discovery in Biophysics," _PNAS_ (June 2024), National Academy of Sciences. doi: 10.1073/pnas.2311888121
 
-Korover, I., and the CLAS Collaboration. “Observation of Large Missing-Momentum (e, e′p) Cross-Section Scaling and the Onset of Correlated-Pair Dominance in Nuclei," <i>Physical Review C</i> (June 2023), APS. doi: 10.1103/PhysRevC.107.L061301
+Pineda-Antunez, C., C. Seguin, L. A. van Duuren, A. B. Knudsen, B. Davidi, P. Nascimento de Lima, C. Rutter, K. M. Kuntz, I. Lansdorp-Vogelaar, N. Colllier, J. Ozik, and F. Alarid-Escudero. “Emulator-Based Bayesian Calibration of the CISNET Colorectal Cancer Models," _Medical Decision Making_ (June 2024), Society for Medical Decision Making. doi: 10.1177/0272989X241255618
 
-Liu, J., S. Di, K. Zhao, X. Liang, Z. Chen, and F. Cappello. “FAZ: A Flexible Auto-Tuned Modular Error-Bounded Compression Framework for Scientific Data," <i>ICS '23: Proceedings of the 37th International Conference on Supercomputing</i> (June 2023), ACM, pp. 1-13. doi: 10.1145/3577193.3593721
+Romero-Sandí, H., G. Núñez, and E. Rojas. “A Snapshot of Parallelism in Distributed Deep Learning Training," _Revista Colombiana de Computación_ (June 2024), Universidad Autonoma de Bucaramanga. doi: 10.29375/25392115.5054
 
-Liu, Q., W. Jiang, J. Xu, Y. Xu, Z. Yang, D.-J. Yoo, K. Z. Pupek, C. Wang, C. Liu, K. Xu, and Z. Zhang. “A Fluorinated Cation Introduces New Interphasial Chemistries to Enable High-Voltage Lithium Metal Batteries," <i>Nature Communications</i> (June 2023), Springer Nature. doi: 10.1038/s41467-023-38229-7
+Salvadore, F., G. Rossi, S. Sathyanarayana, and M. Bernardini. “OpenMP Offload Toward the Exascale Using Intel® GPU Max 1550: Evaluation of STREAmS Compressible Solver," _The Journal of Supercomputing_ (June 2024), Springer Nature. doi: 10.1007/s11227-024-06254-y
 
-Madhyastha, M., R. Underwood, R. Burns, and B. Nicolae. “DStore: A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access," <i>ICS '23: Proceedings of the 37th International Conference on Supercomputing</i> (June 2023), ACM, pp. 133-143. doi: 10.1145/3577193.3593730
+Shevel, A. “Artificial Neural Networks in High Energy Physics Data Processing (Succinct Survey) and Probable Future Developments," _Physics of Particles and Nuclei_ (June 2024), Springer Nature . doi: 10.1134/S1063779624030742
 
-Nicholson, G. L., L. Szajnecki, L. Duan, and N. J. Bisek. “Direct Numerical Simulation of High-Speed Boundary-Layer Separation Due to Backward Facing Curvature," <i>AIAA AVIATION 2023 Forum</i> (June 2023), San Diego, CA, AIAA. doi: 10.2514/6.2023-3562
+Tian, M., E. A. Huerta, H. Zheng, and P. Kumar. “Physics-Inspired Spatiotemporal-Graph AI Ensemble for the Detection of Higher Order Wave Mode Signals of Spinning Binary Black Hole Mergers," _Machine Learning: Science and Technology_ (June 2024), IOP Publishing. doi: 10.1088/2632-2153/ad4c37
 
-Park, H., R. Zhu, E. A. Huerta, S. Chaudhuri, E. Tajkhorshid, and D. Cooper. “End-to-End AI Framework for Interpretable Prediction of Molecular and Crystal Properties," <i>Machine Learning: Science and Technology</i> (June 2023), IOP Publishing. doi: 10.1088/2632-2153/acd434
-
-Purcell, T. A. R., M. Scheffler, L. M. Ghiringhelli, and C. Carbogno. “Accelerating Materials-Space Exploration for Thermal Insulators by Mapping Materials Properties via Artificial Intelligence," <i>npj Computational Materials</i> (June 2023), Springer Nature. doi: 10.1038/s41524-023-01063-y
-
-Scheld, W. S., K. Kim, C. Schwab, A. C. Moy, S.-K. Jiang, M. Mann, C. Dellen, Y. J. Sohn, S. Lobe, M. Ihrig, M. G. Danner, C.-Y. Chang, S. Uhlenbruck, E. D. Wachsman, B. J. Hwang, J. Sakamoto, L. F. Wan, B. C. Wood, M. Finsterbusch, and D. Fattakhova-Rohlfing. “The Riddle of Dark LLZO: Cobalt Diffusion in Garnet Separators of Solid-State Lithium Batteries," <i>Advanced Functional Materials</i> (June 2023), John Wiley and Sons. doi: 10.1002/adfm.202302939
-
-Shah, A., A. Ramanathan, V. Hayot-Sasson, and R. Stevens. “Causal Discovery and Optimal Experimental Design for Genome-Scale Biological Network Recovery," <i>PASC '23: Proceedings of the Platform for Advanced Scientific Computing Conference</i> (June 2023), ACM, pp. 1-11. doi: 10.1145/3592979.3593400
-
-Shah, M., X. Yu, S. Di, M. Becchi, and F. Cappello. “Lightweight Huffman Coding for Efficient GPU Compression," <i>ICS '23: Proceedings of the 37th International Conference on Supercomputing</i> (June 2023), ACM, pp. 99-110. doi: 10.1145/3577193.3593736
-
-Singh, S., O. Ruwase, A. A. Awan, S. Rajbhandari, Y. He, and A. Bhatele. “A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training," <i>ICS '23: Proceedings of the 37th International Conference on Supercomputing</i> (June 2023), ACM, pp. 203-214. doi: 10.1145/3577193.3593704
-
-White, C. J., P. D. Mullen, Y.-F. Jiang, S. W. Davis, J. M. Stone, V. Morozova, and L. Zhang. “An Extension of the Athena++ Code Framework for Radiation-Magnetohydrodynamics in General Relativity Using a Finite-Solid-Angle Discretization," <i>The Astrophysical Journal</i> (June 2023), IOP Publishing. doi: 10.3847/1538-4357/acc8cf
-
-Xu, X., X. Wang, E. Cruz-Camacho, C. D. Carothers, K. A. Brown, R. B. Ross, Z. Lan, and K. Shu. “Machine Learning for Interconnect Network Traffic Forecasting: Investigation and Exploitation," <i>SIGSIM-PADS '23: Proceedings of the 2023 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation</i> (June 2023), ACM. doi: 10.1145/3573900.3591123
+Xue, X., J. W. S. McCullough, S. C. Y. Lo, I. Zacharoudiou, B. Joó, and P. V. Coveney. “The Lattice Boltzmann Based Large Eddy Simulations for the Stenosis of the Aorta," _The International Conference on Computer Science 2024_ (June 2024), Seattle, WA, Springer Nature. doi: 10.1007/978-3-031-63775-9_30
 
 
 # JULY
