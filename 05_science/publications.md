@@ -266,57 +266,63 @@ Xue, X., J. W. S. McCullough, S. C. Y. Lo, I. Zacharoudiou, B. Joó, and P. V. C
 
 # JULY
 
-Bollweg, D., D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch, S. Mukherjee, P. Petreczky, C. Schmidt, and S. Sharma. “Equation of State and Speed of Sound of (2 + 1)-Flavor QCD in Strangeness-Neutral Matter at Nonvanishing Net Baryon-Number Density," <i>Physical Review D</i> (July 2023), APS. doi: 10.1103/PhysRevD.108.014510
+Ananthakrishnan, R., Y. Babuji, M. Baughman, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, D. S. Katz, K. H. Kesling, C. Janidlo, R. Mello, and L. Wang. “Enabling Remote Management of FaaS Endpoints with Globus Compute Multi-User Endpoints," _PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing_ (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670612
 
-Bolotnov, I. A. “Direct Numerical Simulation of Single- and Two-Phase Flows for Nuclear Engineering Geometries," <i>Nuclear Technology</i> (July 2023), Informa UK Limited. doi: 10.1080/00295450.2023.2232222
+Bacchini, F., V. Zhdankin, E. A. Gorbunov, G. R. Werner, L. Arzamasskiy, M. C. Begelman, and D. A. Uzdensky. “Collisionless Magnetorotational Turbulence in Pair Plasmas: Steady-State Dynamics, Particle Acceleration, and Radiative Cooling," _Physical Review Letters_ (July 2024), APS. doi: 10.1103/PhysRevLett.133.045202
 
-Conroy, N. S., M. Bauböck, V. Dhruv, D. Lee, A. E. Broderick, C. Chan, B. Georgiev, A. V. Joshi, B. Prather, and C. F. Gammie. “Rotation in Event Horizon Telescope Movies," <i>The Astrophysical Journal</i> (July 2023), IOP Publishing. doi: 10.3847/1538-4357/acd2c8
+Baker, E., D. Bollweg, P. Boyle, I. Cloët, X. Gao, S. Mukherjee, P. Petreczky, R. Zhang, and Y. Zhao. “Lattice QCD Calculation of the Pion Distribution Amplitude with Domain Wall Fermions at Physical Pion Mass," _Journal of High Energy Physics_ (July 2024), Springer Nature. doi: 10.1007/JHEP07(2024)211
 
-Dive, A., K. Kim, S. Kang, L. F. Wan, and B. C. Wood. “First-Principles Evaluation of Dopant Impact on Structural Deformability and Processability of Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>," <i>Physical Chemistry Chemical Physics</i> (July 2023), Royal Society of Chemistry. doi: 10.1039/d2cp04382c
+Barry, D., A. Danalis, and J. Dongarra, "Automated Data Analysis for Defining Performance Metrics from Raw Hardware Events," _2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPSW63119.2024.00134
 
-Fore, B., J. M. Kim, G. Carleo, M. Hjorth-Jensen, A. Lovato, and M. Piarulli. “Dilute Neutron Star Matter from Neural-Network Quantum States," <i>Physical Review Research</i> (July 2023), APS. doi: 10.1103/PhysRevResearch.5.033062
+Bernholdt, D. E., G. Bosilca, A. Bouteiller, R. Brightwell, J. Ciesko, M. G. F. Dosanjh, G. Georgakoudis, I. Laguna, S. Levy, T. Naughton, S. L. Olivier, H. P. Pritchard, W. Schonbein, J. Schuchart, and A. Shehata. “Taking the MPI Standard and the Open MPI Library to Exascale," _The International Journal of High Performance Computing Applications_ (July 2024), SAGE Publications. doi: 10.1177/10943420241265936
 
-Galda, A., E. Gupta, J. Falla, X. Liu, D. Lykov, Y. Alexeev, and I. Safro. “Similarity-Based Parameter Transferability in the Quantum Approximate Optimization Algorithm," <i>Frontiers in Quantum Science and Technology</i> (July 2023), Frontiers Media SA. doi: 10.3389/frqst.2023.1200975
+Bouvier, T., B. Nicolae, A. Costan, T. Bicer, I. Foster, and G. Antoniu. “Efficient Distributed Continual Learning for Steering Experiments in Real-Time," _Future Generation Computer Systems_ (July 2024), Elsevier. doi: 10.1016/j.future.2024.07.016
 
-Guo, J., V. Woo, D. A. Andersson, N. Hoyt, M. Williamson, I. Foster, C. Benmore, N. E. Jackson, and G. Sivaraman. “AL4GAP: Active Learning Workflow for Generating DFT-SCAN Accurate Machine-Learning Potentials for Combinatorial Molten Salt Mixtures," <i>The Journal of Chemical Physics</i> (July 2023), AIP Publishing. doi: 10.1063/5.0153021
+Emani, M., S. Foreman, V. Sastry, Z. Xie, S. Raskar, W. Arnold, R. Thakur, V. Vishwanath, M. E. Papka, S. Shanmugavelu, D. Gandhi, H. Zhao, D. Ma, K. Ranganath, R. Weisner, J. Chen, Y. Yang, N. Vassilieva, B. C. Zhang, S. Howland, and A. Tsyplikhin. “Toward a Holistic Performance Evaluation of Large Language Models Across Diverse AI Accelerators," _2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPSW63119.2024.00016
 
-Hong, Z., A. Ajith, J. Pauloski, E. Duede, K. Chard, and I. Foster. “The Diminishing Returns of Masked Language Models to Science," <i>Findings of the Association for Computational Linguistics: ACL 2023</i> (July 2023), ACL, pp. 1270-1283. doi: 10.18653/v1/2023.findings-acl.82
+Jarrah, I., P. Pal, M. Ameen, and M. M. Joly. “Wall-Resolved LES Study of Shaped-Hole Film Cooling Flow for Varying In-Hole Surface Roughness," _AIAA Aviation Forum and Ascend 2024_ (July 2024), Las Vegas, NV, AIAA. doi: 10.2514/6.2024-4262
 
-Huerta, E. A., B. Blaiszik, L. C. Brinson, K. E. Bouchard, D. Diaz, C. Doglioni, J. M. Duarte, M. Emani, I. Foster, G. Fox, P. Harris, L. Heinrich, S. Jha, D. S. Katz, V. Kindratenko, C. R. Kirkpatrick, K. Lassila-Perini, R. K. Madduri, M. S. Neubauer, F. E. Psomopoulos, A. Roy, O. Rübel, Z. Zhao, and R. Zhu. “FAIR for AI: An Interdisciplinary and International Community Building Perspective," <i>Scientific Data</i> (July 2023), Springer Nature. doi: 10.1038/s41597-023-02298-6
+Jiang, W., J. Yasmin, J. Jones, N. Synovic, J. Kuo, N. Bielanski, Y. Tian, G. K. Thiruvathukal, and J. C. Davis. “PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software," _MSR '24: Proceedings of the 21st International Conference on Mining Software Repositories_ (July 2024), Lisbon, Portugal, ACM. doi: 10.1145/3643991.3644907
 
-Jeong, H., A. K. Turner, A. F. Roberts, M. Veneziani, S. F. Price, X. S. Asay-Davis, L. P. Van Roekel, W. Lin, P. M. Caldwell, H.-S. Park, J. D. Wolfe, and A. Mametjanov. “Southern Ocean Polynyas and Dense Water Formation in a High-Resolution, Coupled Earth System Model," <i>The Cryosphere</i> (July 2023), Copernicus Publications. doi: 10.5194/tc-17-2681-2023
+Kavroulakis, I., D. Papageorgiou, C. E. Frouzakis, P. Fischer, and A. Tomboulides. “Non-Conforming Schwarz-Spectral Element Method for Low Mach Number Reacting Flows," _Proceedings of the Combustion Institute_ (July 2024), Elsevier. doi: 10.1016/j.proci.2024.105506
 
-Kayastha, M. B., C. Huang, J. Wang, W. J. Pringle, TC Chakraborty, Z. Yang, R. D. Hetland, Y. Qian, and P. Xue. “Insights on Simulating Summer Warming of the Great Lakes: Understanding the Behavior of a Newly Developed Coupled Lake-Atmosphere Modeling System," <i>Journal of Advances in Modeling Earth Systems</i> (July 2023), John Wiley and Sons. doi: 10.1029/2023MS003620
+Klar, P. B., D. G. Waterman, T. Gruene, D. Mullick, Y. Song, J. B. Gilchrist, C. D. Owen, W. Wen, I. Biran, L. Houben, N. Regev-Rudzki, R. Dzikowski, N. Marom, L. Palatinus, P. Zhang, L. Leiserowitz, and M. Elbaum. “Cryo-Tomography and 3D Electron Diffraction Reveal the Polar Habit and Chiral Structure of the Malaria Pigment Crystal Hemozoin," _ACS Central Science_ (July 2024), ACS. doi: 10.1021/acscentsci.4c00162
 
-Liu, Z., R. Kettimuthu, M. E. Papka, and I. Foster. “FreeTrain: A Framework to Utilize Unused Supercomputer Nodes for Training Neural Networks," <i>2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</i> (July 2023), Bangalore, India, IEEE. doi: 10.1109/ccgrid57682.2023.00036
+Krainova, N., H. M. Johnson, R. Lampande, S. Gao, N. Marom, B. P. Rand, and N. C. Giebink. “Vacuum Deposition of χ<sup>(2)</sup> Nonlinear Organic Single Crystal Films on Silicon," _Applied Physics Letters_ (July 2024), AIP Publishing. doi: 10.1063/5.0207675
 
-Mahadevan, V., D. Lenz, I. Grindeanu, and T. Peterka. “Accelerating Multivariate Functional Approximation Computation with Domain Decomposition Techniques," <i>Computational Science – ICCS 2023: 23rd International Conference</i> (July 2023), Prague, Czech Republic, ACM, pp. 89-103. doi: 10.1007/978-3-031-35995-8_7
+Lim, C., M.-S. Kim, D. C. Lim, S. Kim, Y. Lee, J. Cha, G. Lee, S. Y. Song, D. Thapa, J. D. Denlinger, S.-G. Kim, S. W. Kim, J. Seo, and Y. Kim. “Topological Fermi-Arc Surface State Covered by Floating Electrons on a Two-Dimensional Electride," _Nature Communications_ (July 2024), Springer Nature. doi: 10.1038/s41467-024-49841-6
 
-Manassa, J., J. Schwartz, Y. Jiang, H. Zheng, J. A. Fessler, Z. W. Di, and R. Hovden. “Dose Requirements for Fused Multi-Modal Electron Tomography," <i>Microscopy and Microanalysis</i> (July 2023), Oxford University Press. doi: 10.1093/micmic/ozad067.1019
+Nilsson, V., A. Samaddar, S. Madireddy, and P. Nyquist. “REMEDI: Corrective Transformations for Improved Neural Entropy Estimation," _Proceedings of the 41st International Conference on Machine Learning_ (July 2024), vol. 235, Vienna, AT, PMLR
 
-Peterka, T., D. Morozov, O. Yildiz, B. Nicolae, and P. E. Davis. “LowFive: In Situ Data Transport for High-Performance Workflows," <i>2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i> (July 2023), St. Petersburg, FL, IEEE. doi: 10.1109/IPDPS54959.2023.00102
+Palumbo, D. C. M., M. Bauböck, and C. F. Gammie. “Multifrequency Analysis of Favored Models for the Messier 87* Accretion Flow," The Astrophysical Journal (July 2024), IOP Publishing. doi: 10.3847/1538-4357/ad5fed
 
-Rosofsky, S. G., and E. A. Huerta. “Magnetohydrodynamics with Physics Informed Neural Operators," <i>Machine Learning: Science and Technology</i> (July 2023), IOP Publishing. doi: 10.1088/2632-2153/ace30a
+Phelps, C., A. Lahiry, T. Z. Islam, and L. C. Pouchard. “Reimagine Application Performance as a Graph: Novel Graph-Based Method for Performance Anomaly Classification in High-Performance Computing," _2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)_ (July 2024), Osaka, Japan, IEEE. doi: 10.1109/COMPSAC61105.2024.00041
 
-Schanen, M., S. H. K. Narayanan, S. Williamson, V. Churavy, W. S. Moses, and L. Paehler. “Transparent Checkpointing for Automatic Differentiation of Program Loops Through Expression Transformations," <i>Computational Science – ICCS 2023: 23rd International Conference</i> (July 2023), Prague, Czech Republic, ACM, pp. 483-497. doi: 10.1007/978-3-031-36024-4_37
+Rahman, M. H., S. Di, S. Guo, X. Lu, G. Li, and F. Cappello. “Druto: Upper-Bounding Silent Data Corruption Vulnerability in GPU Applications," _2024 IEEE International Parallel and Distributed Processing Symposium (IPDPS)_ (July 2024), San Fransisco, CA, IEEE. doi: 10.1109/IPDPS57955.2024.00058
 
-Shovon, A. R., T. Gilray, K. Micinski, and S. Kumar. “Towards Iterative Relational Algebra on the GPU," <i>2023 USENIX Annual Technical Conference (USENIX ATC 23)</i> (July 2023), Boston, MA, USENIX Association, pp. 1009-1016,
+Razahk, T. M., T. Linker, Y. Luo, R. K. Kalia, K.-I. Nomura, P. Vashishta, and A. Nakano. “Accelerating Quantum Light-Matter Dynamics on Graphics Processing Units," _2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPSW63119.2024.00176
 
-Sun, Z. H., G. Hagen, and T. Papenbrock. “Coupled-Cluster Theory for Strong Entanglement in Nuclei," <i>Physical Review C</i> (July 2023), APS. doi: 10.1103/PhysRevC.108.014307
+Robinson, J. P., K. Fan, S. Petruzza, T. Gilray, and S. Kumar. “Investigating Data Movement Strategies for Distribution of Repartitioned Data," PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670534
 
-Tsai, Y.-H. M., N. Beams, and H. Anzt. “Three-Precision Algebraic Multigrid on GPUs," <i>Future Generation Computer Systems</i> (July 2023), Elsevier. doi: 10.1016/j.future.2023.07.024
+Ruggeri, M., B. L. Bemis, M. C. Sieve, C. L. Running, J. L. Hill, M. P. Borg, K. Jantze, and C. Scalo. “Hypersonic Boundary Layer Treatment with Wavy Wall," _AIAA Aviation Forum and Ascend 2024_ (July 2024), Las Vegas, NV, AIAA. doi: 10.2514/6.2024-3835
 
-Valentini, P., M. S. Grover, A. M. Verhoff, and N. J. Bisek. “Near-Continuum, Hypersonic Oxygen Flow over a Double Cone Simulated by Direct Simulation Monte Carlo Informed from Quantum Chemistry," <i>Journal of Fluid Mechanics</i> (July 2023), Cambridge University Press. doi: 10.1017/jfm.2023.437
+Shen, R., A.-L. R. Brownless, N. Alansson, M. Corbella, S. C. L. Kamerlin, and A. C. Hengge. “SHP-1 Variants Broaden the Understanding of pH-Dependent Activities in Protein Tyrosine Phosphatases," _JACS Au_ (July 2024), ACS Publications. doi: 10.1021/jacsau.4c00078
 
-Van den Berg, D. M. N., P. Nascimento de Lima, A. B. Knudsen, C. M. Rutter, D. Weinberg, I. Lansdorp-Vogelaar, A. G. Zauber, A. I. Hahn, F. A. Escudero, C. E. Maerzluft, A. Katsara, K. M. Kuntz, J. M. Inamodi, N. Collier, J. Ozik, L. A. van Duuren, R. van den Puttelaar, M. Harlass, C. L. Seguin, B. Davidi, C. Pineda-Antunez, E. J. Feuer, and L. de Jonge. “NordICC Trial Results in Line with Expected Colorectal Cancer Mortality Reduction after Colonoscopy: A Modeling Study," <i>Gastroentereology</i> (July 2023), Elsevier. doi: 10.1053/j.gastro.2023.06.035
+Shi, Q., H. T. Ding, X. Gao, S. Mukherjee, P. Petreczky, S. Syritsyn, and Y. Zhao. “Lattice QCD Calculation of the Pion Generalized Parton Distribution," _25th International Symposium on Spin Physics (SPIN2023)_ (July 2024), Durham, NC, Sissa Medialab. doi: 10.22323/1.456.0024
 
-Verma, G., S. Raskar, Z. Xie, A. M. Malik, M. Emani, and B. Chapman. “Transfer Learning Across Heterogeneous Features for Efficient Tensor Program Generation," <i>ExHET 23: Proceedings of the 2nd International Workshop on Extreme Heterogeneity Solutions</i> (July 2023), ACM, pp. 1-6. doi: 10.1145/3587278.3595644
+Vasan, A., O. Gokdemir, A. Brace, A. Ramanathan, T. Brettin, R. Stevens, and V. Vishwanath. “High Performance Binding Affinity Prediction with a Transformer-Based Surrogate Model," _2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPSW63119.2024.00114
 
-Vincenti, H., T. Clark, L. Fedeli, P. Martin, A. Sainte-Marie, and N. Zaim. “Plasma Mirrors as a Path to the Schwinger Limit: Theoretical and Numerical Developments," <i>The European Physical Journal Special Topics</i> (July 2023), Springer Nature. doi: 10.1140/epjs/s11734-023-00909-2
+Wang, T., and A. Burrows. “Supernova Explosions of the Lowest-Mass Massive Star Progenitors," _The Astrophysical Journal_ (July 2024), IOP Publishing. doi: 10.3847/1538-4357/ad5009
 
-Zhang, Z., I. Hermans, and A. N. Alexandrova. “Off-Stoichiometric Restructuring and Sliding Dynamics of Hexagonal Boron Nitride Edges in Conditions of Oxidative Dehydrogenation of Propane," <i>Journal of the American Chemical Society</i> (July 2023), ACS. doi: 10.1021/jacs.3c04613
+Xie, Z., M. Emani, X. Yu, D. Tao, X. He, P. Su, K. Zhou, and V. Vishwanath. “Centimani: Enabling Fast AI Accelerator Selection for DNN Training with a Novel Performance Predictor," _USENIX ATC'24: Proceedings of the 2024 USENIX Conference on Usenix Annual Technical Conference_ (July 2024), USENIX Association. doi: 10.5555/3691992.3692065
 
-Zhao, J., C. Bertoni, J. Young, K. Harms, V. Sarkar, and B. Videau. “HIPLZ: Enabling Performance Portability for Exascale Systems," <i>Concurrency and Computation: Practice and Experience</i> (July 2023), John Wiley and Sons. doi: 10.1002/cpe.7866
+Yuwono, S. H., T. Zhang, K. A. Surjuse, E. F. Valeev, X. Li, and A. E. DePrince III. “Relativistic Coupled Cluster with Completely Renormalized and Perturbative Triples Corrections," The Journal of Physical Chemistry A (July 2024), ACS Publications. doi: 10.1021/acs.jpca.4c02583
+
+Zhang, C. “Comet: Development of an Unstructured Mesh Direct Simulation Monte Carlo Code on GPUs," _AIAA Aviation Forum and Ascend 2024_ (July 2024), Las Vegas, NV, AIAA. doi: 10.2514/6.2024-3951
+
+Zhang, D., M. S. Raj, B. Xie, S. Di, and D. Dai. “Cross-System Analysis of Job Characterization and Scheduling in Large-Scale Computing Clusters," _2024 IEEE International Parallel and Distributed Processing Symposium (IPDPS)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPS57955.2024.00069
+
+
 
 
 # AUGUST
