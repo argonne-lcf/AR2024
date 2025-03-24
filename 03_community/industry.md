@@ -5,7 +5,7 @@ title: Powering Breakthroughs for U.S. Industry
 hero-img-source: ALCF_Industry.jpg
 hero-img-caption: "Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration. The simulation was carried out at the ALCF as part of a collaboration between Argonne and RTX Technologies Research Center."
 hero-img-credit: "Argonne National Laboratory"
-intro: "Through industry partnerships, the ALCF provides access to HPC resources that drive innovation and science.
+intro: "Through industry partnerships, the ALCF provides access to HPC resources that drive innovation and science."
 
 
 theme: white
