@@ -7,6 +7,7 @@ permalink: expertise-and-resources/staff-news
 title: Staff News
 hero-img-source: "ALCF_BestPaper.jpg"
 hero-img-caption: "Quick brown fox"
+intro: "The ALCF’s unique combination of supercomputing resources and expertise is helping its user community to accelerate the pace of scientific discovery and innovation."
 ---
 
 ## ALCF Researchers Contribute to Gordon Bell Prize Finalist Study
