@@ -4,7 +4,8 @@ layout: page
 title: Shaping the Future of Supercomputing
 
 hero-img-source: "ALCF_Shaping.jpg"
-hero-img-caption: "Quick brown fox."
+hero-img-caption: "Nevin's caption here"
+intro: "This section covers something."
 
 theme: white
 permalink: community-and-outreach/hpc-community-activities
