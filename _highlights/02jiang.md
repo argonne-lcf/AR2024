@@ -11,7 +11,7 @@ systems: 'Polaris,Theta'
 field: 'Chemistry'
 sdl: 's'
 
-image: 'yu.png' 
+image: 'ALCF-Jiang.png' 
 image-caption: 'a–c Snapshot of electrolyte distribution on NMC622 and Li electrodes: cyan-IL cation+; white-H on the PMpyr+ backbone highlight in Fig. 1b; purple-F on the PMpyrf+ backbone; yellow-FSI−; green-Li+. d–f Molecular number density profiles along the z-axis normal to the surface of the NMC cathode (left panels) and lithium anode (right panels). The center of mass of each molecule is used to calculate molecule distribution: a, d (PMpyr)0.8Li0.2FSI electrolyte, b, e (PMpyrf)0.8Li0.2FSI electrolyte and c, f (PMpyrf)0.5Li0.5FSI electrolyte.'
 image-credit: 'Liu et al., Nat. Commun. 2023, 14, 3678'
 
