@@ -378,38 +378,39 @@ Zuo, W., J. Gim, T. Li, D. Hou, Y. Gao, S. Zhou, C. Zhao, X. Jia, Z. Yang, Y. Li
 
 # SEPTEMBER
 
-Ahn, J., I. Hong, G. Lee, H. Shin, A. Benali, J. T. Krogel, and Y. Kwon. “Structural Stability of Graphene-Supported Pt Layers: Diffusion Monte Carlo and Density Functional Theory Calculations," <i>The Journal of Physical Chemistry C</i> (September 2023), ACS. doi: 10.1021/acs.jpcc.3c03160
+Bollweg, D., H.-T. Ding, J. Goswami, F. Karsch, S. Mukherjee, P. Petreczky, and C. Schmidt. “Strangeness-Correlations on the Pseudocritical Line in (2+1)-Flavor QCD," _Physical Review D_ (September 2024), APS. doi: 10.1103/PhysRevD.110.054519
 
-Blum, T., P. A. Boyle, M. Bruno, D. Giusti, V. Gülpers, R. C. Hill, T. Izubuchi, Y.-C. Jang, L. Jin, C. Jung, A. Jüttner, C. Kelly, C. Lehner, N. Matsumoto, R. D. Mawhinney, A. S. Meyer, and J. T. Tsang. “Update of Euclidean Windows of the Hadronic Vacuum Polarization," <i>Physical Review D</i> (September 2023), APS. doi: 10.1103/physrevd.108.054507
+Brower, R. C., E. Owen, C. Rebbi, C. Culver, D. Schaich, K. K. Cushman, G. T. Fleming, A. Gasbarro, A. Hasenfratz, E. T. Neil, J. Ingoldby, X. Y. Jin, J. C. Osborn, E. Rinaldi, P. Vranas, E. Weinberg, and O. Witzel. “Light Scalar Meson and Decay Constant in SU(3) Gauge Theory with Eight Dynamical Flavors," _Physical Review D_ (September 2024), APS. doi: 10.1103/PhysRevD.110.054501
 
-Boëzennec, R., F. Dufossé, and G. Pallez. “Optimization Metrics for the Evaluation of Batch Schedulers in HPC," <i>Job Scheduling Strategies for Parallel Processing: 26th Workshop, JSSPP 2023</i> (September 2023), St. Petersburg, FL, ACM, pp. 97-115. doi: 10.1007/978-3-031-43943-8_5
+Egele, R., F. Mohr, T. Viering, and P. Balaprakash. “The Unreasonable Effectiveness of Early Discarding After One Epoch in Neural Network Hyperparameter Optimization," _Neurocomputing_ (September 2024), Elsevier. doi: 10.1016/j.neucom.2024.127964
 
-Chen, L., P.-H. Lin, T. Vanderbruggen, C. Liao, M. Emani, and B. de Supinski. “LM4HPC: Towards Effective Language Model Application in High-Performance Computing," <i>IWOMP 2023: OpenMP: Advanced Task-Based, Device and Compiler Programming</i> (September 2023), Springer Nature, pp. 18-33. doi: 10.1007/978-3-031-40744-4_2
+Huang, J., B. Peng, C. Zhu, M. Xu, Y. Liu, Z. Liu, J. Zhou, S. Wang, X. Duan, H. Heinz, and Y. Huang. “Surface Molecular Pump Enables Ultrahigh Catalyst Activity," _Science Advances_ (September 2024), AAAS. doi: 10.1126/sciadv.ado3942
 
-Chitty-Venkata, K. T., Y. Bian, M. Emani, V. Vishwanath, and A. K. Somani. “Differentiable Neural Architecture, Mixed Precision and Accelerator Co-Search," <i>IEEE Access</i> (September 2023), IEEE. doi: 10.1109/ACCESS.2023.3320133
+Jarmusch, A., F. Cabarcas, S. Pophale, A. Kallai, J. Doerfert, L. Peyralans, S. Lee, J. Denny, and S. Chandrasekaran. “CI/CD Efforts for Validation, Verification and Benchmarking OpenMP Implementations," _IWOMP 2024: Advancing OpenMP for Future Accelerators_ (September 2024), Perth, WA, Australia, Springer Nature. doi: 10.1007/978-3-031-72567-8_8
 
-Chitty-Venkata, K. T., S. Mittal, M. Emani, V. Vishwanath, and A. K. Somani. “A Survey of Techniques for Optimizing Transformer Inference," <i>Journal of Systems Architecture</i> (September 2023), Elsevier. doi: 10.1016/j.sysarc.2023.102990
+Loeffler, H. H., S. Wan, M. Klähn, A. P. Bhati, and P. V. Coveney. “Optimal Molecular Design: Generative Active Learning Combining REINVENT with Precise Binding Free Energy Ranking Simulations," _Journal of Chemical Theory and Computation_ (September 2024), ACS Publications. doi: 10.1021/acs.jctc.4c00576
 
-Haberlie, A. M., W. S. Ashley, V. A. Gensini, and A. C. Michaels. “The Ratio of Mesoscale Convective System Precipitation to Total Precipitation Increases in Future Climate Change Scenarios," <i>npj Climate and Atmospheric Science</i> (September 2023), Springer Nature. doi: 10.1038/s41612-023-00481-5
+Lusczek, P., A. Castaldo, Y. M. Tsai, D. Mishler, and J. Dongarra. “Numerical Eigen-Spectrum Slicing, Accurate Orthogonal Eigen-Basis, and Mixed-Precision Eigenvalue Refinement Using OpenMP Data-Dependent Tasks and Accelerator Offload," _The International Journal of High Performance Computing Applications_ (September 2024), Sage. doi: 10.1177/109434202412810
 
-Himanshu, K. Chakraborty, and T. K. Patra. “Developing Efficient Deep Learning Model for Predicting Copolymer Properties," <i>Physical Chemistry Chemical Physics</i> (September 2023), Royal Society of Chemistry. doi: 10.1039/d3cp03100d
+Madireddy, S., C. Akçay, S. E. Kruger, T. Bechtel Amara, X. Sun, J. McClenaghan, J. Koo, A. Samaddar, Y. Liu, P. Palaprakash, and L. L. Lao. “EFIT-Prime: Probabilistic and Physics-Constrained Reduced-Order Neural Network Model for Equilibrium Reconstruction in DIII-D," _Physics of Plasmas_ (September 2024), AIP Publishing. doi: 10.1063/5.0213609
 
-Isazawa, T., and J. M. Cole. “Automated Construction of a Photocatalysis Dataset for Water-Splitting Applications," <i>Scientific Data</i> (September 2023), Springer Nature. doi: 10.1038/s41597-023-02511-6
+Qiao, F., T. A. Binkowski, I. Broughan, W. Chen, A. Natarajan, G. E. Schlitz, K. A. Scheidt, W. F. Anderson, and R. Bergan. “Protein Structure Inspired Discovery of a Novel Inducer of Anoikis in Human Melanoma," _Cancers_ (September 2024), MDPI. doi: 10.3390/cancers16183177
 
-König, K., S. Fritzsche, G. Hagen, J. D. Holt, A. Klose, J. Lantis, Y. Liu, K. Minamisono, T. Miyagi, W. Nazarewicz, T. Papenbrock, S. V. Pineda, R. Powel, and P.-G. Reinhard. “Surprising Charge-Radius Kink in the Sc Isotopes at N=20," <i>Physical Review Letters</i> (September 2023), APS. doi: 10.1103/PhysRevLett.131.102501
+Sampathkumar, V., K. P. Koster, B. J. Carroll, S. Murray, Sherman, and N. Kasthuri. “Synaptic Integration of Somatosensory and Motor Cortical Inputs onto Spiny Projection Neurons of Mice Caudoputamen," _European Journal of Neuroscience_ (September 2024), John Wiley and Sons. doi: 10.1111/ejn.16538
 
-Navrátil, P., K. Kravvaris, P. Gysbers, C. Hebborn, G. Hupin, and S. Quaglioni. “Ab Initio Investigations of A=8 Nuclei: α–α Scattering, Deformation in <sup>8</sup>He, Radiative Capture of Protons on <sup>7</sup>Be and <sup>7</sup>Li and the X17 Boson," <i>Journal of Physics: Conference Series</i> (September 2023), vol. 2586, IOP Publishing. doi: 10.1088/1742-6596/2586/1/012062
+Sudharsan, S., and A. Sharma. “Criteria for Dynamic Stall Onset and Vortex Shedding in Low-Reynolds-Number Flows," _Journal of Fluid Mechanics_ (September 2024), Cambridge University Press. doi: 10.1017/jfm.2024.753
 
-Navrátil, P., and S. Quaglioni. “Ab Initio Nuclear Reaction Theory with Applications to Astrophysics," <i>Handbook of Nuclear Physics</i> (September 2023), Springer, Singapore, pp. 1545-1590. doi: 10.1007/978-981-19-6345-2_7
+Thavappiragasam, M., J. A. Harris, E. Endeve, and B. Videau. “Performance Porting the ExaStar Multi-Physics App Thornado on Heterogeneous Systems—A Fortran-OpenMP Code-Base Evaluation," _IWOMP 2024: Advancing OpenMP for Future Accelerators_ (September 2024), Perth, WA, Australia, Springer Nature. doi: 10.1007/978-3-031-72567-8_2
 
-Nicolae, B., T. Z. Islam, R. Ross, H. Van Dam, K. Assogba, P. Shpilker, M. Titov, M. Turilli, T. Wang, O. O. Kilic, S. Jha, and L. C. Pouchard. “Building the I (Interoperability) of FAIR for Performance Reproducibility of Large-Scale Composable Workflows in RECUP," <i>2023 IEEE 19th International Conference on e-Science (e-Science)</i> (September 2023), Limassol, Cyprus, IEEE. doi: 10.1109/e-Science58273.2023.10254808
+Tian, M., L. Gao, D. Zhang, X. Chen, C. Fan, X. Guo, R. Haas, P. Ji, K. Krongchon, Y. Li, S. Liu, D. Luo, Y. Ma, H. Tong, K. Trinh, C. Tian, Z. Wang, B. Wu, Y. Xiong, S. Yin, M. Zhu, K. Lieret, Y. Lu, G. Liu, Y. Du, T. Tao, Ofir Press, J. Callan, E. Huerta, and H. Peng. “SciCode: A Research Coding Benchmark Curated by Scientists," _NeurIPS 2024_ (September 2024), OpenReview.
 
-Saeedizade, E., R. Taheri, and E. Arslan. “I/O Burst Prediction for HPC Clusters Using Darshan Logs," <i>2023 IEEE 19th International Conference on e-Science (e-Science)</i> (September 2023), Limassol, Cyprus, IEEE. doi: 10.1109/e-Science58273.2023.10254871
+Upadhyay, S., A. Benali, and K. D. Jordan. “Capturing Correlation Effects in Positron Binding to Atoms and Molecules," _Journal of Chemical Theory and Computation_ (September 2024), ACS Publications. doi: 10.1021/acs.jctc.4c00727
 
-Yalamanchi, K. K., S. Kommalapati, P. Pal, N. Kuzhagaliyeva, A. S. AlRamadan, B. Mohan, Y. Pei, S. M. Sarathy, E. Cenker, and J. Badra. “Uncertainty Quantification of a Deep Learning Fuel Property Prediction Model," <i>Applications in Energy and Combustion Science</i> (September 2023), Elsevier. doi: 10.1016/j.jaecs.2023.100211
+Ward, L., B. Blaiszik, C.-W. Lee, T. Martin, I. Foster, and A. Schleife. “Accelerating Multiscale Electronic Stopping Power Predictions with Time-Dependent Density Functional Theory and Machine Learning," _npj Computational Materials_ (September 2024), Springer Nature. doi: 10.1038/s41524-024-01374-8
 
-Zhang, C., F. Gygi, and G. Galli. “Engineering the Formation of Spin-Defects from First Principles," <i>Nature Communications</i> (September 2023), Springer Nature. doi: 10.1038/s41467-023-41632-9
+Winetrout, J. J., K. Kanhaiya, J. Kemppainen, P. J. in 't Veld, G. Sachdeva, R. Pandey, B. Damirchi, A. van Duin, G. M. Odegard, and H. Heinz. “Implementing Reactivity in Molecular Dynamics Simulations with Harmonic Force Fields," _Nature Communications_ (September 2024), Springer Nature. doi: 10.1038/s41467-024-50793-0
 
+Zheng, W., J. Kordas, T. J. Skluzacek, R. Kettimuthu, and I. Foster. “Globus Service Enhancements for Exascale Applications and Facilities," _The International Journal of High Performance Computing Applications_ (September 2024), Sage. doi: 10.1177/10943420241281744
 
 # OCTOBER
 
