@@ -4,50 +4,53 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/jiang'
 
-title: 'Assessment of Turbulent Prandtl Number for Heavy Liquid Metal Flow in a Bare Rod Bundle'
-pi: 'Yiqi Yu, Emily Shemon, Argonne National Laboratory'
+title: 'Microscopic Insight into Transport Properties of Li-Battery Electrolytes'
+pi: 'Wei Jiang, Argonne National Laboratory'
 award: 'ALCC'
-systems: 'Theta'
-field: 'Energy Technologies'
+systems: 'Polaris,Theta'
+field: 'Chemistry'
 sdl: 's'
 
 image: 'yu.png' 
-image-caption: 'Representative open structures from accelerated trajectories along the identified six reaction coordinates. The reference semi-open structure is colored white and atoms are colored green, red, and blue according to its weight in the reaction coordinates.'
-image-credit: 'Ao Ma, University of Illinois Chicago'
+image-caption: 'a–c Snapshot of electrolyte distribution on NMC622 and Li electrodes: cyan-IL cation+; white-H on the PMpyr+ backbone highlight in Fig. 1b; purple-F on the PMpyrf+ backbone; yellow-FSI−; green-Li+. d–f Molecular number density profiles along the z-axis normal to the surface of the NMC cathode (left panels) and lithium anode (right panels). The center of mass of each molecule is used to calculate molecule distribution: a, d (PMpyr)0.8Li0.2FSI electrolyte, b, e (PMpyrf)0.8Li0.2FSI electrolyte and c, f (PMpyrf)0.5Li0.5FSI electrolyte.'
+image-credit: 'Liu et al., Nat. Commun. 2023, 14, 3678'
 
 publications:
-  - authors: 'Yu, Y., E. Shemon, and E. Merzari'
-    title: 'LES Simulation on Heavy Liquid Metal Flow in a Bare Rod Bundle for Assessment of Turbulent Prandtl Number'
-    source: 'Nuclear Engineering and Design'
-    date: 'April 2023'
-    publisher: 'Elsevier'
-    url: 'https://doi.org/10.1073/pnas.2214906119'
+  - authors: 'Liu, Q., J. Xu, W. Jiang, J. Gim, A.P. Tornheim, R. Pathak, Q. Zhu, P. Zuo, Z. Yang, K.Z. Pupek, E. Lee, C. Wang, C. Liu, J.R. Croy, K. Xu, and Z. Zhang'
+    title: 'High-Energy LiNiO2 Li Metal Batteries Enabled by Hybrid Electrolyte Consisting of Ionic Liquid and Weakly Solvating Fluorinated Ether'
+    source: 'Advanced Science'
+    date: 'October 2024'
+    publisher: 'Wiley'
+    url: 'https://doi.org/10.1002/advs.202409662'
+
+  - authors: 'Liu, Q., W. Jiang, J. Xu, Y. Xu, Z. Yang, D.-J. Yoo, K.Z. Pupek, C. Wang, C. Liu, K. Xu, and Z. Zhang'
+    title: 'A Fluorinated Cation Introduces New Interphasial Chemistries to Enable High-Voltage Lithium Metal Batteries'
+    date: 'June 2023'
+    publisher: 'Springer Nature'
+    url: 'https://doi.org/10.1038/s41467-023-38229-7'
     
     
 ---
 
 {% include txt-intro.html 
-    blurb = "Westinghouse Electric Company is working with an international team to develop its next-generation high-capacity nuclear power plant based on lead-cooled fast reactor technology. Using ALCF supercomputers, researchers from Argonne National Laboratory are collaborating with the company to provide insights into the reactor’s flow physics and heat transfer mechanisms."
+    blurb = "To advance high-energy-density lithium battery chemistries, researchers are working to develop protective interphases that enhance stability and performance. With this project, a team from Argonne National Laboratory is using ALCF supercomputers to perform large-scale molecular dynamics (MD) simulations to uncover the mechanisms behind electrolyte fluorination, a key process for creating such interphases. By identifying how fluorination affects interphase formation and lithium-ion transport, the team’s research provides key insights for designing next-generation electrolytes."
 %}
 
 
 
 ## Challenge
 
-Lead-cooled fast reactors are a type of nuclear reactor design that offer many advantages, including the ability to operate at higher thermal efficiencies than existing commercial light water reactors. Developing these advanced reactors poses challenges due to the unique characteristics of heavy liquid metal (HLM) coolants, such as a low Prandtl number (Pr) compared to water. Existing turbulence models are inadequate for accurately predicting heat transfer in HLM flows, making the selection of an appropriate turbulent Prandtl number (Pr<sub>t</sub>) critical. Accurate modeling and simulation of heat transfer and mixing in the HLM coolant is needed to help prepare the technology for licensing.
+Creating stable, high-performance lithium batteries requires a robust interphase formed by electrolyte decomposition, but identifying the optimal electrolyte formulations is costly and time-consuming. Electrolyte fluorination, the process of introducing fluorine atoms to the electrolyte molecules, has shown to be a promising solution for creating durable protective layers and improving battery stability. However, developing an effective fluorination strategy without relying on extensive lab work remains a significant obstacle. HPC enables researchers to simulate these complex electrochemical interactions at the atomic scale, providing detailed insights into the effects of fluorination on electrolyte behavior.
 
 
 ## Approach
 
-For this effort, the team performed large eddy simulations (LES) using the open-source Nek5000 code on ALCF’s Theta system to study nuclear fuel rod bundles with HLM flows. LES do not require a Pr<sub>t</sub> to model turbulence-driven heat transfer, and thus can be used as benchmarks for selecting a Pr<sub>t</sub> in a less computationally expensive Reynolds Averaged Navier–Stokes (RANS) model which requires this parameter.
-
+With an ALCC award, the Argonne team employed the NAMD code on the ALCF’s Theta and Polaris supercomputers to conduct extensive MD simulations of electrolyte fluorination effects on protective interphase formation and charge conduction under realistic experimental conditions. The researchers used novel all-atom models for high-capacity Li-metal anodes and Mn-Ni-O cathodes to study atomic-scale interface structural changes induced by fluorination. Enhanced sampling techniques were applied to efficiently explore the dynamics of viscous electrolytes, requiring large timescales beyond brute-force simulations. Multiple replicas of each simulated system were run in parallel, allowing for comprehensive configurational sampling to accurately capture the effects of fluorination on electrolyte-electrode interactions.
 
 ## Results
 
-In a paper published in _Nuclear Engineering and Design_, the researchers showed that the selection of the appropriate Pr<sub>t</sub> significantly impacts the accuracy of simulations for advanced nuclear reactors. By analyzing a prototypical lead-cooled fast reactor assembly with different Pr<sub>t</sub> values, the team found that inappropriate Pr<sub>t</sub>can introduce error in Nusselt number (a measure of heat transfer) by up to 44 percent. They also compared detailed temperature distributions obtained by computationally expensive LES and less expensive RANS simulations to better understand the deviation introduced by the turbulence model. The analysis shows that the RANS model with Pr<sub>t</sub>=1.5 shows the best agreement with LES on the prediction of local temperature distribution and global Nusselt number. 
-
-
+The team’s simulations provide new insights into the fundamental mechanism of fluorination and its effects on battery stability, lifetime, and capacity. Their research identified how fluorination facilitates the formation of a robust protective interphase, which enhances electrolyte stability and improves charge conduction. The work also demonstrated that the electrolytes exhibit distinct behaviors based on their molecular structure—fluorinated diluents with cyclic structures improved lithium-ion mobility, while those with linear structures restricted charge transport. Statistical analysis revealed that fluorination must be applied to specific positions on electrolyte molecules or particular molecular structures of diluents to achieve optimal performance, paving the way for the rational design of future fluorinated electrolytes.
 
 ## Impact
 
-The team’s research is helping to enhance the understanding and modeling of heavy liquid metal flow behavior and heat transfer mechanisms for next-generation nuclear reactors. In addition, their study provides valuable high-fidelity reference data that can be used by the nuclear reactor research community to validate and calibrate less computationally expensive models.
+This research accelerates electrolyte discovery by reducing reliance on extensive wet-lab experiments, improving safety, and enhancing the rational design of fluorinated electrolytes. The insights gained from the team’s simulations open new pathways for optimizing lithium battery performance, supporting the development of more efficient and longer-lasting energy storage solutions.
