@@ -528,35 +528,35 @@ Comiss, L., G. R. Farrar, and M. S. Muzio. “Ultra-High-Energy Cosmic Rays Acce
 
 Dharuman, G., K. Hippe, A. Brace, S. Foreman, V. Hatanpää, V. K. Sastry, H. Zheng, L. Ward, S. Muralidharan, A. Vasan, B. Kale, C. M. Mann, H. Ma, Y.-H. Cheng, Y. Zamora, S. Liu, C. Xiao, M. Emani, T. Gibbs, M. Tatineni, D. Canchi, J. Mitchell, K. Yamada, M. Garzaran, M. E. Papka, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization," SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00013
 
-Goldsborough, S. S., S. Cheng, D. Kang, J. P. Molnar, Y. M. Wright, and C. E. Frouzakis. “Asynchronicity in Opposed-Piston RMCs: Does It Matter?," Proceedings of the Combustion Institute (December 2024), Elsevier. doi: 10.1016/j.proci.2024.105406
+Goldsborough, S. S., S. Cheng, D. Kang, J. P. Molnar, Y. M. Wright, and C. E. Frouzakis. “Asynchronicity in Opposed-Piston RMCs: Does It Matter?," _Proceedings of the Combustion Institute_ (December 2024), Elsevier. doi: 10.1016/j.proci.2024.105406
 
-Govett, M., B. Bah, P. Bauer, D. Berod, V. Bouchet, S. Corti, C. Davis, Y. Duan, T. Graham, Y. Honda, A. Hines, M. Jean, J. Ishida, B. Lawrence, J. Li, J. Luterbacher, C. Muroi, K. Rowe, M. Schultz, M. Visbeck, and K. Williams. “Exascale Computing and Data Handling: Challenges and Opportunities for Weather and Climate Prediction," Bulletin of the American Meteorological Society (December 2024), American Meteorological Society. doi: 10.1175/BAMS-D-23-0220.1
+Govett, M., B. Bah, P. Bauer, D. Berod, V. Bouchet, S. Corti, C. Davis, Y. Duan, T. Graham, Y. Honda, A. Hines, M. Jean, J. Ishida, B. Lawrence, J. Li, J. Luterbacher, C. Muroi, K. Rowe, M. Schultz, M. Visbeck, and K. Williams. “Exascale Computing and Data Handling: Challenges and Opportunities for Weather and Climate Prediction," _Bulletin of the American Meteorological Society_ (December 2024), American Meteorological Society. doi: 10.1175/BAMS-D-23-0220.1
 
-Graziani, C., and M. Ngom. “Targeted Adaptive Design," SIAM/ASA Journal on Uncertainty Quantification (December 2024), Society for Industrial and Applied Mathematics. doi: 10.1137/22M149898X
+Graziani, C., and M. Ngom. “Targeted Adaptive Design," _SIAM/ASA Journal on Uncertainty Quantification_ (December 2024), Society for Industrial and Applied Mathematics. doi: 10.1137/22M149898X
 
-Harlass, M., R. R. Dalmat, J. Chubak, R. van den Puttelaar, N. Udaltsova, D. A. Corley, C. D. Jensen, N. Collier, J. Ozik, I. Lansdorp-Vogelaar, and R. G. S. Meester. “Optimal Stopping Ages for Colorectal Cancer Screening," JAMA Network Open (December 2024), AMA. doi: doi.org/10.1001/jamanetworkopen.2024.51715
+Harlass, M., R. R. Dalmat, J. Chubak, R. van den Puttelaar, N. Udaltsova, D. A. Corley, C. D. Jensen, N. Collier, J. Ozik, I. Lansdorp-Vogelaar, and R. G. S. Meester. “Optimal Stopping Ages for Colorectal Cancer Screening," _JAMA Network Open_ (December 2024), AMA. doi: doi.org/10.1001/jamanetworkopen.2024.51715
 
-Jin, H., G. Papadimitriou, K. Raghavan, P. Zuk, P. Balaprakash, and C. Wang. “Large Language Models for Anomaly Detection in Computational Workflows: From Supervised Fine-Tuning to In-Context Learning," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00098
+Jin, H., G. Papadimitriou, K. Raghavan, P. Zuk, P. Balaprakash, and C. Wang. “Large Language Models for Anomaly Detection in Computational Workflows: From Supervised Fine-Tuning to In-Context Learning," _SC24: International Conference for High Performance Computing, Networking, Storage and Analysis_ (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00098
 
-Kéruzoré, F., L. E. Bleem, N. Frontiere, N. Krishnan, M. Buehlmann, J. D. Emberson, S. Habib, and P. Larsen. “The Picasso Gas Model: Painting Intracluster Gas on Gravity-Only Simulations," The Open Journal of Astrophysics (December 2024), Maynooth Academic Publishing. doi: 10.33232/001c.127486
+Kéruzoré, F., L. E. Bleem, N. Frontiere, N. Krishnan, M. Buehlmann, J. D. Emberson, S. Habib, and P. Larsen. “The Picasso Gas Model: Painting Intracluster Gas on Gravity-Only Simulations," _The Open Journal of Astrophysics_ (December 2024), Maynooth Academic Publishing. doi: 10.33232/001c.127486
 
-Lin, P. T., P. Nayak, A. Kashi, D. Kulkarni, A. Scheinberg, and H. Anzt. “Accelerating Fusion Plasma Collision Operator Solves with Portable Batched Iterative Solvers on GPUs," ISC High Performance 2024 International Workshops (December 2024), Hamburg, Germany, Springer Nature. doi: 10.1007/978-3-031-73716-9_9
+Lin, P. T., P. Nayak, A. Kashi, D. Kulkarni, A. Scheinberg, and H. Anzt. “Accelerating Fusion Plasma Collision Operator Solves with Portable Batched Iterative Solvers on GPUs," _ISC High Performance 2024 International Workshops_ (December 2024), Hamburg, Germany, Springer Nature. doi: 10.1007/978-3-031-73716-9_9
 
-Liu, J., J. Tian, S. Wu, S. Di, B. Zhang, R. Underwood, Y. Huang, J. Huang, K. Zhao, G. Li, D. Tao, Z. Chen, and F. Cappelo. “CUSZ-i: High-Ratio Scientific Lossy Compression on GPUs with Optimized Multi-Level Interpolation," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00019
+Liu, J., J. Tian, S. Wu, S. Di, B. Zhang, R. Underwood, Y. Huang, J. Huang, K. Zhao, G. Li, D. Tao, Z. Chen, and F. Cappelo. “CUSZ-i: High-Ratio Scientific Lossy Compression on GPUs with Optimized Multi-Level Interpolation," _SC24: International Conference for High Performance Computing, Networking, Storage and Analysis_ (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00019
 
-Martin, A., G. Liu, B. Joo, R. Wu, M. S. Kabir, and E. W. Draeger. “Designing a GPU-Accelerated Communication Layer for Efficient Fluid-Structure Interaction Computations on Heterogeneous Systems," SC24: International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00099
+Martin, A., G. Liu, B. Joo, R. Wu, M. S. Kabir, and E. W. Draeger. “Designing a GPU-Accelerated Communication Layer for Efficient Fluid-Structure Interaction Computations on Heterogeneous Systems," _SC24: International Conference for High Performance Computing, Networking, Storage and Analysis_ (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00099
 
-Pauloski, J. G., V. Hayot-Sasson, L. Ward, A. Brace, A. Bauer, K. Chard, and I. Foster. “Object Proxy Patterns for Accelerating Distributed Applications," IEEE Transactions of Parallel and Distributed Systems (December 2024), IEEE. doi: 10.1109/TPDS.2024.3511347
+Pauloski, J. G., V. Hayot-Sasson, L. Ward, A. Brace, A. Bauer, K. Chard, and I. Foster. “Object Proxy Patterns for Accelerating Distributed Applications," _IEEE Transactions of Parallel and Distributed Systems_ (December 2024), IEEE. doi: 10.1109/TPDS.2024.3511347
 
-Pearl, A. N., G. D. Beltz-Mohrmann, and A. P. Hearin. “DiffOpt: Parallel Optimization of Jax Models," The Journal of Open Source Software (December 2024), Open Source Initiative. doi: 10.21105/joss.07522
+Pearl, A. N., G. D. Beltz-Mohrmann, and A. P. Hearin. “DiffOpt: Parallel Optimization of Jax Models," _The Journal of Open Source Software_ (December 2024), Open Source Initiative. doi: 10.21105/joss.07522
 
-Raj, M. S., T. MacDougall, D. Zhang, and D. Dai . “An Empirical Study of a Machine Learning-Based Synthetic Job Trace Generation Methods," Job Scheduling Strategies for Parallel Processing 2024 (December 2024), San Francisco, CA, Springer Nature. doi: 10.1007/978-3-031-74430-3_2
+Raj, M. S., T. MacDougall, D. Zhang, and D. Dai . “An Empirical Study of a Machine Learning-Based Synthetic Job Trace Generation Methods," _Job Scheduling Strategies for Parallel Processing 2024_ (December 2024), San Francisco, CA, Springer Nature. doi: 10.1007/978-3-031-74430-3_2
 
-Tan, N., K. Assogba, W. J. Ashworth, B. Bogale, F. Cappello, M. M. Rafique, M. Taufer, and B. Nicolae. “Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results," Middleware '24: Proceedings of the 25th International Middleware Conference (December 2024), Hong Kong, ACM. doi: 10.1145/3652892.3700780
+Tan, N., K. Assogba, W. J. Ashworth, B. Bogale, F. Cappello, M. M. Rafique, M. Taufer, and B. Nicolae. “Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results," _Middleware '24: Proceedings of the 25th International Middleware Conference_ (December 2024), Hong Kong, ACM. doi: 10.1145/3652892.3700780
 
-Wisesa, P., and W. A. Saidi. “Overcoming Inaccuracies in Machine Learning Interatomic Potential Implementation for Ionic Vacancy Simulations," Physical Insights into Chemistry, Catalysis, and Interfaces (December 2024), ACS. doi: 10.1021/acs.jpclett.4c02934
+Wisesa, P., and W. A. Saidi. “Overcoming Inaccuracies in Machine Learning Interatomic Potential Implementation for Ionic Vacancy Simulations," _Physical Insights into Chemistry, Catalysis, and Interfaces_ (December 2024), ACS. doi: 10.1021/acs.jpclett.4c02934
 
-Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “ GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," Journal of Chemical Theory and Computation (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
+Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “ GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," _Journal of Chemical Theory and Computation_ (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
 
 Zhang, Z., W. Gee, R. H. Lavroff, and A. N. Alexandrova. “GOCIA: A Grand Canonical Global Optimizer for Clusters, Interfaces, and Adsorbates," _Physical Chemistry Chemical Physics_ (December 2024), Royal Society of Chemistry. doi: 10.1039/D4CP03801K
 
