@@ -23,7 +23,7 @@ ALCF staff members remain actively involved in several HPC standards and communi
 
 {% include media-img.html
    source= "ALCF_Shaping2.jpg"
-   caption= "Quick brown fox."
+   caption= "ALCF's Sam Foreman presents over AuroraGPT at the 2024 Hands-on HPC Workshop."
 %}
 
 ## Performance Portability
