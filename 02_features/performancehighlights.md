@@ -3,7 +3,7 @@ layout: page
 
 title: Aurora Performance Highlights
 intro: "With Aurora fully assembled, early science team members began running and optimizing their applications to prepare the system for open access. Here are some early performance results on Aurora."
-teaser-img-source: openmc.PNG
+teaser-img-source: drugdiscovery.png
 
 theme: dark
 permalink: features/aurora-performance-highlights

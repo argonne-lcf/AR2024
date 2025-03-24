@@ -3,7 +3,7 @@ layout: page
 
 title: 2024 Science Highlights
 intro: "The quick brown fox jumps over the lazy dog."
-
+teaser-img-source: ALCF-MProtDPO.png
 theme: white
 permalink: science/highlights
 ---

@@ -19,13 +19,13 @@ image: 'Habib-HACC.png'
 
 
 
-# Challenge
+## Challenge
 
 To scale application codes to hundreds and thousands of Aurora processes via the Asynchronous Many-Task (AMT) Uintah framework, the development team focused on a Reverse Monte-Carlo Ray Tracing radiation benchmark calculation, central to the University of Utah’s predictive boiler simulations. This benchmark involves potentially global all-to-all communication and uses adaptive mesh refinement and ray tracing to achieve scalability. This benchmark has been used as part of previous scalability studies on a number of pre-exascale systems and the DOE-operated exascale Frontier system while harnessing 98 percent of the machine.
 
 
 
-# Performance Results
+## Performance Results
 Running on Aurora, the team was able to scale from 1280 nodes up to 10,240 nodes for the Burns and Christon benchmark problem on a 2-level structured adaptive mesh refinement grid with more than 129 billion cells, demonstrating that good strong-scaling efficiency is achievable.
 
 These large-scale studies explored the impact of a larger refinement ratio to determine if aggressive mesh refinement will make full-system runs possible. The Uintah runtime systems have proved to be exceptionally capable when it comes to enabling the application to run in a scalable way on Aurora.
@@ -35,5 +35,5 @@ These large-scale studies explored the impact of a larger refinement ratio to de
    source= "uintah-chart.png"
 %}
 
-# Impact
+## Impact
 The scalability results obtained are a promising start and help show the capabilities of Uintah as an exascale AMT runtime system and pave the way for scientific simulations, such as fluid-structure interaction problems or simulations of turbulent reacting flows at unprecedented sizes on exascale machines. Additional work is underway to improve performance, and to better understand how to balance the tradeoffs between computation loads and communications costs when running at the largest scales.

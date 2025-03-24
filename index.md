@@ -46,7 +46,7 @@ title: Argonne Leadership Computing Facility
 			<div class="teaser">
 			    <a href="{{ site.url }}/science/highlights">
 			    	<div class="image-wrapper">
-			    		<div><img src="{{ site.url }}/assets/images/Uzdensky.png"></div>
+			    		<div><img src="{{ site.url }}/assets/images/ALCF-MProtDPO.png"></div>
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">
