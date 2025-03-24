@@ -7,7 +7,8 @@ permalink: features/aurora
 title: Aurora Reaches Exascale, Leads in AI Performance
 hero-mp4-source: "aurora_pan.mp4"
 hero-img-source: ALCF_AuroraSkin.jpg
-hero-img-caption: "In 2024, the system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community."
+hero-img-caption: "Built in partnership with Intel and HPE, Aurora is equipped with 63,744 GPUs and 84,992 network endpoints, making it one of the largest supercomputer installations to date."
+intro: "In 2024, the system surpassed the exascale barrier, demonstrated its world-class AI capabilities, and completed critical preparations for its release to the research community."
 
 aside: alcf-4.md
 ---
