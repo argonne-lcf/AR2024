@@ -5,6 +5,7 @@ title: ALCF Systems
 
 theme: white
 permalink: expertise-and-resources/systems
+intro: "ALCF resources include leadership-class supercomputers, novel AI accelerators, visualization clusters, advanced data storage systems, high-performance networking capabilities, and a wide variety of software tools and services to help facility users achieve their science goals."
 ---
 
 
