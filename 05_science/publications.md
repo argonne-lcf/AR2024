@@ -414,29 +414,50 @@ Zheng, W., J. Kordas, T. J. Skluzacek, R. Kettimuthu, and I. Foster. “Globus S
 
 # OCTOBER
 
-Burrows, A., D. Vartanyan, and T. Wang. “Black Hole Formation Accompanied by the Supernova Explosion of a 40 M<sub>⊙</sub> Progenitor Star," <i>The Astrophysical Journal</i> (October 2023), IOP Publishing. doi: 10.3847/1538-4357/acfc1c
+Ahrens, J., M. Arienti, U. Ayachit, J. Bennett, R. Binyahib, A. Biswas, P.-T. Bremer, E. Brugger, R. Bujack, H. Carr, J. Chen, H. Childs, S. Dutta, A. Essiari, B. Geveci, C. Harrison, S. Hazarika, M. H. Fulp, P. Hristov, X. Huang, J. Insley, Y. Kawakami, C. Keilers, J. Kress, M. Larsen, D. Lipsa, M. Majumder, N. Marsaglia, V. A. Mateevitsi, V. Pascucci, J. Patchett, S. Patel, S. Petruzza, D. Pugmire, S. Rizzi, D. H. Rogers, O. Rübel, J. Salinas, S. Sane, S. Shudler, A. Stewart, K. Tsai, T. L. Turton, W. Usher, Z. Wang, G. H. Weber, C. Wetterer-Nelson, J. Woodring, and A. Yenpure. “The ECP ALPINE Project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241286521
 
-Chen, Y., E. M. Y. Lee, P. S. Gil, P. Ma, C. V. Amanchukwu, and J. J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," <i>Molecular Systems Design and Engineering</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/d2me00135g
+Bertrand, A., A. Lewis, J. Camps, V. Grau, and B. Rodriguez. “Multi-Modal Characterisation of Early-Stage, Subclinical Cardiac Deterioration in Patients with Type 2 Diabetes," _Cardiovascular Diabetology_ (October 2024), BioMed Central. doi: https://doi.org/10.1186/s12933-024-02465-y
 
-Datta, D., and M. S. Gordon. “Accelerating Coupled-Cluster Calculations with GPUs: An Implementation of the Density-Fitted CCSD(T) Approach for Heterogeneous Computing Architectures Using OpenMP Directives," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS Publications. doi: 10.1021/acs.jctc.3c00876
+Bhattarai, R., and T. D. Rhone. “Exploring Bonding Configurations in MnBi<sub>2</sub>Te<sub>4</sub>-Type Materials," _ACS Applied Materials and Interfaces_ (October 2024), ACS Publications. doi: 10.1021/acsami.4c12946
 
-Harb, H., S. N. Elliott, L. Ward, I. T. Foster, S. J. Klippenstein, L. A. Curtiss, and R. S. Assary. “Uncovering Novel Liquid Organic Hydrogen Carriers: A Systematic Exploration of Chemical Compound Space Using Cheminformatics and Quantum Chemical Methods," <i>Digital Discovery</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/D3DD00123G
+Bouvier, T., B. Nicolae, H. Chaugier, A. Costan, I. Foster, and G. Antoniu. “Efficient Data-Parallel Continual Learning with Asynchronous Distributed Rehearsal Buffers," _2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)_ (October 2024), Philadelphia, PA, IEEE. doi: 10.1109/CCGrid59990.2024.00036
 
-Huang, S., and J. M. Cole. “ChemDataWriter: A Transformer-Based Toolkit for Auto-Generating Books That Summarise Research," <i>Digital Discovery</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/D3DD00159H
+Breitenfeld, M. S., H. Tang, H. Zheng, J. Henderson, and S. Byna. “HDF5 in the Exascale Era: Delivering Efficient and Scalable Parallel I/O for Exascale Applications," _The International Journal of High Performance Computing Applications_ (October 2024), Sage. doi: 10.1177/10943420241288244
 
-Kravvaris, K., P. Navrátil, S. Quaglioni, C. Hebborn, and G. Hupin. “Ab Initio Informed Evaluation of the Radiative Capture of Protons on 7Be," <i>Physics Letters B</i> (October 2023), Elsevier. doi: 10.1016/j.physletb.2023.138156
+Cheng, D., K.-L. Nguyen, M. Heyde, B. R. Cuenya, A. N. Alexandrova, and P. Sautet. “Structure Sensitivity and Catalyst Restructuring for CO<sub>2</sub> Electro-Reduction on Copper," _ECS Meeting Abstracts_ (October 2024), The Electrochemical Society. doi: 10.1149/MA2024-02624231mtgabs
 
-Liu, X., S. Jiang, A. Vasan, A. Brace, O. Gokdemir, T. Brettin, F. Xia, I. Foster, and R. Stevens. “DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization," <i>NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development</i> (October 2023), New Orleans, LA, Neural Information Processing Systems Foundation.
+Choi, L., A. Burrows, and D. Vartanyan. “Gravitational-Wave and Gravitational-Wave Memory Signatures of Core-Collapse Supernovae," _The Astrophysical Journal_ (October 2024), IOP Publishing. doi: 10.3847/1538-4357/ad74f8
 
-Minch, P., R. Bhattarai, and T. D. Rhone. “Data-Driven Study of Magnetic Anisotropy in Transition Metal Dichalcogenide Monolayers," <i>Solid State Communications</i> (October 2023), Elsevier. doi: 10.1016/j.ssc.2023.115248
+Cui, M., Y. Lu, M. Mezei, and D. E. Logothetis. “Molecular Dynamics (MD) Simulations Provide Insights into the Activation Mechanisms of 5-HT<sub>2A</sub> Receptors," _Molecules_ (October 2024), MDPI. doi: 10.3390/molecules29204935
 
-Vartanyan, D., and A. Burrows. “Neutrino Signatures of 100 2D Axisymmetric Core-Collapse Supernova Simulations," <i>Monthly Notices of the Royal Astronomical Society</i> (October 2023), Oxford University Press. doi: 10.1093/mnras/stad2887
+Cui, M., Y. Lu, X. Ma, and D. E. Logothetis. “Molecular Mechanism of GIRK2 Channel Gating Modulated by Cholesteryl Hemisuccinate," _Frontiers in Physiology_ (October 2024), Frontiers Media SA. doi: 10.3389/fphys.2024.1486362
 
-Wan, S., A. P. Bhati, and P. V. Coveney. “Comparison of Equilibrium and Nonequilibrium Approaches for Relative Binding Free Energy Predictions," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS. doi: 10.1021/acs.jctc.3c00842
+Ding, H.-T., X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn, R. Zhang, and Y. Zhao. “QCD Predictions for Meson Electromagnetic Form Factors at High Momenta: Testing Factorization in Exclusive Processes," _Physical Review Letters_ (October 2024), APS. doi: 10.1103/PhysRevLett.133.181902
 
-Zahariev, F., P. Xu, B. M. Westheimer, S. Webb, J. G. Vallejo, A. Tiwari, V. Sundriyal, M. Sosonkina, J. Shen, G. Schoendorff, M. Schlinsog, T. Sattasathuchana, K. Ruedenberg, L. B. Roskop, A. P. Rendell, D. Poole, P. Piecuch, B. Q. Pham, V. Mironov, J. Mato, S. Leonard, S. S. Leang, J. Ivanic, J. Hayes, T. Harville, K. Gururangan, E. Guidez, I. S. Gerasimov, C. Friedl, K. N. Ferreras, G. Elliott, D. Datta, D. Del Angel Cruz, L. Carrington, C. Bertoni, G. M. J. Barca, M. Alkan, and M. S. Gordon. “The General Atomic and Molecular Electronic Structure System (GAMESS): Novel Methods on Novel Architectures," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS. doi: 10.1021/acs.jctc.3c00379
+Hong, I., H. Bae, J. Ahn, H. Shin, H. Lee, and Y. Kwon. “Design of Biphenylene-Derived Tunable Dirac Materials," _FlatChem_ (October 2024), Elsevier. doi: 10.1016/j.flatc.2024.100760
 
-Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, B. Kale, D. Perez-Rivera, H. Ma, C. M. Mann, M. Irvin, J. G. Pauloski, L. Ward, V. Hayot-Sasson, M. Emani, S. Foreman, Z. Xie, D. Lin, M. Shukla, W. Nie, J. Romero, C. Dallago, A. Vahdat, C. Xiao, T. Gibbs, I. Foster, J. J. Davis, M. E. Papka, T. Brettin, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “GenSLMs: Genome-Scale Language Models Reveal SARS-CoV-2 Evolutionary Dynamics," <i>The International Journal of High Performance Computing Applications</i> (October 2023), SAGE Publications. doi: 10.1177/10943420231201154
+Liu, Q., J. Xu, W. Jiang, J. Gim, A. P. Tornheim, R. Pathak, Q. Zhu, P. Zuo, Z. Yang, K. Z. Pupek, E. Lee, C. Wang, C. Liu, J. R. Croy, K. Xu, and Z. Zhang. “High-Energy LiNiO<sub>2</sub> Li Metal Batteries Enabled by Hybrid Electrolyte Consisting of Ionic Liquid and Weakly Solvating Fluorinated Ether," Advanced Science (October 2024), John Wiley and Sons. doi: 10.1002/advs.202409662
+
+Liu, Y., F. Alsafadi, T. Mui, D. O'Grady, and R. Hu. “Development of Whole System Digital Twins for Advanced Reactors: Leveraging Graph Neural Networks and SAM Simulations," _Nuclear Technology_ (October 2024), Taylor and Francis. doi: 10.1080/00295450.2024.2385214
+
+Maharjan, R., Z. Zhang, P. A. Klenotic, W. D. Gregor, M. L. Tringides, M. Cui, G. E. Purdy, and E. W. Yu. “Structures of the Mycobacterial MmpL4 and MmpL5 Transporters Provide Insights into Their Role in Siderophore Export and Iron Acquisition," _PLOS Biology_ (October 2024), Public Library of Science. doi: 10.1371/journal.pbio.3002874
+
+Ngom, M., C. Graziani, and N. Paulson. “Atomic Layer Deposition Optimization via Targeted Adaptive Design," _38th Conference on Neural Information Processing Systems_ (October 2024), OpenReview.
+
+Samaddar, A., S. K. Ravi, N. Ramachandra, L. Luan, S. Madireddy, A. Bhaduri, P. Pandita, C. Sun, and L. Wang. “Data-Efficient Dimensionality Reduction and Surrogate Modeling of High-Dimensional Stress Fields," _Journal of Mechanical Design_ (October 2024), ASME. doi: 10.1115/1.4066224
+
+Shilpika, S., B. Lusch, M. Emani, F. Simini, V. Vishwanath, M. E. Papka, and K.-L. Ma. “A Multi-Level, Multi-Scale Visual Analytics Approach to Assessment of Multifidelity HPC Systems," _2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)_ (October 2024), Philadelphia, PA, IEEE. doi: 10.1109/CCGrid59990.2024.00060
+
+Tramm, J., P. Romano, P. Shriwise, A. Lund, J. Doerfert, P. Steinbrecher, A. Siegel, and G. Ridley. “Performance Portable Monte Carlo Particle Transport on Intel, NVIDIA, and AMD GPUs," _Joint International Conference on Supercomputing in Nuclear Applications + Monte Carlo (SNA + MC 2024)_ (October 2024), Paris, France, EDP Sciences. doi: 10.1051/epjconf/202430204010
+
+Wang, T., and A. Burrows. “Insights into the Production of <sup>44</sup>Ti and Nickel Isotopes in Core-Collapse Supernovae," _The Astrophysical Journal_ (October 2024), IOP Publishing. doi: 10.3847/1538-4357/ad6983
+
+Ward, L., J. G. Pauloski, V. Hayot-Sasson, Y. Babuji, A. Brace, R. Chard, K. Chard, R. Thakur, and I. Foster. “Employing Artificial Intelligence to Steer Exascale Workflows with Colmena," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241288242
+
+Wu, X., P. Balaprakash, M. Kruse, J. Koo, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall. “ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales," _Concurrency and Computation: Practice and Experience_ (October 2024), John Wiley and Sons. doi: 10.1002/cpe.8322
+
+Wu, X., J. R. Tramm, J. Larson, J.-L. Navarro, P. Balaprakash, B. Videau, M. Kruse, P. Hovland, V. Taylor, and M. Hall. “Integrating ytopt and libEnsemble to Autotune OpenMC," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241286476
+
 
 # NOVEMBER
 Abbott, R., M. S. Albergo, A. Botev, D. Boyda, K. Cranmer, D. C. Hackett, A. G. D. G. Matthews, S. Racanière, A. Razavi, D. J. Rezende, F. Romero-López, P. E. Shanahan, and J. M. Urban. “Aspects of Scaling and Scalability for Flow-Based Sampling of Lattice QCD," <i>The European Physical Journal A</i> (November 2023), Springer Nature. doi: 10.1140/epja/s10050-023-01154-w
