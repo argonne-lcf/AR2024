@@ -6,7 +6,7 @@ permalink: features
 
 title: Features
 bg-mp4-source: "harvey.mp4"
-intro: "The ALCF is providing supercomputing and AI resources and capabilities to enable pioneering research at the intersection of simulation, big data analysis, and machine learning."
+intro: "The ALCF is offering supercomputing and AI tools to support groundbreaking research that blends simulation, big data analysis, and machine learning."
 ---
 
 
