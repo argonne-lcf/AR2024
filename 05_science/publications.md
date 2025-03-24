@@ -57,21 +57,42 @@ Tramm, J., B. Allen, K. Yoshii, A. Siegel, and L. Wilson. “Efficient Algorithm
 
 # FEBRUARY
 
-Banik, S., D. Dhabal, H. Chan, S. Manna, M. Cherukara, V. Molinero, and S. K. R. S. Sankaranarayanan. “CEGANN: Crystal Edge Graph Attention Neural Network for Multiscale Classification of Materials Environment," <i>npj Computational Materials</i> (February 2023), Springer Nature. doi: 10.1038/s41524-023-00975-z
+Adamson, R., P. Bryant, D. Montoya, J. Neel, E. Palmer, R. Powell, R. Prout, and P. Upton. “Creating Continuous Integration Infrastructure for Software Development on U.S. Department of Energy High-Performance Computing Systems," _Computing in Science and Engineering_ (February 2024), IEEE. doi: 10.1109/MCSE.2024.3362586
 
-Clyde, A., X. Liu, T. Brettin, H. Yoo, A. Partin, Y. Babuji, B. Blaiszik, J. Mohd-Yusof, A. Merzky, M. Turilli, S. Jha, A. Ramanathan, and R. Stevens. “AI-Accelerated Protein-Ligand Docking for SARS-CoV-2 Is 100-Fold Faster with No Significant Change in Detection," <i>Scientific Reports</i> (February 2023), Springer Nature. doi: 10.1038/s41598-023-28785-9
+Baars, W. J., G. Dacome, and M. Lee. “Reynolds-Number Scaling of Wall-Pressure-Velocity Correlations in Wall-Bounded Turbulence," _Journal of Fluid Mechanics_ (February 2024), Cambridge University Press. doi: 10.1017/jfm.2024.46
 
-Jaysaval, P., G. Hammond, and T. C. Johnson. “Massively Parallel Modeling and Inversion of Electrical Resistivity Tomography Data Using PFLOTRAN," <i>Geoscientific Model Development</i> (February 2023), European Geosciences Union. doi: 10.5194/gmd-2022-66
+Balaguru, K., S. S.-C. Wang, L. R. Leung, S. Hagos, B. Harrop, C.-C. Chang, S. W. Lubis, O. A. Garuba, and S. Taraphdar. “Influence of Eastern Pacific Hurricanes on the Southwest US Wildfire Environment," _Geophysical Research Letters_ (February 2024), John Wiley and Sons. doi: 10.1029/2023GL106774
 
-Musaelian, A., S. Batzner, A. Johansson, L. Sun, C. J. Owen, M. Kornbluth, and B. Kozinsky. “Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics," <i>Nature Communications</i> (February 2023), Springer Nature. doi: 10.1038/s41467-023-36329-y
+Burrows, A., T. Wang, D. Vartanyan, and M. S. B. Coleman. “A Theory for Neutron Star and Black Hole Kicks and Induced Spins," _The Astrophysical Journal_ (February 2024), IOP Publishing. doi: 10.3847/1538-4357/ad2353
 
-Raskar, S., T. Applencourt, K. Kumaran, and G. Gao. “Towards Maximum Throughput of Dataflow Software Pipeline under Resource Constraints," <i>PMAM'23: Proceedings of the 14th International Workshop on Programming Models and Applications for Multicores and Manycores</i> (February 2023), ACM, pp. 20-28. doi: 10.1145/3582514.3582521
+Cheng, S., J.-L. Lin, M. Emani, S. Raskar, S. Foreman, Z. Xie, V. Vishwanath, and M. T. Kandemir. “Thorough Characterization and Analysis of Large Transformer Model Training At-Scale," _Proceedings of the ACM on Measurement and Analysis of Computing Systems_ (February 2024), ACM. doi: 10.1145/3639034
 
-Rigo, M., B. Hall, M. Hjorth-Jensen, A. Lovato, and F. Pederiva. “Solving the Nuclear Pairing Model with Neural Network Quantum States," <i>Physical Review E</i> (February 2023), APS. doi: 10.1103/PhysRevE.107.025310
+Grošelj, D., H. Hakobyan, A. M. Beloborodov, L. Sironi, and A. Philippov. “Radiative Particle-in-Cell Simulations of Turbulent Comptonization in Magnetized Black-Hole Coronae," _Physical Review Letters_ (February 2024), APS. doi: 10.1103/PhysRevLett.132.085202
 
-Shao, X., C. Zhu, P. Kumar, Y. Wang, J. Lu, M. Cha, L. Yao, Y. Cao, X. Mao, H. Heinz, and N. A. Kotov. “Voltage-Modulated Untwist Deformations and Multispectral Optical Effects from Ion Intercalation into Chiral Ceramic Nanoparticles," <i>Advanced Materials</i> (February 2023), John Wiley and Sons. doi: 10.1002/adma.202206956
+Huang, J., S. Di, X. Yu, Y. Zhai, J. Liu, Y. Huang, K. J. Raffenetti, H. Zhou, K. Zhao, Z. Chen, F. Cappello, Y. Guo, and R. Thakur. “POSTER: Optimizing Collective Communications with Error-Bounded Lossy Compression for GPU Clusters," PPoPP '24: Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (February 2024), Edinburgh, United Kingdom, ACM. doi: 10.1145/3627535.3638467
 
-Vallejo, J. L. G., G. M. Tow, E. J. Maginn, B. Q. Pham, D. Datta, and M. S. Gordon. “Quantum Chemical Modeling of Propellant Degradation," <i>The Journal of Physical Chemistry A</i> (February 2023), ACS Publications. doi: 10.1021/acs.jpca.2c08722
+Kim, S. W., M. M. Elsayed, N. S. Nichols, T. Lakoba, J. Vanegas, C. Wexler, V. N. Kotov, and A. Del Maestro. “Atomically Thin Superfluid and Solid Phases for Atoms on Strained Graphene," _Physical Review B_ (February 2024), APS. doi: 10.1103/PhysRevB.109.064512
+
+Lee, A. S., S. Elliott, H. Harb, L. Ward, I. Foster, L. Curtiss, and R. S. Assary. “Emin: A First-Principles Thermochemical Descriptor for Predicting Molecular Synthesizability," _Journal of Chemical Information and Modeling_ (February 2024), ACS Publications. doi: 10.1021/acs.jcim.3c01583
+
+McCoy, A. E., M. A. Caprio, P. Maris, and P. J. Fasano. “Intruder Band Mixing in an Ab Initio Description of <sup>12</sup>Be," _Physics Letters B_ (February 2024), Elsevier. doi: 10.1016/j.physletb.2024.138870
+
+Meißner, U.-G., S. Shen, S. Elhatisari, and D. Lee. “Ab Initio Calculation of the Alpha-Particle Monopole Transition Form Factor," _Physical Review Letters_ (February 2024), APS. doi: 10.1103/PhysRevLett.132.062501
+
+Merzari, E., V. C. Leite, J. Fang, D. Shaver, M. Min, S. Kerkemeier, P. Fischer, and A. Tomboulides. “Energy Exascale Computational Fluid Dynamics Simulations with the Spectral Element Method," _Journal of Fluids Engineering_ (February 2024), ASME. doi: 10.1115/1.4064659
+
+Ohayon, B., A. Abeln, S. Bara, T. E. Cocolios, O. Eizenberg, A. Fleischmann, L. Gastaldo, C. Godinho, M. Heines, D. Hengstler, G. Hupin, P. Indelicato, K. Kirch, A. Knecht, D. Kreuzberger, J. Machado, P. Navratil, N. Paul, R. Pohl, D. Unger, S. M. Vogiatzi, K. von Schoeler, and F. Wauters. “Towards Precision Muonic X-Ray Measurements of Charge Radii of Light Nuclei," _Physics_ (February 2024), MDPI. doi: 10.3390/physics6010015
+
+Park, H., X. Yan, R. Zhu, E. A. Huerta, S. Chaudhuri, D. Cooper, I. Foster, and E. Tajkhorshid. “A Generative Artificial Intelligence Framework Based on a Molecular Diffusion Model for the Design of Metal-Organic Frameworks for Carbon Capture," _Communications Chemistry_ (February 2024), Springer Nature. doi: 10.1038/s42004-023-01090-2
+
+Roy, R. B., and D. Tiwari. “StarShip: Mitigating I/O Bottlenecks in Serverless Computing for Scientific Workflows," _Proceedings of the ACM on Measurement and Analysis of Computing Systems_ (February 2024), ACM. doi: 10.1145/3639028
+
+Shin, H., P. Ganesh, P. R. C. Kent, A. Benali, A. Bhattacharya, H. N. Lee, O. Heinonen, and J. T. Krogel. “DFT+U and Quantum Monte Carlo Study of Electronic and Optical Properties of AgNiO<sub>2</sub> and AgNi<sub>1−x</sub>Co<sub>x</sub>O<sub>2</sub> Delafossite," _Physical Chemistry Chemical Physics_ (February 2024), Royal Society of Chemistry. doi: 10.1039/D3CP03477A
+
+Sobczyk, J. E., B. Acharya, S. Bacca, and G. Hagen. “<sup>40</sup>Ca Transverse Response Function from Coupled-Cluster Theory," _Physical Review C_ (February 2024), APS. doi: 10.1103/PhysRevC.109.025502
+
+Wang, T., and A. Burrows. “Nucleosynthetic Analysis of Three-Dimensional Core-Collapse Supernova Simulations," _The Astrophysical Journal_ (February 2024), IOP Publishing. doi: 10.3847/1538-4357/ad12b8
+
 
 
 
