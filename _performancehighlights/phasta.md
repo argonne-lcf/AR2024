@@ -9,7 +9,7 @@ pi: 'Kenneth Jansen, University of Colorado'
 award: 'Aurora Early Science Program, INCITE'
 systems: '-'
 
-image: 'gamess.png' 
+image: 'phasta.png' 
 
 ---
 
