@@ -19,7 +19,7 @@ Held in October at Argonne, the ALCF Hands-on HPC Workshop is designed to help a
 
 {% include media-img.html
    source= "ALCF_Handson.jpg"
-   caption= "Quick brown fox."
+   caption= "ALCF's Scott Parker, Chris Knight, and Katherine Riley discuss INCITE and ALCC Allocations at the ALCF 2024 Hands-on HPC Workshop."
 %}
 
 ## ALCF INCITE GPU Hackathon
