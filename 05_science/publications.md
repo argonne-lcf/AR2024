@@ -516,17 +516,17 @@ Xu, N., and I. Bermejo-Moreno. “Wall-Modeled Large-Eddy Simulations of the Flo
 
 
 # DECEMBER
-Andreoli, L., G. B. King, S. Pastore, M. Piarulli, J. Carlson, S. Gandolfi, and R. B. Wiringa. “Quantum Monte Carlo Calculations of Electron Scattering from 12C in the Short-Time Approximation," Physical Review C (December 2024), APS. doi: 10.1103/PhysRevC.110.064004
+Andreoli, L., G. B. King, S. Pastore, M. Piarulli, J. Carlson, S. Gandolfi, and R. B. Wiringa. “Quantum Monte Carlo Calculations of Electron Scattering from 12C in the Short-Time Approximation," _Physical Review C_ (December 2024), APS. doi: 10.1103/PhysRevC.110.064004
 
-Bhati, A. P., S. Wan, and P. V. Coveney. “Equilibrium and Nonequilibrium Ensemble Methods for Accurate, Precise and Reproducible Absolute Binding Free Energy Calculations," Journal of Chemical Theory and Computation (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01389
+Bhati, A. P., S. Wan, and P. V. Coveney. “Equilibrium and Nonequilibrium Ensemble Methods for Accurate, Precise and Reproducible Absolute Binding Free Energy Calculations," _Journal of Chemical Theory and Computation_ (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01389
 
-Bothmann, E., T. Childers, W. Giele, S. Höche, J. Isaacson, and M. Knobbe. “A Portable Parton-Level Event Generator for the High-Luminosity LHC," SciPost Physics (December 2024), SciPost Foundation. doi: 10.21468/SciPostPhys.17.3.081
+Bothmann, E., T. Childers, W. Giele, S. Höche, J. Isaacson, and M. Knobbe. “A Portable Parton-Level Event Generator for the High-Luminosity LHC," _SciPost Physics_ (December 2024), SciPost Foundation. doi: 10.21468/SciPostPhys.17.3.081
 
-Cloët, I., X. Gao, S. Mukherjee, S. Syritsyn, N. Karthik, P. Petreczky, R. Zhang, and Y. Zhao. “Lattice QCD Calculation of X-Dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation," Physical Review D (December 2024), APS. doi: 10.1103/PhysRevD.110.114502
+Cloët, I., X. Gao, S. Mukherjee, S. Syritsyn, N. Karthik, P. Petreczky, R. Zhang, and Y. Zhao. “Lattice QCD Calculation of X-Dependent Meson Distribution Amplitudes at Physical Pion Mass with Threshold Logarithm Resummation," _Physical Review D_ (December 2024), APS. doi: 10.1103/PhysRevD.110.114502
 
-Comiss, L., G. R. Farrar, and M. S. Muzio. “Ultra-High-Energy Cosmic Rays Accelerated by Magnetically Dominated Turbulence," The Astrophysical Journal Letters (December 2024), American Astronomical Society. doi: 10.3847/2041-8213/ad955f
+Comiss, L., G. R. Farrar, and M. S. Muzio. “Ultra-High-Energy Cosmic Rays Accelerated by Magnetically Dominated Turbulence," _The Astrophysical Journal Letters_ (December 2024), American Astronomical Society. doi: 10.3847/2041-8213/ad955f
 
-Dharuman, G., K. Hippe, A. Brace, S. Foreman, V. Hatanpää, V. K. Sastry, H. Zheng, L. Ward, S. Muralidharan, A. Vasan, B. Kale, C. M. Mann, H. Ma, Y.-H. Cheng, Y. Zamora, S. Liu, C. Xiao, M. Emani, T. Gibbs, M. Tatineni, D. Canchi, J. Mitchell, K. Yamada, M. Garzaran, M. E. Papka, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization," SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00013
+Dharuman, G., K. Hippe, A. Brace, S. Foreman, V. Hatanpää, V. K. Sastry, H. Zheng, L. Ward, S. Muralidharan, A. Vasan, B. Kale, C. M. Mann, H. Ma, Y.-H. Cheng, Y. Zamora, S. Liu, C. Xiao, M. Emani, T. Gibbs, M. Tatineni, D. Canchi, J. Mitchell, K. Yamada, M. Garzaran, M. E. Papka, I. Foster, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization," _SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis_ (December 2024), Atlanta, GA, IEEE. doi: 10.1109/SC41406.2024.00013
 
 Goldsborough, S. S., S. Cheng, D. Kang, J. P. Molnar, Y. M. Wright, and C. E. Frouzakis. “Asynchronicity in Opposed-Piston RMCs: Does It Matter?," _Proceedings of the Combustion Institute_ (December 2024), Elsevier. doi: 10.1016/j.proci.2024.105406
 
