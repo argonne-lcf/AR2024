@@ -416,7 +416,7 @@ Zheng, W., J. Kordas, T. J. Skluzacek, R. Kettimuthu, and I. Foster. “Globus S
 
 Ahrens, J., M. Arienti, U. Ayachit, J. Bennett, R. Binyahib, A. Biswas, P.-T. Bremer, E. Brugger, R. Bujack, H. Carr, J. Chen, H. Childs, S. Dutta, A. Essiari, B. Geveci, C. Harrison, S. Hazarika, M. H. Fulp, P. Hristov, X. Huang, J. Insley, Y. Kawakami, C. Keilers, J. Kress, M. Larsen, D. Lipsa, M. Majumder, N. Marsaglia, V. A. Mateevitsi, V. Pascucci, J. Patchett, S. Patel, S. Petruzza, D. Pugmire, S. Rizzi, D. H. Rogers, O. Rübel, J. Salinas, S. Sane, S. Shudler, A. Stewart, K. Tsai, T. L. Turton, W. Usher, Z. Wang, G. H. Weber, C. Wetterer-Nelson, J. Woodring, and A. Yenpure. “The ECP ALPINE Project: In Situ and Post Hoc Visualization Infrastructure and Analysis Capabilities for Exascale," _The International Journal of High Performance Computing Applications_ (October 2024), SAGE Publications. doi: 10.1177/10943420241286521
 
-Bertrand, A., A. Lewis, J. Camps, V. Grau, and B. Rodriguez. “Multi-Modal Characterisation of Early-Stage, Subclinical Cardiac Deterioration in Patients with Type 2 Diabetes," _Cardiovascular Diabetology_ (October 2024), BioMed Central. doi: 10.1186/s12933-024-02465-y
+Bertrand, A., A. Lewis, J. Camps, V. Grau, and B. Rodriguez. “Multi-Modal Characterisation of Early-Stage, Subclinical Cardiac Deterioration in Patients with Type 2 Diabetes," _Cardiovascular Diabetology_ (October 2024), Springer Nature. doi: 10.1186/s12933-024-02465-y
 
 Bhattarai, R., and T. D. Rhone. “Exploring Bonding Configurations in MnBi<sub>2</sub>Te<sub>4</sub>-Type Materials," _ACS Applied Materials and Interfaces_ (October 2024), ACS Publications. doi: 10.1021/acsami.4c12946
 
