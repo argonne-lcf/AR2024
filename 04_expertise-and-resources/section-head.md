@@ -6,7 +6,7 @@ permalink: expertise-and-resources
 
 title: Expertise and Resources
 bg-mp4-source: "sc24.mp4"
-intro: "The ALCF’s unique combination of supercomputing resources and expertise is helping its user community to accelerate the pace of scientific discovery and innovation."
+intro: "By combining advanced supercomputing power with staff expertise, the ALCF is helping researchers push the boundaries of scientific discovery and innovation."
 ---
 
 
