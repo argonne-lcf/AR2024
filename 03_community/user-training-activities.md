@@ -3,7 +3,8 @@ layout: page
 
 title: Training ALCF Users
 hero-img-source: "ALCF_Hackathon.jpg"
-hero-img-caption: "Quick brown fox."
+hero-img-caption: "Attendees at the ALCF INCITE GPU Hackathon were paired with ALCF staff and shared their progress in optimizing their codes."
+intro: "The ALCF leads various training activities designed to inspire and educate the next generation of researchers in HPC and the computing sciences."
 
 theme: white
 permalink: community-and-outreach/user-training-activities
