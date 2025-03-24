@@ -12,13 +12,13 @@
 <link rel="canonical" href="http://localhost:4000/features/aurora-performance-highlights/phasta" />
 <meta property="og:url" content="http://localhost:4000/features/aurora-performance-highlights/phasta" />
 <meta property="og:site_name" content="2024 ALCF Annual Report" />
-<meta property="og:image" content="http://localhost:4000/gamess.png" />
+<meta property="og:image" content="http://localhost:4000/phasta.png" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:4000/gamess.png" />
+<meta property="twitter:image" content="http://localhost:4000/phasta.png" />
 <meta property="twitter:title" content="Machine Learning-Guided Computational Fluid Dynamics at Extreme Scales" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"This University of Colorado-led effort is aimed at developing a scalable framework to enable in situ machine learning (ML) capabilities from exascale simulations, with the goal of using high-fidelity data from direct numerical simulations (DNS) of complex, wall-bounded turbulent flows to learn accurate and generalizable sub-grid stress (SGS) models for large eddy simulation (LES). LES solves the filtered Navier Stokes equations, and therefore can be run on a coarser mesh, reducing the computational expense, however it relies on SGS models to accurately predict the effects of the unresolved scales. The project also aims to address I/O bottlenecks that are accentuated by the rise of exascale computing. Aurora enables simulations to be conducted at unprecedented scales, producing more data than ever before, making the traditional approach of naively saving the simulation data to disk to then perform training of ML models a bottleneck. By performing training of the ML model concurrently alongside the simulation, we can avoid the file system altogether and efficiently stream data between simulation and ML training modules, storing the necessary data in-memory on the compute nodes. The research team has worked to develop such a framework and ensure scalability to thousands of nodes on Aurora, and to enable efficient inferencing from within the CFD code so these ML models could be deployed in a performant manner on Aurora’s GPUs.","headline":"Machine Learning-Guided Computational Fluid Dynamics at Extreme Scales","image":"http://localhost:4000/gamess.png","url":"http://localhost:4000/features/aurora-performance-highlights/phasta"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"This University of Colorado-led effort is aimed at developing a scalable framework to enable in situ machine learning (ML) capabilities from exascale simulations, with the goal of using high-fidelity data from direct numerical simulations (DNS) of complex, wall-bounded turbulent flows to learn accurate and generalizable sub-grid stress (SGS) models for large eddy simulation (LES). LES solves the filtered Navier Stokes equations, and therefore can be run on a coarser mesh, reducing the computational expense, however it relies on SGS models to accurately predict the effects of the unresolved scales. The project also aims to address I/O bottlenecks that are accentuated by the rise of exascale computing. Aurora enables simulations to be conducted at unprecedented scales, producing more data than ever before, making the traditional approach of naively saving the simulation data to disk to then perform training of ML models a bottleneck. By performing training of the ML model concurrently alongside the simulation, we can avoid the file system altogether and efficiently stream data between simulation and ML training modules, storing the necessary data in-memory on the compute nodes. The research team has worked to develop such a framework and ensure scalability to thousands of nodes on Aurora, and to enable efficient inferencing from within the CFD code so these ML models could be deployed in a performant manner on Aurora’s GPUs.","headline":"Machine Learning-Guided Computational Fluid Dynamics at Extreme Scales","image":"http://localhost:4000/phasta.png","url":"http://localhost:4000/features/aurora-performance-highlights/phasta"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -610,7 +610,7 @@ available parameters:
 
 <div class="media-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/gamess.png"></div>
+		<div><img src="http://localhost:4000/assets/images/phasta.png"></div>
 	</div>
 
 	

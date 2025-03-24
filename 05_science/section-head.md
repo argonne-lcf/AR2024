@@ -6,7 +6,7 @@ permalink: science
 
 title: Science
 bg-mp4-source: "bubbly.mp4"
-intro: ""The ALCF is driving vast advancements in scientific research across diverse areas, from physics and materials science to biology and engineering."
+intro: "The ALCF is driving vast advancements in scientific research across diverse areas, from physics and materials science to biology and engineering."
 ---
 
 
