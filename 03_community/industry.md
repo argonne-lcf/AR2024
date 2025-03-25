@@ -29,7 +29,12 @@ For companies focused on addressing energy-related challenges in manufacturing o
 
 Through these programs, the ALCF helps U.S. industries stay competitive in an evolving global market. By providing access to HPC and AI computing resources and expertise, these partnerships enable companies to tackle complex challenges, accelerate the R&D process, and drive technological innovation. 
 
-To explore potential collaboration opportunities with the ALCF, contact us at industry@alcf.anl.gov 
+---
+
+**To explore potential collaboration opportunities with the ALCF, contact us at industry@alcf.anl.gov**
+
+---
+
 
 ## Partners
 Here are some examples of how ALCF resources are helping companies to advance their R&D efforts.

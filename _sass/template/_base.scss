@@ -97,7 +97,8 @@ p,
 ul,
 ol,
 table,
-.language-plaintext {
+.language-plaintext,
+hr {
 	grid-column: span 12;
   @include respond-to(m){
     grid-column: 4 / 12;
@@ -247,6 +248,17 @@ p.intro {
   @include stack(md);
 }
 
+hr {
+  border: none;
+  width: 100%;
+  border-top: 2px solid color(green, XXXX);
+  height: 0;
+  margin-bottom: 12px;
+}
+
+p + hr {
+  margin-top: 4px;
+}
 
 
 // Color Themes
