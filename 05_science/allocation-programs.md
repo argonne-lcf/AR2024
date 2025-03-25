@@ -7,6 +7,8 @@ permalink: science/allocation-programs
 title: Accessing ALCF Resources for Science
 intro: "As a national user facility dedicated to open science, any researcher in the world with a large-scale computing problem can apply for time on ALCF computing resources."
 
+teaser-img-source: "ALCF_machines.jpg"
+
 aside: by-domain.md
 ---
 
