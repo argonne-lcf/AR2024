@@ -5,7 +5,7 @@ theme: white
 permalink: expertise-and-resources/staff-news
 
 title: Staff News
-hero-img-source: "ALCF_BestPaper.jpg"
+hero-img-source: "ALCF_bestPaper.jpg"
 hero-img-caption: "Quick brown fox"
 intro: "Through a dedication to the acceleration of science and HPC, ALCF staff received several prestigious awards and recognitions throughout 2024."
 ---
