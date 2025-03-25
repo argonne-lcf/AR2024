@@ -23,7 +23,8 @@
 	.img-wrapper {
 		@include aspect-ratio(16, 9);
 		@include stack(xs);
-		border: 1px solid color(neutral, XXX);
+		// border: 1px solid color(neutral, XXX);
+		border: .5px solid color(green, XXXXX);
 	}
 
 	img {

@@ -16,6 +16,7 @@
 		width: 100%;
 		aspect-ratio: 16 / 9;
 		@include stack(xs);
+		border: .5px solid color(neutral, XXXXX);
 	}
 
 	.caption {
@@ -26,4 +27,16 @@
 		font-style: italic;
 	}
 		
+}
+
+.theme--warm iframe, .theme--warm video {
+	border: .5px solid color(green, XXXXX);
+}
+
+.theme--cyan iframe, .theme--cyan video {
+	border: .5px solid color(blue, XXXXX);
+}
+
+.theme--dark iframe, .theme--dark video {
+	border: .5px solid color(green, XX);
 }
