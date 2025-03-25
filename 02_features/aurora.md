@@ -28,8 +28,7 @@ Built in partnership with Intel and HPE, Aurora’s architecture represents a fi
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/djEzdORj0F0?si=2FBUZcgIVLey9ywP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
-   credit= "Argonne National Laboratory"
+   caption= "Argonne's Rick Stevens discusses how researchers will use Aurora to revolutionize the use of AI for science."
 %}
 
 ## World-Class Simulation, AI, and Data Capabilities
