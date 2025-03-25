@@ -68,7 +68,7 @@ title: Argonne Leadership Computing Facility
 				<iframe src="https://www.youtube.com/embed/ryGbG0va0NI?si=s-30w8lgeWcWywIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
 			<small class='caption'>
-				Timothy Williams shares how Aurora will transform scientific computing. </span>
+				Timothy Williams discusses how Aurora will transform scientific computing.
 			</small>
 		</div>
 		<div class='embed-2'>
@@ -76,7 +76,7 @@ title: Argonne Leadership Computing Facility
 				<iframe src="https://www.youtube.com/embed/p73JPSPTzVo?si=Zu_4Jz_E0jADcypf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
 			<small class='caption'>
-				Salman Habib explains Aurora's role in advancing computational cosmology. </span>
+				Salman Habib explains Aurora's role in advancing computational cosmology.
 			</small>
 		</div>
 		<div class='embed-3'>
@@ -84,7 +84,7 @@ title: Argonne Leadership Computing Facility
 				<iframe src="https://www.youtube.com/embed/YpB6kQ_i9pA?si=DG9_nDvX8sXvzzMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
 			<small class='caption'>
-				Anouar Benali discusses how Aurora will revolutionize materials discovery.</span>
+				Anouar Benali shares how Aurora will revolutionize materials discovery.
 			</small>
 		</div>
 	<!-- </div> -->
