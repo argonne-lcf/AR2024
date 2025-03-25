@@ -540,7 +540,7 @@ available parameters:
 
 <div class="media-hero-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/iri.jpg"></div>
+		<div><img src="http://localhost:4000/assets/images/ALCF_IRI.jpg"></div>
 	</div>
 
 	
@@ -576,7 +576,9 @@ MEDIA, EMBED
 -------------------------------------------------------------------------------
 
 available parameters:
-* embed-code
+- embed-code
+- vid-src-mp4
+- vid-src-webm
 - caption
 - credit
 
@@ -587,9 +589,12 @@ available parameters:
 -->
 
 <div class="media-embed">
-	<div class="embed-wrapper">
-		<iframe src="https://www.youtube.com/embed/1gM9N7cmT38?si=elp49gvF4-rXVauP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-	</div>
+	
+	<video controls="">
+		<source src="http://localhost:4000/assets/video/iri.mp4" type="video/mp4" />
+	</video>
+	
+
 	<small class="caption">
 		Quick brown fox
 		
@@ -610,7 +615,9 @@ MEDIA, EMBED
 -------------------------------------------------------------------------------
 
 available parameters:
-* embed-code
+- embed-code
+- vid-src-mp4
+- vid-src-webm
 - caption
 - credit
 
@@ -621,9 +628,12 @@ available parameters:
 -->
 
 <div class="media-embed">
+	
 	<div class="embed-wrapper">
 		<iframe src="https://www.youtube.com/embed/twLutyNPmX4?si=ABoBr5VeNlpF9qni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	</div>
+	
+
 	<small class="caption">
 		Quick brown fox
 		

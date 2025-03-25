@@ -5,7 +5,9 @@ MEDIA, EMBED
 -------------------------------------------------------------------------------
 
 available parameters:
-* embed-code
+- embed-code
+- vid-src-mp4
+- vid-src-webm
 - caption
 - credit
 
@@ -17,9 +19,20 @@ available parameters:
 
 
 <div class="media-embed">
+	{% if include.embed-code %}
 	<div class="embed-wrapper">
 		{{ include.embed-code }}
 	</div>
+	{% elsif include.vid-src-mp4 %}
+	<video controls>
+		<source src="{{ site.url }}/assets/video/{{ include.vid-src-mp4 }}" type="video/mp4">
+	</video>
+	{% elsif include.vid-src-webm %}
+	<video controls>
+		<source src="{{ site.url }}/assets/video/{{ include.vid-src-webm }}" type="video/webm">
+	</video>
+	{% endif %}
+
 	<small class="caption">
 		{{ include.caption }}
 		{% if include.credit %}
