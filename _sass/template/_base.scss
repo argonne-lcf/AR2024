@@ -163,6 +163,12 @@ h4 {
   text-transform: uppercase;
 }
 
+body[class$="award-list"] h4 {
+  @include typestyle($sans-sm-bld);
+  text-transform: none;
+  margin-bottom: 0;
+}
+
 p, ol, ul {
   @include typestyle($sans-sm-reg);
   @include stack(xs);

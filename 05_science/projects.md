@@ -12,7 +12,6 @@ teaser-img-source: ALCF_SDL-1.jpg
 ## INCITE 2024
 
 
-
 ### BIOLOGICAL SCIENCES
 
 #### [COMbining Deep-Learning with Physics-Based affinIty estimatiOn 3 (COMPBIO3)](https://www.alcf.anl.gov/science/projects/combining-deep-learning-physics-based-affinity-estimation-3-compbio3)
