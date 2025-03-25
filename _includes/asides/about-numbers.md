@@ -16,7 +16,6 @@
 	label-3 = "Publications"	
 %}
 
-**NEED PUBLICATIONS #**
 
 {%	include txt-fig.html 
 	figure-1 = "2,103"
@@ -67,7 +66,6 @@
 %}
 
 
-**NEED STAFF #s**
 
 
 
