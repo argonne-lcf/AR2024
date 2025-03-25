@@ -5,17 +5,13 @@ title: Powering Breakthroughs for U.S. Industry
 hero-img-source: ALCF_Industry.jpg
 hero-img-caption: "Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration. The simulation was carried out at the ALCF as part of a collaboration between Argonne and RTX Technologies Research Center."
 hero-img-credit: "Argonne National Laboratory"
-intro: "Through industry partnerships, the ALCF provides access to HPC resources that drive innovation and science."
+intro: "Through collaborations with industry partners, the ALCF provides companies with access to powerful computing resources that drive technological advancements and strengthen the nation’s innovation infrastructure."
 
 
 theme: white
 permalink: community-and-outreach/industry
 ---
 
-
-Through collaborations with industry partners, the ALCF provides companies with access to powerful computing resources that drive technological advancements, accelerate product development, and strengthen the nation’s innovation infrastructure.
-
-## Industry Partnerships Program
 The ALCF’s Industry Partnerships Program enables companies of all sizes—from startups to Fortune 500 corporations—to leverage leadership computing resources and expertise. These collaborations help industry partners to tackle R&D challenges that exceed the capabilities of traditional computing systems.
 
 With state-of-the-art capabilities for simulation, AI, and data analysis, ALCF computing resources help researchers create higher-fidelity models, achieve more accurate predictions, and quickly process massive datasets. As a result, companies can accelerate breakthroughs, reduce uncertainties, and minimize the need for costly prototypes.
@@ -36,8 +32,8 @@ Through these programs, the ALCF helps U.S. industries stay competitive in an ev
 ---
 
 
-## Partners
-Here are some examples of how ALCF resources are helping companies to advance their R&D efforts.
+## Driving R&D Innovation
+From AI-driven workflows to large-scale simulations, the following examples illustrate how companies are using ALCF resources to advance their R&D efforts.
 
 
 ### MSBAI
