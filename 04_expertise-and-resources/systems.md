@@ -99,17 +99,17 @@ ALCF systems connect to other research institutions over multiple 100 Gbps conne
  
 Argonne’s Joint Laboratory for System Evaluation (JLSE) provides access to leading-edge testbeds for research aimed at evaluating future extreme-scale computing systems, technologies, and capabilities. Here is a partial listing of the novel technology that make up the JLSE.
 
-- Florentia: Test and development system equipped with early versions of the Sapphire Rapids CPUs and Ponte Vecchio GPUs that power Aurora 
-- Arcticus, DevEP, Iris: Intel discrete and integrated GPU testbeds to
+- <b>Florentia:</b> Test and development system equipped with early versions of the Sapphire Rapids CPUs and Ponte Vecchio GPUs that power Aurora 
+- <b>Arcticus, DevEP, Iris:</b> Intel discrete and integrated GPU testbeds to
 support the development, optimization, and scaling of applications and software for Aurora
-- Aurora Software Development Kit: Frequently updated version of the publicly available Intel oneAPI toolkit for Aurora development
-- Arm Ecosystem: Apollo 80 Fujitsu A64FX Arm system, NVIDIA Ampere Arm and A100 test kits, and an HPE Comanche with Marvell ARM64 CPU platform provide an ecosystem for porting applications and measuring performance on next-generation systems
-- Presque: Intel DAOS nodes for testing the Aurora storage system
-- Edge Testbed: NVIDIA Jetson Xavier and Jetson Nano platforms provide a resource for testing and developing edge computing applications
-- NVIDIA and AMD GPUs: Clusters of NVIDIA V100, A100, and A40 GPUs, and AMD MI50 and MI100 GPUs for preparing applications for heterogeneous computing architectures
-- NVIDIA Bluefield-2 DPU SmartNICs: Platform used for confidential computing, MPICH offloading, and APS data transfer acceleration
-- NextSilicon Maverick: First-generation product being tested by Argonne researchers
-Atos Quantum Learning Machine: Platform for testing and developing quantum algorithms and applications
+- <b>Aurora Software Development Kit:</b> Frequently updated version of the publicly available Intel oneAPI toolkit for Aurora development
+- <b>Arm Ecosystem:</b> Apollo 80 Fujitsu A64FX Arm system, NVIDIA Ampere Arm and A100 test kits, and an HPE Comanche with Marvell ARM64 CPU platform provide an ecosystem for porting applications and measuring performance on next-generation systems
+- <b>Presque:</b> Intel DAOS nodes for testing the Aurora storage system
+- <b>Edge Testbed:</b> NVIDIA Jetson Xavier and Jetson Nano platforms provide a resource for testing and developing edge computing applications
+- <b>NVIDIA and AMD GPUs:</b> Clusters of NVIDIA V100, A100, and A40 GPUs, and AMD MI50 and MI100 GPUs for preparing applications for heterogeneous computing architectures
+- <b>NVIDIA Bluefield-2 DPU SmartNICs:</b> Platform used for confidential computing, MPICH offloading, and APS data transfer acceleration
+- <b>NextSilicon Maverick:</b> First-generation product being tested by Argonne researchers
+- <b>Atos Quantum Learning Machine:</b> Platform for testing and developing quantum algorithms and applications
  
 
 
