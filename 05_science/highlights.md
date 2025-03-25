@@ -3,7 +3,7 @@ layout: page
 
 title: 2024 Science Highlights
 intro: "In 2024, researchers from around the globe leveraged ALCF's supercomputing and AI resources to drive breakthroughs across a diverse array of scientific fields. Highlights from the past year include a novel AI-driven approach to protein design; large-scale simulation campaigns advancing fusion energy science and hypersonic aircraft research; and a collaboration with NASA to simulate the cosmos in preparation for upcoming telescopes. These highlights represent just a sampling of the groundbreaking work being done by ALCF users to accelerate scientific discovery and innovation."
-teaser-img-source: ALCF-MProtDPO.png
+teaser-img-source: larsson.png
 theme: white
 permalink: science/highlights
 ---
