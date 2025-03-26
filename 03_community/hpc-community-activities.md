@@ -5,7 +5,7 @@ title: Shaping the Future of Supercomputing
 
 hero-img-source: "ALCF_Shaping.jpg"
 hero-img-caption: "ALCF’s Nevin Liber provides an update on standardization and performance portability efforts with C++, SYCL, and Kokkos at the 2024 Exascale Computing Project Industry and Agency Council Meeting at Argonne National Laboratory."
-intro: "The ALCF participates in various computing conferences and HPC standards groups to help shape the future of AI and HPC."
+intro: "The ALCF is advancing the use HPC and AI for science through contributions to standards groups, conferences and strategic partnerships with industry leaders."
 
 theme: white
 permalink: community-and-outreach/hpc-community-activities
