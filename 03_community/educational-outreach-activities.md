@@ -4,7 +4,7 @@ layout: page
 title: Inspiring Students
 hero-img-source: ALCF_Students.jpg
 hero-img-caption: "ALCF's Joseph Insley gives an overview of scientific visualizations to a group of students participating in an Argonne computing camp."
-intro: "Through hosting and participating in various programs and activities, the ALCF is helping inspire a new generation of computer scientists."
+intro: "Through camps, internships, and training programs, ALCF helps students gain valuable experience with HPC and AI, opening the doors to potential career paths in computing."
 
 theme: white
 permalink: community-and-outreach/educational-outreach-activities
