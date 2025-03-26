@@ -6,7 +6,7 @@ permalink: features/nexus-iri
 
 title: Linking Experimental Facilities and Leadership Computing
 hero-img-source: ALCF_IRI.jpg
-hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader Integrated Research Infrastructure."
+hero-img-caption: "Researchers are developing and demonstrating capabilities to accelerate experimental fusion research by closely integrating DOE supercomputers with the DIII-D National Fusion Facility."
 intro: "Argonne researchers are working to advance the DOE’s vision by integrating experimental facilities with ALCF computing resources."
 ---
 
@@ -38,7 +38,7 @@ As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF ha
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/twLutyNPmX4?si=ABoBr5VeNlpF9qni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Argonne's Nicholas Schwarz discusses how integrating the APS with ALCF computing resources will allow researchers to collect, analyze, and act on data on a scale that has never been possible before"
+   caption= "Argonne's Nicholas Schwarz discusses how integrating the APS with ALCF computing resources will allow researchers to collect, analyze, and act on data on a scale that has never been possible before."
 %}
 
 
