@@ -4,7 +4,7 @@ layout: page
 title: Training ALCF Users
 hero-img-source: "ALCF_Hackathon.jpg"
 hero-img-caption: "Attendees at the ALCF INCITE GPU Hackathon were paired with ALCF staff and shared their progress in optimizing their codes."
-intro: "The ALCF leads various training activities designed to inspire and educate the next generation of researchers in HPC and the computing sciences."
+intro: "The ALCF offers a diverse range of training opportunities, from hands-on workshops to specialized webinars, designed to help researchers maximize their use of the facility’s powerful computing resources."
 
 theme: white
 permalink: community-and-outreach/user-training-activities
