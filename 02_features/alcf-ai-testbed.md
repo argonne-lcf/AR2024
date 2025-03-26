@@ -29,14 +29,12 @@ Experimental data analysis also benefits from the lab’s AI Testbed. Researcher
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/bQ8S9N0LoCY?si=oBKi9Y0fkQLZXT2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
-   credit= "Argonne National Laboratory"
+   caption= "Argonne's Rick Stevens discusses how modern science requires access to powerful AI systems for inference to drive scientific discovery."
 %}
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/9NrrkGT2m8Q?si=Sn0IGC_GvBO5VKQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
-   credit= "Argonne National Laboratory"
+   caption= "ALCF's Venkat Vishwanath discusses how AI inference is becoming a large and critical workload for advancing science."
 %}
 
 
