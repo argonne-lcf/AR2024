@@ -14,6 +14,12 @@ In 2024, the <b>[ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed)</b> 
 
 The testbed is a growing collection of some of the world’s most advanced AI accelerators available for open science. Designed to enable researchers to explore next-generation machine learning applications and workloads to advance AI for science, the systems are also helping the facility to gain a better understanding of how novel AI technologies can be integrated with traditional supercomputing systems powered by CPUs and GPUs. With the AI Testbed, the ALCF user community can leverage novel AI technologies for innovative research projects involving large language models (LLMs), large-scale data analysis, and the development of trustworthy AI.
 
+{% include media-img.html
+   source= 'ALCF_testbeds.jpg'
+   caption= "Quick brown fox jumps over the lazy dog."
+%}
+
+
 The testbed’s AI accelerators are equipped with unique hardware and software features to efficiently handle a variety of AI tasks, including:
 
 - <b>AI Model Training:</b> Using large datasets to “teach” an AI model to detect patterns and make accurate, trustworthy predictions.
