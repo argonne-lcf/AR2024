@@ -15,8 +15,7 @@ Aimed at undergraduate and graduate students from U.S. universities and communit
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/ujPQf9zioLs?si=QkkF81fhAgM1F-MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
-   credit= "Argonne National Laboratory"
+   caption= "ALCF's Marieme Ngom leads a session on the basics of using neural networks for scientific research."
 %}
 
 ## Comprehensive AI for Science Curriculum
