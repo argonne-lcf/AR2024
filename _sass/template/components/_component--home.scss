@@ -43,7 +43,7 @@
 .parralax-bottom {
   width: 100vw;
   position: relative;
-  top: 50vw;
+  top: 25vw;
   // transform: translateZ(0);
   background-color: color(neutral, X);
   z-index: 10;
@@ -431,17 +431,17 @@
 
 
 .home--hero-text {
-		@include grid-parent();
-		position: fixed;
+		@include grid-parent($config: $grid-full);
+		position: relative;
 		z-index: 1;
 		top: bl(10); 
-		left: 20px;
 		box-sizing: border-box;
 		animation-name: titleOpacity;
 		animation-duration: 2s;
 		transform: translateZ(0);
 		@include respond-to(s){
 			top: bl(20);
+			left: 40px;
 		}
 	}
 
