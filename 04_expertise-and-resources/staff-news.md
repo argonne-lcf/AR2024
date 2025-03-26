@@ -6,7 +6,7 @@ permalink: expertise-and-resources/staff-news
 
 title: Staff News
 hero-img-source: "ALCF_bestPaper.jpg"
-hero-img-caption: "Quick brown fox"
+hero-img-caption: "ALCF's Victor Mateevitsi (center) receives the Best Paper award at the In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization Workshop at SC24."
 intro: "Through a dedication to the acceleration of science and HPC, ALCF staff received several prestigious awards and recognitions throughout 2024."
 ---
 
@@ -50,7 +50,7 @@ In 2024, Victor Mateevitsi, ALCF assistant computer scientist, was named a senio
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/fM3NOD2QgZw?si=8iXLkeoolPsQJdsr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "ALCF's Michael Papka gives a Tedx talk over exascale computer's ability accelerate scientific discovery."
+   caption= "At TEDxChicago 2024: Lighting the Way, ALCF's Michael Papka took the audience on a journey into the world of supercomputing, introducing Argonne National Laboratory's Aurora exascale system and how it will enable a new era of scientific discoveries and innovation."
    credit= "Argonne National Laboratory"
 %}
 
