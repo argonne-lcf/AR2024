@@ -284,6 +284,14 @@ p + hr {
   h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(green, XX);
   }
+
+  a {
+    text-decoration-color: color(green, XXX);
+  }
+
+  a:hover {
+    text-decoration-color: color(green, XXXXX);
+  }
   // .sidenav {
   //   background-color: color(blue, XX);
   // }
@@ -305,6 +313,10 @@ p + hr {
   .meta {
     color: color(neutral, XX); 
   }
+
+  a {
+    text-decoration-color: color(neutral, XXXX);
+  }
 }
 
 .theme--warm {
@@ -316,6 +328,10 @@ p + hr {
   // .sidenav {
   //   background-color: color(warm, XX);
   // }
+
+  a {
+    text-decoration-color: color(warm, XX);
+  }
 }
 
 .theme--green {
@@ -323,6 +339,14 @@ p + hr {
   color: color(neutral, X);
   h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(warm, X);
+  }
+
+  a {
+    text-decoration-color: color(green, XXX);
+  }
+
+  a:hover {
+    text-decoration-color: color(green, XXXXX);
   }
   // .sidenav {
   //   background-color: color(green, XX);

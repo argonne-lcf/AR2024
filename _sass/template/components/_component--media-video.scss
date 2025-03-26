@@ -15,12 +15,20 @@
 	iframe, video {
 		width: 100%;
 		aspect-ratio: 16 / 9;
-		@include stack(xs);
+		// @include stack(xs);
 		border: .5px solid color(neutral, XXXXX);
 	}
 
 	.caption {
 		color: color(neutral, XXXX);
+		padding-bottom: bl(2);
+		border-bottom: 1px solid color(neutral, XX);
+		display: block;
+		@include stack(xxs);
+	}
+
+	.caption:before {
+		content: '\25B2  ';
 	}
 
 	.credit {
@@ -39,4 +47,21 @@
 
 .theme--dark iframe, .theme--dark video {
 	border: .5px solid color(green, XX);
+}
+
+
+.theme--dark .caption {
+	border-bottom: 1px solid color(green, XX) !important;
+}
+
+.theme--warm .caption {
+	border-bottom: 1px solid color(warm, XXX) !important;
+}
+
+.theme--cyan .caption {
+	border-bottom: 1px solid color(green, XXX) !important;
+}
+
+.theme--green .caption {
+	border-bottom: 1px solid color(green, XXX) !important;
 }
