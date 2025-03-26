@@ -4,7 +4,7 @@ layout: page
 title: Building the Computing Workforce of the Future
 hero-img-source: "ALCF_Lighthouse.jpg"
 hero-img-caption: "ALCF's Paige Kinsley leads staff from the University of Chicago's Research Computing Center on a tour of the lab through the ALCF Lighthouse Initiative."
-intro: "The ALCF is dedicated to fostering an HPC and AI talent pipeline by engaging with the community of students, educators, and researchers through outreach, training, and internship opportunities."
+intro: "The ALCF is strengthening the nation's HPC and AI talent pipeline through outreach, training, and hands-on experiences for the next generation of computing professionals."
 
 theme: white
 permalink: community-and-outreach/building-an-hpc-workforce
