@@ -31,7 +31,7 @@ Pretraining of AuroraGPT models has accounted for the bulk of the project’s co
 
 
 ## Performance Results
-successfully reduced preprocessing time from approximately 1 hour to 2 minutes. This vastly improved both the AuroraGPT code and the developers’ ability to improve the code. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
+After debugging and implementing certain logic enhancements, the develpers successfully reduced preprocessing time from approximately 1 hour to 2 minutes. This vastly improved both the AuroraGPT code and the developers’ ability to improve the code. Considerable effort has been put into making checkpoints convertible between the AuroraGPT software stack frameworks, particularly Megatron-DeepSpeed and Hugging Face.
 
 The developers have successfully trained a model on 2 trillion tokens. After adapting the Meta-created LLM Llama for use on Aurora—involving the modification of the number of model layers and their sizes—the developers determined which data set to train it on and then optimized the implementation to get as close as possible to 100 percent utilization of compute resources. Initial training runs of the models helped the team identify instabilities to overcome. With the Llama LLM running smoothly, the developers were then able train it on 2 trillion tokens, effectively creating a ready, pretrained model.
 
