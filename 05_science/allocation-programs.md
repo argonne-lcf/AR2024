@@ -14,8 +14,7 @@ aside: by-domain.md
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/I6bSEnk4ZyA?si=9JgIcYQe6Fhfnuau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
-   credit= "Argonne National Laboratory"
+   caption= "ALCF’s Katherine Riley explains how researchers can apply for time on ALCF systems through allocation programs supported by DOE and Argonne."
 %}
 
 Researchers gain access to ALCF systems for computational science and engineering projects through competitive, peer-reviewed allocation programs supported by the DOE and Argonne.
