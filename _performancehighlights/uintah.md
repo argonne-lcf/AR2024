@@ -14,19 +14,19 @@ image: 'Habib-HACC.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "The Uintah Computational Framework, an open-source asynchronous many-task (AMT) runtime system, has been modified to be performance and large-scale portable across exascale DOE supercomputing systems, including Aurora. This work is the culmination of Uintah’s decade-long University of Utah-led preparation for DOE exascale systems through highly collaborative multidisciplinary efforts pursued as a part of the Predictive Science Academic Alliance Program II and the Aurora Early Science Program. Notable updates to Uintah’s support for Kokkos were required to make this extension possible through Uintah’s adoption of a portable MPI+X hybrid parallelism approach using the Kokkos performance portability library (that is, MPI and Kokkos)."
+    blurb = "The Uintah Computational Framework, an open-source asynchronous many-task (AMT) runtime system, has been modified to be performance and large-scale portable across exascale DOE supercomputing systems, including Aurora. This work is the culmination of Uintah’s decade-long, University of Utah-led preparation for DOE exascale systems through highly collaborative multidisciplinary efforts pursued in conjunction with Argonne, Oak Ridge National Laboratory, and Intel as a part of the Predictive Science Academic Alliance Program II and the Aurora Early Science Program. Notable updates to Uintah’s support for Kokkos were required to make this extension possible through Uintah’s adoption of a portable MPI+X hybrid parallelism approach using the Kokkos performance portability library (that is, MPI and Kokkos)."
 %}
 
 
 
 ## Challenge
 
-To scale application codes to hundreds and thousands of Aurora processes via the Asynchronous Many-Task (AMT) Uintah framework, the development team focused on a Reverse Monte-Carlo Ray Tracing radiation benchmark calculation, central to the University of Utah’s predictive boiler simulations. This benchmark involves potentially global all-to-all communication and uses adaptive mesh refinement and ray tracing to achieve scalability. This benchmark has been used as part of previous scalability studies on a number of pre-exascale systems and the DOE-operated exascale Frontier system while harnessing 98 percent of the machine.
+To scale application codes to hundreds and thousands of Aurora processes via the AMT framework, the development team focused on a Reverse Monte-Carlo Ray Tracing radiation benchmark calculation, central to the University of Utah’s predictive boiler simulations. This benchmark involves potentially global all-to-all communication and uses adaptive mesh refinement and ray tracing to achieve scalability. This benchmark has been used as part of previous scalability studies on a number of pre-exascale systems and the DOE-operated exascale Frontier system while harnessing 98 percent of the machine.
 
 
 
 ## Performance Results
-Running on Aurora, the team was able to scale from 1280 nodes up to 10,240 nodes for the Burns and Christon benchmark problem on a 2-level structured adaptive mesh refinement grid with more than 129 billion cells, demonstrating that good strong-scaling efficiency is achievable.
+Working on Aurora, the team was able prepare for a run that would scale from 1280 nodes up to 10,240 nodes for the Burns and Christon benchmark problem on a 2-level structured adaptive mesh refinement grid with more than 129 billion cells, demonstrating that good strong-scaling efficiency is achievable.
 
 These large-scale studies explored the impact of a larger refinement ratio to determine if aggressive mesh refinement will make full-system runs possible. The Uintah runtime systems have proved to be exceptionally capable when it comes to enabling the application to run in a scalable way on Aurora.
 
