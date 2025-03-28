@@ -35,5 +35,6 @@ The team’s software stack and frameworks have the capability to train LLMs eff
 
 ## Impact
 
-AuroraGPT offers a transformative opportunity to leverage AI for scientific discovery, potentially redefining problem-solving across various domains critical to the DOE’s mission. AuroraGPT will enable Aurora users to both train LLMs from scratch and finetune existing models. A pretrained model—trained on 2 trillion tokens—is complete. The work has the potential to improve significantly how science is conducted by fostering a deeper integration of AI capabilities into research workflows.
+AuroraGPT represents a transformative opportunity to leverage AI for scientific discovery, potentially redefining problem-solving across various domains critical to the DOE’s mission. AuroraGPT will enable Aurora users to both train LLMs from scratch and finetune existing models. One pretrained model—trained on 2 trillion tokens—is already complete, providing Aurora users with a framework for deploying off-the-shelf LLMs for science campaigns and helping accelerate the pace of research while expanding the technology’s accessibility. The work has the potential to improve significantly how science is conducted by fostering a deeper integration of AI capabilities into research workflows.
+
 
