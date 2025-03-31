@@ -10,7 +10,7 @@ hero-img-caption: "The ALCF has expanded the AI Testbed to include the SambaNova
 intro: "By updating and expanding its testbed for AI accelerators, the ALCF enables users to harness leading-edge AI technologies for efficient and impactful scientific discovery."
 ---
 
-In 2024, the <b>[ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed)</b> was upgraded with the deployment of <b>SambaNova Suite</b> and established benchmarks for its optimized <b>Cerebras Wafer-Scale Cluster WSE-2</b> that promise to make extreme-scale AI computing substantially more manageable and effective.
+In 2024, the <b>[ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed)</b> initiated further upgrades with the deployment of <b>SambaNova Suite</b> and established benchmarks for its optimized <b>Cerebras Wafer-Scale Cluster WSE-2</b> that promise to make extreme-scale AI computing substantially more manageable and effective.
 
 The testbed is a growing collection of some of the world’s most advanced AI accelerators available for open science. Designed to enable researchers to explore next-generation machine learning applications and workloads to advance AI for science, the systems are also helping the facility to gain a better understanding of how novel AI technologies can be integrated with traditional supercomputing systems powered by CPUs and GPUs. With the AI Testbed, the ALCF user community can leverage novel AI technologies for innovative research projects involving large language models (LLMs), large-scale data analysis, and the development of trustworthy AI.
 
@@ -45,9 +45,9 @@ Experimental data analysis also benefits from the lab’s AI Testbed. Researcher
 
 
 ## SambaNova
-The ALCF AI Testbed expanded its SambaNova platform with the addition of SambaNova Suite. Powered by SambaNova DataScale SN40L systems, SambaNova Suite is a fully integrated hardware-software platform that enables users to train, fine tune, and deploy AI workloads. Optimized for low-latency, high-throughput inference, the platform provides scientists with a new AI resource to accelerate scientific research. 
+The ALCF AI Testbed began further expansion of its SambaNova platform with the addition of SambaNova Suite. Powered by SambaNova DataScale SN40L systems under installation, SambaNova Suite is a fully integrated hardware-software platform that enables users to train, fine tune, and deploy AI workloads. Optimized for low-latency, high-throughput inference, the platform provides scientists with a new AI resource to accelerate scientific research. 
 
-The deployment of the DataScale SN40L system extends advanced AI inference capabilities beyond the ALCF’s traditional user base. By making trained AI models more accessible, the platform enables a wider community of researchers to explore new directions in generative and agentic AI workloads for science and engineering.
+The deployment of the DataScale SN40L system will extend advanced AI inference capabilities beyond the ALCF’s traditional user base. By making trained AI models more accessible, the platform aims to enable a wider community of researchers to explore new directions in generative and agentic AI workloads for science and engineering.
 
 Being able to rapidly evaluate AI models and adjust parameters for improved performance is crucial for driving progress in AI-driven science across many research areas, including drug discovery, materials identification, and brain mapping.
 
