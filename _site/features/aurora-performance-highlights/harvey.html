@@ -7,8 +7,8 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Extreme-Scale Visualization and Analysis of Fluid-Structure Interactions: HARVEY" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A team of researchers, led by Duke University, aims to repurpose HARVE to understand metastasis in cancer better." />
-<meta property="og:description" content="HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A team of researchers, led by Duke University, aims to repurpose HARVE to understand metastasis in cancer better." />
+<meta name="description" content="HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A Duke University-led team of researchers aims to repurpose HARVEY to improve our understanding of metastasis in cancer." />
+<meta property="og:description" content="HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A Duke University-led team of researchers aims to repurpose HARVEY to improve our understanding of metastasis in cancer." />
 <link rel="canonical" href="http://localhost:4000/features/aurora-performance-highlights/harvey" />
 <meta property="og:url" content="http://localhost:4000/features/aurora-performance-highlights/harvey" />
 <meta property="og:site_name" content="2024 ALCF Annual Report" />
@@ -18,7 +18,7 @@
 <meta property="twitter:image" content="http://localhost:4000/harvey_showstopper_06.png" />
 <meta property="twitter:title" content="Extreme-Scale Visualization and Analysis of Fluid-Structure Interactions: HARVEY" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A team of researchers, led by Duke University, aims to repurpose HARVE to understand metastasis in cancer better.","headline":"Extreme-Scale Visualization and Analysis of Fluid-Structure Interactions: HARVEY","image":"http://localhost:4000/harvey_showstopper_06.png","url":"http://localhost:4000/features/aurora-performance-highlights/harvey"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A Duke University-led team of researchers aims to repurpose HARVEY to improve our understanding of metastasis in cancer.","headline":"Extreme-Scale Visualization and Analysis of Fluid-Structure Interactions: HARVEY","image":"http://localhost:4000/harvey_showstopper_06.png","url":"http://localhost:4000/features/aurora-performance-highlights/harvey"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -633,21 +633,22 @@ available parameters:
 
 -->
 
-<p class="intro">HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A team of researchers, led by Duke University, aims to repurpose HARVE to understand metastasis in cancer better.
+<p class="intro">HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care. A Duke University-led team of researchers aims to repurpose HARVEY to improve our understanding of metastasis in cancer.
 </p>
 
 <h2 id="challenge">Challenge</h2>
 
 <p>One in four deaths in the United States is due to cancer, and metastasis is responsible for more than 90 percent of these deaths. The metastatic patterns of circulating tumor cells (CTCs) are strongly influenced by both a favorable microenvironment and mechanical factors such as blood flow.
-Advancing the use of data science to drive in situ analysis of extreme-scale fluid-structure- interaction (FSI) simulations, this work aims to leverage the ALCF’s exascale Aurora system to model and analyze the movement of CTCs through the complex geometry of the human vasculature and thereby lay the groundwork for a predictive model of cancer metastasis. Simulating the rare cells, nearby red blood cells, and underlying fluid of the arterial network presents not only a computationally challenging simulation but a large data problem for posterior analysis. Scalable and in situ analysis of massively parallel FSI models, including cellular-level flow, will be critical for enabling new scientific insights into the mechanisms driving cancer progression.</p>
+Advancing the use of data science to drive in-situ analysis of extreme-scale fluid-structure- interaction (FSI) simulations, this work aims to leverage the ALCF’s exascale Aurora system to model and analyze the movement of CTCs through the complex geometry of the human vasculature and thereby lay the groundwork for a predictive model of cancer metastasis. Simulating the rare cells, nearby red blood cells, and underlying fluid of the arterial network presents not only a computationally challenging simulation but a large data problem for posterior analysis. Scalable and in-situ analysis of massively parallel FSI models, including cellular-level flow, will be critical for enabling new scientific insights into the mechanisms driving cancer progression.</p>
 
 <p>HARVEY is based on the lattice Boltzmann method (LBM) for fluid dynamics. Advantages of LBM over other numerical solvers of the Navier-Stokes equations include its amenability to parallelization due to its underlying stencil structure and the local availability of physical quantities, eliminating the need for global communication among processors required of Poisson solvers.</p>
 
-<p>HARVEY adopts for execution on GPUs the MPI+X parallelization model, where X was originally OpenMP for CPUs and CUDA. The code has easily separable kernels that are optimized uniquely for each system’s architecture to take advantage of system features and avoid potential performance pitfalls for the computation of three primary components: task distribution, density and momentum vector, and collision and equilibrium relaxation. Over the last few years HARVEY has been ported to SYCL, HIP, and Kokkos to enable functionality and performance on a variety of supercomputing systems, each with di↵erent hardware. 
-The researchers have successfully built the code’s framework, on Aurora, on top of which in the Kokkos version they integrated in-situ visualization. This integration has been verified by rendering the fluid velocity field generated by the in-situ visualization of a ”fluid in a tube” test case.</p>
+<p>HARVEY adopts for execution on GPUs the MPI+X parallelization model, where X was originally OpenMP for CPUs and CUDA. The code has easily separable kernels that are optimized uniquely for each system’s architecture to take advantage of system features and avoid potential performance pitfalls for the computation of three primary components: task distribution, density and momentum vector, and collision and equilibrium relaxation. Over the last few years HARVEY has been ported to SYCL, HIP, and Kokkos to enable functionality and performance on a variety of supercomputing systems, each with di↵erent hardware.</p>
 
 <h2 id="performance-results">Performance Results</h2>
 <p>As of 2024, the researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. The first is for fluid-only calculations and the second for fluid and red-blood cell simulations. In both cases, HARVEY ran on full-body human vasculatures. The researchers successfully performed fluid-only simulations on as many 2048 Aurora. The team deployed HARVEY on 1024 nodes for red-blood cell and fluid simulations.</p>
+
+<p>The researchers have successfully built the code’s framework, on Aurora, on top of which in the Kokkos version they integrated in-situ visualization. This integration has been verified by rendering the fluid velocity field generated by the in-situ visualization of a ”fluid in a tube” test case.</p>
 
 <!-- 
 
