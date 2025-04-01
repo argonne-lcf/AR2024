@@ -79,7 +79,7 @@ In 2024, Sheeja mainly worked on the frontend development of Allocation Request 
 
 ## Peter Upton, Systems Integration Administrator/Support
 
-Peter Upton is a Systems Integration Administrator/Support at the ALCF. Peter manages, supports, and updates ALCF GitLab installations. He also assists in managing DNS and Salt systems, provides peer work reviews, troubleshoots GitLab user issues, and supports work on the Aurora system, fow which he has helped create a new node type for administrative tasks.
+Peter Upton is a Systems Integration Administrator/Support at the ALCF. He manages, supports, and updates ALCF GitLab installations, and also assists in managing DNS and Salt systems, providing peer work reviews, troubleshooting GitLab user issues, and supporting work on the Aurora system, for which he has helped create a new node type for administrative tasks.
 
 In addition to assisting vendors in using Aurora to improve functionality and stability—while also assisting and tracking work around a new ALCF testbed-—Peter aids his coworkers with HPCM-related tasks and participates in miscellaneous data-center physical activities (such as remote troubleshooting and cable routing). He also addresses security vulnerabilities promptly, keeping documentation up to date and coordinating GitLab usage, licensing, and upgrades.
 
