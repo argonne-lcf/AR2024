@@ -37,7 +37,7 @@ Huang, J., J. Liu, S. Di, Y. Zhai, Z. Jian, S. Wu, K. Zhao, Z. Chen, Y. Guo, and
 
 Li, Y., F. Zhang, V.-A. Ha, Y.-C. Lin, C. Dong, Q. Gao, Z. Liu, X. Liu, S. H. Ryu, H. Kim, C. Jozwiak, A. Bostwick, K. Watanabe, T. Taniguchi, B. Kousa, X. Li, E. Rotenberg, E. Khalaf, J. A. Robinson, F. Giustino, and C.-K. Shih. “Tuning Commensurability in Twisted van der Waals Bilayers," _Nature_ (January 2024), Springer Nature. doi: 10.1038/s41586-023-06904-w
 
-Li, Z., P. Chaturvedi, S. He, H. Chen, G. Singh, V. Kindratenko, E. A. Huerta, K. Kim, and R. Madduri. “FedCompass: Efficient Cross-Silo Federated Learning on Heterogeneous Client Devices Using a Computing Power-Aware Scheduler," _ICLR 2024_ (January 2024), Vienna, Austria, ICLR.
+Li, Z., P. Chaturvedi, S. He, H. Chen, G. Singh, V. Kindratenko, E. A. Huerta, K. Kim, and R. Madduri. “FedCompass: Efficient Cross-Silo Federated Learning on Heterogeneous Client Devices Using a Computing Power-Aware Scheduler," _ICLR 2024_ (January 2024), Vienna, Austria, ICLR. doi: 10.48550/arXiv.2309.14675
 
 Liu, J., M. Liu, J.-P. Liu, Z. Ye, Y. Wang, Y. Alexeev, J. Eisert, and L. Jiang. “Towards Provably Efficient Quantum Algorithms for Large-Scale Machine-Learning Models," _Nature Communications_ (January 2024), Springer Nature. doi: 10.1038/s41467-023-43957-x
 
