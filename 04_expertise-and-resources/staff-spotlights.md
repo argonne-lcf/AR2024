@@ -69,7 +69,7 @@ Christine is also the postdoc hiring lead for ALCF. Prior to joining ALCF, she r
 
 ## Sheeja Susan, Software Development Specialist
 
-Sheeja Susan joined the ALCF in 2019 as a Software Development Specialist under the Advanced Integration Group. She was a contractor for 5 years and became a full-time employee in 2024.  
+Sheeja Susan joined the ALCF in 2019 as a Software Development Specialist under the Advanced Integration Group. She was a contractor for 5 years and became a full-time employee in 2024.
 
 At Argonne, Sheeja is responsible for developing and maintaining frontend screens within the ALCF portal and Allocation Request Management websites. She also creates test automation scripts to ensure the website pages run correctly. Sheeja was part of the team for the migration process from AngularJS to Angular for ALCF. As an individual player, she has developed ALCF screens such as Director's Discretionary Allocation Request, View Systems and many pages for the administrators, and helped with the page routing. She works closely with UX/design teams and effectively translates design concepts into functional web pages. Coordinating with the backend team, Sheeja creates modular, reusable code components for the development of user-friendly, responsive pages across various screen sizes. She has written numerous test scripts in Cypress to test the functionality of webpages and helped to reduce the number of failing ALCF test scripts significantly.
 
@@ -79,11 +79,11 @@ In 2024, Sheeja mainly worked on the frontend development of Allocation Request 
 
 ## Peter Upton, Systems Integration Administrator/Support
 
-Peter Upton is a Systems Integration Administrator/Support at the ALCF.  Peter manages, supports, and updates ALCF GitLab installations. He also assist in managing DNS and Salt systems, providing peer work reviews, troubleshoot GitLab user issues, and supported Aurora work by creating a new node type for administrative tasks.
+Peter Upton is a Systems Integration Administrator/Support at the ALCF. Peter manages, supports, and updates ALCF GitLab installations. He also assists in managing DNS and Salt systems, provides peer work reviews, troubleshoots GitLab user issues, and supports work on the Aurora system, fow which he has helped create a new node type for administrative tasks.
 
-Peter assist vendors in using Aurora to improve functionality and stability, as well as assisting and tracking work around a new ALCF testbed. He assist his coworkers with HPCM-related tasks, and participates in miscellaneous data-center physical activities (e.g., remote troubleshooting, cable routing). Peter also addresses security vulnerabilities promptly, keeping documentation up-to-date, and coordinating GitLab usage, licensing, and upgrades.
+In addition to assisting vendors in using Aurora to improve functionality and stability—while also assisting and tracking work around a new ALCF testbed-—Peter aids his coworkers with HPCM-related tasks and participates in miscellaneous data-center physical activities (such as remote troubleshooting and cable routing). He also addresses security vulnerabilities promptly, keeping documentation up to date and coordinating GitLab usage, licensing, and upgrades.
 
-In 2024, Upton  upgraded GitLab instances to RHEL9 and GitLab runners to RHEL9. He configured GitLab JLSE container registry. Peter also reworked the GitLab upgrade process to minimize downtime and increase consistency. He also automated Jacamar-CI RPM import.
+In 2024, Upton upgraded GitLab instances to RHEL9 and GitLab runners to RHEL9. He configured GitLab JLSE container registry and reworked the GitLab upgrade process to minimize downtime and increase consistency. He also automated Jacamar-CI RPM import.
 
 
 
