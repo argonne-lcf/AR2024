@@ -33,7 +33,7 @@ Murali co-leads the ALCF AI Testbed, where he explores the performance and effic
 
 Murali is a core member of the Model Architecture and Performance Evaluation working group in the Trillion Parameter Consortium (TPC) and organized tutorials and hackathon sessions at TPC event. He is actively engaged in the AuroraGPT project, which aims to develop open science foundation models across various science disciplines. As a technical committee member of the first NAIRR workshop, he chaired breakout sessions to understand the gaps and goals for performance of AI applications. 
 
-Murali was also a part of SC24 GordonBell paper finalist (MProt-DPO). He serves as a co-chair for MLPerf HPC group at MLCommons to benchmark large scale ML on HPC systems overseeing group of scientist and engineers from HPC centers, industry and academia to identify state-of-art applications to help benchmark diverse supercomputers. He also has been actively engaged in Aurora development, serving as point of contact for two benchmark applications, and works with Intel's deep learning frameworks team to evaluate the software stack and work to optimize performance at scale.
+Murali was a co-author of the “MProt-DPO” paper, a Gordon Bell Prize finalizst at SC24. He serves as a co-chair for the MLPerf HPC group at MLCommons, which benchmarks large-scale machine learning on HPC systems. He also has been actively engaged in Aurora development, serving as point of contact for two benchmark applications, and works with Intel's deep learning frameworks team to evaluate the software stack and work to optimize performance at scale.
 
 
 
