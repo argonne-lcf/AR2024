@@ -33,7 +33,7 @@ Built in partnership with Intel and HPE, Aurora’s architecture represents a fi
 
 ## World-Class Simulation, AI, and Data Capabilities
 
-Aurora’s computing power and advanced capabilities are expected to transform research across a wide range of scientific domains. Ahead of the system’s deployment, teams participating in DOE’s Exascale Computing Project (ECP) the ALCF’s Aurora Early Science Program (ESP) have demonstrated its potential in training large-scale AI models and carrying out extreme-scale modeling and simulation campaigns.
+Aurora’s computing power and advanced capabilities are expected to transform research across a wide range of scientific domains. Ahead of the system’s deployment, teams participating in DOE’s Exascale Computing Project (ECP) and the ALCF’s Aurora Early Science Program (ESP) have demonstrated its potential in training large-scale AI models and carrying out extreme-scale modeling and simulation campaigns.
 
 One key target involves the development of AI-driven scientific models that can accelerate discovery across multiple disciplines, including materials design, drug development, and energy research. The system is also being prepared to support high-fidelity simulations of complex systems, such as the human circulatory system, nuclear reactors, and supernovae, to gain new insights into their behavior. Additionally, its capacity to process massive datasets will be critical for analyzing the growing data streams from large-scale research facilities such as Argonne’s Advanced Photon Source and CERN’s Large Hadron Collider.
 
