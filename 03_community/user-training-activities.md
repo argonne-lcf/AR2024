@@ -19,14 +19,14 @@ Held in October at Argonne, the ALCF Hands-on HPC Workshop is designed to help a
 
 {% include media-img.html
    source= "ALCF_Handson.jpg"
-   caption= "ALCF's Scott Parker, Chris Knight, and Katherine Riley discuss INCITE and ALCC Allocations at the ALCF 2024 Hands-on HPC Workshop."
+   caption= "ALCF's Scott Parker, Chris Knight, and Katherine Riley discuss INCITE and ALCC allocations at the ALCF 2024 Hands-on HPC Workshop."
 %}
 
 ## ALCF INCITE GPU Hackathon
 In May, the ALCF hosted its GPU Hackathon for the fourth time, a hybrid event designed to help developers accelerate their codes on ALCF resources and prepare for the INCITE call for proposals. The multi-day hackathon gave attendees access to ALCF’s Polaris system. Out of the 20 teams that participated this year, 11 teams were part of ongoing INCITE projects, and out of the 9 remaining teams, six teams applied for 2025.  Teams involved were researching a vast array of topics including genome structure and function, deep protein design for synthetic biology, and genetics data. For a recap of the 2024 event, [read the article on our website.](https://www.alcf.anl.gov/news/alcf-hackathon-helps-researchers-boost-performance-polaris-supercomputer)
 
 ## ATPESC 2024
-The annual [Argonne Training Program on Extreme-Scale Computing (ATPESC)](https://extremecomputingtraining.anl.gov/atpesc-2023/) marked its 12th year in 2024. The two-week event offers training on key skills, approaches, and tools needed to design, implement, and execute computational science and engineering applications on high-end computing systems, including exascale supercomputers. The program features talks from leading computer scientists and HPC experts; and hands-on training using DOE leadership-class systems at ALCF, OLCF, and NERSC. In 2024, ATPESC attracted 75 attendees from 54 different institutions worldwide.  
+The annual [Argonne Training Program on Extreme-Scale Computing (ATPESC)](https://extremecomputingtraining.anl.gov/atpesc-2024/) marked its 12th year in 2024. The two-week event offers training on key skills, approaches, and tools needed to design, implement, and execute computational science and engineering applications on high-end computing systems, including exascale supercomputers. The program features talks from leading computer scientists and HPC experts; and hands-on training using DOE leadership-class systems at ALCF, OLCF, and NERSC. In 2024, ATPESC attracted 75 attendees from 54 different institutions worldwide.  
 
 ## Aurora Early Science Program Workshops (ESP) 
 The Intel Center of Excellence (COE), in collaboration with ALCF’s Early Science Program, held [multiday events](https://extremecomputingtraining.anl.gov/atpesc-2024/) where select ESP and ECP project teams worked on developing, porting, and profiling their codes on Sunspot with help from Intel and Argonne experts. The events were geared toward developers and emphasized using the Intel software development kit to get applications running on testbed hardware. Teams were also given the opportunity to consult with ALCF staff and provide feedback. ALCF staff also held dedicated office hours on a range of topics from programming models to profiling tools.
@@ -35,7 +35,7 @@ The Intel Center of Excellence (COE), in collaboration with ALCF’s Early Scien
 In spring, the INCITE program, ALCF, and the Oak Ridge Leadership Computing Facility (OLCF) jointly hosted [two webinars](https://www.alcf.anl.gov/events/2025-incite-proposal-writing-webinar-1) on effective strategies for writing an INCITE proposal. 
 
 ## Monthly ALCF Webinars
-The ALCF continued to host the monthly [ALCF Developer Sessions](https://www.alcf.anl.gov/alcf-developer-sessions), aimed at training researchers and increasing the dialogue between HPC users and the developers of leadership-class systems and software. Speakers in the series included developers from Argonne, covering topics such as deep learning frameworks on Aurora, Intel performance profiling tools on Aurora, remote workflows at the ALCF, and the QMCPACK team's journey to exascale on Aurora. 
+The ALCF continued to host the monthly [ALCF Developer Sessions](https://www.alcf.anl.gov/alcf-developer-sessions), aimed at training researchers and increasing the dialogue between HPC users and the developers of leadership-class systems and software. Speakers in the series included developers from Argonne, covering topics such as deep learning frameworks on Aurora, Intel performance profiling tools on Aurora, remote workflows at the ALCF, and the QMCPACK application team's journey to exascale on Aurora. 
 
 
 
