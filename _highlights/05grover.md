@@ -51,7 +51,7 @@ The researchers used a custom, massively parallel version of the SPARTA DSMC cod
 
 ## Results
 
-As detailed in _Science Advances_, the team used ALCF computing resources to simulate, for the first time, using a method grounded in quantum mechanics, a full-scale reactive hypersonic flow studied experimentally. Due to the fundamental nature of the simulation technique, this work provides a molecular-level description of internal energy excitation and reaction mechanisms throughout the system. Building on direct simulation Monte Carlo (DSMC) methods, DMS replaces stochastic collision models for particles in the flow with molecular dynamics calculations using interaction potentials derived from quantum mechanics. These ab-initio interaction potentials are the only modeling input in the flow; therefore, all flow features can be attributed the quantum mechanically=guided molecular interactions.
+As detailed in _Science Advances_, the team used ALCF computing resources to simulate, for the first time, using a method grounded in quantum mechanics, a full-scale reactive hypersonic flow studied experimentally. Due to the fundamental nature of the simulation technique, this work provides a molecular-level description of internal energy excitation and reaction mechanisms throughout the system. Building on direct simulation Monte Carlo (DSMC) methods, DMS replaces stochastic collision models for particles in the flow with molecular dynamics calculations using interaction potentials derived from quantum mechanics. These ab-initio interaction potentials are the only modeling input in the flow; therefore, all flow features can be attributed the quantum-mechanically guided molecular interactions.
 
 
 ## Impact
