@@ -46,7 +46,29 @@ ALCF researchers regularly contribute to some of the world’s leading computing
 
 ## HPC Standards and Community Groups
 
-ALCF staff members remain actively involved in several HPC standards and community groups that help drive improvements in the usability and efficiency of scientific computing tools, technologies, and applications. Staff activities include contributions to the C++ Standards Committee, Cray User Group, DAOS Foundation, HPC User Forum, HPSF High Performance Software Foundation, Intel eXtreme Performance Users Group (IXPUG), Khronos OpenCL and SYCL Working Groups , LDMS User Group, UXL Silver Member/Steering Member, MLCommons, NITRD Middleware and Grid Infrastructure Team, Open Fabrics Alliance, Open Scalable File Systems (OpenSFS) Board, OpenMP Architecture Review Board, OSTI ORCiD Consortium Membership, SPEC (Standard Performance Evaluation Corporation) HPG (High Performance Group), Better Scientific Software, Energy Efficient High Performance Computing, Unified Communications Framework, OCHAMI, and more.
+ALCF staff members remain actively involved in several HPC standards and community groups that help drive improvements in the usability and efficiency of scientific computing tools, technologies, and applications. Staff activities include contributions to the following:
+- C++ Standards Committee
+- Cray User Group
+- DAOS Foundation
+- HPC User Forum
+- HPSF High Performance Software Foundation
+- Intel eXtreme Performance Users Group (IXPUG)
+- Khronos OpenCL and SYCL Working Groups
+- LDMS User Group
+- UXL Silver Member/Steering Member
+- MLCommons
+- NITRD Middleware and Grid Infrastructure Team
+- Open Fabrics Alliance
+- Open Scalable File Systems (OpenSFS) Board
+- OpenMP Architecture Review Board
+- OSTI ORCiD Consortium Membership
+- SPEC (Standard Performance Evaluation Corporation)
+- HPG (High Performance Group)
+- Better Scientific Software
+- Energy Efficient High Performance Computing
+- Unified Communications Framework
+- OCHAMI
+- and more
 
 {% include media-img.html
    source= "ALCF_Shaping2.jpg"
