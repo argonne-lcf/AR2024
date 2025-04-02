@@ -41,7 +41,7 @@ publications:
 
 ## Challenge
 
-Beyond the challenge of porting the kernel into the low-level CSL programming model, the team proposed and tested various new algorithms to handle the decomposition of neutron cross-sectional data (which is used to generate random samples for particle behavior) into the small local memory domains contained in each of 750,000-some WSE-2 units.
+Beyond the challenge of porting the kernel into the low-level CSL programming model, the team proposed and tested various new algorithms to handle the decomposition of neutron cross-sectional data (which is used to generate random samples for particle behavior) into the small local memory domains contained in each of some 750,000 WSE-2 units.
 
 
 ## Approach
