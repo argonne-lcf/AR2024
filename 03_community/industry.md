@@ -27,7 +27,7 @@ Through these programs, the ALCF helps U.S. industries stay competitive in an ev
 
 ---
 
-**To explore potential collaboration opportunities with the ALCF, contact us at industry@alcf.anl.gov**
+**To explore potential collaboration opportunities with the ALCF, contact us at [industry@alcf.anl.gov](mailto:industry@alcf.anl.gov)**
 
 ---
 
