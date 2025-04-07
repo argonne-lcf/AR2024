@@ -7,7 +7,7 @@ permalink: expertise-and-resources/staff-news
 title: Staff News
 hero-img-source: "ALCF_bestPaper.jpg"
 hero-img-caption: "ALCF's Victor Mateevitsi (center) receives the Best Paper award at the In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization Workshop at SC24."
-intro: "Through a dedication to the acceleration of science and HPC, ALCF staff received several prestigious awards and recognitions throughout 2024."
+intro: "In 2024, ALCF staff earned recognition for their excellence in research, innovation, and advancing the use of HPC and AI for science."
 ---
 
 ## ALCF Researchers Contribute to Gordon Bell Prize Finalist Study
