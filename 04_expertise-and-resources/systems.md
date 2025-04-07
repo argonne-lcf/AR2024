@@ -13,7 +13,7 @@ intro: "ALCF resources include leadership-class supercomputers, novel AI acceler
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=9kAgTCiziE0go8fa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Quick brown fox"
+   caption= "ALCF's Christine Simpson and Victor Mateevitsi provide a behind-the-scenes look at Aurora, the supporting mechanical infrastructure, and the visualization lab."
    credit= "Argonne National Laboratory"
 %}
 
