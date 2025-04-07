@@ -44,7 +44,7 @@ Researchers from DOE (Argonne, SLAC), NASA, and academia partnered to use the AL
 
 ## Results
 
-The team leveraged Theta’s processing power to generate approximately 4 million simulated images for the Rubin and Roman telescopes in about nine days—a task that would have taken around 300 years on a personal computer. The simulations cover the same patch of the sky, spanning 70 square degrees (roughly equivalent to the sky area covered by 350 full Moons). The team has released an initial 10-terabyte subset of the simulation data for the community to explore, with the remaining 390 terabytes to follow once all the data has been processed. The simulated images give researchers the opportunity to exercise their data processing pipelines, better understand their analysis codes, and accurately interpret the results so they are ready to use the real observational data right immediately upon arrival.
+The team leveraged Theta’s processing power to generate approximately 4 million simulated images for the Rubin and Roman telescopes in about nine days—a task that would have taken around 300 years on a personal computer. The simulations cover the same patch of the sky, spanning 70 square degrees (roughly equivalent to the sky area covered by 350 full Moons). The team has released an initial 10-terabyte subset of the simulation data for the community to explore, with the remaining 390 terabytes to follow once all the data has been processed. The simulated images give researchers the opportunity to exercise their data processing pipelines, better understand their analysis codes, and accurately interpret the results, ensuring they are prepared to work with real observational data as soon as it becomes available.
 
 ## Impact
 
