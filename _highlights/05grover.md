@@ -32,8 +32,7 @@ publications:
 ---
 
 {% include txt-intro.html 
-    blurb = "The development of hypersonic flight—the ability to fly at five times the speed of sound—and related capabilities is now of interest across the globe, with the potential to revolutionize technologies for national security, aviation, and space exploration. At the core of this research is the pursuit of accuracy in the prediction of the environment surrounding the hypervelocity vehicle.  This work, led by a research team from the University of Dayton Research Institute and Air Force Research Laboratory, replicated a hypervelocity ground-test experiment using the novel direct molecular simulation (DMS) method.
-"
+    blurb = "The development of hypersonic flight—the ability to fly at five times the speed of sound—and related capabilities is now of interest across the globe, with the potential to revolutionize technologies for national security, aviation, and space exploration. At the core of this research is the pursuit of accuracy in the prediction of the environment surrounding the hypervelocity vehicle.  This work, led by a research team from the University of Dayton Research Institute and Air Force Research Laboratory, replicated a hypervelocity ground-test experiment using the novel direct molecular simulation (DMS) method."
 %}
 
 

@@ -14,10 +14,7 @@ image: 'harvey_showstopper_06.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care.
-
-A team of researchers led by Duke University aims to repurpose HARVEY to improve our understanding of the physical mechanisms driving tumor metastasis in cancer.
-"
+    blurb = "HARVEY, a massively parallel computational fluid dynamics code that predicts and simulates how blood cells flow through the human body, is used to study the mechanisms driving disease development, inform treatment planning, and improve clinical care.<br><br>A team of researchers led by Duke University aims to repurpose HARVEY to improve our understanding of the physical mechanisms driving tumor metastasis in cancer."
 %}
 
 
