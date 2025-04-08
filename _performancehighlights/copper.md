@@ -27,13 +27,13 @@ publications:
 
 
 ## Challenge
-The ALCF’s file system struggled to accommodate requests commensurately with the rate at which users made them, leading to frequent crashes. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing reducing storage-side congestion: Copper, a read-only cooperative caching layer.
+The ALCF’s file system struggled to accommodate requests commensurately with the rate at which users made them, leading to frequent crashes. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing storage-side congestion: Copper, a read-only cooperative caching layer.
 
 Without the use of algorithms, Copper reduces initialization and loading times by creating a remote procedure call (RPC) overlay network tree with local cache on each node. The root node performs the data loading from the underlying storage system and then distributes to requesting nodes over the ALCF’s Slingshot network.
 
 
 ## Performance Results
-Copper users merely need to append a prefix to the data path without any application code changes. This simple path change has enabled scaling with near constant data-loading on many thousands of nodes of the Aurora system, as demonstrated in a paper presented at the 2024 Supercomputing Conference. By freeing up highly contended computing resources and network infrastructure with vastly reduced I/O demands, Copper improves performance in numerous ways.
+Copper users merely need to append a prefix to the data path without any application code changes. This simple path change has enabled scaling with near constant data-loading on many thousands of nodes of the Aurora system, as demonstrated in a paper presented at the 2024 Supercomputing Conference (SC24). By freeing up highly contended computing resources and network infrastructure with vastly reduced I/O demands, Copper improves performance in numerous subtle ways.
 
 {% include media-img.html
    source= "Chart_CosmicTagger_.png"
