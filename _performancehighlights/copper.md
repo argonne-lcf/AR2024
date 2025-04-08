@@ -33,7 +33,7 @@ Without the use of algorithms, Copper reduces initialization and loading times b
 
 
 ## Performance Results
-Copper users merely need to append a prefix to the data path without any application code changes. This simple path change has enabled scaling with near constant data-loading on many thousands of nodes of the Aurora system, as demonstrated in a paper presented at the 2024 Supercomputing Conference (SC24). By freeing up highly contended computing resources and network infrastructure with vastly reduced I/O demands, Copper improves performance in numerous subtle ways.
+Copper users merely need to append a prefix to a data path without any application code changes. This simple path change has enabled scaling with near constant data-loading on many thousands of nodes of the Aurora system, as demonstrated in a paper presented at the 2024 Supercomputing Conference (SC24). By freeing up highly contended computing resources and network infrastructure with vastly reduced I/O demands, Copper improves performance in numerous subtle ways.
 
 {% include media-img.html
    source= "Chart_CosmicTagger_.png"
