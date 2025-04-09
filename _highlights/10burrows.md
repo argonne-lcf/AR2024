@@ -12,7 +12,7 @@ field: 'Physics'
 sdl: 's'
 
 image: 'burrows.png' 
-image-caption: 'Representative depiction of a generic feature of core-collapse explosions by the turbulence-aided neutrino-driven mechanism. There is often a simultaneous explosion in one general direction and accretion in a very roughly perpendicular direction when the explosion time is delayed by a few hundred milliseconds, and a more spherical explosion when it is launched early as for an initially nonrotating (or slowly rotating), low-compactness progenitor, such as this 9 M☉ model.'
+image-caption: 'Representative depiction of a generic feature of core-collapse explosions by the turbulence-aided neutrino-driven mechanism. There is often a simultaneous explosion in one general direction and accretion in a very roughly perpendicular direction when the explosion time is delayed by a few hundred milliseconds, and a more spherical explosion when it is launched early as for an initially nonrotating (or slowly rotating), low-compactness progenitor, such as this 9 M<sub>☉</sub> model.'
 image-credit: 'ALCF Visualization and Data Analytics Team; Princeton University'
 
 publications:
