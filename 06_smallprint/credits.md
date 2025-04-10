@@ -12,4 +12,4 @@ ALCF Leadership: Michael E. Papka (Division Director), Bill Allcock (Director of
 
 Editorial Team: Beth Cerny, Jim Collins, Nils Heinonen, Logan Ludwig, and Laura Wolf
 
-Design and Production: Sandbox Studio, Chicago
+Design and Production: [Sandbox Studio, Chicago](https://sandboxstudio.net/)
