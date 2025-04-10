@@ -48,7 +48,7 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 
 ## ALCF AI Testbed
 
-The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines for research campaigns at the intersection of AI and science. AI testbeds include:
+The ALCF AI Testbed provides an infrastructure of next-generation AI accelerator machines for research campaigns at the intersection of AI and science. AI Testbed systems include:
 
 | System Name | System Size | Compute Units per Accelerator | Estimated Performance of a Single Accelerator (TFlops) | Software Stack Support  | Interconnect |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -97,11 +97,10 @@ ALCF systems connect to other research institutions over multiple 100 Gbps conne
  
 ## Joint Laboratory for System Evaluation
  
-Argonne’s Joint Laboratory for System Evaluation (JLSE) provides access to leading-edge testbeds for research aimed at evaluating future extreme-scale computing systems, technologies, and capabilities. Here is a partial listing of the novel technology that make up the JLSE.
+Argonne’s Joint Laboratory for System Evaluation (JLSE) provides access to leading-edge testbeds for research aimed at evaluating future extreme-scale computing systems, technologies, and capabilities. Here is a partial listing of the novel technologies that make up the JLSE:
 
 - <b>Florentia:</b> Test and development system equipped with early versions of the Sapphire Rapids CPUs and Ponte Vecchio GPUs that power Aurora 
-- <b>Arcticus, DevEP, Iris:</b> Intel discrete and integrated GPU testbeds to
-support the development, optimization, and scaling of applications and software for Aurora
+- <b>Arcticus, DevEP, Iris:</b> Intel discrete and integrated GPU testbeds to support the development, optimization, and scaling of applications and software for Aurora
 - <b>Aurora Software Development Kit:</b> Frequently updated version of the publicly available Intel oneAPI toolkit for Aurora development
 - <b>Arm Ecosystem:</b> Apollo 80 Fujitsu A64FX Arm system, NVIDIA Ampere Arm and A100 test kits, and an HPE Comanche with Marvell ARM64 CPU platform provide an ecosystem for porting applications and measuring performance on next-generation systems
 - <b>Presque:</b> Intel DAOS nodes for testing the Aurora storage system
