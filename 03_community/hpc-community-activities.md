@@ -5,7 +5,7 @@ title: Shaping the Future of Supercomputing
 
 hero-img-source: "ALCF_Shaping.jpg"
 hero-img-caption: "ALCF’s Nevin Liber provides an update on standardization and performance portability efforts with C++, SYCL, and Kokkos at the 2024 Exascale Computing Project Industry and Agency Council Meeting at Argonne National Laboratory."
-intro: "The ALCF is advancing the use HPC and AI for science through contributions to standards groups, conferences and strategic partnerships with industry leaders."
+intro: "The ALCF is advancing the use HPC and AI for science through contributions to standards groups, conferences, and strategic partnerships with industry leaders."
 
 theme: white
 permalink: community-and-outreach/hpc-community-activities
@@ -19,7 +19,7 @@ ALCF researchers regularly contribute to some of the world’s leading computing
 - SC24
 - ISC High Performance
 - Grace Hopper Celebration,
-- SIAM Conference on Computational Science and Engineering,
+- SIAM Conference on Computational Science and Engineering
 - Richard Tapia Celebration of Diversity in Computing Conference
 - IEEE International Parallel & Distributed Processing Symposium
 - International Conference on Parallel Processing
@@ -32,8 +32,8 @@ ALCF researchers regularly contribute to some of the world’s leading computing
 - Lustre User Group Conference
 - Intel eXtreme Performance Users Group Conference
 - Conference on Machine Learning and Systems
-- American Physical Society
-- Energy HPC
+- American Physical Society Meeting
+- Energy HPC Conference
 - High-Performance Computing Security
 - International Conference On Preconditioning Techniques For Scientific and Industrial Applications
 - IEEE Conference on Artificial Intelligence
@@ -42,7 +42,6 @@ ALCF researchers regularly contribute to some of the world’s leading computing
 - NIST Artificial Intelligence for Materials Science (AIMS) Workshop
 - ADAC Workshop
 - ISO C++ Conference
-- and more
 
 ## HPC Standards and Community Groups
 
@@ -50,7 +49,6 @@ ALCF staff members remain actively involved in several HPC standards and communi
 - C++ Standards Committee
 - Cray User Group
 - DAOS Foundation
-- HPC User Forum
 - HPSF High Performance Software Foundation
 - Intel eXtreme Performance Users Group (IXPUG)
 - Khronos OpenCL and SYCL Working Groups
@@ -68,7 +66,6 @@ ALCF staff members remain actively involved in several HPC standards and communi
 - Energy Efficient High Performance Computing
 - Unified Communications Framework
 - OCHAMI
-- and more
 
 {% include media-img.html
    source= "ALCF_Shaping2.jpg"
