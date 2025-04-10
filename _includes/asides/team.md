@@ -1,11 +1,11 @@
 ## ALCF Staff Numbers
 
 {%	include txt-fig.html 
-	figure-1 = "128"
+	figure-1 = "148"
 	label-1 = "Staff Members"
-  figure-2 = "17"
+  figure-2 = "21"
   label-2 = "Postdoctoral Researchers"
-  figure-3 = "31"
+  figure-3 = "41"
 	label-3 = "Summer Students"
 %}
 
