@@ -2,7 +2,7 @@
 layout: page
 
 title: Staff Spotlights
-intro: "ALCF staff’s work to enhance HPC capabilities, advance AI workflows, and support research were pivotal in driving scientific breakthroughs and innovation throughout 2024."
+intro: "From enhancing HPC capabilities and AI workflows to supporting cutting-edge research, these ALCF staff members helped advance the forefront of scientific computing in 2024."
 
 theme: white
 permalink: expertise-and-resources/staff-spotlights
