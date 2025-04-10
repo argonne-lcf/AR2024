@@ -23,16 +23,16 @@ toc:
         url: features/nexus-iri
       - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
         url: features/alcf-ai-testbed
-      - page: Preparing a new generation of AI-ready researchers
+      - page: Preparing a New Generation of AI-Ready Researchers
         url: features/ai-training
   - title: Growing the HPC Community
     slug: community-and-outreach
     url: community-and-outreach
     subfolderitems:
-      - page: Partnering with Industry
+      - page: Powering Breakthroughs for U.S. Industry
         url: community-and-outreach/industry
-      - page: Building an HPC Workforce
-        url: community-and-outreach/building-an-hpc-workforce
+      - page: Building the Computing Workforce of the Future
+        url: community-and-outreach/workforce
       - page: Shaping the Future of Supercomputing
         url: community-and-outreach/hpc-community-activities
       - page: Training ALCF Users

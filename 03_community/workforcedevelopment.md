@@ -7,7 +7,7 @@ hero-img-caption: "ALCF's Paige Kinsley leads staff from the University of Chica
 intro: "The ALCF is strengthening the nation's HPC and AI talent pipeline through outreach, training, and hands-on experiences for the next generation of computing professionals."
 
 theme: white
-permalink: community-and-outreach/building-an-hpc-workforce
+permalink: community-and-outreach/workforce
 ---
 
 
