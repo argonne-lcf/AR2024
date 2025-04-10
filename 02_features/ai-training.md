@@ -9,9 +9,9 @@ hero-img-caption: "ALCF postdoctoral researcher Shilpika (center) leads a sessio
 intro: "The ALCF’s “Intro to AI” student training series has hosted over 700 participants from across the nation to date, helping to cultivate a new generation of AI researchers."
 ---
 
-Since its launch in 2021, the ALCF’s annual "Intro to AI-driven Science on Supercomputers" training series has been helping students develop the expertise to harness the power of AI and HPC to accelerate scientific discoveries and innovation.
+Since its launch in 2021, the ALCF’s annual (Intro to AI-driven Science on Supercomputers training series)[https://www.alcf.anl.gov/alcf-ai-science-training-series] has been helping students develop the expertise to harness the power of AI and HPC for scientific research.
 
-Aimed at undergraduate and graduate students from U.S. universities and community colleges, the program offers a combination of hands-on sessions and expert guidance to equip attendees with the knowledge and skills to effectively use AI in their research. Over the past four years, the series has welcomed over 700 total participants.
+Aimed at undergraduate and graduate students from U.S. universities and community colleges, the program offers a combination of hands-on sessions and expert guidance to teach attendees to effectively use AI in their fields. Over the past four years, the series has welcomed over 700 total participants.
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/ujPQf9zioLs?si=QkkF81fhAgM1F-MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
@@ -24,16 +24,14 @@ The primary goal of the series is to introduce students to using AI and HPC for 
 
 With weekly sessions led by ALCF AI experts, the program provides detailed instruction on topics like large language models, neural networks, model training, and AI accelerators. In addition, attendees learn about the infrastructure necessary to run large-scale AI models efficiently, from computational strategies to optimizing workloads on advanced hardware systems like GPUs and novel AI accelerators. 
 
-Each session concludes with a science talk, delivered by different domain scientists, offering insights into how various Argonne teams are using AI to drive advancements across fields such as biology, cosmology, and materials science. These talks not only provide context for how AI is applied but also highlight the potential of supercomputing resources in accelerating science and engineering.
+Each session concludes with a science talk, delivered by different domain scientists, offering insights into how various Argonne teams are using AI to drive advances across fields such as biology, cosmology, and materials science. These talks not only provide context for how AI is applied but also highlight the potential of supercomputing resources in accelerating science and engineering.
 
 A key feature of the series is its hands-on learning approach, where participants apply their new skills using ALCF computing resources. Each session includes exercises that reinforce key concepts, while also providing a platform for students to explore AI applications in science. At the end of the program, participants who complete all exercises receive a certificate of completion and a digital badge, marking their achievements. 
 
 ## Expanding Reach and Impact
 
-The ALCF training series continues to expand its reach, with over 250 students registered in 2024 alone. By offering free access to advanced tools and resources, the program plays a vital role in developing the next generation of AI researchers and practitioners. 
+The ALCF training series continues to expand its reach, with over 250 students registered in 2024. By providing free access to advanced tools and resources, the program plays a crucial role in developing the next generation of AI researchers and practitioners.
 
-In addition to the live sessions, ALCF has made all training materials and session recordings publicly available on YouTube and GitHub. This ensures that even students who cannot attend live sessions have access to the curriculum and can continue their education at their own pace. By broadening access to these valuable resources, the training series empowers students nationwide to gain practical, real-world experience with AI and HPC.
+In addition to live sessions, all training materials and session recordings are available on (YouTube)[https://www.youtube.com/playlist?list=PLcbxjEfgjpO8Dy4bFRtnIknfXkTNNzAuL] and (GitHub)[https://github.com/argonne-lcf/ai-science-training-series], making them accessible not only to students but also to the public. This ensures that even those unable to attend in real time can access the curriculum and learn at their own pace, further extending the program's impact and reach.
 
-Through its commitment to education and the development of an AI-ready workforce, the ALCF’s training series is playing a vital role in shaping the future of AI-driven science. By preparing students to leverage the power of AI and supercomputers, the program is empowering a new generation of researchers who will drive scientific breakthroughs and innovations in the years to come.
-
-Attendees who complete all in-class and post-class exercises by the end of the series receive a certificate of completion and a digital badge.
+Through its commitment to education and workforce development, the ALCF training series is shaping the future of AI-driven science. By preparing students to harness the power of AI and supercomputing, the program is equipping the next generation of researchers to drive scientific breakthroughs and innovations.
