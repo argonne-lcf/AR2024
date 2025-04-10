@@ -5,7 +5,7 @@ title: Publications
 
 theme: sky
 permalink: science/publications
-teaser-img-source: ALCF_SDL-2.jpg
+teaser-img-source: ALCF_pub.png
 ---
 
 

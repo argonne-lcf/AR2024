@@ -5,7 +5,7 @@ title: 2024 Award List
 
 theme: sky
 permalink: science/projects
-teaser-img-source: ALCF_SDL-1.jpg
+teaser-img-source: ALCF_proj.png
 ---
 
 
