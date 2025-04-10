@@ -5,14 +5,14 @@ title: Powering Breakthroughs for U.S. Industry
 hero-img-source: ALCF_Industry.jpg
 hero-img-caption: "Contour plot of velocity magnitude on a vertical cut plane from wall-resolved large-eddy simulation of a canonical gas turbine film cooling configuration. The simulation was carried out at the ALCF as part of a collaboration between Argonne and RTX Technologies Research Center."
 hero-img-credit: "Argonne National Laboratory"
-intro: "Through collaborations with industry partners, the ALCF provides access to powerful computing resources that drive technological advancements and strengthen the nation’s innovation infrastructure."
+intro: "Through collaborations with industry partners, the ALCF is helping to accelerate R&D and strengthen the nation’s innovation infrastructure."
 
 
 theme: white
 permalink: community-and-outreach/industry
 ---
 
-The ALCF’s Industry Partnerships Program enables companies of all sizes—from startups to Fortune 500 corporations—to leverage leadership computing resources and expertise. These collaborations help industry partners to tackle R&D challenges that exceed the capabilities of traditional computing systems.
+The ALCF’s Industry Partnerships Program enables companies of all sizes—from startups to Fortune 500 corporations—to leverage its  powerful computing resources and specialized expertise, enabling them to tackle complex R&D challenges that exceed the capacity of traditional computing systems.
 
 With state-of-the-art capabilities for simulation, AI, and data analysis, ALCF computing resources help researchers create higher-fidelity models, achieve more accurate predictions, and quickly process massive datasets. As a result, companies can accelerate breakthroughs, reduce uncertainties, and minimize the need for costly prototypes.
 
@@ -23,7 +23,7 @@ The ALCF offers several avenues for industry partners to access its computing re
 
 For companies focused on addressing energy-related challenges in manufacturing or materials development, DOE’s High Performance Computing for Energy Innovation (HPC4EI) program is another available option. HPC4EI provides access to DOE’s world-class supercomputing resources through two subprograms: HPC4Mfg, which focuses on optimizing manufacturing processes, and HPC4Mtls, which supports the development of advanced materials that perform well in harsh or complex environments.
 
-Through these programs, the ALCF helps U.S. industries stay competitive in an evolving global market. By providing access to HPC and AI computing resources and expertise, these partnerships enable companies to tackle complex challenges, accelerate the R&D process, and drive technological innovation. 
+Through these programs, the ALCF helps U.S. companies stay competitive in an evolving global market. By providing access to HPC and AI computing resources and expertise, these partnerships enable companies to solve complex challenges, accelerate the R&D process, and drive technological innovation. 
 
 ---
 
