@@ -39,8 +39,8 @@ One key target involves the development of AI-driven scientific models that can 
 
 ## Preparing for Science on Day One
 
-Bringing a system of this scale online has required close collaboration among the ALCF, Intel, HPE, and researchers from the ECP and ESP. Throughout 2024, these teams worked to optimize codes and stress-test the system, ensuring it would be ready for science from day one of production.
+Bringing a system of this scale online required close collaboration among the ALCF, Intel, HPE, and researchers from the ECP and ESP. Throughout 2024, these teams worked to optimize codes and stress-test the system, ensuring it would be ready for science from day one of production.
 
-A co-design approach was essential in this effort, with hardware and software developed in tandem to maximize performance and usability. As part of this process, researchers ran early science applications to fine-tune their software for Aurora’s architecture, resulting in a suite of computational tools that will be ready to accelerate discoveries as soon as the system becomes fully operational.
+A co-design approach was essential in this effort, with hardware and software developed in tandem to maximize performance and usability. As part of this process, researchers ran early science applications to fine-tune their software for Aurora’s architecture, resulting in a suite of computational tools designed to help users fully leverage the system’s capabilities.
 
 With acceptance testing and final preparations completed in December, Aurora is poised to drive significant advancements in scientific computing. Its advanced capabilities are empowering researchers to tackle some of the most challenging problems in science and engineering at an unprecedented scale and speed, unlocking discoveries and insights more quickly than ever before.
