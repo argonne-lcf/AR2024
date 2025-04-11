@@ -9,6 +9,7 @@
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+        console.log(item);
       }
 
       searchResults.innerHTML = appendString;
@@ -43,6 +44,7 @@
       this.field('author');
       this.field('category');
       this.field('content');
+      this.metadataWhitelist = ['position'];
       for (var key in window.store) {
         this.add({
           'id': key,
