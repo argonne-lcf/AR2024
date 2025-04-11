@@ -9,7 +9,7 @@ pi: 'Martin Berzins, The University of Utah'
 award: 'Aurora Early Science Program'
 systems: '-'
 
-image: 'Habib-HACC.png' 
+image: 'Uintah-Architecture.png' 
 
 ---
 
