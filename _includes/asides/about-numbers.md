@@ -12,13 +12,13 @@
 	figure-2 = "565"
 	label-2 = "Active projects"
 	note-2 = "Data from fiscal year 2024"
-	figure-3 = "255"
+	figure-3 = "254"
 	label-3 = "Publications"	
 %}
 
 
 {%	include txt-fig.html 
-	figure-1 = "2,103"
+	figure-1 = "2,013"
 	label-1 = "Facility users"
 	note-1 = "Data from fiscal year 2024"
 	figure-2 = "36"
@@ -59,7 +59,7 @@
 {%	include txt-fig.html 
 	figure-1 = "148"
 	label-1 = "Staff Members"
-  figure-2 = "21"
+  figure-2 = "24"
   label-2 = "Postdoctoral Researchers"
   figure-3 = "41"
 	label-3 = "Summer Students"
