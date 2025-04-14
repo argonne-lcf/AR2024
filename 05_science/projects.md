@@ -76,11 +76,11 @@ HOURS: ALCF: 350,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 PI: Carlo Scalo, Purdue University\
 HOURS: ALCF: 300,000 Node-Hours
 
-#### [Interface-resolved Simulations of Scalar Transport in Turbulent Bubbly Flows](https://www.alcf.anl.gov/science/projects/interface-resolved-simulations-scalar-transport-turbulent-bubbly-flows)]
+#### [Interface-resolved Simulations of Scalar Transport in Turbulent Bubbly Flows](https://www.alcf.anl.gov/science/projects/interface-resolved-simulations-scalar-transport-turbulent-bubbly-flows)
 PI: Parisa Mirbod, University of Illinois at Chicago\
 HOURS: ALCF: 50,000 Node-Hours
 
-#### [Online Machine Learning for Large-Scale Turbulent Simulations](https://www.alcf.anl.gov/science/projects/online-machine-learning-large-scale-turbulent-simulations-0)]
+#### [Online Machine Learning for Large-Scale Turbulent Simulations](https://www.alcf.anl.gov/science/projects/online-machine-learning-large-scale-turbulent-simulations-0)
 PI: Kenneth Jansen, University of Colorado Boulder\
 HOURS: ALCF: 375,000 Node-Hours
 
