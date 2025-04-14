@@ -70,7 +70,7 @@ Cheng, S., J.-L. Lin, M. Emani, S. Raskar, S. Foreman, Z. Xie, V. Vishwanath, an
 
 Grošelj, D., H. Hakobyan, A. M. Beloborodov, L. Sironi, and A. Philippov. “Radiative Particle-in-Cell Simulations of Turbulent Comptonization in Magnetized Black-Hole Coronae," _Physical Review Letters_ (February 2024), APS. doi: 10.1103/PhysRevLett.132.085202
 
-Huang, J., S. Di, X. Yu, Y. Zhai, J. Liu, Y. Huang, K. J. Raffenetti, H. Zhou, K. Zhao, Z. Chen, F. Cappello, Y. Guo, and R. Thakur. “POSTER: Optimizing Collective Communications with Error-Bounded Lossy Compression for GPU Clusters," _PPoPP '24: Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming_ (February 2024), Edinburgh, United Kingdom, ACM. doi: 10.1145/3627535.3638467
+Huang, J., S. Di, X. Yu, Y. Zhai, J. Liu, Y. Huang, K. J. Raffenetti, H. Zhou, K. Zhao, Z. Chen, F. Cappello, Y. Guo, and R. Thakur. “POSTER: Optimizing Collective Communications with Error-Bounded Lossy Compression for GPU Clusters," _PPoPP ’24: Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming_ (February 2024), Edinburgh, United Kingdom, ACM. doi: 10.1145/3627535.3638467
 
 Kim, S. W., M. M. Elsayed, N. S. Nichols, T. Lakoba, J. Vanegas, C. Wexler, V. N. Kotov, and A. Del Maestro. “Atomically Thin Superfluid and Solid Phases for Atoms on Strained Graphene," _Physical Review B_ (February 2024), APS. doi: 10.1103/PhysRevB.109.064512
 
@@ -148,7 +148,7 @@ Werner, G. R., and D. A. Uzdensky. “Electron and Proton Energization in 3D Rec
 
 Anaya, J. J., N. S. Manavi, A. A. Tropina, A. Dogariu, R. B. Miles, and M. S. Grover. “Interferometry Analysis and CARS Measurements of Nonequilibrium in Hypersonic Oxygen/Argon and Pure Oxygen Flows," _Experiments in Fluids_ (April 2024), Springer Nature. doi: 10.1007/s00348-024-03804-1
 
-Arndt, D., D. Leburn-Grandie, and C. Trott. “Experiences with Implementing Kokkos' Backend," _IWOCL '24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), ACM. doi: 10.1145/3648115.3648118
+Arndt, D., D. Leburn-Grandie, and C. Trott. “Experiences with Implementing Kokkos' Backend," _IWOCL ’24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), ACM. doi: 10.1145/3648115.3648118
 
 Babcock, N. S., G. Montes-Cabrera, K. E. Oberhofer, M. Chergui, G. L. Celardo, and P. Kurian. “Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures," _The Journal of Physical Chemistry B_ (April 2024), ACS Publications. doi: 10.1021/acs.jpcb.3c07936
 
@@ -166,7 +166,7 @@ Lauricella, G., M. M. Naderi, J. Zhou, I. Papautsky, and Z. Peng. “Bifurcation
 
 Lo, S. C. Y., J. W. S. McCullough, X. Xue, and P. V. Coveney. “Uncertainty Quantification of the Impact of Peripheral Arterial Disease on Abdominal Aortic Aneurysms in Blood Flow Simulations," _Journal of the Royal Society Interface_ (April 2024), The Royal Society. doi: 10.1098/rsif.2023.0656
 
-Nichols, N. S., J. T. Childers, T. J. Burch, and L. Field. “Improving Performance Portability of the Procedurally Generated High Energy Physics Event Generator MadGraph Using SYCL," _IWOCL '24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), Chicago, IL, ACM. doi: 10.1145/3648115.3648116
+Nichols, N. S., J. T. Childers, T. J. Burch, and L. Field. “Improving Performance Portability of the Procedurally Generated High Energy Physics Event Generator MadGraph Using SYCL," _IWOCL ’24: Proceedings of the 12th International Workshop on OpenCL and SYCL_ (April 2024), Chicago, IL, ACM. doi: 10.1145/3648115.3648116
 
 Prakash, A., R. Balin, J. A. Evans, and K. E. Jansen. “A Streamline Coordinate Analysis of a Turbulent Boundary Layer Subject to Pressure Gradients and Curvature on the Windward Side of a Bump," _Journal of Fluid Mechanics_ (April 2024), Cambridge University Press. doi: 10.1017/jfm.2024.199
 
@@ -198,7 +198,7 @@ Lee, M. “Spectral Analysis of the Correlation Between Temperature and Wall-Nor
 
 Li, H., J. Duarte, A. Roy, R. Zhu, E. A. Huerta, D. Diaz, P. Harris, R. Kansal, D. S. Katz, I. H. Kavoori, V. V. Kindratenko, F. Mokhtar, M. S. Neubauer, S. E. M. Quinnan, R. Rusack, and Z. Zhao. “FAIR AI Models in High Energy Physics," _26th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2023)_ (May 2024), EDP Sciences. doi: 10.1051/epjconf/202429509017
 
-Ma, X., F. Yan, L. Yang, I. Foster, M. E. Papka, Z. Liu, and R. Kettimuthu. “MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes," _ICPE '24: Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering_ (May 2024), New York, NY, ACM. doi: 10.1145/3629526.3645035
+Ma, X., F. Yan, L. Yang, I. Foster, M. E. Papka, Z. Liu, and R. Kettimuthu. “MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes," _ICPE ’24: Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering_ (May 2024), New York, NY, ACM. doi: 10.1145/3629526.3645035
 
 Min, M., M. Brazell, A. Tomboulides, M. Churchfield, P. Fischer, and M. Sprague. “Towards Exascale for Wind Energy Simulations," _The International Journal of High Performance Computing Applications_ (May 2024), SAGE Publications. doi: 10.1177/10943420241252511
 
@@ -238,13 +238,13 @@ Hackett, D. C., D. A. Pefkou, and P. E. Shanahan. “Gravitational Form Factors 
 
 Hammond, K. D., D. Maroudas, and B. D. Wirth. “Helium Aggregation and Surface Morphology Near Grain Boundaries in Plasma-Facing Tungsten," _Journal of Applied Physics_ (June 2024), AIP Publishing. doi: 10.1063/5.0200464
 
-Hidayetoglu, M., S. Garcia de Gonzalo, E. Slaughter, Y. Li, C. Zimmer, T. Bicer, B. Ren, W. Gropp, W. M. Hwu, and A. Aiken. “CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes," _ICS '24: Proceedings of the 38th ACM International Conference on Supercomputing_ (June 2024), Kyoto, Japan, ACM. doi: 10.1145/3650200.365659
+Hidayetoglu, M., S. Garcia de Gonzalo, E. Slaughter, Y. Li, C. Zimmer, T. Bicer, B. Ren, W. Gropp, W. M. Hwu, and A. Aiken. “CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes," _ICS ’24: Proceedings of the 38th ACM International Conference on Supercomputing_ (June 2024), Kyoto, Japan, ACM. doi: 10.1145/3650200.365659
 
 Lee, M. “Direct Numerical Simulation of Magnetohydrodynamic Turbulent Flows," _13th International Symposium on Turbulence and Shear Flow Phenomena (TSFP13)_ (June 2024), Montreal, Canada, TSFP Symposia.
 
 Liu, X., D. K. Hoang, Q. A. T. Nguyen, D. D. Phuc, S.-G. Kim, P. C. Nam, A. Kumar, F. Zhang, C. Zhi, and V. Q. Bui. “Advanced Dual-Atom Catalysts on Graphitic Carbon Nitride for Enhanced Hydrogen Evolution via Water Splitting," _Nanoscale_ (June 2024), Royal Society of Chemistry. doi: 10.1039/D4NR01241K
 
-Marrinan, T., E. Honzik, H. L. N. Brynteson, and M. E. Papka. “Image Synthesis from a Collection of Depth Enhanced Panoramas: Creating Interactive Extended Reality Experiences from Static Images," _IMX '24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences_ (June 2024), Stockholm, Sweden, ACM. doi: 10.1145/3639701.3656312
+Marrinan, T., E. Honzik, H. L. N. Brynteson, and M. E. Papka. “Image Synthesis from a Collection of Depth Enhanced Panoramas: Creating Interactive Extended Reality Experiences from Static Images," _IMX ’24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences_ (June 2024), Stockholm, Sweden, ACM. doi: 10.1145/3639701.3656312
 
 Nascimento de Lima, P., R. van den Puttelaar, A. B. Knudsen, A. I. Hahn, K. M. Kuntz, J. Ozik, N. Collier, F. Alarid-Escudero, A. G. Zauber, J. M. Inadomi, I. Lansdorp-Vogelaar, and C. M. Rutter. “Characteristics of a Cost-Effective Blood Test for Colorectal Cancer Screening," _Journal of the National Cancer Institute_ (June 2024), Oxford University Press. doi: 10.1093/jnci/djae124
 
@@ -267,7 +267,7 @@ Xue, X., J. W. S. McCullough, S. C. Y. Lo, I. Zacharoudiou, B. Joó, and P. V. C
 
 ### JULY
 
-Ananthakrishnan, R., Y. Babuji, M. Baughman, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, D. S. Katz, K. H. Kesling, C. Janidlo, R. Mello, and L. Wang. “Enabling Remote Management of FaaS Endpoints with Globus Compute Multi-User Endpoints," _PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing_ (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670612
+Ananthakrishnan, R., Y. Babuji, M. Baughman, J. Bryan, K. Chard, R. Chard, B. Clifford, I. Foster, D. S. Katz, K. H. Kesling, C. Janidlo, R. Mello, and L. Wang. “Enabling Remote Management of FaaS Endpoints with Globus Compute Multi-User Endpoints," _PEARC ’24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing_ (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670612
 
 Bacchini, F., V. Zhdankin, E. A. Gorbunov, G. R. Werner, L. Arzamasskiy, M. C. Begelman, and D. A. Uzdensky. “Collisionless Magnetorotational Turbulence in Pair Plasmas: Steady-State Dynamics, Particle Acceleration, and Radiative Cooling," _Physical Review Letters_ (July 2024), APS. doi: 10.1103/PhysRevLett.133.045202
 
@@ -283,7 +283,7 @@ Emani, M., S. Foreman, V. Sastry, Z. Xie, S. Raskar, W. Arnold, R. Thakur, V. Vi
 
 Jarrah, I., P. Pal, M. Ameen, and M. M. Joly. “Wall-Resolved LES Study of Shaped-Hole Film Cooling Flow for Varying In-Hole Surface Roughness," _AIAA Aviation Forum and Ascend 2024_ (July 2024), Las Vegas, NV, AIAA. doi: 10.2514/6.2024-4262
 
-Jiang, W., J. Yasmin, J. Jones, N. Synovic, J. Kuo, N. Bielanski, Y. Tian, G. K. Thiruvathukal, and J. C. Davis. “PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software," _MSR '24: Proceedings of the 21st International Conference on Mining Software Repositories_ (July 2024), Lisbon, Portugal, ACM. doi: 10.1145/3643991.3644907
+Jiang, W., J. Yasmin, J. Jones, N. Synovic, J. Kuo, N. Bielanski, Y. Tian, G. K. Thiruvathukal, and J. C. Davis. “PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software," _MSR ’24: Proceedings of the 21st International Conference on Mining Software Repositories_ (July 2024), Lisbon, Portugal, ACM. doi: 10.1145/3643991.3644907
 
 Kavroulakis, I., D. Papageorgiou, C. E. Frouzakis, P. Fischer, and A. Tomboulides. “Non-Conforming Schwarz-Spectral Element Method for Low Mach Number Reacting Flows," _Proceedings of the Combustion Institute_ (July 2024), Elsevier. doi: 10.1016/j.proci.2024.105506
 
@@ -303,7 +303,7 @@ Rahman, M. H., S. Di, S. Guo, X. Lu, G. Li, and F. Cappello. “Druto: Upper-Bou
 
 Razahk, T. M., T. Linker, Y. Luo, R. K. Kalia, K.-I. Nomura, P. Vashishta, and A. Nakano. “Accelerating Quantum Light-Matter Dynamics on Graphics Processing Units," _2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)_ (July 2024), San Francisco, CA, IEEE. doi: 10.1109/IPDPSW63119.2024.00176
 
-Robinson, J. P., K. Fan, S. Petruzza, T. Gilray, and S. Kumar. “Investigating Data Movement Strategies for Distribution of Repartitioned Data," PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670534
+Robinson, J. P., K. Fan, S. Petruzza, T. Gilray, and S. Kumar. “Investigating Data Movement Strategies for Distribution of Repartitioned Data," PEARC ’24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing (July 2024), Providence, RI, ACM. doi: 10.1145/3626203.3670534
 
 Ruggeri, M., B. L. Bemis, M. C. Sieve, C. L. Running, J. L. Hill, M. P. Borg, K. Jantze, and C. Scalo. “Hypersonic Boundary Layer Treatment with Wavy Wall," _AIAA Aviation Forum and Ascend 2024_ (July 2024), Las Vegas, NV, AIAA. doi: 10.2514/6.2024-3835
 
@@ -315,7 +315,7 @@ Vasan, A., O. Gokdemir, A. Brace, A. Ramanathan, T. Brettin, R. Stevens, and V. 
 
 Wang, T., and A. Burrows. “Supernova Explosions of the Lowest-Mass Massive Star Progenitors," _The Astrophysical Journal_ (July 2024), IOP Publishing. doi: 10.3847/1538-4357/ad5009
 
-Xie, Z., M. Emani, X. Yu, D. Tao, X. He, P. Su, K. Zhou, and V. Vishwanath. “Centimani: Enabling Fast AI Accelerator Selection for DNN Training with a Novel Performance Predictor," _USENIX ATC'24: Proceedings of the 2024 USENIX Conference on Usenix Annual Technical Conference_ (July 2024), USENIX Association. doi: 10.5555/3691992.3692065
+Xie, Z., M. Emani, X. Yu, D. Tao, X. He, P. Su, K. Zhou, and V. Vishwanath. “Centimani: Enabling Fast AI Accelerator Selection for DNN Training with a Novel Performance Predictor," _USENIX ATC’24: Proceedings of the 2024 USENIX Conference on Usenix Annual Technical Conference_ (July 2024), USENIX Association. doi: 10.5555/3691992.3692065
 
 Yuwono, S. H., T. Zhang, K. A. Surjuse, E. F. Valeev, X. Li, and A. E. DePrince III. “Relativistic Coupled Cluster with Completely Renormalized and Perturbative Triples Corrections," The Journal of Physical Chemistry A (July 2024), ACS Publications. doi: 10.1021/acs.jpca.4c02583
 
@@ -346,7 +346,7 @@ Gao, X., J. He, R. Zhang, and Y. Zhao. “Systematic Uncertainties from Gribov C
 
 Gensini, V. A., W. S. Ashley, A. C. Michaelis, A. M. Haberlie, J. Goodin, and B. C. Wallace. “Hailstone Size Dichotomy in a Warming Climate," _npj Climate and Atmospheric Science_ (August 2024), Springer Nature. doi: 10.1038/s41612-024-00728-9
 
-Ho, T. H. Q. A. T. Nguyen, B.-T. Truong Le, S.-G. Kim, and V. Q. Bui. “Unlocking Electrocatalytic Dynamics with Anti-MXene Borides Monolayers for Nitrate Reduction," _Applied Surface Science_ (August 2024), Elsevier. doi: 10.1016/j.apsusc.2024.160908
+Ho, T. H., Q. A. T. Nguyen, B.-T. Truong Le, S.-G. Kim, and V. Q. Bui. “Unlocking Electrocatalytic Dynamics with Anti-MXene Borides Monolayers for Nitrate Reduction," _Applied Surface Science_ (August 2024), Elsevier. doi: 10.1016/j.apsusc.2024.160908
 
 Hupfeld, E., S. Schlee, J. P. Wurm, C. Rajendran, D. Yehorova, E. Vos, D. R. Raju, S. C. L. Kamerlin, R. Sprangers, and R. Sterner. “Conformational Modulation of a Mobile Loop Controls Catalysis in the (βα)<sub>8</sub>-Barrel Enzyme of Histidine Biosynthesis HisF," _JACS Au_ (August 2024), ACS Publications. doi: 10.1021/jacsau.4c00558
 
@@ -354,7 +354,7 @@ Kim, K., S. Yuan, A. M. Dive, A. Grieder, N. Adelstein, S. Kang, B. C. Wood, and
 
 Marrinan, T., V. A. Mateevitsi, M. Moeller, A. Kanayinkal, and M. E. Papka. “2023 IEEE Scientific Visualization Contest Winner: VisAnywhere: Developing Multiplatform Scientific Visualization Applications," _IEEE Computer Graphics and Applications_ (August 2024), IEEE. doi: 10.1109/MCG.2024.3444460
 
-Maurya, A., R. Underwood, M. M. Rafique, F. Cappello, and B. Nicolae. “DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models," _HPDC '24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing_ (August 2024), New York, NY, IEEE. doi: 10.1145/3625549.3658685
+Maurya, A., R. Underwood, M. M. Rafique, F. Cappello, and B. Nicolae. “DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models," _HPDC ’24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing_ (August 2024), New York, NY, IEEE. doi: 10.1145/3625549.3658685
 
 Moreland, K., T. M. Athawale, V. Bolea, M. Bolstad, E. Brugger, H. Childs, A. Huebl, L.-T. Lo, B. Geveci, N. Marsaglia, S. Philip, D. Pugmire, S. Rizzi, Z. Wang, and A. Yenpure. “Visualization at Exascale: Making It All Work with VTK-m," _The International Journal of High Performance Computing Applications_ (August 2024), SAGE Publications. doi: 10.1177/10943420241270969
 
@@ -368,7 +368,7 @@ Shin, H., K. Gasperich, T. Rojas, A. T. Ngo, J. T. Krogel, and A. Benali. “Sys
 
 Su, C.-C., Z. Zhang, M. Lyu, M. Cui, and E. W. Yu. “Cryo-EM Structures of the Human Band 3 Transporter Indicate a Transport Mechanism Involving the Coupled Movement of Chloride and Bicarbonate Ions," _PLOS Biology_ (August 2024), Public Library of Science. doi: 10.1371/journal.pbio.3002719
 
-Underwood, R., M. Madhyastha, R. Burns, and B. Nicolae. “EvoStore: Towards Scalable Storage of Evolving Learning Models," _HPDC '24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing_ (August 2024), New York, NY, ACM. doi: 10.1145/3625549.3658679
+Underwood, R., M. Madhyastha, R. Burns, and B. Nicolae. “EvoStore: Towards Scalable Storage of Evolving Learning Models," _HPDC ’24: Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing_ (August 2024), New York, NY, ACM. doi: 10.1145/3625549.3658679
 
 Willman, J. T., J. M. Gonzalez, K. Nguyen-Cong, S. Hamel, V. Lordi, and I. I. Oleynik. “Accuracy, Transferability, and Computational Efficiency of Interatomic Potentials for Simulations of Carbon Under Extreme Conditions," _The Journal of Chemical Physics_ (August 2024), AIP Publishing. doi: 10.1063/5.0218705
 
@@ -501,7 +501,7 @@ King, G. B., G. Chambers-Wall, A. Gnech, S. Pastore, M. Piarulli, and R. B. Wiri
 
 Kumar, P., S. Kabra, and J. M. Cole. “A Database of Stress-Strain Properties Auto-Generated from the Scientific Literature Using ChemDataExtractor," _Scientific Data_ (November 2024), Springer Nature. doi: 10.1038/s41597-024-03979-6
 
-Lavroff, R. H., E. Cummings, K. Sawant, Z. Zhang, P. Sautet, and A. N. Alexandrova. “Cu-Supported ZnO under Conditions of CO2 Reduction to Methanol: Why 0.2 ML Coverage?," _The Journal of Physical Chemistry Letters_ (November 2024), ACS Publications. doi: 10.1021/acs.jpclett.4c02908
+Lavroff, R. H., E. Cummings, K. Sawant, Z. Zhang, P. Sautet, and A. N. Alexandrova. “Cu-Supported ZnO under Conditions of CO<sub>2</sub> Reduction to Methanol: Why 0.2 ML Coverage?," _The Journal of Physical Chemistry Letters_ (November 2024), ACS Publications. doi: 10.1021/acs.jpclett.4c02908
 
 Li, Z., K. Shi, D. Dubbeldam, M. Dewing, C. Knight, Á. Vásquez-Mayagoitia, and R. Q. Snurr. “Efficient Implementation of Monte Carlo Algorithms on Graphical Processing Units for Simulation of Adsorption in Porous Materials," _Journal of Chemical Theory and Computation_ (November 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01058
 
@@ -558,11 +558,11 @@ Pearl, A. N., G. D. Beltz-Mohrmann, and A. P. Hearin. “DiffOpt: Parallel Optim
 
 Raj, M. S., T. MacDougall, D. Zhang, and D. Dai . “An Empirical Study of a Machine Learning-Based Synthetic Job Trace Generation Methods," _Job Scheduling Strategies for Parallel Processing 2024_ (December 2024), San Francisco, CA, Springer Nature. doi: 10.1007/978-3-031-74430-3_2
 
-Tan, N., K. Assogba, W. J. Ashworth, B. Bogale, F. Cappello, M. M. Rafique, M. Taufer, and B. Nicolae. “Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results," _Middleware '24: Proceedings of the 25th International Middleware Conference_ (December 2024), Hong Kong, ACM. doi: 10.1145/3652892.3700780
+Tan, N., K. Assogba, W. J. Ashworth, B. Bogale, F. Cappello, M. M. Rafique, M. Taufer, and B. Nicolae. “Towards Affordable Reproducibility Using Scalable Capture and Comparison of Intermediate Multi-Run Results," _Middleware ’24: Proceedings of the 25th International Middleware Conference_ (December 2024), Hong Kong, ACM. doi: 10.1145/3652892.3700780
 
 Wisesa, P., and W. A. Saidi. “Overcoming Inaccuracies in Machine Learning Interatomic Potential Implementation for Ionic Vacancy Simulations," _Physical Insights into Chemistry, Catalysis, and Interfaces_ (December 2024), ACS. doi: 10.1021/acs.jpclett.4c02934
 
-Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “ GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," _Journal of Chemical Theory and Computation_ (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
+Yu, V. W., Y. Jin, G. Galli, and M. Govoni. “GPU-Accelerated Solution of the Bethe–Salpeter Equation for Large and Heterogeneous Systems," _Journal of Chemical Theory and Computation_ (December 2024), ACS Publications. doi: 10.1021/acs.jctc.4c01253
 
 Zhang, Z., W. Gee, R. H. Lavroff, and A. N. Alexandrova. “GOCIA: A Grand Canonical Global Optimizer for Clusters, Interfaces, and Adsorbates," _Physical Chemistry Chemical Physics_ (December 2024), Royal Society of Chemistry. doi: 10.1039/D4CP03801K
 
