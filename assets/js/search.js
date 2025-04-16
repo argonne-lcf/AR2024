@@ -74,7 +74,7 @@
             }
             item.title = markedTitle.join("");
           }
-          console.log(item.title + ' ' + firstMatch);
+
           appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
           appendString += '<p>&hellip;' + item.content.substring(firstMatch-25, firstMatch+125) + '&hellip;</p></li>';    
         }     
