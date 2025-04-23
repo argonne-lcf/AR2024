@@ -17,7 +17,7 @@ publications:
     source: "SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis"
     date: 'January 2025, Atlanta, GA'
     publisher: 'IEEE'
-    url: '10.1109/SCW63240.2024.00173'
+    url: 'https://doi.org/10.1109/SCW63240.2024.00173'
 ---
 
 {% include txt-intro.html 
