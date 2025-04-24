@@ -9,7 +9,7 @@ pi: 'Venkat Vishwanath, Argonne National Laboratory'
 award: 'Early Career Research Program, AI for Science'
 systems: '-'
 
-image: 'Adams-cosmictagger.png' 
+image: 'copper1.png' 
 
 publications:
   - authors: 'Lewis, N., K. Velusamy, K. Harms, and H. Zheng'
