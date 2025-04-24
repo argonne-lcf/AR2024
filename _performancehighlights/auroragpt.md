@@ -9,7 +9,7 @@ pi: 'Rick Stevens, Argonne National Laboraotory'
 award: 'INCITE'
 systems: '-'
 
-image: 'Ferrier-connectomics.png' 
+image: '33410D_036_01_Aurora.jpg' 
 
 
 ---
