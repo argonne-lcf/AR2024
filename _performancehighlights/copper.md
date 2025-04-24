@@ -27,7 +27,7 @@ publications:
 
 
 ## Challenge
-The ALCF’s file system struggled to accommodate requests commensurately with the rate at which users made them, leading to frequent crashes. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing storage-side congestion: Copper, a read-only cooperative caching layer.
+At launch, the ALCF’s file system sometimes struggled to accommodate requests commensurately with the rate at which users made them. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing storage-side congestion: Copper, a read-only cooperative caching layer.
 
 Without the use of algorithms, Copper reduces initialization and loading times by creating a remote procedure call (RPC) overlay network tree with local cache on each node. The root node performs the data loading from the underlying storage system and then distributes to requesting nodes over the ALCF’s Slingshot network.
 
