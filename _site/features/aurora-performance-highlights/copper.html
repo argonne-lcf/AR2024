@@ -12,13 +12,13 @@
 <link rel="canonical" href="http://localhost:4000/features/aurora-performance-highlights/copper" />
 <meta property="og:url" content="http://localhost:4000/features/aurora-performance-highlights/copper" />
 <meta property="og:site_name" content="2024 ALCF Annual Report" />
-<meta property="og:image" content="http://localhost:4000/Adams-cosmictagger.png" />
+<meta property="og:image" content="http://localhost:4000/copper1.png" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:4000/Adams-cosmictagger.png" />
+<meta property="twitter:image" content="http://localhost:4000/copper1.png" />
 <meta property="twitter:title" content="Cooperative Caching Layer for Scalable Parallel Data Movement in Exascale Supercomputing: Copper" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Users of exascale computers like the ALCF’s Aurora—which feature more than 10,000 compute nodes—can experience as much as 20 minutes of idle time for a single line of code during application initialization. Copper, a scalable data loading library developed at the ALCF by an Argonne research team, addresses this problem—reducing load times by as much as 95 percent—by freeing up energy and compute resources. This is achieved without any changes to application codes, by means of a cooperative caching layer.","headline":"Cooperative Caching Layer for Scalable Parallel Data Movement in Exascale Supercomputing: Copper","image":"http://localhost:4000/Adams-cosmictagger.png","url":"http://localhost:4000/features/aurora-performance-highlights/copper"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Users of exascale computers like the ALCF’s Aurora—which feature more than 10,000 compute nodes—can experience as much as 20 minutes of idle time for a single line of code during application initialization. Copper, a scalable data loading library developed at the ALCF by an Argonne research team, addresses this problem—reducing load times by as much as 95 percent—by freeing up energy and compute resources. This is achieved without any changes to application codes, by means of a cooperative caching layer.","headline":"Cooperative Caching Layer for Scalable Parallel Data Movement in Exascale Supercomputing: Copper","image":"http://localhost:4000/copper1.png","url":"http://localhost:4000/features/aurora-performance-highlights/copper"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -610,7 +610,7 @@ available parameters:
 
 <div class="media-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/Adams-cosmictagger.png"></div>
+		<div><img src="http://localhost:4000/assets/images/copper1.png"></div>
 	</div>
 
 	
@@ -636,7 +636,7 @@ available parameters:
 <p class="intro">Users of exascale computers like the ALCF’s Aurora—which feature more than 10,000 compute nodes—can experience as much as 20 minutes of idle time for a single line of code during application initialization. Copper, a scalable data loading library developed at the ALCF by an Argonne research team, addresses this problem—reducing load times by as much as 95 percent—by freeing up energy and compute resources. This is achieved without any changes to application codes, by means of a cooperative caching layer.</p>
 
 <h2 id="challenge">Challenge</h2>
-<p>The ALCF’s file system struggled to accommodate requests commensurately with the rate at which users made them, leading to frequent crashes. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing storage-side congestion: Copper, a read-only cooperative caching layer.</p>
+<p>At launch, the ALCF’s file system sometimes struggled to accommodate requests commensurately with the rate at which users made them. The researchers responded to this I/O bottleneck by introducing a data loader capable of reducing storage-side congestion: Copper, a read-only cooperative caching layer.</p>
 
 <p>Without the use of algorithms, Copper reduces initialization and loading times by creating a remote procedure call (RPC) overlay network tree with local cache on each node. The root node performs the data loading from the underlying storage system and then distributes to requesting nodes over the ALCF’s Slingshot network.</p>
 
@@ -701,7 +701,7 @@ available parameters:
 		
 			<li>
 				
-					<a href="10.1109/SCW63240.2024.00173">
+					<a href="https://doi.org/10.1109/SCW63240.2024.00173">
 						<span class="authors">Lewis, N., K. Velusamy, K. Harms, and H. Zheng. </span>
 						<span class="title">&ldquo;Copper: Cooperative Caching Layer for Scalable Data Loading in Exascale Supercomputer,&rdquo; </span>
 						<span class="source"><i>SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis</i> </span>
