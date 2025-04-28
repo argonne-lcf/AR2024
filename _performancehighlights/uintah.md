@@ -32,7 +32,7 @@ These large-scale studies explored the impact of a larger refinement ratio to de
 
 
 {% include media-img.html
-   source= "uintah-chart.png"
+   source= "AR2024_Berzins-chart.png"
 %}
 
 ## Impact
