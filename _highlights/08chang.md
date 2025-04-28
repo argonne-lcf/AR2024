@@ -34,7 +34,7 @@ publications:
 ---
 
 {% include txt-intro.html 
-    blurb = "This project aims to significantly advance our understanding of fundamental edge plasma physics in fusion reactors, answering questions critical to the successful operation of ITER and to the design of fusion power plants (FPPs)."
+    blurb = "This project aims to significantly advance our understanding of fundamental edge plasma physics in fusion reactors, answering questions critical to the successful operation of ITER and to the design of fusion pilot plants (FPPs)."
 %}
 
 
