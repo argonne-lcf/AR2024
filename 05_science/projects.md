@@ -76,7 +76,7 @@ HOURS: ALCF: 350,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 PI: Carlo Scalo, Purdue University\
 HOURS: ALCF: 300,000 Node-Hours
 
-#### [Interface-resolved Simulations of Scalar Transport in Turbulent Bubbly Flows](https://www.alcf.anl.gov/science/projects/interface-resolved-simulations-scalar-transport-turbulent-bubbly-flows)
+#### [Interface-Resolved Simulations of Scalar Transport in Turbulent Bubbly Flows](https://www.alcf.anl.gov/science/projects/interface-resolved-simulations-scalar-transport-turbulent-bubbly-flows)
 PI: Parisa Mirbod, University of Illinois at Chicago\
 HOURS: ALCF: 50,000 Node-Hours
 
@@ -109,7 +109,7 @@ HOURS: ALCF: 150,000 Node-Hours, OLCF: 300,000 Node-Hours
 PI: Yong Zhao, Argonne National Laboratory\
 HOURS: ALCF: 150,000 Node-Hours
 
-#### [Ab-initio Nuclear Structure and Nuclear Reactions](https://www.alcf.anl.gov/science/projects/ab-initio-nuclear-structure-and-nuclear-reactions-3)
+#### [Ab-Initio Nuclear Structure and Nuclear Reactions](https://www.alcf.anl.gov/science/projects/ab-initio-nuclear-structure-and-nuclear-reactions-3)
 PI: Gaute Hagen, Oak Ridge National Laboratory\
 HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,000,000 Node-Hours
 
@@ -133,7 +133,7 @@ HOURS: ALCF: 75,000 Node-Hours, OLCF: 400,000 Node-Hours
 PI: Martha Constantinou, Temple University\
 HOURS: ALCF: 315,000 Node-Hours
 
-#### [QCD under Extreme Conditions](https://alcf.anl.gov/science/projects/qcd-under-extreme-conditions)
+#### [QCD Under Extreme Conditions](https://alcf.anl.gov/science/projects/qcd-under-extreme-conditions)
 PI: Zoltan Fodor, Pennsylvania State University\
 HOURS: ALCF: 400,000 Node-Hours
 
@@ -187,7 +187,7 @@ HOURS: ALCF: 44,800 Node-Hours, OLCF: 15,360 Node-Hours, NERSC: 207,520 Node-Hou
 
 ### ENERGY TECHNOLOGIES
 
-#### [DNS of Buoyancy Driven Flows for Developing NN-informed High-fidelity Turbulence Closures](https://www.alcf.anl.gov/science/projects/dns-buoyancy-driven-flows-developing-nn-informed-high-fidelity-turbulence-closures)
+#### [DNS of Buoyancy-Driven Flows for Developing NN-Informed High-Fidelity Turbulence Closures](https://www.alcf.anl.gov/science/projects/dns-buoyancy-driven-flows-developing-nn-informed-high-fidelity-turbulence-closures)
 PI: Som Dutta, Utah State University\
 HOURS: ALCF: 100,000 Node-Hours, OLCF: 300,000 Node-Hours, NERSC: 200,000 Node-Hours
 
@@ -199,7 +199,7 @@ HOURS: ALCF: 250,000 Node-Hours, OLCF: 200,000 Node-Hours, NERSC: 50,000 Node-Ho
 PI: Dillon Shaver, Argonne National Laboratory\
 HOURS: ALCF: 150,000 Node-Hours, OLCF: 200,000 Node-Hours
 
-#### [High Fidelity Numerical Analysis on Flow and Heat Transfer behavior in Involute Plate Research Reactor to Support the Conversion Program](https://www.alcf.anl.gov/science/projects/high-fidelity-numerical-analysis-flow-and-heat-transfer-behavior-involute-plate)
+#### [High Fidelity Numerical Analysis on Flow and Heat Transfer Behavior in Involute Plate Research Reactor to Support the Conversion Program](https://www.alcf.anl.gov/science/projects/high-fidelity-numerical-analysis-flow-and-heat-transfer-behavior-involute-plate)
 PI: Yiqi Yu, Argonne National Laboratory\
 HOURS: ALCF: 200,000 Node-Hours, OLCF: 500,000 Node-Hours
 
@@ -306,7 +306,7 @@ HOURS: ALCF: 200,000 Node-Hours, NERSC: 300,000 Node-Hours
 PI: Feliciano Giustino, The University of Texas at Austin\
 HOURS: ALCF: 100,000 Node-Hours
 
-#### [Large Scale Simulations of Materials for Quantum Information Science](https://www.alcf.anl.gov/science/projects/large-scale-simulations-materials-quantum-information-science)
+#### [Large-Scale Simulations of Materials for Quantum Information Science](https://www.alcf.anl.gov/science/projects/large-scale-simulations-materials-quantum-information-science)
 PI: Giulia Galli, University of Chicago\
 HOURS: ALCF: 600,000 Node-Hours, NERSC: 400,000 Node-Hours
 
@@ -319,7 +319,7 @@ HOURS: ALCF: 850,000 Node-Hours, OLCF: 500,000 Node-Hours, NERSC: 250,000 Node-H
 
 ### PHYSICS
 
-#### [Continuum Limit Latice Calculation of Direct CP-violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
+#### [Continuum Limit Latice Calculation of Direct CP-Violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
 PI: Christopher Kelly, Brookhaven National Laboratory\
 HOURS: ALCF: 135,000 Node-Hours
 
@@ -336,36 +336,6 @@ PI: Dirk Hufnagel , Fermi National Accelerator Laboratory\
 HOURS: ALCF: 70,000 Node-Hours
 
 
-
-
-## ALCF Data Science Program
-
-#### Advanced Materials Characterization with AI-Informed Computation
-PI: Marco Govoni, Argonne National Laboratory
-
-#### Autonomous Molecular Design for Redox Flow Batteries
-PI: Logan Ward, Argonne National Laboratory
-
-#### Deep Learning at Scale for Multimessenger Astrophysics Through the NCSA-Argonne Collaboration
-PI: Eliu Huerta, University of Illinois at Urbana-Champaign
-
-#### Developing High-Performance-Computing Applications for Liquid Argon Neutrino Detectors
-PI: Andrzej Szelc, University of Manchester
-
-#### Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction
-PI: Robert Hovden, University of Michigan
-
-#### Learning Optimal Image Representations for Current and Future Sky Surveys
-PI: George Stein, Lawrence Berkeley National Laboratory
-
-#### Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments
-PI: Marco Del Tutto, Fermi National Accelerator Laboratory 
-
-#### Machine Learning Magnetic Properties of Van Der Waals Heterostructures
-PI: Trevor Rhone, Rensselaer Polytechnic Institute
-
-#### X-ray Microscopy of Extended 3D Objects: Scaling Towards the Future
-PI: Chris Jacobsen, Argonne National Laboratory and Northwestern University
 
 
 ## AURORA EARLY SCIENCE PROGRAM
@@ -427,7 +397,7 @@ The following list provides a sampling of the many Director’s Discretionary pr
 #### Large Ensemble Model of Single-Cell 3D Genome Structures
 PI: Jie Liang, University of Illinois at Chicago
 
-#### Targeting Intrinsically Disordered Proteins Using Artificial Intelligence Driven Molecular Simulations
+#### Targeting Intrinsically Disordered Proteins Using Artificial Intelligence-Driven Molecular Simulations
 PI: Arvind Ramanathan, Argonne National Laboratory
 
 
