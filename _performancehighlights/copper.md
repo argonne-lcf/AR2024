@@ -35,9 +35,6 @@ Without the use of algorithms, Copper reduces initialization and loading times b
 ## Performance Results
 Copper users merely need to append a prefix to the data path without any application code changes. This simple path change has enabled scaling with near constant data-loading on many thousands of nodes of the Aurora system, as demonstrated in a paper presented at the 2024 Supercomputing Conference (SC24). By freeing up highly contended computing resources and network infrastructure with vastly reduced I/O demands, Copper improves performance in numerous subtle ways.
 
-{% include media-img.html
-   source= "copper2.png"
-%}
 
 ## Impact
 Copper has not only drastically reduced the total time to load data and software libraries, but has also freed up such previously contended, highly demanded resources such as filesystem responders and storage network bandwidth. The savings in time and energy have enabled the ALCF to permit more science-campaign jobs with more efficient utilization of resources. Copper also provides an effective means to adopt and reuse existing software libraries developed within the DOE laboratory system. The researchers are currently assisting other exascale computing facilities with the deployment of Copper.

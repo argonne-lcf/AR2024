@@ -23,9 +23,9 @@ image: 'harvey_showstopper_06.png'
 
 One in four deaths in the United States is due to cancer, and metastasis is responsible for more than 90 percent of these deaths. The metastatic patterns of circulating tumor cells (CTCs) are strongly influenced by both a favorable microenvironment and mechanical factors such as blood flow.
 
-Advancing the use of data science to drive in situ analysis of extreme-scale fluid-structure- interaction (FSI) simulations, this work aims to leverage the ALCF’s exascale Aurora system to model and analyze the movement of CTCs through the complex geometry of the human vasculature and thereby lay the groundwork for a predictive model of cancer metastasis. Simulating the rare CTCs, nearby red blood cells, and underlying fluid of the arterial network presents not only a computationally challenging simulation but also a large data problem for posterior analysis. Scalable and in situ analysis of massively parallel FSI models, including cellular-level flow, will be critical for enabling new scientific insights into the mechanisms driving cancer progression.
+Advancing the use of data science to drive in situ analysis of extreme-scale fluid-structure interaction (FSI) simulations, this work aims to leverage the ALCF’s exascale Aurora system to model and analyze the movement of CTCs through the complex geometry of the human vasculature and thereby lay the groundwork for a predictive model of cancer metastasis. Simulating the rare CTCs, nearby red blood cells, and underlying fluid of the arterial network presents not only a computationally challenging simulation but also a large data problem for posterior analysis. Scalable and in situ analysis of massively parallel FSI models, including cellular-level flow, will be critical for enabling new scientific insights into the mechanisms driving cancer progression.
 
-HARVEY is based on the lattice Boltzmann method (LBM) for fluid dynamics. Advantages of the LBM over other numerical solvers of the Navier-Stokes equations include its amenability to parallelization due to its underlying stencil structure and the local availability of physical quantities, eliminating the need for global communication among processors required of Poisson solvers. 
+HARVEY is based on the lattice Boltzmann method (LBM) for fluid dynamics. Advantages of the LBM over other numerical solvers of the Navier–Stokes equations include its amenability to parallelization due to its underlying stencil structure and the local availability of physical quantities, eliminating the need for global communication among processors required of Poisson solvers. 
 
 HARVEY adopts the MPI+X parallelization model for execution on diverse accelerator architectures, where X was originally OpenMP for manycore CPUs and CUDA for GPUs. The code consists of highly optimized kernels tailored to exascale system architectures for solving the main components of the LBM and handling FSI interactions among millions of finite element cells. Over the last few years, HARVEY has been ported to SYCL, HIP, OpenMP Target, and Kokkos to enable functionality and performance on heterogeneous hardware across a variety of supercomputing systems. 
 
@@ -35,11 +35,6 @@ The researchers have successfully built the code’s framework on Aurora, on top
 ## Performance Results
 As of 2024, the researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. First, researchers scaled fluid-only simulations on full-body human vasculature anatomies. Next, HARVEY demonstrated weak scaling performance of millions of red blood cells in FSI simulations. Both cases were performed on as many as 2048 nodes of the Aurora supercomputer.
 
-
-{% include media-img.html
-   source= "Chart_DrugDesign_.png"
-   caption= "Screening ~40-60B of the most synthesizable compounds made possible using the system capabilities and software stack on Aurora. * Simplified Molecular Input Line Entry System (SMILES) - Representation for Molecules."
-%}
 
 ## Impact
 The exascale-optimized HARVEY application will offer the ability to create personalized models for individual patients. Blood flow simulations have the potential to greatly benefit the diagnosis and treatment of patients suffering from vascular disease. By simulating how cancer cells interact with different vascular environments, HARVEY helps uncover what makes certain regions of the body more susceptible to secondary tumor formation and what characteristics of the cancer cells contribute to metastasis. Empowering models of the full arterial tree can provide insight into diseases such as arterial hypertension while enabling the study of how local factors impact global hemodynamics.
