@@ -37,7 +37,7 @@ As of 2024, the researchers have demonstrated HARVEY’s functionality on Aurora
 
 {% include media-img.html
    source= "AR2024_Harvey-chart.png"
-   caption= "Weak scaling data on Aurora with HARVEY to model human vasculature."
+   caption= "Weak scaling data from HARVEY runs on Aurora to model human vasculature."
 %}
 
 ## Impact
