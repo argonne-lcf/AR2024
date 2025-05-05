@@ -35,6 +35,9 @@ The researchers have successfully built the code’s framework on Aurora, on top
 ## Performance Results
 As of 2024, the researchers have demonstrated HARVEY’s functionality on Aurora for two distinct cases. First, researchers scaled fluid-only simulations on full-body human vasculature anatomies. Next, HARVEY demonstrated weak scaling performance of millions of red blood cells in FSI simulations. Both cases were performed on as many as 2048 nodes of the Aurora supercomputer.
 
+{% include media-img.html
+   source= "AR2024_Harvey-chart.png"
+%}
 
 ## Impact
 The exascale-optimized HARVEY application will offer the ability to create personalized models for individual patients. Blood flow simulations have the potential to greatly benefit the diagnosis and treatment of patients suffering from vascular disease. By simulating how cancer cells interact with different vascular environments, HARVEY helps uncover what makes certain regions of the body more susceptible to secondary tumor formation and what characteristics of the cancer cells contribute to metastasis. Empowering models of the full arterial tree can provide insight into diseases such as arterial hypertension while enabling the study of how local factors impact global hemodynamics.
