@@ -33,6 +33,7 @@ These large-scale studies explored the impact of a larger refinement ratio to de
 
 {% include media-img.html
    source= "AR2024_Berzins-chart.png"
+   caption= "Strong-scaling results for the Burns and Christon benchmark problem on a 2-level structured adaptive mesh refinement grid with more than 129 billion cells and with 100 rays per cell. Simulations were run on Aurora, from 1,280 nodes up to 10,240 nodes."
 %}
 
 ## Impact
