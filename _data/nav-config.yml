@@ -15,7 +15,7 @@ toc:
     slug: features
     url: features
     subfolderitems:
-      - page: Aurora Nears Full Deployment
+      - page: Aurora Reaches Exascale, Leads in AI Performance
         url: features/aurora
       - page: Aurora Performance Highlights
         url: features/aurora-performance-highlights
