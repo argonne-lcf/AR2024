@@ -37,7 +37,7 @@ As IRI aims to deliver DOE-enterprise-wide infrastructure for computing, ALCF ha
 
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/1gM9N7cmT38?si=8WrVAUUcc1EGlVVG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
-   caption= "Argonne's Nicholas Schwarz discusses how integrating the APS with ALCF computing resources will allow researchers to collect, analyze, and act on data on a scale that has never been possible before."
+   caption= "ALCF's Tom Uram discusses Argonne's work to integrate supercomputing resources with data-intensive experimental and observational facilities."
 %}
 
 
@@ -79,4 +79,5 @@ Both the CAKE and Ion Orbiter workflows were demonstrated in the DOE booth at th
 ALCF staff participate in and co-chair weekly Leadership Group meetings to direct overall IRI efforts and specific tasks for technical subcommittees, form new subcommittees, and work with the Pathfinder projects. In 2024, ALCF staff served on the organizing committee for the [IRI/HPDF](https://www.hpdf.science/) kickoff meeting in Gaithersburg, Maryland, and produced related materials describing outcomes from the meeting. ALCF staff also presented during the Leadership Group's participation in the DOE ASCAC meeting in May 2024.
 
 ALCF staff have participated in all existing IRI technical subcommittees from day one, including Outreach and Engagement, Interfaces, and TRUSTID. These groups are dedicated to designing and building functionality at computing facilities to facilitate their use by experimentalists.
+
 
